@@ -3,7 +3,6 @@ title: WorksheetFunction.Intercept method (Excel)
 keywords: vbaxl10.chm137215
 f1_keywords:
 - vbaxl10.chm137215
-ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Intercept
 ms.assetid: 8fa9d911-24af-6e1c-0c0b-b42b18e75e10

@@ -3,7 +3,6 @@ title: Parameter.SourceRange property (Excel)
 keywords: vbaxl10.chm523077
 f1_keywords:
 - vbaxl10.chm523077
-ms.prod: excel
 api_name:
 - Excel.Parameter.SourceRange
 ms.assetid: 243ac075-24cc-549a-58fb-195d71dc6e68

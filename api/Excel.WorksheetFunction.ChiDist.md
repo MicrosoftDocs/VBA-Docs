@@ -3,7 +3,6 @@ title: WorksheetFunction.ChiDist method (Excel)
 keywords: vbaxl10.chm137178
 f1_keywords:
 - vbaxl10.chm137178
-ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.ChiDist
 ms.assetid: e5d6c267-b9d6-75d9-5d6f-81b616652b74

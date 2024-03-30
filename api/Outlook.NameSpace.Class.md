@@ -3,7 +3,6 @@ title: NameSpace.Class property (Outlook)
 keywords: vbaol11.chm753
 f1_keywords:
 - vbaol11.chm753
-ms.prod: outlook
 api_name:
 - Outlook.NameSpace.Class
 ms.assetid: de558f45-5c09-7285-39cd-8c8525eb28ec

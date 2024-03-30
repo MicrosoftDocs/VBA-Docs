@@ -3,7 +3,6 @@ title: TaskRequestDeclineItem.AutoResolvedWinner property (Outlook)
 keywords: vbaol11.chm1864
 f1_keywords:
 - vbaol11.chm1864
-ms.prod: outlook
 api_name:
 - Outlook.TaskRequestDeclineItem.AutoResolvedWinner
 ms.assetid: 4b158b92-50fe-e754-6115-8be332939d88

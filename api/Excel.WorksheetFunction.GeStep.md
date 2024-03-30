@@ -3,7 +3,6 @@ title: WorksheetFunction.GeStep method (Excel)
 keywords: vbaxl10.chm137296
 f1_keywords:
 - vbaxl10.chm137296
-ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.GeStep
 ms.assetid: dc39a836-c1eb-491f-7f5a-67999c52218a

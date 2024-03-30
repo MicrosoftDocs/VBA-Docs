@@ -3,7 +3,6 @@ title: Sheets.Application property (Excel)
 keywords: vbaxl10.chm151073
 f1_keywords:
 - vbaxl10.chm151073
-ms.prod: excel
 api_name:
 - Excel.Sheets.Application
 ms.assetid: 8c4a5270-0b4b-fd43-a685-f4cb36a887eb

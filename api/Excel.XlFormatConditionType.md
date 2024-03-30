@@ -1,6 +1,5 @@
 ---
 title: XlFormatConditionType enumeration (Excel)
-ms.prod: excel
 api_name:
 - Excel.XlFormatConditionType
 ms.assetid: ae97c695-f56a-c9ee-91b0-dac413c93428

@@ -3,7 +3,6 @@ title: WorksheetFunction.Duration method (Excel)
 keywords: vbaxl10.chm137334
 f1_keywords:
 - vbaxl10.chm137334
-ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Duration
 ms.assetid: 96366e78-fb4a-c347-2806-dc864749fe71

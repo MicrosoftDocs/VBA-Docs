@@ -3,7 +3,6 @@ title: OlkComboBox.BeforeUpdate event (Outlook)
 keywords: vbaol11.chm1000248
 f1_keywords:
 - vbaol11.chm1000248
-ms.prod: outlook
 api_name:
 - Outlook.OlkComboBox.BeforeUpdate
 ms.assetid: f9c6620e-22ce-c4cb-8dc1-7a99bc8d508b

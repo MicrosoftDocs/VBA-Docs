@@ -3,7 +3,6 @@ title: PivotTable.RefreshTable method (Excel)
 keywords: vbaxl10.chm235092
 f1_keywords:
 - vbaxl10.chm235092
-ms.prod: excel
 api_name:
 - Excel.PivotTable.RefreshTable
 ms.assetid: 778743e3-c53a-23e3-73c6-c18339cd1ac2

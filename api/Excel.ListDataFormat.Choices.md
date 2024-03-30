@@ -3,7 +3,6 @@ title: ListDataFormat.Choices property (Excel)
 keywords: vbaxl10.chm758074
 f1_keywords:
 - vbaxl10.chm758074
-ms.prod: excel
 api_name:
 - Excel.ListDataFormat.Choices
 ms.assetid: c4a809e6-7977-28a1-1070-286e7df99409

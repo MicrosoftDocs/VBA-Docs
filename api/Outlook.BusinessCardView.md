@@ -3,7 +3,6 @@ title: BusinessCardView object (Outlook)
 keywords: vbaol11.chm3212
 f1_keywords:
 - vbaol11.chm3212
-ms.prod: outlook
 api_name:
 - Outlook.BusinessCardView
 ms.assetid: 83706cf8-080c-fbf0-9381-5801a2dd4dfd

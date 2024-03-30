@@ -3,7 +3,6 @@ title: Chart.Deactivate event (Excel)
 keywords: vbaxl10.chm500074
 f1_keywords:
 - vbaxl10.chm500074
-ms.prod: excel
 api_name:
 - Excel.Chart.Deactivate
 ms.assetid: b843b64a-ad20-d160-1abb-88317114b44c

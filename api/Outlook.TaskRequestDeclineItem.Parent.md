@@ -3,7 +3,6 @@ title: TaskRequestDeclineItem.Parent property (Outlook)
 keywords: vbaol11.chm1822
 f1_keywords:
 - vbaol11.chm1822
-ms.prod: outlook
 api_name:
 - Outlook.TaskRequestDeclineItem.Parent
 ms.assetid: 1046270a-9193-06be-96ca-48a6d8d6205d

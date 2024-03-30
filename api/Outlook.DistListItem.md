@@ -3,7 +3,6 @@ title: DistListItem object (Outlook)
 keywords: vbaol11.chm2993
 f1_keywords:
 - vbaol11.chm2993
-ms.prod: outlook
 api_name:
 - Outlook.DistListItem
 ms.assetid: 027c3986-abff-d9b1-ecc2-26d60805e952

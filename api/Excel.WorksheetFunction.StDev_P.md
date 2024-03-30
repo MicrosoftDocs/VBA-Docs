@@ -3,7 +3,6 @@ title: WorksheetFunction.StDev_P method (Excel)
 keywords: vbaxl10.chm137382
 f1_keywords:
 - vbaxl10.chm137382
-ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.StDev_P
 ms.assetid: bbbfd24a-aaa9-d63d-9fa3-966949299214

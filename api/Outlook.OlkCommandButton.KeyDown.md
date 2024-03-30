@@ -3,7 +3,6 @@ title: OlkCommandButton.KeyDown event (Outlook)
 keywords: vbaol11.chm1000127
 f1_keywords:
 - vbaol11.chm1000127
-ms.prod: outlook
 api_name:
 - Outlook.OlkCommandButton.KeyDown
 ms.assetid: 626f3437-4101-06e9-5041-39fedd38b687

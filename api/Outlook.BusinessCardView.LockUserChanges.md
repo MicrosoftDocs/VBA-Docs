@@ -3,7 +3,6 @@ title: BusinessCardView.LockUserChanges property (Outlook)
 keywords: vbaol11.chm2927
 f1_keywords:
 - vbaol11.chm2927
-ms.prod: outlook
 api_name:
 - Outlook.BusinessCardView.LockUserChanges
 ms.assetid: 61867505-136e-49d8-f3be-8178b5d53860

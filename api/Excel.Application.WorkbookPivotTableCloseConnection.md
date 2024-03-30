@@ -3,7 +3,6 @@ title: Application.WorkbookPivotTableCloseConnection event (Excel)
 keywords: vbaxl10.chm504095
 f1_keywords:
 - vbaxl10.chm504095
-ms.prod: excel
 api_name:
 - Excel.Application.WorkbookPivotTableCloseConnection
 ms.assetid: 4c1d4cb2-f589-3c3c-ab4c-dcb08467fcfb

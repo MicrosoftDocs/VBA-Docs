@@ -3,7 +3,6 @@ title: FillFormat.Solid method (Excel)
 keywords: vbaxl10.chm115007
 f1_keywords:
 - vbaxl10.chm115007
-ms.prod: excel
 api_name:
 - Excel.FillFormat.Solid
 ms.assetid: 5db7e000-7449-6bbc-192f-8b718ccffac6

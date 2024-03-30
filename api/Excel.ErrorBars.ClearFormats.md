@@ -3,7 +3,6 @@ title: ErrorBars.ClearFormats method (Excel)
 keywords: vbaxl10.chm624078
 f1_keywords:
 - vbaxl10.chm624078
-ms.prod: excel
 api_name:
 - Excel.ErrorBars.ClearFormats
 ms.assetid: 0326bb43-0b1f-c32c-7ee4-8965bb26a889

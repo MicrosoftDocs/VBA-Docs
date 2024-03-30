@@ -3,7 +3,6 @@ title: ControlFormat object (Excel)
 keywords: vbaxl10.chm629072
 f1_keywords:
 - vbaxl10.chm629072
-ms.prod: excel
 api_name:
 - Excel.ControlFormat
 ms.assetid: fafc6e6b-641c-2179-0789-d86c2718b3c0

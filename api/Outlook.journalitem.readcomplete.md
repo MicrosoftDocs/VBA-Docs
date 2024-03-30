@@ -2,7 +2,6 @@
 title: JournalItem.ReadComplete event (Outlook)
 ms.assetid: 63f74eb2-99bc-2ce7-c412-c28eba80e75c
 ms.date: 06/08/2017
-ms.prod: outlook
 ms.localizationpriority: medium
 ---
 

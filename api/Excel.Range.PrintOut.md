@@ -3,7 +3,6 @@ title: Range.PrintOut method (Excel)
 keywords: vbaxl10.chm144244
 f1_keywords:
 - vbaxl10.chm144244
-ms.prod: excel
 api_name:
 - Excel.Range.PrintOut
 ms.assetid: 42d36dbb-5910-530f-5aea-3793a36dc82b

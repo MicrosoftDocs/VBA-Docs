@@ -3,7 +3,6 @@ title: Attachments.Item method (Outlook)
 keywords: vbaol11.chm175
 f1_keywords:
 - vbaol11.chm175
-ms.prod: outlook
 api_name:
 - Outlook.Attachments.Item
 ms.assetid: 2843bef3-2ace-1cc0-1f15-c3fb776c3bf9

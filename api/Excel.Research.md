@@ -3,7 +3,6 @@ title: Research object (Excel)
 keywords: vbaxl10.chm848072
 f1_keywords:
 - vbaxl10.chm848072
-ms.prod: excel
 api_name:
 - Excel.Research
 ms.assetid: de9d8a1d-4942-88f4-ba8c-30bd06e1f24b

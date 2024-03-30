@@ -3,7 +3,6 @@ title: FirstSliceAngle property (Excel Graph)
 keywords: vbagr10.chm65599
 f1_keywords:
 - vbagr10.chm65599
-ms.prod: excel
 api_name:
 - Excel.FirstSliceAngle
 ms.assetid: 53f1fa5e-71d5-bf71-0fec-5f7be85b02d2

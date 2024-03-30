@@ -3,7 +3,6 @@ title: ModelChanges.UnknownChange property (Excel)
 keywords: vbaxl10.chm960082
 f1_keywords:
 - vbaxl10.chm960082
-ms.prod: excel
 ms.assetid: 8a0f7fab-da18-ff44-ad56-506ab7ad3736
 ms.date: 05/01/2019
 ms.localizationpriority: medium

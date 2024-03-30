@@ -3,7 +3,6 @@ title: Insert method (Excel Graph)
 keywords: vbagr10.chm3077620
 f1_keywords:
 - vbagr10.chm3077620
-ms.prod: excel
 api_name:
 - Excel.Insert
 ms.assetid: 5f6a5961-9278-a2fa-6f08-4360646a7566

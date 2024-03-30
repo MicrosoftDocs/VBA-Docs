@@ -3,7 +3,6 @@ title: AppointmentItem.Parent property (Outlook)
 keywords: vbaol11.chm841
 f1_keywords:
 - vbaol11.chm841
-ms.prod: outlook
 api_name:
 - Outlook.AppointmentItem.Parent
 ms.assetid: 5bc7bcec-18bb-ebfb-a8e4-329a354841cd

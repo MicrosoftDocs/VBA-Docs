@@ -3,7 +3,6 @@ title: ShapeRange.ConnectionSiteCount property (Excel)
 keywords: vbaxl10.chm640100
 f1_keywords:
 - vbaxl10.chm640100
-ms.prod: excel
 api_name:
 - Excel.ShapeRange.ConnectionSiteCount
 ms.assetid: ce638d98-1db8-3f76-3f83-a38c62a04a1e

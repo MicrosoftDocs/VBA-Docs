@@ -3,7 +3,6 @@ title: PivotTable.DataPivotField property (Excel)
 keywords: vbaxl10.chm235140
 f1_keywords:
 - vbaxl10.chm235140
-ms.prod: excel
 api_name:
 - Excel.PivotTable.DataPivotField
 ms.assetid: 00b62ffd-76bd-cd4b-218c-b6d695150efb

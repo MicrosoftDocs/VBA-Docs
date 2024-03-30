@@ -3,7 +3,6 @@ title: RecentFiles.Maximum property (Excel)
 keywords: vbaxl10.chm172073
 f1_keywords:
 - vbaxl10.chm172073
-ms.prod: excel
 api_name:
 - Excel.RecentFiles.Maximum
 ms.assetid: 24bb3472-8b75-5457-467a-266ed8e5f979

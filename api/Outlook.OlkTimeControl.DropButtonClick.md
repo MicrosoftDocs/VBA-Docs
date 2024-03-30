@@ -3,7 +3,6 @@ title: OlkTimeControl.DropButtonClick event (Outlook)
 keywords: vbaol11.chm1000412
 f1_keywords:
 - vbaol11.chm1000412
-ms.prod: outlook
 api_name:
 - Outlook.OlkTimeControl.DropButtonClick
 ms.assetid: 2c48055b-97ee-518c-f8c4-5e473c5436ca

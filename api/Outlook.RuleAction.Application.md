@@ -3,7 +3,6 @@ title: RuleAction.Application property (Outlook)
 keywords: vbaol11.chm2201
 f1_keywords:
 - vbaol11.chm2201
-ms.prod: outlook
 api_name:
 - Outlook.RuleAction.Application
 ms.assetid: f81b5015-6e80-ede7-0196-dc431fb24464

@@ -3,7 +3,6 @@ title: MailItem.ReceivedOnBehalfOfEntryID property (Outlook)
 keywords: vbaol11.chm1343
 f1_keywords:
 - vbaol11.chm1343
-ms.prod: outlook
 api_name:
 - Outlook.MailItem.ReceivedOnBehalfOfEntryID
 ms.assetid: fffcb637-9a7d-3541-49fc-85f314cd92cb

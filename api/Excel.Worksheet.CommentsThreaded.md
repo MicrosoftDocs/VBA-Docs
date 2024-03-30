@@ -1,6 +1,5 @@
 ---
 title: Worksheet.CommentsThreaded property (Excel)
-ms.prod: excel
 api_name:
 - Excel.Worksheet.CommentsThreaded
 ms.date: 05/15/2019

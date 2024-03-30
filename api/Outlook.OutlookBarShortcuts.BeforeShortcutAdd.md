@@ -3,7 +3,6 @@ title: OutlookBarShortcuts.BeforeShortcutAdd event (Outlook)
 keywords: vbaol11.chm378
 f1_keywords:
 - vbaol11.chm378
-ms.prod: outlook
 api_name:
 - Outlook.OutlookBarShortcuts.BeforeShortcutAdd
 ms.assetid: b31d495f-8288-a2ee-1429-6face8281787

@@ -3,7 +3,6 @@ title: MoveOrCopyRuleAction.Class property (Outlook)
 keywords: vbaol11.chm2209
 f1_keywords:
 - vbaol11.chm2209
-ms.prod: outlook
 api_name:
 - Outlook.MoveOrCopyRuleAction.Class
 ms.assetid: 103d5283-1613-7a49-0fcf-dd9e153ed18e

@@ -3,7 +3,6 @@ title: WorksheetView.DisplayZeros property (Excel)
 keywords: vbaxl10.chm779077
 f1_keywords:
 - vbaxl10.chm779077
-ms.prod: excel
 api_name:
 - Excel.WorksheetView.DisplayZeros
 ms.assetid: 7adc9302-f937-326b-40b1-feb031799736

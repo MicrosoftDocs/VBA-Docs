@@ -3,7 +3,6 @@ title: AppointmentItem.EndTimeZone property (Outlook)
 keywords: vbaol11.chm3276
 f1_keywords:
 - vbaol11.chm3276
-ms.prod: outlook
 api_name:
 - Outlook.AppointmentItem.EndTimeZone
 ms.assetid: 8f33d93f-c0fe-fda1-608d-dec7fb86c732

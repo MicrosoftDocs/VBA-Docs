@@ -1,6 +1,5 @@
 ---
 title: TaskRequestDeclineItem.BeforeAutoSave event (Outlook)
-ms.prod: outlook
 api_name:
 - Outlook.TaskRequestDeclineItem.BeforeAutoSave
 ms.assetid: a1def448-d1cf-3eae-17c9-aeaafa8fd47b

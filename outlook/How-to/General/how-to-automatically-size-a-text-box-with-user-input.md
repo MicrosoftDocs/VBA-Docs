@@ -3,7 +3,6 @@ title: "How to: Automatically Size a Text Box with User Input"
 keywords: olfm10.chm3077157
 f1_keywords:
 - olfm10.chm3077157
-ms.prod: outlook
 ms.assetid: 573c8112-4c65-2411-afba-a7233baaa9aa
 ms.date: 06/08/2019
 ms.localizationpriority: medium

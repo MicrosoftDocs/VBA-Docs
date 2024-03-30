@@ -3,7 +3,6 @@ title: MajorGridlines property (Excel Graph)
 keywords: vbagr10.chm65625
 f1_keywords:
 - vbagr10.chm65625
-ms.prod: excel
 api_name:
 - Excel.MajorGridlines
 ms.assetid: d160f530-e92e-4528-e207-d47ae710a7d5

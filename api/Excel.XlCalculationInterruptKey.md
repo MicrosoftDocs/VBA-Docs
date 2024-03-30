@@ -1,6 +1,5 @@
 ---
 title: XlCalculationInterruptKey enumeration (Excel)
-ms.prod: excel
 api_name:
 - Excel.xlCalculationInterruptKey
 ms.assetid: 61927318-6d58-0ad3-49ea-0ef50ed7aaa4

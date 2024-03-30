@@ -3,7 +3,6 @@ title: PublishObject.AutoRepublish property (Excel)
 keywords: vbaxl10.chm652082
 f1_keywords:
 - vbaxl10.chm652082
-ms.prod: excel
 api_name:
 - Excel.PublishObject.AutoRepublish
 ms.assetid: edf5579f-eb70-85d3-de5d-1ae229359898

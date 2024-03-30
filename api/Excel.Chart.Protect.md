@@ -3,7 +3,6 @@ title: Chart.Protect method (Excel)
 keywords: vbaxl10.chm149173
 f1_keywords:
 - vbaxl10.chm149173
-ms.prod: excel
 api_name:
 - Excel.Chart.Protect
 ms.assetid: 5f46d721-021b-d615-12c6-78aab49df500

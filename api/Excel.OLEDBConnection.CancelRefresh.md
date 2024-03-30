@@ -3,7 +3,6 @@ title: OLEDBConnection.CancelRefresh method (Excel)
 keywords: vbaxl10.chm794075
 f1_keywords:
 - vbaxl10.chm794075
-ms.prod: excel
 api_name:
 - Excel.OLEDBConnection.CancelRefresh
 ms.assetid: 28272852-36f8-c96c-0901-5d0bf237527e

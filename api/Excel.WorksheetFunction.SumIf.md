@@ -3,7 +3,6 @@ title: WorksheetFunction.SumIf method (Excel)
 keywords: vbaxl10.chm137241
 f1_keywords:
 - vbaxl10.chm137241
-ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.SumIf
 ms.assetid: 2df06641-0307-339f-236e-674d0bf58a78

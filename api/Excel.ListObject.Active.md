@@ -3,7 +3,6 @@ title: ListObject.Active property (Excel)
 keywords: vbaxl10.chm734081
 f1_keywords:
 - vbaxl10.chm734081
-ms.prod: excel
 api_name:
 - Excel.ListObject.Active
 ms.assetid: abe995da-6471-e611-ee04-d24f8518327c

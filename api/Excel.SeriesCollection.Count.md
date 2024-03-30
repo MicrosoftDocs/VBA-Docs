@@ -3,7 +3,6 @@ title: SeriesCollection.Count property (Excel)
 keywords: vbaxl10.chm580075
 f1_keywords:
 - vbaxl10.chm580075
-ms.prod: excel
 api_name:
 - Excel.SeriesCollection.Count
 ms.assetid: 500d2632-89d7-176f-d2cc-71489b0daece

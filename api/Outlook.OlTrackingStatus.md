@@ -3,7 +3,6 @@ title: OlTrackingStatus enumeration (Outlook)
 keywords: vbaol11.chm3088
 f1_keywords:
 - vbaol11.chm3088
-ms.prod: outlook
 api_name:
 - Outlook.OlTrackingStatus
 ms.assetid: a2253862-b1a1-6d99-81ad-1984ba615919

@@ -3,7 +3,6 @@ title: AddressList.ID property (Outlook)
 keywords: vbaol11.chm2028
 f1_keywords:
 - vbaol11.chm2028
-ms.prod: outlook
 api_name:
 - Outlook.AddressList.ID
 ms.assetid: c0c6953f-5d99-a18a-a64f-b9446f38e774

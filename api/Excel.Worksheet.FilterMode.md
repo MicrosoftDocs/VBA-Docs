@@ -3,7 +3,6 @@ title: Worksheet.FilterMode property (Excel)
 keywords: vbaxl10.chm175100
 f1_keywords:
 - vbaxl10.chm175100
-ms.prod: excel
 api_name:
 - Excel.Worksheet.FilterMode
 ms.assetid: d9bcaa8a-caf3-96a4-445d-d957a987b057

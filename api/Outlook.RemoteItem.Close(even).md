@@ -1,6 +1,5 @@
 ---
 title: RemoteItem.Close event (Outlook)
-ms.prod: outlook
 api_name:
 - Outlook.RemoteItem.Close
 ms.assetid: 77276903-9e9e-713a-5844-c4efd36a020d

@@ -3,7 +3,6 @@ title: Explorer.Top property (Outlook)
 keywords: vbaol11.chm2771
 f1_keywords:
 - vbaol11.chm2771
-ms.prod: outlook
 api_name:
 - Outlook.Explorer.Top
 ms.assetid: f3afa2a5-e532-072d-1be0-4600c4848031

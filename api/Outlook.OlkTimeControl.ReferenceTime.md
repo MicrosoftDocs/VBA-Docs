@@ -3,7 +3,6 @@ title: OlkTimeControl.ReferenceTime property (Outlook)
 keywords: vbaol11.chm1000391
 f1_keywords:
 - vbaol11.chm1000391
-ms.prod: outlook
 api_name:
 - Outlook.OlkTimeControl.ReferenceTime
 ms.assetid: 3979de6d-4992-f42c-b894-7f9661826ca6

@@ -3,7 +3,6 @@ title: ChartGroup.VaryByCategories property (Excel)
 keywords: vbaxl10.chm568093
 f1_keywords:
 - vbaxl10.chm568093
-ms.prod: excel
 api_name:
 - Excel.ChartGroup.VaryByCategories
 ms.assetid: 9ae94a48-abc7-b692-7376-f4cb780a4063

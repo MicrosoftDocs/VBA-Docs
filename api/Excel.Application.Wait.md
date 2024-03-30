@@ -3,7 +3,6 @@ title: Application.Wait method (Excel)
 keywords: vbaxl10.chm133242
 f1_keywords:
 - vbaxl10.chm133242
-ms.prod: excel
 api_name:
 - Excel.Application.Wait
 ms.assetid: 71425d1c-6b37-a510-d8b5-072136e98f04

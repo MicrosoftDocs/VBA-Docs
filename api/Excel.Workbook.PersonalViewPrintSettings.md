@@ -3,7 +3,6 @@ title: Workbook.PersonalViewPrintSettings property (Excel)
 keywords: vbaxl10.chm199123
 f1_keywords:
 - vbaxl10.chm199123
-ms.prod: excel
 api_name:
 - Excel.Workbook.PersonalViewPrintSettings
 ms.assetid: 6e4a0a9c-4eb0-d8e1-e9ce-8e9e618996b4

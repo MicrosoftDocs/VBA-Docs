@@ -3,7 +3,6 @@ title: OlkLabel.Font property (Outlook)
 keywords: vbaol11.chm1000093
 f1_keywords:
 - vbaol11.chm1000093
-ms.prod: outlook
 api_name:
 - Outlook.OlkLabel.Font
 ms.assetid: e552c347-1728-b75a-c105-e7daff6f648e

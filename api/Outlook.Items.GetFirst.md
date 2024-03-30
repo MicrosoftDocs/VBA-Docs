@@ -3,7 +3,6 @@ title: Items.GetFirst method (Outlook)
 keywords: vbaol11.chm64
 f1_keywords:
 - vbaol11.chm64
-ms.prod: outlook
 api_name:
 - Outlook.Items.GetFirst
 ms.assetid: 142a6174-118e-6256-0511-8ae9e142e555

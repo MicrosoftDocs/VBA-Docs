@@ -3,7 +3,6 @@ title: DisplayUnitLabel.Left property (Excel)
 keywords: vbaxl10.chm673083
 f1_keywords:
 - vbaxl10.chm673083
-ms.prod: excel
 api_name:
 - Excel.DisplayUnitLabel.Left
 ms.assetid: 7532ed3a-9030-19a7-2735-5ee7728cf038

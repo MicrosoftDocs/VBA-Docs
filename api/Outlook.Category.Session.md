@@ -3,7 +3,6 @@ title: Category.Session property (Outlook)
 keywords: vbaol11.chm2424
 f1_keywords:
 - vbaol11.chm2424
-ms.prod: outlook
 api_name:
 - Outlook.Category.Session
 ms.assetid: e942f0c1-930f-fe1f-0b57-fe4b2894ee74

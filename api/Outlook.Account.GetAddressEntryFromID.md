@@ -3,7 +3,6 @@ title: Account.GetAddressEntryFromID method (Outlook)
 keywords: vbaol11.chm3427
 f1_keywords:
 - vbaol11.chm3427
-ms.prod: outlook
 api_name:
 - Outlook.Account.GetAddressEntryFromID
 ms.assetid: 5aa9c67e-579f-5519-ed38-c80009cf506b

@@ -3,7 +3,6 @@ title: PivotField.DragToRow property (Excel)
 keywords: vbaxl10.chm240105
 f1_keywords:
 - vbaxl10.chm240105
-ms.prod: excel
 api_name:
 - Excel.PivotField.DragToRow
 ms.assetid: f10da457-1190-6b9f-ecc1-b9916c7fb4c4

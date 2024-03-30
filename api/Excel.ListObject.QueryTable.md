@@ -3,7 +3,6 @@ title: ListObject.QueryTable property (Excel)
 keywords: vbaxl10.chm734089
 f1_keywords:
 - vbaxl10.chm734089
-ms.prod: excel
 api_name:
 - Excel.ListObject.QueryTable
 ms.assetid: fe019d61-654a-9c87-0bf4-30590a1274ca

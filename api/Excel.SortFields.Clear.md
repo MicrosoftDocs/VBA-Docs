@@ -3,7 +3,6 @@ title: SortFields.Clear method (Excel)
 keywords: vbaxl10.chm845076
 f1_keywords:
 - vbaxl10.chm845076
-ms.prod: excel
 api_name:
 - Excel.SortFields.Clear
 ms.assetid: de70763b-0cad-ed83-8c16-1eaa9d31627f

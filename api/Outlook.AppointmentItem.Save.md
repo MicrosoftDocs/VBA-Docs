@@ -3,7 +3,6 @@ title: AppointmentItem.Save method (Outlook)
 keywords: vbaol11.chm874
 f1_keywords:
 - vbaol11.chm874
-ms.prod: outlook
 api_name:
 - Outlook.AppointmentItem.Save
 ms.assetid: 177980e8-96cc-a72e-ede3-7aad3a98cf68

@@ -3,7 +3,6 @@ title: Window.UsableWidth property (Excel)
 keywords: vbaxl10.chm356120
 f1_keywords:
 - vbaxl10.chm356120
-ms.prod: excel
 api_name:
 - Excel.Window.UsableWidth
 ms.assetid: 7244a9e5-c4f0-715e-74c8-586101b368ce

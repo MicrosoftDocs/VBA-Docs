@@ -3,7 +3,6 @@ title: CalculatedMember.DisplayFolder property (Excel)
 keywords: vbaxl10.chm686082
 f1_keywords:
 - vbaxl10.chm686082
-ms.prod: excel
 api_name:
 - Excel.CalculatedMember.DisplayFolder
 ms.assetid: 9ece45d1-4d27-0305-1189-15c414353607

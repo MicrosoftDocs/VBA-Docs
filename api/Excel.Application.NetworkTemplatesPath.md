@@ -3,7 +3,6 @@ title: Application.NetworkTemplatesPath property (Excel)
 keywords: vbaxl10.chm133173
 f1_keywords:
 - vbaxl10.chm133173
-ms.prod: excel
 api_name:
 - Excel.Application.NetworkTemplatesPath
 ms.assetid: 4710091a-a655-dd49-7ad8-0f4c64eda13a

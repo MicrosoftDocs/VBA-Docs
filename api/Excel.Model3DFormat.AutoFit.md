@@ -1,6 +1,5 @@
 ---
 title: Model3DFormat.AutoFit property (Excel)
-ms.prod: excel
 api_name:
 - Excel.Model3DFormat.AutoFit
 ms.date: 04/11/2019

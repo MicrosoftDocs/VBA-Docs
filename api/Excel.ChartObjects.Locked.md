@@ -3,7 +3,6 @@ title: ChartObjects.Locked property (Excel)
 keywords: vbaxl10.chm497083
 f1_keywords:
 - vbaxl10.chm497083
-ms.prod: excel
 api_name:
 - Excel.ChartObjects.Locked
 ms.assetid: 6d9fc386-3dcc-c52f-d590-2749dac2378f

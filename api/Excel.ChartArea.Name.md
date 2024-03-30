@@ -3,7 +3,6 @@ title: ChartArea.Name property (Excel)
 keywords: vbaxl10.chm620074
 f1_keywords:
 - vbaxl10.chm620074
-ms.prod: excel
 api_name:
 - Excel.ChartArea.Name
 ms.assetid: 5b540298-caa1-f1f7-5ddd-53569ec31458

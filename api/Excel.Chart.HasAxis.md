@@ -3,7 +3,6 @@ title: Chart.HasAxis property (Excel)
 keywords: vbaxl10.chm149113
 f1_keywords:
 - vbaxl10.chm149113
-ms.prod: excel
 api_name:
 - Excel.Chart.HasAxis
 ms.assetid: f2df9f16-980d-fd02-3e09-6d6903dbb6c6

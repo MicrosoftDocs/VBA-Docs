@@ -3,7 +3,6 @@ title: ShapeRange.Rotation property (Excel)
 keywords: vbaxl10.chm640112
 f1_keywords:
 - vbaxl10.chm640112
-ms.prod: excel
 api_name:
 - Excel.ShapeRange.Rotation
 ms.assetid: 17ec0cd5-99be-f02d-8733-a74e2eb2342f

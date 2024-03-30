@@ -3,7 +3,6 @@ title: Attachment.Type property (Outlook)
 keywords: vbaol11.chm2371
 f1_keywords:
 - vbaol11.chm2371
-ms.prod: outlook
 api_name:
 - Outlook.Attachment.Type
 ms.assetid: 5cf35c53-a8b7-26b5-2c3c-b1d3263ee1e7

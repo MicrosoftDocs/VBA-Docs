@@ -3,7 +3,6 @@ title: IconView.SaveOption property (Outlook)
 keywords: vbaol11.chm2569
 f1_keywords:
 - vbaol11.chm2569
-ms.prod: outlook
 api_name:
 - Outlook.IconView.SaveOption
 ms.assetid: 23beb50f-94ab-c3dc-da06-7c8a51355c4a

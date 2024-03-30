@@ -3,7 +3,6 @@ title: Chart.ClearToMatchColorStyle method (Excel)
 keywords: vbaxl10.chm149200
 f1_keywords:
 - vbaxl10.chm149200
-ms.prod: excel
 ms.assetid: 5b409cca-e458-21dd-77cc-0a93df1d4539
 ms.date: 04/16/2019
 ms.localizationpriority: medium

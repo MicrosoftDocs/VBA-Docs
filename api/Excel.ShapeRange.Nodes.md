@@ -3,7 +3,6 @@ title: ShapeRange.Nodes property (Excel)
 keywords: vbaxl10.chm640111
 f1_keywords:
 - vbaxl10.chm640111
-ms.prod: excel
 api_name:
 - Excel.ShapeRange.Nodes
 ms.assetid: 6005d3f3-2c08-f539-87fc-51425ce81e0e

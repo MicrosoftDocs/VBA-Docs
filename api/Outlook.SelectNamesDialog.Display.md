@@ -3,7 +3,6 @@ title: SelectNamesDialog.Display method (Outlook)
 keywords: vbaol11.chm826
 f1_keywords:
 - vbaol11.chm826
-ms.prod: outlook
 api_name:
 - Outlook.SelectNamesDialog.Display
 ms.assetid: a689dfca-e4f7-f1c0-03a1-71e7d7e310b7

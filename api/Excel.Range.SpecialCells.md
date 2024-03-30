@@ -3,7 +3,6 @@ title: Range.SpecialCells method (Excel)
 keywords: vbaxl10.chm144203
 f1_keywords:
 - vbaxl10.chm144203
-ms.prod: excel
 api_name:
 - Excel.Range.SpecialCells
 ms.assetid: 30c2035c-34e3-3b1a-f243-69a9fed97f3b

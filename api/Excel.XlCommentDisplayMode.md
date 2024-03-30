@@ -1,6 +1,5 @@
 ---
 title: XlCommentDisplayMode enumeration (Excel)
-ms.prod: excel
 api_name:
 - Excel.XlCommentDisplayMode
 ms.assetid: d0735872-048e-1b1d-ed36-0eff0322eca7

@@ -3,7 +3,6 @@ title: FormRegion.IsExpanded property (Outlook)
 keywords: vbaol11.chm2389
 f1_keywords:
 - vbaol11.chm2389
-ms.prod: outlook
 api_name:
 - Outlook.FormRegion.IsExpanded
 ms.assetid: 6b2a033c-c852-d669-d641-098f9b6c8e35

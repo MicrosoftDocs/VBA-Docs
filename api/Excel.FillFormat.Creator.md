@@ -1,6 +1,5 @@
 ---
 title: FillFormat.Creator property (Excel)
-ms.prod: excel
 api_name:
 - Excel.FillFormat.Creator
 ms.assetid: f4e02d6c-49b7-d837-c090-096975d8efb1

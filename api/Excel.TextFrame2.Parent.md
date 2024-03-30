@@ -1,6 +1,5 @@
 ---
 title: TextFrame2.Parent property (Excel)
-ms.prod: excel
 api_name:
 - Excel.TextFrame2.Parent
 ms.assetid: aed28538-c3bd-ebf7-47d5-ed6be97db000

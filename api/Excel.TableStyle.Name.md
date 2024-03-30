@@ -3,7 +3,6 @@ title: TableStyle.Name property (Excel)
 keywords: vbaxl10.chm839074
 f1_keywords:
 - vbaxl10.chm839074
-ms.prod: excel
 api_name:
 - Excel.TableStyle.Name
 ms.assetid: 5003e933-495f-75ad-f8a5-7f21db16631c

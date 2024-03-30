@@ -3,7 +3,6 @@ title: AppointmentItem.ReminderPlaySound property (Outlook)
 keywords: vbaol11.chm894
 f1_keywords:
 - vbaol11.chm894
-ms.prod: outlook
 api_name:
 - Outlook.AppointmentItem.ReminderPlaySound
 ms.assetid: 4020684b-c89d-7371-75e0-4f3dfe01bec3

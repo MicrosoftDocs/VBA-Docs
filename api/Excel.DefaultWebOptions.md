@@ -3,7 +3,6 @@ title: DefaultWebOptions object (Excel)
 keywords: vbaxl10.chm659072
 f1_keywords:
 - vbaxl10.chm659072
-ms.prod: excel
 api_name:
 - Excel.DefaultWebOptions
 ms.assetid: 5bd1d870-e8d9-cac1-d7a7-3aeaf7c4c3cd

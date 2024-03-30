@@ -3,7 +3,6 @@ title: ChartColorFormat object (Excel Graph)
 keywords: vbagr10.chm131251
 f1_keywords:
 - vbagr10.chm131251
-ms.prod: excel
 api_name:
 - Excel.ChartColorFormat
 ms.assetid: 5d2e0cb0-e928-0704-7b4c-1afee6096f3a

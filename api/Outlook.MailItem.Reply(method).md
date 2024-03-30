@@ -3,7 +3,6 @@ title: MailItem.Reply method (Outlook)
 keywords: vbaol11.chm1367
 f1_keywords:
 - vbaol11.chm1367
-ms.prod: outlook
 api_name:
 - Outlook.MailItem.Reply
 ms.assetid: c03208a4-dd31-a8ff-0dcd-4ef37a36beb2

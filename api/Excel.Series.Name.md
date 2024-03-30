@@ -3,7 +3,6 @@ title: Series.Name property (Excel)
 keywords: vbaxl10.chm578099
 f1_keywords:
 - vbaxl10.chm578099
-ms.prod: excel
 api_name:
 - Excel.Series.Name
 ms.assetid: 64da2964-f896-a9f9-6c84-eeaa227ba86d

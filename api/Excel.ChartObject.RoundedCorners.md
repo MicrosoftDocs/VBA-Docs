@@ -3,7 +3,6 @@ title: ChartObject.RoundedCorners property (Excel)
 keywords: vbaxl10.chm494101
 f1_keywords:
 - vbaxl10.chm494101
-ms.prod: excel
 api_name:
 - Excel.ChartObject.RoundedCorners
 ms.assetid: cb58389a-0235-384e-e32a-e669e789bacc

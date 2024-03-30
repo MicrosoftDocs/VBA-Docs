@@ -1,6 +1,5 @@
 ---
 title: Excel.XlGeoProjectionType enumeration (Excel)
-ms.prod: excel
 api_name:
 - Excel.XlGeoProjectionType
 ms.date: 10/29/2019

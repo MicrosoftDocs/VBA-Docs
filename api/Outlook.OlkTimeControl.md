@@ -3,7 +3,6 @@ title: OlkTimeControl object (Outlook)
 keywords: vbaol11.chm1000415
 f1_keywords:
 - vbaol11.chm1000415
-ms.prod: outlook
 api_name:
 - Outlook.OlkTimeControl
 ms.assetid: b23f1741-b920-0caf-d4be-9892d8f2ae07

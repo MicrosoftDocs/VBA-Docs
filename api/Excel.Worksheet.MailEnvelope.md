@@ -3,7 +3,6 @@ title: Worksheet.MailEnvelope property (Excel)
 keywords: vbaxl10.chm175150
 f1_keywords:
 - vbaxl10.chm175150
-ms.prod: excel
 api_name:
 - Excel.Worksheet.MailEnvelope
 ms.assetid: 9490f86c-a82f-d1ab-7315-29b89c799301

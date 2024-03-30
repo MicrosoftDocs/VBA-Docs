@@ -3,7 +3,6 @@ title: AppointmentItem.GetConversation method (Outlook)
 keywords: vbaol11.chm3403
 f1_keywords:
 - vbaol11.chm3403
-ms.prod: outlook
 api_name:
 - Outlook.AppointmentItem.GetConversation
 ms.assetid: 661386aa-c357-8437-36a4-c0a910573b90

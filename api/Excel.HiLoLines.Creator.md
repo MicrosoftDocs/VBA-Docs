@@ -3,7 +3,6 @@ title: HiLoLines.Creator property (Excel)
 keywords: vbaxl10.chm599074
 f1_keywords:
 - vbaxl10.chm599074
-ms.prod: excel
 api_name:
 - Excel.HiLoLines.Creator
 ms.assetid: d3bf194a-a25b-ad11-5614-0c8a34c6cf68

@@ -3,7 +3,6 @@ title: AddIn.Path property (Excel)
 keywords: vbaxl10.chm185079
 f1_keywords:
 - vbaxl10.chm185079
-ms.prod: excel
 api_name:
 - Excel.AddIn.Path
 ms.assetid: 28516688-d6ed-2fbc-51ee-6dd6434e461d

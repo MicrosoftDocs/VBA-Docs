@@ -3,7 +3,6 @@ title: ChartArea property (Excel Graph)
 keywords: vbagr10.chm5207181
 f1_keywords:
 - vbagr10.chm5207181
-ms.prod: excel
 api_name:
 - Excel.ChartArea
 ms.assetid: 1af59d11-2b63-d629-5dae-d9b9d8303ddf

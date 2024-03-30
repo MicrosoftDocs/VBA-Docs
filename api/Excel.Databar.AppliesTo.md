@@ -3,7 +3,6 @@ title: DataBar.AppliesTo property (Excel)
 keywords: vbaxl10.chm810075
 f1_keywords:
 - vbaxl10.chm810075
-ms.prod: excel
 api_name:
 - Excel.DataBar.AppliesTo
 ms.assetid: e5538b96-5d7c-a345-587c-6c983921d0e7

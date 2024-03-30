@@ -3,7 +3,6 @@ title: TaskItem.Owner property (Outlook)
 keywords: vbaol11.chm1731
 f1_keywords:
 - vbaol11.chm1731
-ms.prod: outlook
 api_name:
 - Outlook.TaskItem.Owner
 ms.assetid: 8af59077-9f4f-2099-fd98-416061447968

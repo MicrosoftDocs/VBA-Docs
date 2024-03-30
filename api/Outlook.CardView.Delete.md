@@ -3,7 +3,6 @@ title: CardView.Delete method (Outlook)
 keywords: vbaol11.chm2585
 f1_keywords:
 - vbaol11.chm2585
-ms.prod: outlook
 api_name:
 - Outlook.CardView.Delete
 ms.assetid: 909c418b-7af7-ecee-f414-6bd38de15419

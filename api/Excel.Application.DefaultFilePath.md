@@ -3,7 +3,6 @@ title: Application.DefaultFilePath property (Excel)
 keywords: vbaxl10.chm133115
 f1_keywords:
 - vbaxl10.chm133115
-ms.prod: excel
 api_name:
 - Excel.Application.DefaultFilePath
 ms.assetid: 8eb8f6a2-f5fe-0b7e-172f-e7cfabef4af2

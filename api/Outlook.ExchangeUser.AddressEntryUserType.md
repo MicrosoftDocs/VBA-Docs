@@ -3,7 +3,6 @@ title: ExchangeUser.AddressEntryUserType property (Outlook)
 keywords: vbaol11.chm2080
 f1_keywords:
 - vbaol11.chm2080
-ms.prod: outlook
 api_name:
 - Outlook.ExchangeUser.AddressEntryUserType
 ms.assetid: fb5b16be-8846-7c9f-22bf-847d2cfc0a54

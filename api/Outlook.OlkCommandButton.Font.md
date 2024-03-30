@@ -3,7 +3,6 @@ title: OlkCommandButton.Font property (Outlook)
 keywords: vbaol11.chm1000113
 f1_keywords:
 - vbaol11.chm1000113
-ms.prod: outlook
 api_name:
 - Outlook.OlkCommandButton.Font
 ms.assetid: e1baae08-ed23-9513-c773-24b4c92cfe0c

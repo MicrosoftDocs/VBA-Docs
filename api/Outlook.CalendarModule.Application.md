@@ -3,7 +3,6 @@ title: CalendarModule.Application property (Outlook)
 keywords: vbaol11.chm2822
 f1_keywords:
 - vbaol11.chm2822
-ms.prod: outlook
 api_name:
 - Outlook.CalendarModule.Application
 ms.assetid: 9bc00532-e527-aa34-7377-704e1d54a2ff

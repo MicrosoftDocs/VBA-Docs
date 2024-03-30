@@ -3,7 +3,6 @@ title: Search.Scope property (Outlook)
 keywords: vbaol11.chm2259
 f1_keywords:
 - vbaol11.chm2259
-ms.prod: outlook
 api_name:
 - Outlook.Search.Scope
 ms.assetid: aa4b9aea-029f-6f80-87b1-b99c04ff9631

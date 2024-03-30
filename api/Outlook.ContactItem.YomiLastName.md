@@ -3,7 +3,6 @@ title: ContactItem.YomiLastName property (Outlook)
 keywords: vbaol11.chm1078
 f1_keywords:
 - vbaol11.chm1078
-ms.prod: outlook
 api_name:
 - Outlook.ContactItem.YomiLastName
 ms.assetid: 42f21ac7-cca2-a8b1-88b7-012b0bc3f0c9

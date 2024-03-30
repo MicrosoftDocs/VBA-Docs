@@ -3,7 +3,6 @@ title: FreeformBuilder.Creator property (Excel)
 keywords: vbaxl10.chm647074
 f1_keywords:
 - vbaxl10.chm647074
-ms.prod: excel
 api_name:
 - Excel.FreeformBuilder.Creator
 ms.assetid: c8c85faf-83b8-1c09-b199-e711b9f3f5b4

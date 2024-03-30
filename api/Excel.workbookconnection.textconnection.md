@@ -3,7 +3,6 @@ title: WorkbookConnection.TextConnection property (Excel)
 keywords: vbaxl10.chm774085
 f1_keywords:
 - vbaxl10.chm774085
-ms.prod: excel
 ms.assetid: aaad8c33-4c0e-7565-fe7e-7500bced0004
 ms.date: 05/18/2019
 ms.localizationpriority: medium

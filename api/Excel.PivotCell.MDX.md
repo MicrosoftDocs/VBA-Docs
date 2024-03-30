@@ -3,7 +3,6 @@ title: PivotCell.MDX property (Excel)
 keywords: vbaxl10.chm692089
 f1_keywords:
 - vbaxl10.chm692089
-ms.prod: excel
 api_name:
 - Excel.PivotCell.MDX
 ms.assetid: 637dd366-5f83-e862-bab5-cf78db04a34e

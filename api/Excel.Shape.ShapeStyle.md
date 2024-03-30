@@ -3,7 +3,6 @@ title: Shape.ShapeStyle property (Excel)
 keywords: vbaxl10.chm636149
 f1_keywords:
 - vbaxl10.chm636149
-ms.prod: excel
 api_name:
 - Excel.Shape.ShapeStyle
 ms.assetid: 7ec2cf87-324d-a37d-34ce-1110a9213fd7

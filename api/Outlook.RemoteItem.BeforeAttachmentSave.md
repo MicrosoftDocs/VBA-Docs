@@ -1,6 +1,5 @@
 ---
 title: RemoteItem.BeforeAttachmentSave event (Outlook)
-ms.prod: outlook
 api_name:
 - Outlook.RemoteItem.BeforeAttachmentSave
 ms.assetid: bbccaae4-6e32-0e1a-0666-870dbfa1b678

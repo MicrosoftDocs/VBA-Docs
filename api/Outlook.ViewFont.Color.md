@@ -3,7 +3,6 @@ title: ViewFont.Color property (Outlook)
 keywords: vbaol11.chm2701
 f1_keywords:
 - vbaol11.chm2701
-ms.prod: outlook
 api_name:
 - Outlook.ViewFont.Color
 ms.assetid: 294d2be7-b974-3750-438f-498eaa4d8604

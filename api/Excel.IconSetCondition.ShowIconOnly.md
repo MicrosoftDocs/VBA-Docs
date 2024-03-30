@@ -3,7 +3,6 @@ title: IconSetCondition.ShowIconOnly property (Excel)
 keywords: vbaxl10.chm812085
 f1_keywords:
 - vbaxl10.chm812085
-ms.prod: excel
 api_name:
 - Excel.IconSetCondition.ShowIconOnly
 ms.assetid: 4613f7ae-8282-755f-4a1c-fd6b01de0141

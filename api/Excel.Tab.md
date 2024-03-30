@@ -3,7 +3,6 @@ title: Tab object (Excel)
 keywords: vbaxl10.chm722072
 f1_keywords:
 - vbaxl10.chm722072
-ms.prod: excel
 api_name:
 - Excel.Tab
 ms.assetid: c6555e96-b96e-54d8-b8c6-5ab13c256d97

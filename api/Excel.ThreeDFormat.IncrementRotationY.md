@@ -3,7 +3,6 @@ title: ThreeDFormat.IncrementRotationY method (Excel)
 keywords: vbaxl10.chm119021
 f1_keywords:
 - vbaxl10.chm119021
-ms.prod: excel
 api_name:
 - Excel.ThreeDFormat.IncrementRotationY
 ms.assetid: 56dde624-a56d-41f1-3192-f4c5c28e0a66

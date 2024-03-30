@@ -3,7 +3,6 @@ title: PageSetup.PaperSize property (Excel)
 keywords: vbaxl10.chm473091
 f1_keywords:
 - vbaxl10.chm473091
-ms.prod: excel
 api_name:
 - Excel.PageSetup.PaperSize
 ms.assetid: 7c26e996-8399-31b4-8e53-772de8bf8eb2

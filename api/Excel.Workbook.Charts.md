@@ -3,7 +3,6 @@ title: Workbook.Charts property (Excel)
 keywords: vbaxl10.chm199084
 f1_keywords:
 - vbaxl10.chm199084
-ms.prod: excel
 api_name:
 - Excel.Workbook.Charts
 ms.assetid: 582d9a78-d86f-ab69-0c22-85f8a59412d9

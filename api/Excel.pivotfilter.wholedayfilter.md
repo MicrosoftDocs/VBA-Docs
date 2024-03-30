@@ -3,7 +3,6 @@ title: PivotFilter.WholeDayFilter property (Excel)
 keywords: vbaxl10.chm770086
 f1_keywords:
 - vbaxl10.chm770086
-ms.prod: excel
 ms.assetid: 4dc32caf-50de-0cd0-a3d7-b8b52deb4370
 ms.date: 05/07/2019
 ms.localizationpriority: medium

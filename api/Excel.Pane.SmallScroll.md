@@ -3,7 +3,6 @@ title: Pane.SmallScroll method (Excel)
 keywords: vbaxl10.chm360078
 f1_keywords:
 - vbaxl10.chm360078
-ms.prod: excel
 api_name:
 - Excel.Pane.SmallScroll
 ms.assetid: d41345f6-1b46-0772-afba-81d377acc90f

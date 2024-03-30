@@ -3,7 +3,6 @@ title: "How to: Access a Page in a MultiPage Control"
 keywords: olfm10.chm3077150
 f1_keywords:
 - olfm10.chm3077150
-ms.prod: outlook
 ms.assetid: dd67169f-2f3e-c93d-b5c5-512e8e83bb7a
 ms.date: 06/08/2019
 ms.localizationpriority: medium

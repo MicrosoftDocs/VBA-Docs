@@ -1,6 +1,5 @@
 ---
 title: SharingItem.PropertyChange event (Outlook)
-ms.prod: outlook
 api_name:
 - Outlook.SharingItem.PropertyChange
 ms.assetid: 7c3cf73a-4b2c-3f74-4d3e-5a0e04870f07

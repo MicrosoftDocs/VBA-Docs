@@ -3,7 +3,6 @@ title: Range.Formula2R1C1 property (Excel)
 keywords: ???
 f1_keywords:
 - ???
-ms.prod: excel
 api_name:
 - Excel.Range.Formula2R1C1
 ms.assetid: ???

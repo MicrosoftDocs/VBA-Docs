@@ -3,7 +3,6 @@ title: ContactItem.Attachments property (Outlook)
 keywords: vbaol11.chm931
 f1_keywords:
 - vbaol11.chm931
-ms.prod: outlook
 api_name:
 - Outlook.ContactItem.Attachments
 ms.assetid: 5679948f-bb5b-661a-0060-7941a8e436ef

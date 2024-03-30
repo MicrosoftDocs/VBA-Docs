@@ -3,7 +3,6 @@ title: MailItem.IsMarkedAsTask property (Outlook)
 keywords: vbaol11.chm3041
 f1_keywords:
 - vbaol11.chm3041
-ms.prod: outlook
 api_name:
 - Outlook.MailItem.IsMarkedAsTask
 ms.assetid: 6cc4530d-fa74-916b-654d-db995d9a989f

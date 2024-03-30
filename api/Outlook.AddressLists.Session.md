@@ -3,7 +3,6 @@ title: AddressLists.Session property (Outlook)
 keywords: vbaol11.chm90
 f1_keywords:
 - vbaol11.chm90
-ms.prod: outlook
 api_name:
 - Outlook.AddressLists.Session
 ms.assetid: 60b4307f-92c7-abed-5bc7-2a190cddd4ca

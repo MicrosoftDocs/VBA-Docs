@@ -1,6 +1,5 @@
 ---
 title: DistListItem.AttachmentRemove event (Outlook)
-ms.prod: outlook
 api_name:
 - Outlook.DistListItem.AttachmentRemove
 ms.assetid: 08462397-4ba9-c62b-4bf7-b6856648083a

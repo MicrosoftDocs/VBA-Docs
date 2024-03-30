@@ -3,7 +3,6 @@ title: ReportItem.Actions property (Outlook)
 keywords: vbaol11.chm1638
 f1_keywords:
 - vbaol11.chm1638
-ms.prod: outlook
 api_name:
 - Outlook.ReportItem.Actions
 ms.assetid: ac2959ca-7ac0-c308-060b-6a273fade806

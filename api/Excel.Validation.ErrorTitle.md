@@ -3,7 +3,6 @@ title: Validation.ErrorTitle property (Excel)
 keywords: vbaxl10.chm532080
 f1_keywords:
 - vbaxl10.chm532080
-ms.prod: excel
 api_name:
 - Excel.Validation.ErrorTitle
 ms.assetid: bafa328c-9f2f-3bb3-be61-5772e28fed47

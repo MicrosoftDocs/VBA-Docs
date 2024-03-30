@@ -3,7 +3,6 @@ title: WorksheetFunction.T_Inv method (Excel)
 keywords: vbaxl10.chm137386
 f1_keywords:
 - vbaxl10.chm137386
-ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.T_Inv
 ms.assetid: 0104e8a3-0beb-69bb-d9b5-20c319d740f6

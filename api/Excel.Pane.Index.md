@@ -3,7 +3,6 @@ title: Pane.Index property (Excel)
 keywords: vbaxl10.chm360074
 f1_keywords:
 - vbaxl10.chm360074
-ms.prod: excel
 api_name:
 - Excel.Pane.Index
 ms.assetid: 616dc455-b092-78b8-b806-f6bf71ef9867

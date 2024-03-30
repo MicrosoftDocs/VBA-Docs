@@ -3,7 +3,6 @@ title: OlkLabel.Enabled property (Outlook)
 keywords: vbaol11.chm1000092
 f1_keywords:
 - vbaol11.chm1000092
-ms.prod: outlook
 api_name:
 - Outlook.OlkLabel.Enabled
 ms.assetid: 93cf21b5-76a4-431a-9606-876045eadfd0

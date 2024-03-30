@@ -3,7 +3,6 @@ title: PublishObject.DivID property (Excel)
 keywords: vbaxl10.chm652075
 f1_keywords:
 - vbaxl10.chm652075
-ms.prod: excel
 api_name:
 - Excel.PublishObject.DivID
 ms.assetid: a60bb113-e04f-7de7-98f0-3ddb0e51dcdc

@@ -3,7 +3,6 @@ title: DistListItem.Session property (Outlook)
 keywords: vbaol11.chm1112
 f1_keywords:
 - vbaol11.chm1112
-ms.prod: outlook
 api_name:
 - Outlook.DistListItem.Session
 ms.assetid: c36e7ef0-baf0-daa3-2e9a-c8d9d78bb6d5

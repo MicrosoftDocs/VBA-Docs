@@ -3,7 +3,6 @@ title: DefaultWebOptions.UseLongFileNames property (Excel)
 keywords: vbaxl10.chm660078
 f1_keywords:
 - vbaxl10.chm660078
-ms.prod: excel
 api_name:
 - Excel.DefaultWebOptions.UseLongFileNames
 ms.assetid: b594ad04-866a-b811-338b-73d45352866b

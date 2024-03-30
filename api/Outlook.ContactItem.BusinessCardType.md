@@ -3,7 +3,6 @@ title: ContactItem.BusinessCardType property (Outlook)
 keywords: vbaol11.chm3230
 f1_keywords:
 - vbaol11.chm3230
-ms.prod: outlook
 api_name:
 - Outlook.ContactItem.BusinessCardType
 ms.assetid: 57de9454-83e0-976f-cb69-d472bfd9fb3c

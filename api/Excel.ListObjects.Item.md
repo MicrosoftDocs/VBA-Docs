@@ -3,7 +3,6 @@ title: ListObjects.Item property (Excel)
 keywords: vbaxl10.chm732076
 f1_keywords:
 - vbaxl10.chm732076
-ms.prod: excel
 api_name:
 - Excel.ListObjects.Item
 ms.assetid: 39f00da9-170d-e62b-4beb-38e06a8ba533

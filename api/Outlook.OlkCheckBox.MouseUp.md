@@ -3,7 +3,6 @@ title: OlkCheckBox.MouseUp event (Outlook)
 keywords: vbaol11.chm1000153
 f1_keywords:
 - vbaol11.chm1000153
-ms.prod: outlook
 api_name:
 - Outlook.OlkCheckBox.MouseUp
 ms.assetid: 0c5283d7-ef9d-19aa-52ff-0399c69aa41b

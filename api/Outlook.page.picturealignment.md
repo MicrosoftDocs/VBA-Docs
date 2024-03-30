@@ -1,6 +1,5 @@
 ---
 title: Page.PictureAlignment Property (Outlook Forms Script)
-ms.prod: outlook
 ms.assetid: c52f0b5b-c703-d9d6-1bae-e4fe9b696cf8
 ms.date: 06/08/2017
 ms.localizationpriority: medium

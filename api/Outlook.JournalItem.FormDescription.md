@@ -3,7 +3,6 @@ title: JournalItem.FormDescription property (Outlook)
 keywords: vbaol11.chm1241
 f1_keywords:
 - vbaol11.chm1241
-ms.prod: outlook
 api_name:
 - Outlook.JournalItem.FormDescription
 ms.assetid: ee02c61e-25aa-28fd-b698-57af116008b9

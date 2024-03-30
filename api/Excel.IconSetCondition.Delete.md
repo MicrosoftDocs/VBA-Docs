@@ -3,7 +3,6 @@ title: IconSetCondition.Delete method (Excel)
 keywords: vbaxl10.chm812082
 f1_keywords:
 - vbaxl10.chm812082
-ms.prod: excel
 api_name:
 - Excel.IconSetCondition.Delete
 ms.assetid: cd9d4874-8d2c-3423-2264-95b335078c2f

@@ -3,7 +3,6 @@ title: CalculatedMember.Formula property (Excel)
 keywords: vbaxl10.chm686074
 f1_keywords:
 - vbaxl10.chm686074
-ms.prod: excel
 api_name:
 - Excel.CalculatedMember.Formula
 ms.assetid: 7c0c4463-8f8b-9e79-9fe3-2f25290f3fce

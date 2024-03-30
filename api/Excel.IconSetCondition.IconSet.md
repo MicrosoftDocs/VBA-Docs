@@ -3,7 +3,6 @@ title: IconSetCondition.IconSet property (Excel)
 keywords: vbaxl10.chm812087
 f1_keywords:
 - vbaxl10.chm812087
-ms.prod: excel
 api_name:
 - Excel.IconSetCondition.IconSet
 ms.assetid: 8e0529d5-1c15-744e-2391-7229bcbcd043

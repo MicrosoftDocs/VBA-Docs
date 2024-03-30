@@ -3,7 +3,6 @@ title: ApplyPictToFront property (Excel Graph)
 keywords: vbagr10.chm3076954
 f1_keywords:
 - vbagr10.chm3076954
-ms.prod: excel
 api_name:
 - Excel.ApplyPictToFront
 ms.assetid: c6b1b61c-edb1-fb40-387a-0106e8ca225a

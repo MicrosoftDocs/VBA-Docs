@@ -1,6 +1,5 @@
 ---
 title: Filtering and Specifying Fields in a View
-ms.prod: outlook
 ms.assetid: 99cef6bf-1bf6-706f-9972-22005a255416
 ms.date: 02/08/2022
 ms.localizationpriority: medium

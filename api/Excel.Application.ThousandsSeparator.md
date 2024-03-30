@@ -3,7 +3,6 @@ title: Application.ThousandsSeparator property (Excel)
 keywords: vbaxl10.chm133289
 f1_keywords:
 - vbaxl10.chm133289
-ms.prod: excel
 api_name:
 - Excel.Application.ThousandsSeparator
 ms.assetid: da244add-1c85-4636-2aff-b26feec215f3

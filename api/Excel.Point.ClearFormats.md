@@ -3,7 +3,6 @@ title: Point.ClearFormats method (Excel)
 keywords: vbaxl10.chm576076
 f1_keywords:
 - vbaxl10.chm576076
-ms.prod: excel
 api_name:
 - Excel.Point.ClearFormats
 ms.assetid: 487bc619-209c-a0e3-a2f4-20a8b586b098

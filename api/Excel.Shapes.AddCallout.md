@@ -3,7 +3,6 @@ title: Shapes.AddCallout method (Excel)
 keywords: vbaxl10.chm638077
 f1_keywords:
 - vbaxl10.chm638077
-ms.prod: excel
 api_name:
 - Excel.Shapes.AddCallout
 ms.assetid: b98ea95d-210b-34cc-c999-e7ce0a3e3a72

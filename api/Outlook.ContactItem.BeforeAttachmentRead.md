@@ -1,6 +1,5 @@
 ---
 title: ContactItem.BeforeAttachmentRead event (Outlook)
-ms.prod: outlook
 api_name:
 - Outlook.ContactItem.BeforeAttachmentRead
 ms.assetid: ba862dea-f2e1-a864-f6c3-a8987c28bfcf

@@ -3,7 +3,6 @@ title: NameSpace.Logon method (Outlook)
 keywords: vbaol11.chm767
 f1_keywords:
 - vbaol11.chm767
-ms.prod: outlook
 api_name:
 - Outlook.NameSpace.Logon
 ms.assetid: 167c632b-0d52-a1e4-8dcd-57d301cde3c9

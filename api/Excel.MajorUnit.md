@@ -3,7 +3,6 @@ title: MajorUnit property (Excel Graph)
 keywords: vbagr10.chm5207641
 f1_keywords:
 - vbagr10.chm5207641
-ms.prod: excel
 api_name:
 - Excel.MajorUnit
 ms.assetid: 46d4d4e0-f285-2800-f539-72e7acb98948

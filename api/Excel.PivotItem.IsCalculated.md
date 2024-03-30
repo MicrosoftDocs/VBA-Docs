@@ -3,7 +3,6 @@ title: PivotItem.IsCalculated property (Excel)
 keywords: vbaxl10.chm246087
 f1_keywords:
 - vbaxl10.chm246087
-ms.prod: excel
 api_name:
 - Excel.PivotItem.IsCalculated
 ms.assetid: d6b4009b-591a-a6f7-3e4b-cf0f536f14bc

@@ -3,7 +3,6 @@ title: WorkbookConnection.Creator property (Excel)
 keywords: vbaxl10.chm773074
 f1_keywords:
 - vbaxl10.chm773074
-ms.prod: excel
 api_name:
 - Excel.WorkbookConnection.Creator
 ms.assetid: b8862979-d128-cd86-31ef-19515741792c

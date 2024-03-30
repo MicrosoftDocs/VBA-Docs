@@ -3,7 +3,6 @@ title: WorksheetFunction.MultiNomial method (Excel)
 keywords: vbaxl10.chm137350
 f1_keywords:
 - vbaxl10.chm137350
-ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.MultiNomial
 ms.assetid: be7c63a7-a575-8139-e37e-a0431b95a07c

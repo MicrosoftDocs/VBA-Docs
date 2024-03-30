@@ -3,7 +3,6 @@ title: Workbook.DocumentLibraryVersions property (Excel)
 keywords: vbaxl10.chm199228
 f1_keywords:
 - vbaxl10.chm199228
-ms.prod: excel
 api_name:
 - Excel.Workbook.DocumentLibraryVersions
 ms.assetid: b6338994-b5d9-ef9b-83b5-bdd47d0fd407

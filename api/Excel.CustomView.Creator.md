@@ -3,7 +3,6 @@ title: CustomView.Creator property (Excel)
 keywords: vbaxl10.chm507074
 f1_keywords:
 - vbaxl10.chm507074
-ms.prod: excel
 api_name:
 - Excel.CustomView.Creator
 ms.assetid: cc98f447-aa59-e2ed-c516-558d877ef791

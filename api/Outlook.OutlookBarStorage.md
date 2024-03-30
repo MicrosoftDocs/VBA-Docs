@@ -3,7 +3,6 @@ title: OutlookBarStorage object (Outlook)
 keywords: vbaol11.chm367
 f1_keywords:
 - vbaol11.chm367
-ms.prod: outlook
 api_name:
 - Outlook.OutlookBarStorage
 ms.assetid: e6dc8dc0-bae4-f59b-c991-1421b280de38

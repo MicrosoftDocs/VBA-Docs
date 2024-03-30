@@ -3,7 +3,6 @@ title: Results.Sort method (Outlook)
 keywords: vbaol11.chm511
 f1_keywords:
 - vbaol11.chm511
-ms.prod: outlook
 api_name:
 - Outlook.Results.Sort
 ms.assetid: d897f4c9-ef58-cdb4-ca9e-d179af12f2b5

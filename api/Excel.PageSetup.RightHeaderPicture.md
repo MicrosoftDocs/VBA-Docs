@@ -3,7 +3,6 @@ title: PageSetup.RightHeaderPicture property (Excel)
 keywords: vbaxl10.chm473110
 f1_keywords:
 - vbaxl10.chm473110
-ms.prod: excel
 api_name:
 - Excel.PageSetup.RightHeaderPicture
 ms.assetid: 38fb53d1-7326-97d7-9c4a-285ffe8f42f7

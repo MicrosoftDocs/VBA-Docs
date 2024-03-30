@@ -3,7 +3,6 @@ title: RuleActions.ClearCategories property (Outlook)
 keywords: vbaol11.chm3233
 f1_keywords:
 - vbaol11.chm3233
-ms.prod: outlook
 api_name:
 - Outlook.RuleActions.ClearCategories
 ms.assetid: db594b52-1700-67a7-8445-338f7df254e9

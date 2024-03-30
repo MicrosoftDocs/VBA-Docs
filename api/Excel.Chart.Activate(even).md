@@ -3,7 +3,6 @@ title: Chart.Activate event (Excel)
 keywords: vbaxl10.chm500073
 f1_keywords:
 - vbaxl10.chm500073
-ms.prod: excel
 api_name:
 - Excel.Chart.Activate
 ms.assetid: 7b878d1b-3059-93cb-389a-a2633f613a4d

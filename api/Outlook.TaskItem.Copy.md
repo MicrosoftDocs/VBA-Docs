@@ -3,7 +3,6 @@ title: TaskItem.Copy method (Outlook)
 keywords: vbaol11.chm1713
 f1_keywords:
 - vbaol11.chm1713
-ms.prod: outlook
 api_name:
 - Outlook.TaskItem.Copy
 ms.assetid: 1224ae94-8c2c-70c8-234a-f3b577cd574e

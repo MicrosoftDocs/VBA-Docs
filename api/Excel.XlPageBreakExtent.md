@@ -1,6 +1,5 @@
 ---
 title: XlPageBreakExtent enumeration (Excel)
-ms.prod: excel
 api_name:
 - Excel.XlPageBreakExtent
 ms.assetid: 8104219d-db04-6c66-dadb-7a095de8b19a

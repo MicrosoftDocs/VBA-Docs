@@ -3,7 +3,6 @@ title: Application.DisplayXMLSourcePane method (Excel)
 keywords: vbaxl10.chm133294
 f1_keywords:
 - vbaxl10.chm133294
-ms.prod: excel
 api_name:
 - Excel.Application.DisplayXMLSourcePane
 ms.assetid: 1dea98ac-8d36-4745-cb6a-9a607e863ff2

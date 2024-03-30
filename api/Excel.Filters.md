@@ -3,7 +3,6 @@ title: Filters object (Excel)
 keywords: vbaxl10.chm539072
 f1_keywords:
 - vbaxl10.chm539072
-ms.prod: excel
 api_name:
 - Excel.Filters
 ms.assetid: a714ed69-7772-5ade-3acd-f3e3d98db62c

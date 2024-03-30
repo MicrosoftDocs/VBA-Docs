@@ -3,7 +3,6 @@ title: DisplayUnitLabel.Creator property (Excel)
 keywords: vbaxl10.chm672074
 f1_keywords:
 - vbaxl10.chm672074
-ms.prod: excel
 api_name:
 - Excel.DisplayUnitLabel.Creator
 ms.assetid: 8150429a-3533-6681-36cf-22db6196610f

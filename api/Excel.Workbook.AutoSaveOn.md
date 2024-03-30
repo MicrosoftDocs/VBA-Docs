@@ -3,7 +3,6 @@ title: Workbook.AutoSaveOn property (Excel)
 keywords: vbaxl10.chm199287
 f1_keywords:
 - vbaxl10.chm199287
-ms.prod: excel
 api_name:
 - Excel.Workbook.AutoSaveOn
 ms.date: 05/25/2019

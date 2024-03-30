@@ -3,7 +3,6 @@ title: Application.SmartArtColors property (Excel)
 keywords: vbaxl10.chm133321
 f1_keywords:
 - vbaxl10.chm133321
-ms.prod: excel
 api_name:
 - Excel.Application.SmartArtColors
 ms.assetid: 13f9961d-8bc2-b9b4-1c72-0cc74a4fc359

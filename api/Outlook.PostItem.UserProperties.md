@@ -3,7 +3,6 @@ title: PostItem.UserProperties property (Outlook)
 keywords: vbaol11.chm1538
 f1_keywords:
 - vbaol11.chm1538
-ms.prod: outlook
 api_name:
 - Outlook.PostItem.UserProperties
 ms.assetid: 87485ccc-8b49-fed1-36ca-971ff5200ba0

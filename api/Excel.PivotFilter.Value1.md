@@ -3,7 +3,6 @@ title: PivotFilter.Value1 property (Excel)
 keywords: vbaxl10.chm770082
 f1_keywords:
 - vbaxl10.chm770082
-ms.prod: excel
 api_name:
 - Excel.PivotFilter.Value1
 ms.assetid: 307466b5-1c69-e4a3-b365-cae79742bed3

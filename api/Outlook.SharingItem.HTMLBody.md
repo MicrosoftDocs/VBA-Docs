@@ -3,7 +3,6 @@ title: SharingItem.HTMLBody property (Outlook)
 keywords: vbaol11.chm641
 f1_keywords:
 - vbaol11.chm641
-ms.prod: outlook
 api_name:
 - Outlook.SharingItem.HTMLBody
 ms.assetid: cd181b3f-e990-3d41-aa30-ec51361c605d

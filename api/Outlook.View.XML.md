@@ -3,7 +3,6 @@ title: View.XML property (Outlook)
 keywords: vbaol11.chm2495
 f1_keywords:
 - vbaol11.chm2495
-ms.prod: outlook
 api_name:
 - Outlook.View.XML
 ms.assetid: a933daaa-370f-2ed3-0a59-86f766a1f2c8

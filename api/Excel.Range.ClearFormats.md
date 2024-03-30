@@ -3,7 +3,6 @@ title: Range.ClearFormats method (Excel)
 keywords: vbaxl10.chm144096
 f1_keywords:
 - vbaxl10.chm144096
-ms.prod: excel
 api_name:
 - Excel.Range.ClearFormats
 ms.assetid: 37777379-857a-f4c7-86aa-b109d5f25757

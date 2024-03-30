@@ -3,7 +3,6 @@ title: Comment.Previous method (Excel)
 keywords: vbaxl10.chm516079
 f1_keywords:
 - vbaxl10.chm516079
-ms.prod: excel
 api_name:
 - Excel.Comment.Previous
 ms.assetid: b7854b0f-0e88-6749-2e62-6d45add8b945

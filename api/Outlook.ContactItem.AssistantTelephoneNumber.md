@@ -3,7 +3,6 @@ title: ContactItem.AssistantTelephoneNumber property (Outlook)
 keywords: vbaol11.chm967
 f1_keywords:
 - vbaol11.chm967
-ms.prod: outlook
 api_name:
 - Outlook.ContactItem.AssistantTelephoneNumber
 ms.assetid: 0dcb4d55-1dbf-0fca-d1a4-ef5af715fc52

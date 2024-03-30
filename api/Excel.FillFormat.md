@@ -3,7 +3,6 @@ title: FillFormat object (Excel)
 keywords: vbaxl10.chm115000
 f1_keywords:
 - vbaxl10.chm115000
-ms.prod: excel
 api_name:
 - Excel.FillFormat
 ms.assetid: b602e09e-97ab-bfbe-1796-bc44ebb7dc28

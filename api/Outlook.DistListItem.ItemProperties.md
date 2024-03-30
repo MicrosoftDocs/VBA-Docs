@@ -3,7 +3,6 @@ title: DistListItem.ItemProperties property (Outlook)
 keywords: vbaol11.chm1161
 f1_keywords:
 - vbaol11.chm1161
-ms.prod: outlook
 api_name:
 - Outlook.DistListItem.ItemProperties
 ms.assetid: 35f05934-1687-e633-9396-21c88b2007e6

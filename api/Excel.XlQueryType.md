@@ -1,6 +1,5 @@
 ---
 title: XlQueryType enumeration (Excel)
-ms.prod: excel
 api_name:
 - Excel.XlQueryType
 ms.assetid: 8a0f70d4-5536-3125-cd75-d23212c91868

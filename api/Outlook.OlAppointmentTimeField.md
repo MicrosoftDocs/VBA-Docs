@@ -3,7 +3,6 @@ title: OlAppointmentTimeField enumeration (Outlook)
 keywords: vbaol11.chm1000531
 f1_keywords:
 - vbaol11.chm1000531
-ms.prod: outlook
 api_name:
 - Outlook.OlAppointmentTimeField
 ms.assetid: 630706ba-c98a-e6de-73ce-c7071e0d1db2

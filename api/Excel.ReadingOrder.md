@@ -3,7 +3,6 @@ title: ReadingOrder property (Excel Graph)
 keywords: vbagr10.chm5207913
 f1_keywords:
 - vbagr10.chm5207913
-ms.prod: excel
 api_name:
 - Excel.ReadingOrder
 ms.assetid: 70e3f325-0c75-24cb-d3e7-0273ce157061

@@ -3,7 +3,6 @@ title: OlkControl.ItemProperty property (Outlook)
 keywords: vbaol11.chm1000502
 f1_keywords:
 - vbaol11.chm1000502
-ms.prod: outlook
 api_name:
 - Outlook.OlkControl.ItemProperty
 ms.assetid: bed8ceaf-c8ae-0102-14ca-55982e49d650

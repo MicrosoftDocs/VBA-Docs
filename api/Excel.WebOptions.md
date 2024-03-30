@@ -3,7 +3,6 @@ title: WebOptions object (Excel)
 keywords: vbaxl10.chm661072
 f1_keywords:
 - vbaxl10.chm661072
-ms.prod: excel
 api_name:
 - Excel.WebOptions
 ms.assetid: d573637f-1891-4602-c961-091795e47356

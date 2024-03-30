@@ -3,7 +3,6 @@ title: UniqueValues.DupeUnique property (Excel)
 keywords: vbaxl10.chm826076
 f1_keywords:
 - vbaxl10.chm826076
-ms.prod: excel
 api_name:
 - Excel.UniqueValues.DupeUnique
 ms.assetid: 428d6416-ae3f-8ddd-72a9-2a627466a946

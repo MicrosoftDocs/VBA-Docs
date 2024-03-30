@@ -3,7 +3,6 @@ title: WorksheetFunction.GammaLn_Precise method (Excel)
 keywords: vbaxl10.chm137418
 f1_keywords:
 - vbaxl10.chm137418
-ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.GammaLn_Precise
 ms.assetid: a428c7a2-452e-575d-7d16-fd9f5023755d

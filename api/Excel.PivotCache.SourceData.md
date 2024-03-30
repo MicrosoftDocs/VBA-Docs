@@ -3,7 +3,6 @@ title: PivotCache.SourceData property (Excel)
 keywords: vbaxl10.chm227086
 f1_keywords:
 - vbaxl10.chm227086
-ms.prod: excel
 api_name:
 - Excel.PivotCache.SourceData
 ms.assetid: 5a172543-3a06-9db0-7edc-0cf2aa7af114

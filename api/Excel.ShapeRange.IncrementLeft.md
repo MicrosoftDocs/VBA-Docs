@@ -3,7 +3,6 @@ title: ShapeRange.IncrementLeft method (Excel)
 keywords: vbaxl10.chm640083
 f1_keywords:
 - vbaxl10.chm640083
-ms.prod: excel
 api_name:
 - Excel.ShapeRange.IncrementLeft
 ms.assetid: 604e8e92-b03a-da67-7022-4d73ebdf9872

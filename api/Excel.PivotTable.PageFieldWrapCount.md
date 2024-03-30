@@ -3,7 +3,6 @@ title: PivotTable.PageFieldWrapCount property (Excel)
 keywords: vbaxl10.chm235121
 f1_keywords:
 - vbaxl10.chm235121
-ms.prod: excel
 api_name:
 - Excel.PivotTable.PageFieldWrapCount
 ms.assetid: 930bfe25-362e-f907-d593-6898db07f55b

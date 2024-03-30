@@ -3,7 +3,6 @@ title: Workbook.TableStyles property (Excel)
 keywords: vbaxl10.chm199246
 f1_keywords:
 - vbaxl10.chm199246
-ms.prod: excel
 api_name:
 - Excel.Workbook.TableStyles
 ms.assetid: ac23db99-b2ce-0228-7808-728817736694

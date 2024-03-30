@@ -1,6 +1,5 @@
 ---
 title: JournalItem.BeforeAttachmentPreview event (Outlook)
-ms.prod: outlook
 api_name:
 - Outlook.JournalItem.BeforeAttachmentPreview
 ms.assetid: e9554590-a748-e2c9-b879-a3fb67dc016c

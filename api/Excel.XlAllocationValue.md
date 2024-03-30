@@ -1,6 +1,5 @@
 ---
 title: XlAllocationValue enumeration (Excel)
-ms.prod: excel
 api_name:
 - Excel.xlAllocationValue
 ms.assetid: d7f73242-4adf-f700-a115-29c10d3a028a

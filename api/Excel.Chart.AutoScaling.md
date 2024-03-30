@@ -3,7 +3,6 @@ title: Chart.AutoScaling property (Excel)
 keywords: vbaxl10.chm149080
 f1_keywords:
 - vbaxl10.chm149080
-ms.prod: excel
 api_name:
 - Excel.Chart.AutoScaling
 ms.assetid: fecafb42-56fb-3c33-dc03-cb290b4a28df

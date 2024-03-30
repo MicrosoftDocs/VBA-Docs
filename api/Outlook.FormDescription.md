@@ -3,7 +3,6 @@ title: FormDescription object (Outlook)
 keywords: vbaol11.chm178
 f1_keywords:
 - vbaol11.chm178
-ms.prod: outlook
 api_name:
 - Outlook.FormDescription
 ms.assetid: c88f92c4-4cac-84b3-6118-1150d42d7cff

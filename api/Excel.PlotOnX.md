@@ -3,7 +3,6 @@ title: PlotOnX property (Excel Graph)
 keywords: vbagr10.chm67311
 f1_keywords:
 - vbagr10.chm67311
-ms.prod: excel
 api_name:
 - Excel.PlotOnX
 ms.assetid: 66102cce-e4af-4b0c-d168-ea63f3bc0f30

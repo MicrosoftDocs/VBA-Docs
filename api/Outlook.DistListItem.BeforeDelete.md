@@ -1,6 +1,5 @@
 ---
 title: DistListItem.BeforeDelete event (Outlook)
-ms.prod: outlook
 api_name:
 - Outlook.DistListItem.BeforeDelete
 ms.assetid: 095be9b1-b7c5-bc22-a478-4f4dfeb91641

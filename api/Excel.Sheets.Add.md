@@ -3,7 +3,6 @@ title: Sheets.Add method (Excel)
 keywords: vbaxl10.chm152073
 f1_keywords:
 - vbaxl10.chm152073
-ms.prod: excel
 api_name:
 - Excel.Sheets.Add
 ms.assetid: db5de750-fd09-2b18-c52b-98d88eeb0ffc

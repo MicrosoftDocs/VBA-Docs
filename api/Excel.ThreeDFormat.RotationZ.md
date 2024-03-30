@@ -1,6 +1,5 @@
 ---
 title: ThreeDFormat.RotationZ property (Excel)
-ms.prod: excel
 api_name:
 - Excel.ThreeDFormat.RotationZ
 ms.assetid: 4e28396e-9d1e-4d2c-920c-e49e735cee27

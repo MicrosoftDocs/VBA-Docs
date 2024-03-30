@@ -3,7 +3,6 @@ title: OlkCheckBox.KeyUp event (Outlook)
 keywords: vbaol11.chm1000158
 f1_keywords:
 - vbaol11.chm1000158
-ms.prod: outlook
 api_name:
 - Outlook.OlkCheckBox.KeyUp
 ms.assetid: 47ec2354-78c7-2929-504a-3e0155806aeb

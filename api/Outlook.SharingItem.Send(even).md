@@ -1,6 +1,5 @@
 ---
 title: SharingItem.Send event (Outlook)
-ms.prod: outlook
 api_name:
 - Outlook.SharingItem.Send
 ms.assetid: 15db902f-d61d-cfcd-0498-a2cec5f984bb

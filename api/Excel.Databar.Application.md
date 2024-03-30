@@ -3,7 +3,6 @@ title: DataBar.Application property (Excel)
 keywords: vbaxl10.chm809073
 f1_keywords:
 - vbaxl10.chm809073
-ms.prod: excel
 api_name:
 - Excel.DataBar.Application
 ms.assetid: 903716c7-d550-f1e3-6fee-a503215923a2

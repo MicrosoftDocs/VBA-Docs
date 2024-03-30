@@ -3,7 +3,6 @@ title: TaskItem.Application property (Outlook)
 keywords: vbaol11.chm1682
 f1_keywords:
 - vbaol11.chm1682
-ms.prod: outlook
 api_name:
 - Outlook.TaskItem.Application
 ms.assetid: 02b138b9-75ca-04d6-0129-2a5c9917e90c

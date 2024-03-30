@@ -3,7 +3,6 @@ title: DataLabels.NumberFormatLocal property (Excel)
 keywords: vbaxl10.chm584095
 f1_keywords:
 - vbaxl10.chm584095
-ms.prod: excel
 api_name:
 - Excel.DataLabels.NumberFormatLocal
 ms.assetid: f5ef1fd2-1532-df41-2be8-e18096751fa3

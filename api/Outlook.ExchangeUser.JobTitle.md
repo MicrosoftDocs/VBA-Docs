@@ -3,7 +3,6 @@ title: ExchangeUser.JobTitle property (Outlook)
 keywords: vbaol11.chm2093
 f1_keywords:
 - vbaol11.chm2093
-ms.prod: outlook
 api_name:
 - Outlook.ExchangeUser.JobTitle
 ms.assetid: 2cfa5301-3164-c472-3f8e-831c1eebc810

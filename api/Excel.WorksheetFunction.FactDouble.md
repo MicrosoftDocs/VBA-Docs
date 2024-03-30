@@ -3,7 +3,6 @@ title: WorksheetFunction.FactDouble method (Excel)
 keywords: vbaxl10.chm137292
 f1_keywords:
 - vbaxl10.chm137292
-ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.FactDouble
 ms.assetid: 71d8d537-b06c-7614-d6d6-b6c57ed8c68f

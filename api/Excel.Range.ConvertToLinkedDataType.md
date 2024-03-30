@@ -3,7 +3,6 @@ title: Range.ConvertToLinkedDataType method (Excel)
 keywords: vbaxl10.chm144263
 f1_keywords:
 - vbaxl10.chm144263
-ms.prod: excel
 api_name:
 - Excel.Range.ConvertToLinkedDataType
 ms.date: 05/10/2019

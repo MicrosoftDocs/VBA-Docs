@@ -3,7 +3,6 @@ title: XmlNamespace.Uri property (Excel)
 keywords: vbaxl10.chm744074
 f1_keywords:
 - vbaxl10.chm744074
-ms.prod: excel
 api_name:
 - Excel.XmlNamespace.Uri
 ms.assetid: f057b379-d787-e1b4-6afb-26f511e77d11

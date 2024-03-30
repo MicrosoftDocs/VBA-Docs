@@ -3,7 +3,6 @@ title: WorksheetFunction.DProduct method (Excel)
 keywords: vbaxl10.chm137145
 f1_keywords:
 - vbaxl10.chm137145
-ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.DProduct
 ms.assetid: 91f30da7-37b3-29d6-a677-95817d9bfe24

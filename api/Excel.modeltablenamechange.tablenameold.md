@@ -3,7 +3,6 @@ title: ModelTableNameChange.TableNameOld property (Excel)
 keywords: vbaxl10.chm956073
 f1_keywords:
 - vbaxl10.chm956073
-ms.prod: excel
 ms.assetid: f9baf243-88e1-08f5-079b-878bc520098f
 ms.date: 05/01/2019
 ms.localizationpriority: medium

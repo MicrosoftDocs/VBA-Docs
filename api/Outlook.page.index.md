@@ -3,7 +3,6 @@ title: Page.Index Property (Outlook Forms Script)
 keywords: olfm10.chm2001280
 f1_keywords:
 - olfm10.chm2001280
-ms.prod: outlook
 ms.assetid: 91e67439-ea23-9ac8-6065-31af7be0b303
 ms.date: 06/08/2017
 ms.localizationpriority: medium

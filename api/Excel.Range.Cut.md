@@ -3,7 +3,6 @@ title: Range.Cut method (Excel)
 keywords: vbaxl10.chm144112
 f1_keywords:
 - vbaxl10.chm144112
-ms.prod: excel
 api_name:
 - Excel.Range.Cut
 ms.assetid: b9f525c4-c314-450c-f88b-e6c5cdc00112

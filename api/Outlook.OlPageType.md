@@ -3,7 +3,6 @@ title: OlPageType enumeration (Outlook)
 keywords: vbaol11.chm1000030
 f1_keywords:
 - vbaol11.chm1000030
-ms.prod: outlook
 api_name:
 - Outlook.OlPageType
 ms.assetid: e4392bf7-5e61-c67b-e564-191e9c62e407

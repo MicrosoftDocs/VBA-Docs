@@ -3,7 +3,6 @@ title: StorageItem.Parent property (Outlook)
 keywords: vbaol11.chm2140
 f1_keywords:
 - vbaol11.chm2140
-ms.prod: outlook
 api_name:
 - Outlook.StorageItem.Parent
 ms.assetid: d7c8448b-d340-4ff6-f2f6-1965327605cc

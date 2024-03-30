@@ -3,7 +3,6 @@ title: Font.Strikethrough property (Excel)
 keywords: vbaxl10.chm559083
 f1_keywords:
 - vbaxl10.chm559083
-ms.prod: excel
 api_name:
 - Excel.Font.Strikethrough
 ms.assetid: fc505f12-66ae-a941-c6cf-90f81bc44dea

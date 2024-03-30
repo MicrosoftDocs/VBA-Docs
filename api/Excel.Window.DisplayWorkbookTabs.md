@@ -3,7 +3,6 @@ title: Window.DisplayWorkbookTabs property (Excel)
 keywords: vbaxl10.chm356089
 f1_keywords:
 - vbaxl10.chm356089
-ms.prod: excel
 api_name:
 - Excel.Window.DisplayWorkbookTabs
 ms.assetid: abb7580a-bca0-5940-4b41-4dfbaf52514a

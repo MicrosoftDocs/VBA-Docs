@@ -3,7 +3,6 @@ title: Series.MarkerStyle property (Excel)
 keywords: vbaxl10.chm578098
 f1_keywords:
 - vbaxl10.chm578098
-ms.prod: excel
 api_name:
 - Excel.Series.MarkerStyle
 ms.assetid: fec57799-b01b-a8f8-2c26-1e7b11dd9777

@@ -3,7 +3,6 @@ title: SpellingOptions.IgnoreMixedDigits property (Excel)
 keywords: vbaxl10.chm717077
 f1_keywords:
 - vbaxl10.chm717077
-ms.prod: excel
 api_name:
 - Excel.SpellingOptions.IgnoreMixedDigits
 ms.assetid: 6803fa80-3850-5b34-d22b-3d617c14e537

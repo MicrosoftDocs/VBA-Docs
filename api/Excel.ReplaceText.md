@@ -3,7 +3,6 @@ title: ReplaceText property (Excel Graph)
 keywords: vbagr10.chm5207920
 f1_keywords:
 - vbagr10.chm5207920
-ms.prod: excel
 api_name:
 - Excel.ReplaceText
 ms.assetid: 930c453b-5363-3124-ec06-62359e41ee47

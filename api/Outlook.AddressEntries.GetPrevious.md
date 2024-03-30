@@ -3,7 +3,6 @@ title: AddressEntries.GetPrevious method (Outlook)
 keywords: vbaol11.chm36
 f1_keywords:
 - vbaol11.chm36
-ms.prod: outlook
 api_name:
 - Outlook.AddressEntries.GetPrevious
 ms.assetid: 3d5aa211-212e-9a97-58aa-47d4447c9f47

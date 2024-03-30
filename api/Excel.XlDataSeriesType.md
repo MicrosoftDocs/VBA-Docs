@@ -1,6 +1,5 @@
 ---
 title: XlDataSeriesType enumeration (Excel)
-ms.prod: excel
 api_name:
 - Excel.XlDataSeriesType
 ms.assetid: 250af7ce-5e12-6f6d-274c-d35a581b2b63

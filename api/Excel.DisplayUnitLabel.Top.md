@@ -3,7 +3,6 @@ title: DisplayUnitLabel.Top property (Excel)
 keywords: vbaxl10.chm673087
 f1_keywords:
 - vbaxl10.chm673087
-ms.prod: excel
 api_name:
 - Excel.DisplayUnitLabel.Top
 ms.assetid: 2b9acdf7-15cc-c89a-414e-383af5247acf

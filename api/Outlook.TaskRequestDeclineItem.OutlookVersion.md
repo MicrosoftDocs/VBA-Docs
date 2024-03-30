@@ -3,7 +3,6 @@ title: TaskRequestDeclineItem.OutlookVersion property (Outlook)
 keywords: vbaol11.chm1842
 f1_keywords:
 - vbaol11.chm1842
-ms.prod: outlook
 api_name:
 - Outlook.TaskRequestDeclineItem.OutlookVersion
 ms.assetid: 53ebf897-ad89-3302-e572-84a75201635c

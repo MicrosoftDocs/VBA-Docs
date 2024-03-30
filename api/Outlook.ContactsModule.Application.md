@@ -3,7 +3,6 @@ title: ContactsModule.Application property (Outlook)
 keywords: vbaol11.chm2832
 f1_keywords:
 - vbaol11.chm2832
-ms.prod: outlook
 api_name:
 - Outlook.ContactsModule.Application
 ms.assetid: 69442f14-522d-2b3b-aa8b-1906d59890c7

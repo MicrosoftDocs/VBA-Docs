@@ -1,6 +1,5 @@
 ---
 title: TextBox.Enabled Property (Outlook Forms Script)
-ms.prod: outlook
 ms.assetid: f73d882d-f143-9d83-e10a-a4e9e47fc231
 ms.date: 06/08/2017
 ms.localizationpriority: medium

@@ -3,7 +3,6 @@ title: PostItem.GetConversation method (Outlook)
 keywords: vbaol11.chm3407
 f1_keywords:
 - vbaol11.chm3407
-ms.prod: outlook
 api_name:
 - Outlook.PostItem.GetConversation
 ms.assetid: f5912703-d064-5e4a-b3ae-5091d791cb87

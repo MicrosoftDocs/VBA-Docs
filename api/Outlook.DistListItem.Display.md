@@ -3,7 +3,6 @@ title: DistListItem.Display method (Outlook)
 keywords: vbaol11.chm1143
 f1_keywords:
 - vbaol11.chm1143
-ms.prod: outlook
 api_name:
 - Outlook.DistListItem.Display
 ms.assetid: 76a708ac-abfe-2a1c-85b3-624eb3b0514a

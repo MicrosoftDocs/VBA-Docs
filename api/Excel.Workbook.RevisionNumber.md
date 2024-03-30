@@ -3,7 +3,6 @@ title: Workbook.RevisionNumber property (Excel)
 keywords: vbaxl10.chm199139
 f1_keywords:
 - vbaxl10.chm199139
-ms.prod: excel
 api_name:
 - Excel.Workbook.RevisionNumber
 ms.assetid: 7ea9fde5-eb89-a9b0-b637-980f1533d8ec

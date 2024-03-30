@@ -3,7 +3,6 @@ title: CalendarView.BoldSubjects property (Outlook)
 keywords: vbaol11.chm3232
 f1_keywords:
 - vbaol11.chm3232
-ms.prod: outlook
 api_name:
 - Outlook.CalendarView.BoldSubjects
 ms.assetid: b7bf5518-68d0-0a8a-98b2-94c267855f2b

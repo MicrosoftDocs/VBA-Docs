@@ -3,7 +3,6 @@ title: NoteItem.MarkForDownload property (Outlook)
 keywords: vbaol11.chm1503
 f1_keywords:
 - vbaol11.chm1503
-ms.prod: outlook
 api_name:
 - Outlook.NoteItem.MarkForDownload
 ms.assetid: 85512e33-7a2a-7081-d17e-84953db3e0aa

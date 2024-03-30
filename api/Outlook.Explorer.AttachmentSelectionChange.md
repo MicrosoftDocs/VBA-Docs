@@ -3,7 +3,6 @@ title: Explorer.AttachmentSelectionChange event (Outlook)
 keywords: vbaol11.chm3483
 f1_keywords:
 - vbaol11.chm3483
-ms.prod: outlook
 api_name:
 - Outlook.Explorer.AttachmentSelectionChange
 ms.assetid: 9694482b-657c-82d5-9ad6-c1df644795b2

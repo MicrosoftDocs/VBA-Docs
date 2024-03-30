@@ -3,7 +3,6 @@ title: JournalItem.StartTimer method (Outlook)
 keywords: vbaol11.chm1278
 f1_keywords:
 - vbaol11.chm1278
-ms.prod: outlook
 api_name:
 - Outlook.JournalItem.StartTimer
 ms.assetid: ce293d24-8262-9d6a-8d9f-dbe8c3ce4e0b

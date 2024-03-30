@@ -3,7 +3,6 @@ title: DataBar.PercentMax property (Excel)
 keywords: vbaxl10.chm810079
 f1_keywords:
 - vbaxl10.chm810079
-ms.prod: excel
 api_name:
 - Excel.DataBar.PercentMax
 ms.assetid: d06a5ce2-a298-7974-f9bc-f8fb3fd7ccf0

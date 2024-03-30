@@ -3,7 +3,6 @@ title: Legend object (Excel Graph)
 keywords: vbagr10.chm131212
 f1_keywords:
 - vbagr10.chm131212
-ms.prod: excel
 api_name:
 - Excel.Legend
 ms.assetid: ed529b98-ad11-94b9-68d9-01e325cca58f

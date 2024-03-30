@@ -3,7 +3,6 @@ title: PostItem.Post method (Outlook)
 keywords: vbaol11.chm1554
 f1_keywords:
 - vbaol11.chm1554
-ms.prod: outlook
 api_name:
 - Outlook.PostItem.Post
 ms.assetid: 289b23e8-30ec-e769-e803-5db9c01b2c79

@@ -1,6 +1,5 @@
 ---
 title: XlApplyNamesOrder enumeration (Excel)
-ms.prod: excel
 api_name:
 - Excel.xlApplyNamesOrder
 ms.assetid: f8d4dd3a-34b8-1334-f8c6-57f23a1a4f1c

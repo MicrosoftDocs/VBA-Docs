@@ -3,7 +3,6 @@ title: DataLabel.Top property (Excel)
 keywords: vbaxl10.chm582088
 f1_keywords:
 - vbaxl10.chm582088
-ms.prod: excel
 api_name:
 - Excel.DataLabel.Top
 ms.assetid: c777c9ec-69df-38d3-140e-dcea5a97ddeb

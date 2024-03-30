@@ -3,7 +3,6 @@ title: Application.PrintCommunication property (Excel)
 keywords: vbaxl10.chm133323
 f1_keywords:
 - vbaxl10.chm133323
-ms.prod: excel
 api_name:
 - Excel.Application.PrintCommunication
 ms.assetid: 8b8ad1c5-1999-d733-44f4-734b7a388986

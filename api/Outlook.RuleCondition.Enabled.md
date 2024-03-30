@@ -3,7 +3,6 @@ title: RuleCondition.Enabled property (Outlook)
 keywords: vbaol11.chm2329
 f1_keywords:
 - vbaol11.chm2329
-ms.prod: outlook
 api_name:
 - Outlook.RuleCondition.Enabled
 ms.assetid: 43a6aa5f-18da-1b6c-a481-f30718725bd8

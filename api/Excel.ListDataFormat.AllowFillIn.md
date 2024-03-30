@@ -3,7 +3,6 @@ title: ListDataFormat.AllowFillIn property (Excel)
 keywords: vbaxl10.chm758085
 f1_keywords:
 - vbaxl10.chm758085
-ms.prod: excel
 api_name:
 - Excel.ListDataFormat.AllowFillIn
 ms.assetid: b41f8d68-3c1a-df1a-6761-b8ab70f16188

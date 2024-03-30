@@ -3,7 +3,6 @@ title: Charts.Visible property (Excel)
 keywords: vbaxl10.chm217084
 f1_keywords:
 - vbaxl10.chm217084
-ms.prod: excel
 api_name:
 - Excel.Charts.Visible
 ms.assetid: 1665822c-8530-f25a-4465-dc4244da2420

@@ -3,7 +3,6 @@ title: OlkBusinessCardControl.DoubleClick event (Outlook)
 keywords: vbaol11.chm1000329
 f1_keywords:
 - vbaol11.chm1000329
-ms.prod: outlook
 api_name:
 - Outlook.OlkBusinessCardControl.DoubleClick
 ms.assetid: 872535e7-e9e7-48d8-991f-2189527a314f

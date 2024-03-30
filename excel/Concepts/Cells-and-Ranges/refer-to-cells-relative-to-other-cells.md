@@ -3,7 +3,6 @@ title: Refer to Cells Relative to Other Cells
 keywords: vbaxl10.chm5204424
 f1_keywords:
 - vbaxl10.chm5204424
-ms.prod: excel
 ms.assetid: fbdcddea-917c-1813-57a5-21df1c8102de
 ms.date: 06/08/2017
 ms.localizationpriority: medium

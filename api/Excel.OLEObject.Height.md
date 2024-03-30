@@ -3,7 +3,6 @@ title: OLEObject.Height property (Excel)
 keywords: vbaxl10.chm415082
 f1_keywords:
 - vbaxl10.chm415082
-ms.prod: excel
 api_name:
 - Excel.OLEObject.Height
 ms.assetid: 47515d85-fed8-6095-ff2e-e7f5fe88b161

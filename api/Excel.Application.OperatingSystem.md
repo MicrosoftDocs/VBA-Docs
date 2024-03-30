@@ -3,7 +3,6 @@ title: Application.OperatingSystem property (Excel)
 keywords: vbaxl10.chm133187
 f1_keywords:
 - vbaxl10.chm133187
-ms.prod: excel
 api_name:
 - Excel.Application.OperatingSystem
 ms.assetid: a36c5080-1d7e-a941-1bad-94f92522c7cf

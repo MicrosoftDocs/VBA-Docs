@@ -3,7 +3,6 @@ title: Application.DisplayDocumentActionTaskPane property (Excel)
 keywords: vbaxl10.chm133293
 f1_keywords:
 - vbaxl10.chm133293
-ms.prod: excel
 api_name:
 - Excel.Application.DisplayDocumentActionTaskPane
 ms.assetid: 3b1fdce9-a6f1-ac6c-a14f-4ec8b35fd6a2

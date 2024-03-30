@@ -3,7 +3,6 @@ title: OlkOptionButton.BackStyle property (Outlook)
 keywords: vbaol11.chm1000167
 f1_keywords:
 - vbaol11.chm1000167
-ms.prod: outlook
 api_name:
 - Outlook.OlkOptionButton.BackStyle
 ms.assetid: 5feb95d7-6e02-90de-f4f7-507d0b83c1f4

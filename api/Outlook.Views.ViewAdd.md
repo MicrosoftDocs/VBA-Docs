@@ -3,7 +3,6 @@ title: Views.ViewAdd event (Outlook)
 keywords: vbaol11.chm551
 f1_keywords:
 - vbaol11.chm551
-ms.prod: outlook
 api_name:
 - Outlook.Views.ViewAdd
 ms.assetid: 926eb4eb-7585-5bb0-b214-6e116a01375e

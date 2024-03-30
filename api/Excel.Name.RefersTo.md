@@ -3,7 +3,6 @@ title: Name.RefersTo property (Excel)
 keywords: vbaxl10.chm490080
 f1_keywords:
 - vbaxl10.chm490080
-ms.prod: excel
 api_name:
 - Excel.Name.RefersTo
 ms.assetid: 8093e14c-0461-5e49-ef71-16c683044a63

@@ -3,7 +3,6 @@ title: CubeField.AllItemsVisible property (Excel)
 keywords: vbaxl10.chm668097
 f1_keywords:
 - vbaxl10.chm668097
-ms.prod: excel
 api_name:
 - Excel.CubeField.AllItemsVisible
 ms.assetid: 979461f1-69a9-9705-2f61-72a096d47a5a

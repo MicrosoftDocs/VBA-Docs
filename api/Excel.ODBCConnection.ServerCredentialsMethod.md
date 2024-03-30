@@ -3,7 +3,6 @@ title: ODBCConnection.ServerCredentialsMethod property (Excel)
 keywords: vbaxl10.chm796090
 f1_keywords:
 - vbaxl10.chm796090
-ms.prod: excel
 api_name:
 - Excel.ODBCConnection.ServerCredentialsMethod
 ms.assetid: 66ad13e8-fba6-d60e-ab62-0c24e868b0d2

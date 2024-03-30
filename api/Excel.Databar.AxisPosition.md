@@ -3,7 +3,6 @@ title: DataBar.AxisPosition property (Excel)
 keywords: vbaxl10.chm810092
 f1_keywords:
 - vbaxl10.chm810092
-ms.prod: excel
 api_name:
 - Excel.DataBar.AxisPosition
 ms.assetid: 0e239fd1-8bdf-2355-10ae-b7766b9befaf

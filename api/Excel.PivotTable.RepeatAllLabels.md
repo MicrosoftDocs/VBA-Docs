@@ -3,7 +3,6 @@ title: PivotTable.RepeatAllLabels method (Excel)
 keywords: vbaxl10.chm235195
 f1_keywords:
 - vbaxl10.chm235195
-ms.prod: excel
 api_name:
 - Excel.PivotTable.RepeatAllLabels
 ms.assetid: 4ca1a7fa-4db6-20da-e37b-37445fee30cf

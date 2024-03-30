@@ -3,7 +3,6 @@ title: Search.Tag property (Outlook)
 keywords: vbaol11.chm2258
 f1_keywords:
 - vbaol11.chm2258
-ms.prod: outlook
 api_name:
 - Outlook.Search.Tag
 ms.assetid: f0341885-ea75-2277-e55b-827f62165ab2

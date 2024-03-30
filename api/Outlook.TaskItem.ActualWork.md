@@ -3,7 +3,6 @@ title: TaskItem.ActualWork property (Outlook)
 keywords: vbaol11.chm1720
 f1_keywords:
 - vbaol11.chm1720
-ms.prod: outlook
 api_name:
 - Outlook.TaskItem.ActualWork
 ms.assetid: d61075da-bd14-bc59-8f72-b9b675c65f08

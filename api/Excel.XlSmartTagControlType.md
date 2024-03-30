@@ -1,6 +1,5 @@
 ---
 title: XlSmartTagControlType enumeration (Excel)
-ms.prod: excel
 api_name:
 - Excel.XlSmartTagControlType
 ms.assetid: 74d8d990-a4cc-cec6-3d9f-5fedb5c1fc54

@@ -3,7 +3,6 @@ title: MeetingItem.BillingInformation property (Outlook)
 keywords: vbaol11.chm1404
 f1_keywords:
 - vbaol11.chm1404
-ms.prod: outlook
 api_name:
 - Outlook.MeetingItem.BillingInformation
 ms.assetid: be9dc49d-c6f6-736d-afee-f44661f98823

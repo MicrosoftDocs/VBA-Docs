@@ -3,7 +3,6 @@ title: ContactItem.Subject property (Outlook)
 keywords: vbaol11.chm953
 f1_keywords:
 - vbaol11.chm953
-ms.prod: outlook
 api_name:
 - Outlook.ContactItem.Subject
 ms.assetid: 99c06ab3-1ecd-062f-0b47-1b102b136cbb

@@ -3,7 +3,6 @@ title: ListColumns.Item property (Excel)
 keywords: vbaxl10.chm736076
 f1_keywords:
 - vbaxl10.chm736076
-ms.prod: excel
 api_name:
 - Excel.ListColumns.Item
 ms.assetid: 1d7b8659-3302-68da-76bc-c66b4257d606

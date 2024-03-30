@@ -3,7 +3,6 @@ title: Range.CalculateRowMajorOrder method (Excel)
 keywords: vbaxl10.chm144248
 f1_keywords:
 - vbaxl10.chm144248
-ms.prod: excel
 api_name:
 - Excel.Range.CalculateRowMajorOrder
 ms.assetid: 8636b550-a3f8-f6cd-baf8-b669354262af

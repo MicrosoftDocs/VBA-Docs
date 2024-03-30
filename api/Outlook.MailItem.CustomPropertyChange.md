@@ -1,6 +1,5 @@
 ---
 title: MailItem.CustomPropertyChange event (Outlook)
-ms.prod: outlook
 api_name:
 - Outlook.MailItem.CustomPropertyChange
 ms.assetid: 57eb9cac-e684-1a88-3f49-24ed4a7bac47

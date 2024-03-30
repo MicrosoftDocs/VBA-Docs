@@ -3,7 +3,6 @@ title: PageSetup.TopMargin property (Excel)
 keywords: vbaxl10.chm473102
 f1_keywords:
 - vbaxl10.chm473102
-ms.prod: excel
 api_name:
 - Excel.PageSetup.TopMargin
 ms.assetid: 1c4efb20-844c-b602-48b4-ef60b8e5dda5

@@ -3,7 +3,6 @@ title: ListObject.ListColumns property (Excel)
 keywords: vbaxl10.chm734086
 f1_keywords:
 - vbaxl10.chm734086
-ms.prod: excel
 api_name:
 - Excel.ListObject.ListColumns
 ms.assetid: 64cefe01-b0e6-1cdd-3eec-7cb8389666dc

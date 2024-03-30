@@ -3,7 +3,6 @@ title: Range.CopyPicture method (Excel)
 keywords: vbaxl10.chm144106
 f1_keywords:
 - vbaxl10.chm144106
-ms.prod: excel
 api_name:
 - Excel.Range.CopyPicture
 ms.assetid: 0b187b51-7a52-0db3-9d55-9c1e5bc5e49b

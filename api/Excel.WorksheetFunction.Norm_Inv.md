@@ -3,7 +3,6 @@ title: WorksheetFunction.Norm_Inv method (Excel)
 keywords: vbaxl10.chm137371
 f1_keywords:
 - vbaxl10.chm137371
-ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Norm_Inv
 ms.assetid: 0069b45f-629d-6212-18da-6954be00181f

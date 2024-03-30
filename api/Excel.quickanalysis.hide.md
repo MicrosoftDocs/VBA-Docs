@@ -3,7 +3,6 @@ title: QuickAnalysis.Hide method (Excel)
 keywords: vbaxl10.chm920074
 f1_keywords:
 - vbaxl10.chm920074
-ms.prod: excel
 ms.assetid: dc3b805a-8744-1f63-0509-32b8254958b8
 ms.date: 05/10/2019
 ms.localizationpriority: medium

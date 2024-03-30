@@ -1,6 +1,5 @@
 ---
 title: Implementing the IRibbonExtensibility Interface
-ms.prod: outlook
 ms.assetid: ad798afe-b3a9-4d03-86b3-b1226d9b55c8
 ms.date: 03/14/2022
 ms.localizationpriority: medium

@@ -3,7 +3,6 @@ title: Conflicts.GetNext method (Outlook)
 keywords: vbaol11.chm408
 f1_keywords:
 - vbaol11.chm408
-ms.prod: outlook
 api_name:
 - Outlook.Conflicts.GetNext
 ms.assetid: 2e21ea88-c732-17ee-cd87-698fee992269

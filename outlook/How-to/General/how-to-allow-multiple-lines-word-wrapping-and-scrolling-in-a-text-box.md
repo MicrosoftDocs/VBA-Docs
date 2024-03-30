@@ -3,7 +3,6 @@ title: "How to: Allow Multiple Lines, Word Wrapping, and Scrolling in a Text Box
 keywords: olfm10.chm3077220
 f1_keywords:
 - olfm10.chm3077220
-ms.prod: outlook
 ms.assetid: d478d32f-41b0-e64b-143a-3fac6f8b9624
 ms.date: 06/08/2019
 ms.localizationpriority: medium

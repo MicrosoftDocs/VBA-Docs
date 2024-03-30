@@ -3,7 +3,6 @@ title: ContactItem.FirstName property (Outlook)
 keywords: vbaol11.chm1004
 f1_keywords:
 - vbaol11.chm1004
-ms.prod: outlook
 api_name:
 - Outlook.ContactItem.FirstName
 ms.assetid: 403b5e5a-037b-cf21-efc2-2bd2a80c3789

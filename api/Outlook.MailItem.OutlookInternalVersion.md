@@ -3,7 +3,6 @@ title: MailItem.OutlookInternalVersion property (Outlook)
 keywords: vbaol11.chm1312
 f1_keywords:
 - vbaol11.chm1312
-ms.prod: outlook
 api_name:
 - Outlook.MailItem.OutlookInternalVersion
 ms.assetid: c9328c0e-33d8-4c01-b745-8eb5820a48f5

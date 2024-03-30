@@ -1,6 +1,5 @@
 ---
 title: TaskRequestUpdateItem.CustomAction event (Outlook)
-ms.prod: outlook
 api_name:
 - Outlook.TaskRequestUpdateItem.CustomAction
 ms.assetid: 8ff3cb23-c576-de24-51c5-792967ebdf58

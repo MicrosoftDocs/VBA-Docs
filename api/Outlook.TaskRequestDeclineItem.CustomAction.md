@@ -1,6 +1,5 @@
 ---
 title: TaskRequestDeclineItem.CustomAction event (Outlook)
-ms.prod: outlook
 api_name:
 - Outlook.TaskRequestDeclineItem.CustomAction
 ms.assetid: b10158d6-feef-feb1-b922-5dc377cdba63

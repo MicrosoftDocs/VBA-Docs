@@ -3,7 +3,6 @@ title: Selection.Session property (Outlook)
 keywords: vbaol11.chm83
 f1_keywords:
 - vbaol11.chm83
-ms.prod: outlook
 api_name:
 - Outlook.Selection.Session
 ms.assetid: 22390a36-a51c-615d-a646-45e5aa7d253f

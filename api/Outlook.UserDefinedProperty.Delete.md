@@ -3,7 +3,6 @@ title: UserDefinedProperty.Delete method (Outlook)
 keywords: vbaol11.chm3047
 f1_keywords:
 - vbaol11.chm3047
-ms.prod: outlook
 api_name:
 - Outlook.UserDefinedProperty.Delete
 ms.assetid: 84dc025d-845c-e540-3cc9-b32e621853f5

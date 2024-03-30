@@ -1,6 +1,5 @@
 ---
 title: XlErrorBarType enumeration (Excel)
-ms.prod: excel
 api_name:
 - Excel.XlErrorBarType
 ms.assetid: 2ba8cd56-da8c-6227-8a31-3b9bae748d53

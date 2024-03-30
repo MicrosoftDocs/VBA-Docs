@@ -3,7 +3,6 @@ title: PivotAxis.Application property (Excel)
 keywords: vbaxl10.chm767073
 f1_keywords:
 - vbaxl10.chm767073
-ms.prod: excel
 api_name:
 - Excel.PivotAxis.Application
 ms.assetid: 7f1c8537-57d5-25a2-ff7d-45364f23b7aa

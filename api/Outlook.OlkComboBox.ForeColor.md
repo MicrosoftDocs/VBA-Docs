@@ -3,7 +3,6 @@ title: OlkComboBox.ForeColor property (Outlook)
 keywords: vbaol11.chm1000203
 f1_keywords:
 - vbaol11.chm1000203
-ms.prod: outlook
 api_name:
 - Outlook.OlkComboBox.ForeColor
 ms.assetid: 7480fe5f-f3d1-33ca-1714-bce6b90111b0

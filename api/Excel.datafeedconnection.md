@@ -3,7 +3,6 @@ title: DataFeedConnection object (Excel)
 keywords: vbaxl10.chm927072
 f1_keywords:
 - vbaxl10.chm927072
-ms.prod: excel
 ms.assetid: 2ccb242b-28d5-3baf-78be-aa8f7478f4b6
 ms.date: 03/28/2019
 ms.localizationpriority: medium

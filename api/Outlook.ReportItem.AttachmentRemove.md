@@ -1,6 +1,5 @@
 ---
 title: ReportItem.AttachmentRemove event (Outlook)
-ms.prod: outlook
 api_name:
 - Outlook.ReportItem.AttachmentRemove
 ms.assetid: 9df574ed-f1df-2ff8-1508-4d2ab35a8bca

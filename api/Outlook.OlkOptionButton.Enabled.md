@@ -3,7 +3,6 @@ title: OlkOptionButton.Enabled property (Outlook)
 keywords: vbaol11.chm1000169
 f1_keywords:
 - vbaol11.chm1000169
-ms.prod: outlook
 api_name:
 - Outlook.OlkOptionButton.Enabled
 ms.assetid: 172c6cd0-a1df-eb51-ece7-0d53c714e39f

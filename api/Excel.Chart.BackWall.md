@@ -3,7 +3,6 @@ title: Chart.BackWall property (Excel)
 keywords: vbaxl10.chm149178
 f1_keywords:
 - vbaxl10.chm149178
-ms.prod: excel
 api_name:
 - Excel.Chart.BackWall
 ms.assetid: c72de543-7be9-55ff-20d0-a5330ca92144

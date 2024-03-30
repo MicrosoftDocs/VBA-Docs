@@ -3,7 +3,6 @@ title: DataTable.Select method (Excel)
 keywords: vbaxl10.chm626079
 f1_keywords:
 - vbaxl10.chm626079
-ms.prod: excel
 api_name:
 - Excel.DataTable.Select
 ms.assetid: 9b73df6f-1ec2-f616-3b10-20259267dc75

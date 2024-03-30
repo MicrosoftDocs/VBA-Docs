@@ -3,7 +3,6 @@ title: ShapeRange.SetShapesDefaultProperties method (Excel)
 keywords: vbaxl10.chm640093
 f1_keywords:
 - vbaxl10.chm640093
-ms.prod: excel
 api_name:
 - Excel.ShapeRange.SetShapesDefaultProperties
 ms.assetid: 0ddbcaed-827c-5391-db0e-fc1cd94d7b33

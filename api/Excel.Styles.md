@@ -3,7 +3,6 @@ title: Styles object (Excel)
 keywords: vbaxl10.chm178072
 f1_keywords:
 - vbaxl10.chm178072
-ms.prod: excel
 api_name:
 - Excel.Styles
 ms.assetid: 146effdc-e007-814d-b110-f7bd944fc15f

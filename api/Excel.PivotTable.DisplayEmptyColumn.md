@@ -3,7 +3,6 @@ title: PivotTable.DisplayEmptyColumn property (Excel)
 keywords: vbaxl10.chm235154
 f1_keywords:
 - vbaxl10.chm235154
-ms.prod: excel
 api_name:
 - Excel.PivotTable.DisplayEmptyColumn
 ms.assetid: 5911c818-282e-bb61-06c2-351cc4c2086d

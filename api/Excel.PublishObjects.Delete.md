@@ -3,7 +3,6 @@ title: PublishObjects.Delete method (Excel)
 keywords: vbaxl10.chm650078
 f1_keywords:
 - vbaxl10.chm650078
-ms.prod: excel
 api_name:
 - Excel.PublishObjects.Delete
 ms.assetid: a924208b-3fb3-9fc3-9a82-eb7db9b27c82

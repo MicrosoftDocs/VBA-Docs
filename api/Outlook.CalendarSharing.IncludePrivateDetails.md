@@ -3,7 +3,6 @@ title: CalendarSharing.IncludePrivateDetails property (Outlook)
 keywords: vbaol11.chm2417
 f1_keywords:
 - vbaol11.chm2417
-ms.prod: outlook
 api_name:
 - Outlook.CalendarSharing.IncludePrivateDetails
 ms.assetid: a7c52e33-fe2a-b89a-9102-da2baf937e37

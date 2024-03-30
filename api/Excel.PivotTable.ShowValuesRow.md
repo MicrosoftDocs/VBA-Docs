@@ -3,7 +3,6 @@ title: PivotTable.ShowValuesRow property (Excel)
 keywords: vbaxl10.chm235201
 f1_keywords:
 - vbaxl10.chm235201
-ms.prod: excel
 api_name:
 - Excel.PivotTable.ShowValuesRow
 ms.assetid: 8bfe8ddb-2127-25b2-b18e-82a7b103908a

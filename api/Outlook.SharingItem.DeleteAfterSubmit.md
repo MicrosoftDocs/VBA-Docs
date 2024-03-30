@@ -3,7 +3,6 @@ title: SharingItem.DeleteAfterSubmit property (Outlook)
 keywords: vbaol11.chm636
 f1_keywords:
 - vbaol11.chm636
-ms.prod: outlook
 api_name:
 - Outlook.SharingItem.DeleteAfterSubmit
 ms.assetid: 70d7bae4-6809-3708-0ae4-132c2355ea09

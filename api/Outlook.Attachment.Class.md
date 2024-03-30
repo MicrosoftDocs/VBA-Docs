@@ -3,7 +3,6 @@ title: Attachment.Class property (Outlook)
 keywords: vbaol11.chm2362
 f1_keywords:
 - vbaol11.chm2362
-ms.prod: outlook
 api_name:
 - Outlook.Attachment.Class
 ms.assetid: 134c95e3-9db9-3f3a-499f-6bc671c5aeff

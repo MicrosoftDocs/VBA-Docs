@@ -3,7 +3,6 @@ title: Watch.Creator property (Excel)
 keywords: vbaxl10.chm689074
 f1_keywords:
 - vbaxl10.chm689074
-ms.prod: excel
 api_name:
 - Excel.Watch.Creator
 ms.assetid: 32ceb2af-a620-3a2e-cc27-92165eb81d8f

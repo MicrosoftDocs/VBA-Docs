@@ -3,7 +3,6 @@ title: Hyperlink.ScreenTip property (Excel)
 keywords: vbaxl10.chm536084
 f1_keywords:
 - vbaxl10.chm536084
-ms.prod: excel
 api_name:
 - Excel.Hyperlink.ScreenTip
 ms.assetid: 472aeaca-90f4-3b27-6927-a51d708e61c2

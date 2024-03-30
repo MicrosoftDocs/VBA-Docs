@@ -3,7 +3,6 @@ title: Automating Outlook from Other Office Applications
 keywords: vbaol11.chm5273034
 f1_keywords:
 - vbaol11.chm5273034
-ms.prod: outlook
 ms.assetid: d3e44f80-df67-2d28-94dc-14d7a8c8c26c
 ms.date: 06/08/2019
 ms.localizationpriority: medium

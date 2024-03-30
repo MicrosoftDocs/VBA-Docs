@@ -3,7 +3,6 @@ title: NavigationFolder.DisplayName property (Outlook)
 keywords: vbaol11.chm2909
 f1_keywords:
 - vbaol11.chm2909
-ms.prod: outlook
 api_name:
 - Outlook.NavigationFolder.DisplayName
 ms.assetid: 51bdcbaf-0fa7-8cba-953d-13da4a5abc27

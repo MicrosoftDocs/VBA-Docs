@@ -3,7 +3,6 @@ title: CalendarSharing.StartDate property (Outlook)
 keywords: vbaol11.chm2419
 f1_keywords:
 - vbaol11.chm2419
-ms.prod: outlook
 api_name:
 - Outlook.CalendarSharing.StartDate
 ms.assetid: 218654d9-ab4c-9f3b-cb47-3c006eed710d

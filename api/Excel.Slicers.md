@@ -3,7 +3,6 @@ title: Slicers object (Excel)
 keywords: vbaxl10.chm902072
 f1_keywords:
 - vbaxl10.chm902072
-ms.prod: excel
 api_name:
 - Excel.Slicers
 ms.assetid: 12b67ff5-cf66-35d1-2c72-9aa2f4a396a0

@@ -3,7 +3,6 @@ title: Underline property (Excel Graph)
 keywords: vbagr10.chm65642
 f1_keywords:
 - vbagr10.chm65642
-ms.prod: excel
 api_name:
 - Excel.Underline
 ms.assetid: 82eb4816-bf37-8a6c-046c-a38ea5c275c2

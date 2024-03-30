@@ -3,7 +3,6 @@ title: ShapeRange.HorizontalFlip property (Excel)
 keywords: vbaxl10.chm640106
 f1_keywords:
 - vbaxl10.chm640106
-ms.prod: excel
 api_name:
 - Excel.ShapeRange.HorizontalFlip
 ms.assetid: 3b5f3755-987c-cd48-44a2-8be8bdd886dd

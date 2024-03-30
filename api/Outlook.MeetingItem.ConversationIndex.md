@@ -3,7 +3,6 @@ title: MeetingItem.ConversationIndex property (Outlook)
 keywords: vbaol11.chm1408
 f1_keywords:
 - vbaol11.chm1408
-ms.prod: outlook
 api_name:
 - Outlook.MeetingItem.ConversationIndex
 ms.assetid: 0c1ab025-e215-57fb-78ff-6260d45e6ad9

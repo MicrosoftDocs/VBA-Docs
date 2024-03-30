@@ -3,7 +3,6 @@ title: SharingItem.ReminderOverrideDefault property (Outlook)
 keywords: vbaol11.chm651
 f1_keywords:
 - vbaol11.chm651
-ms.prod: outlook
 api_name:
 - Outlook.SharingItem.ReminderOverrideDefault
 ms.assetid: 811f7f85-5ddd-26ec-a654-e98eca51c946

@@ -3,7 +3,6 @@ title: TaskItem.GetInspector property (Outlook)
 keywords: vbaol11.chm1697
 f1_keywords:
 - vbaol11.chm1697
-ms.prod: outlook
 api_name:
 - Outlook.TaskItem.GetInspector
 ms.assetid: 2a2faad7-1030-cdd8-8a8d-8018aad3b667

@@ -3,7 +3,6 @@ title: Worksheet.Activate method (Excel)
 keywords: vbaxl10.chm174073
 f1_keywords:
 - vbaxl10.chm174073
-ms.prod: excel
 api_name:
 - Excel.Worksheet.Activate
 ms.assetid: b198dc36-99d0-42db-6cbb-7f68396fd2f5

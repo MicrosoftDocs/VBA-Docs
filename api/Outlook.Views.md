@@ -3,7 +3,6 @@ title: Views object (Outlook)
 keywords: vbaol11.chm3013
 f1_keywords:
 - vbaol11.chm3013
-ms.prod: outlook
 api_name:
 - Outlook.Views
 ms.assetid: 5dd7edc2-12a2-f4c2-d158-8053d80e8dc9

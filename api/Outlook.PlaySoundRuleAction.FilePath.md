@@ -3,7 +3,6 @@ title: PlaySoundRuleAction.FilePath property (Outlook)
 keywords: vbaol11.chm2277
 f1_keywords:
 - vbaol11.chm2277
-ms.prod: outlook
 api_name:
 - Outlook.PlaySoundRuleAction.FilePath
 ms.assetid: 8f27c644-aab4-4e9e-b563-0db7242cd86f

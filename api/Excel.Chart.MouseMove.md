@@ -3,7 +3,6 @@ title: Chart.MouseMove event (Excel)
 keywords: vbaxl10.chm500078
 f1_keywords:
 - vbaxl10.chm500078
-ms.prod: excel
 api_name:
 - Excel.Chart.MouseMove
 ms.assetid: b1277953-a882-f00f-2ac1-dd0cc49fef72

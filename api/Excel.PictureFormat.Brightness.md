@@ -3,7 +3,6 @@ title: PictureFormat.Brightness property (Excel)
 keywords: vbaxl10.chm113002
 f1_keywords:
 - vbaxl10.chm113002
-ms.prod: excel
 api_name:
 - Excel.PictureFormat.Brightness
 ms.assetid: f17ee171-47da-c982-2f48-9ee333193add

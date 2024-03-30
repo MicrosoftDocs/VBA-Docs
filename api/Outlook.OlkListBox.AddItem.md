@@ -3,7 +3,6 @@ title: OlkListBox.AddItem method (Outlook)
 keywords: vbaol11.chm1000276
 f1_keywords:
 - vbaol11.chm1000276
-ms.prod: outlook
 api_name:
 - Outlook.OlkListBox.AddItem
 ms.assetid: 0249eacc-746a-52bd-dcd3-fd25c96a5512

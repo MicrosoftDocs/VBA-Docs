@@ -3,7 +3,6 @@ title: Panes object (Excel)
 keywords: vbaxl10.chm357072
 f1_keywords:
 - vbaxl10.chm357072
-ms.prod: excel
 api_name:
 - Excel.Panes
 ms.assetid: ce27ae27-52d9-9e51-a068-b9c082a0a692

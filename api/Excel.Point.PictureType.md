@@ -3,7 +3,6 @@ title: Point.PictureType property (Excel)
 keywords: vbaxl10.chm576091
 f1_keywords:
 - vbaxl10.chm576091
-ms.prod: excel
 api_name:
 - Excel.Point.PictureType
 ms.assetid: 6adfa1b4-a37d-1a20-fbab-806d007d1ebf

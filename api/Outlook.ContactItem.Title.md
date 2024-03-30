@@ -3,7 +3,6 @@ title: ContactItem.Title property (Outlook)
 keywords: vbaol11.chm1068
 f1_keywords:
 - vbaol11.chm1068
-ms.prod: outlook
 api_name:
 - Outlook.ContactItem.Title
 ms.assetid: 3dd64517-ccb1-fed3-4f90-c407fc09d5e4

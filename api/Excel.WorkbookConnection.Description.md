@@ -3,7 +3,6 @@ title: WorkbookConnection.Description property (Excel)
 keywords: vbaxl10.chm774074
 f1_keywords:
 - vbaxl10.chm774074
-ms.prod: excel
 api_name:
 - Excel.WorkbookConnection.Description
 ms.assetid: a0ba84a8-6bea-71aa-92be-2d875ec23a42

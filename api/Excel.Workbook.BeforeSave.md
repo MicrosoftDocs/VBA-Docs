@@ -3,7 +3,6 @@ title: Workbook.BeforeSave event (Excel)
 keywords: vbaxl10.chm503077
 f1_keywords:
 - vbaxl10.chm503077
-ms.prod: excel
 api_name:
 - Excel.Workbook.BeforeSave
 ms.assetid: dfa3e20f-1fb2-f84f-4b92-a98f22b6e637

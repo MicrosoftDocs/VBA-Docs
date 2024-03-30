@@ -3,7 +3,6 @@ title: TableView.AutoFormatRules property (Outlook)
 keywords: vbaol11.chm2537
 f1_keywords:
 - vbaol11.chm2537
-ms.prod: outlook
 api_name:
 - Outlook.TableView.AutoFormatRules
 ms.assetid: 9f5dbae6-a9a4-2ff7-087b-906e9bdc2da0

@@ -3,7 +3,6 @@ title: TextFrame.Characters method (Excel)
 keywords: vbaxl10.chm644078
 f1_keywords:
 - vbaxl10.chm644078
-ms.prod: excel
 api_name:
 - Excel.TextFrame.Characters
 ms.assetid: 20f42207-4d50-1d9f-7dde-c01d7aef0abc

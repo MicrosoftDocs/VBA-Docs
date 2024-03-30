@@ -3,7 +3,6 @@ title: Worksheet.ConsolidationSources property (Excel)
 keywords: vbaxl10.chm175089
 f1_keywords:
 - vbaxl10.chm175089
-ms.prod: excel
 api_name:
 - Excel.Worksheet.ConsolidationSources
 ms.assetid: d7868b1c-c9ae-97c5-a092-033fe52db5d4

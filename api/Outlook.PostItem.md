@@ -3,7 +3,6 @@ title: PostItem object (Outlook)
 keywords: vbaol11.chm3005
 f1_keywords:
 - vbaol11.chm3005
-ms.prod: outlook
 api_name:
 - Outlook.PostItem
 ms.assetid: de44065d-4e93-315a-279f-7b92f09c0465

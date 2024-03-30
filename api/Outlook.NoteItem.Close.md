@@ -3,7 +3,6 @@ title: NoteItem.Close method (Outlook)
 keywords: vbaol11.chm1492
 f1_keywords:
 - vbaol11.chm1492
-ms.prod: outlook
 api_name:
 - Outlook.NoteItem.Close
 ms.assetid: a7327598-facc-06e9-6256-4ca9090c10d5

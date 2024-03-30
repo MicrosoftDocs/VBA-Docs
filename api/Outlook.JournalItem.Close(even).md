@@ -1,6 +1,5 @@
 ---
 title: JournalItem.Close event (Outlook)
-ms.prod: outlook
 api_name:
 - Outlook.JournalItem.Close
 ms.assetid: 799ff435-3fca-85a5-bc39-99ffaf237505

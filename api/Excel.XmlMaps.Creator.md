@@ -3,7 +3,6 @@ title: XmlMaps.Creator property (Excel)
 keywords: vbaxl10.chm755074
 f1_keywords:
 - vbaxl10.chm755074
-ms.prod: excel
 api_name:
 - Excel.XmlMaps.Creator
 ms.assetid: f0973a6d-dc2a-11ae-3c52-d73807098d62

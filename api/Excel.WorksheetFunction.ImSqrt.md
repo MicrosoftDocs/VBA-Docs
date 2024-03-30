@@ -3,7 +3,6 @@ title: WorksheetFunction.ImSqrt method (Excel)
 keywords: vbaxl10.chm137277
 f1_keywords:
 - vbaxl10.chm137277
-ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.ImSqrt
 ms.assetid: 095ecba9-c987-8b58-f07e-d0f79436d650

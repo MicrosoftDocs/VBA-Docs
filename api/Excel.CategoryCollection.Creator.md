@@ -3,7 +3,6 @@ title: CategoryCollection.Creator property (Excel)
 keywords: vbaxl10.chm947074
 f1_keywords:
 - vbaxl10.chm947074
-ms.prod: excel
 api_name:
 - Excel.CategoryCollection.Creator
 ms.assetid: dc0d57e5-5b48-34a9-cca4-360ea927adb1

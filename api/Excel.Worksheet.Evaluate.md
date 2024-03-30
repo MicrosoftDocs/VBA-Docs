@@ -3,7 +3,6 @@ title: Worksheet.Evaluate method (Excel)
 keywords: vbaxl10.chm175098
 f1_keywords:
 - vbaxl10.chm175098
-ms.prod: excel
 api_name:
 - Excel.Worksheet.Evaluate
 ms.assetid: babe18c6-d0ee-62d9-2443-2927cc48a09c

@@ -3,7 +3,6 @@ title: SpellingOptions.ArabicStrictTaaMarboota property (Excel)
 keywords: vbaxl10.chm717087
 f1_keywords:
 - vbaxl10.chm717087
-ms.prod: excel
 api_name:
 - Excel.SpellingOptions.ArabicStrictTaaMarboota
 ms.assetid: f8d66794-84b0-6e5e-b83a-fe462dd60bfd

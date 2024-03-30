@@ -3,7 +3,6 @@ title: Application.DoubleClick method (Excel)
 keywords: vbaxl10.chm133128
 f1_keywords:
 - vbaxl10.chm133128
-ms.prod: excel
 api_name:
 - Excel.Application.DoubleClick
 ms.assetid: 17958601-3e24-a7bb-7d8c-0c45b955f449

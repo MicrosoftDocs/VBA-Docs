@@ -3,7 +3,6 @@ title: OlObjectClass enumeration (Outlook)
 keywords: vbaol11.chm3073
 f1_keywords:
 - vbaol11.chm3073
-ms.prod: outlook
 api_name:
 - Outlook.OlObjectClass
 ms.assetid: 33d724b3-df3c-2a7f-a80f-93b66d96f588

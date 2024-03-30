@@ -3,7 +3,6 @@ title: Folder.WebViewOn property (Outlook)
 keywords: vbaol11.chm2000
 f1_keywords:
 - vbaol11.chm2000
-ms.prod: outlook
 api_name:
 - Outlook.Folder.WebViewOn
 ms.assetid: 9b483d0e-dea0-9b3e-8ce9-fc136857a428

@@ -3,7 +3,6 @@ title: CardView.HeadingsFont property (Outlook)
 keywords: vbaol11.chm2603
 f1_keywords:
 - vbaol11.chm2603
-ms.prod: outlook
 api_name:
 - Outlook.CardView.HeadingsFont
 ms.assetid: 3287437e-4ac5-35f5-818a-caea608f8095

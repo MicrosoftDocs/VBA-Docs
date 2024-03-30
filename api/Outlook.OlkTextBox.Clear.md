@@ -3,7 +3,6 @@ title: OlkTextBox.Clear method (Outlook)
 keywords: vbaol11.chm1000068
 f1_keywords:
 - vbaol11.chm1000068
-ms.prod: outlook
 api_name:
 - Outlook.OlkTextBox.Clear
 ms.assetid: 22a53ab8-2707-2fbd-d419-ce47ca0d81e3

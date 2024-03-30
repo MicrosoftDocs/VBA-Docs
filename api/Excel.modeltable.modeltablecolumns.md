@@ -3,7 +3,6 @@ title: ModelTable.ModelTableColumns property (Excel)
 keywords: vbaxl10.chm934075
 f1_keywords:
 - vbaxl10.chm934075
-ms.prod: excel
 ms.assetid: 964b8967-8270-830c-bf69-c6ef1078fbbb
 ms.date: 05/01/2019
 ms.localizationpriority: medium

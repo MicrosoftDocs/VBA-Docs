@@ -1,6 +1,5 @@
 ---
 title: XlCalculation enumeration (Excel)
-ms.prod: excel
 api_name:
 - Excel.xlCalculation
 ms.assetid: 8f1337d6-cc63-1847-d3b8-8d27cf19340f

@@ -3,7 +3,6 @@ title: ExchangeUser.StreetAddress property (Outlook)
 keywords: vbaol11.chm2100
 f1_keywords:
 - vbaol11.chm2100
-ms.prod: outlook
 api_name:
 - Outlook.ExchangeUser.StreetAddress
 ms.assetid: 155399c8-7d99-6537-ba30-84145b26ef21

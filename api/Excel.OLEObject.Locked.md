@@ -3,7 +3,6 @@ title: OLEObject.Locked property (Excel)
 keywords: vbaxl10.chm415085
 f1_keywords:
 - vbaxl10.chm415085
-ms.prod: excel
 api_name:
 - Excel.OLEObject.Locked
 ms.assetid: b4c18627-362f-57d6-6cb6-daeb4aebf307

@@ -3,7 +3,6 @@ title: FileImport method (Excel Graph)
 keywords: vbagr10.chm5207362
 f1_keywords:
 - vbagr10.chm5207362
-ms.prod: excel
 api_name:
 - Excel.FileImport
 ms.assetid: 30aafa3b-231c-0c08-07a7-e7494888b082

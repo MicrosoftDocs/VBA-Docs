@@ -3,7 +3,6 @@ title: Application.AddCustomList method (Excel)
 keywords: vbaxl10.chm133076
 f1_keywords:
 - vbaxl10.chm133076
-ms.prod: excel
 api_name:
 - Excel.Application.AddCustomList
 ms.assetid: 31518c3c-78ce-f9e9-9572-a1338aa6d2e7

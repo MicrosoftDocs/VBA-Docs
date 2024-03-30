@@ -3,7 +3,6 @@ title: Filters.Item property (Excel)
 keywords: vbaxl10.chm540075
 f1_keywords:
 - vbaxl10.chm540075
-ms.prod: excel
 api_name:
 - Excel.Filters.Item
 ms.assetid: a24c9aeb-b253-c11a-29dc-c4a2bba86e21

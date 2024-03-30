@@ -3,7 +3,6 @@ title: OlkDateControl.ShowNoneButton property (Outlook)
 keywords: vbaol11.chm1000355
 f1_keywords:
 - vbaol11.chm1000355
-ms.prod: outlook
 api_name:
 - Outlook.OlkDateControl.ShowNoneButton
 ms.assetid: 9a3cb14c-484c-a25a-e233-d99a14c31eb0

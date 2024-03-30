@@ -3,7 +3,6 @@ title: Reminders.Remove method (Outlook)
 keywords: vbaol11.chm572
 f1_keywords:
 - vbaol11.chm572
-ms.prod: outlook
 api_name:
 - Outlook.Reminders.Remove
 ms.assetid: c7a25177-8869-39c2-4109-5c2e2a4bd193

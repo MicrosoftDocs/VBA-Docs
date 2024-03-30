@@ -3,7 +3,6 @@ title: OlkCommandButton.KeyUp event (Outlook)
 keywords: vbaol11.chm1000129
 f1_keywords:
 - vbaol11.chm1000129
-ms.prod: outlook
 api_name:
 - Outlook.OlkCommandButton.KeyUp
 ms.assetid: 63d8067e-1ec1-324e-e671-aa027bc22ace

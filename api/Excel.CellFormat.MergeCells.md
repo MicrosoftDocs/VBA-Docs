@@ -3,7 +3,6 @@ title: CellFormat.MergeCells property (Excel)
 keywords: vbaxl10.chm676087
 f1_keywords:
 - vbaxl10.chm676087
-ms.prod: excel
 api_name:
 - Excel.CellFormat.MergeCells
 ms.assetid: 15eed256-5d4f-0236-c526-11a11307b6e7

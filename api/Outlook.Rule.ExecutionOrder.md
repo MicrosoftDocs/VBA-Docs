@@ -3,7 +3,6 @@ title: Rule.ExecutionOrder property (Outlook)
 keywords: vbaol11.chm2169
 f1_keywords:
 - vbaol11.chm2169
-ms.prod: outlook
 api_name:
 - Outlook.Rule.ExecutionOrder
 ms.assetid: 070d50ca-4b0b-5629-1609-81ab8a3620d1

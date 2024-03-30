@@ -3,7 +3,6 @@ title: WorksheetDataConnection.Creator property (Excel)
 keywords: vbaxl10.chm923074
 f1_keywords:
 - vbaxl10.chm923074
-ms.prod: excel
 ms.assetid: e5965baf-48e9-be89-5cf6-76c94736d301
 ms.date: 05/18/2019
 ms.localizationpriority: medium

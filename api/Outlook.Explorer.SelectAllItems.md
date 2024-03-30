@@ -3,7 +3,6 @@ title: Explorer.SelectAllItems method (Outlook)
 keywords: vbaol11.chm3311
 f1_keywords:
 - vbaol11.chm3311
-ms.prod: outlook
 api_name:
 - Outlook.Explorer.SelectAllItems
 ms.assetid: 05b3169a-5f27-2169-5ac5-1d64951d6430

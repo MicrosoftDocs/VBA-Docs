@@ -3,7 +3,6 @@ title: TableView.Application property (Outlook)
 keywords: vbaol11.chm2499
 f1_keywords:
 - vbaol11.chm2499
-ms.prod: outlook
 api_name:
 - Outlook.TableView.Application
 ms.assetid: 9cd1742f-4657-b7fb-2c70-04d542f98472

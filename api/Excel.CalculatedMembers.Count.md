@@ -3,7 +3,6 @@ title: CalculatedMembers.Count property (Excel)
 keywords: vbaxl10.chm684073
 f1_keywords:
 - vbaxl10.chm684073
-ms.prod: excel
 api_name:
 - Excel.CalculatedMembers.Count
 ms.assetid: d784b90b-3d89-4c73-43c5-f5d5861e8269

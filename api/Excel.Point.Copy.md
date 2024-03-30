@@ -3,7 +3,6 @@ title: Point.Copy method (Excel)
 keywords: vbaxl10.chm576077
 f1_keywords:
 - vbaxl10.chm576077
-ms.prod: excel
 api_name:
 - Excel.Point.Copy
 ms.assetid: 12ebb9b6-c480-5195-08dc-d532a5449f09

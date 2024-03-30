@@ -3,7 +3,6 @@ title: ModelTableNames object (Excel)
 keywords: vbaxl10.chm953072
 f1_keywords:
 - vbaxl10.chm953072
-ms.prod: excel
 ms.assetid: 70fa4b5b-ebc6-9ac9-de6c-40835b1ea12c
 ms.date: 03/30/2019
 ms.localizationpriority: medium

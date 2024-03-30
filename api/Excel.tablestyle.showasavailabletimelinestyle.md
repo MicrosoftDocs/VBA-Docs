@@ -3,7 +3,6 @@ title: TableStyle.ShowAsAvailableTimelineStyle property (Excel)
 keywords: vbaxl10.chm839083
 f1_keywords:
 - vbaxl10.chm839083
-ms.prod: excel
 ms.assetid: a5f70ac8-bc23-5433-75bd-795cee6ccdc3
 ms.date: 05/17/2019
 ms.localizationpriority: medium

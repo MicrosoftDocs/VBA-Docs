@@ -3,7 +3,6 @@ title: AboveAverage.ModifyAppliesToRange method (Excel)
 keywords: vbaxl10.chm824085
 f1_keywords:
 - vbaxl10.chm824085
-ms.prod: excel
 api_name:
 - Excel.AboveAverage.ModifyAppliesToRange
 ms.assetid: b0bb1278-2a31-321b-1458-d62c30073610

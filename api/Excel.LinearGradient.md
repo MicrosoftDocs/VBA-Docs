@@ -3,7 +3,6 @@ title: LinearGradient object (Excel)
 keywords: vbaxl10.chm854072
 f1_keywords:
 - vbaxl10.chm854072
-ms.prod: excel
 api_name:
 - Excel.LinearGradient
 ms.assetid: cb648564-0f57-f1b9-1c89-0329c110583f

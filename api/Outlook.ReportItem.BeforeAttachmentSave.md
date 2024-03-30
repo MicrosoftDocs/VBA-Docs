@@ -1,6 +1,5 @@
 ---
 title: ReportItem.BeforeAttachmentSave event (Outlook)
-ms.prod: outlook
 api_name:
 - Outlook.ReportItem.BeforeAttachmentSave
 ms.assetid: 3fa6311c-e7d3-3a08-f416-05c4c718a916

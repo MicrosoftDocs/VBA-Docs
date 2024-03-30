@@ -1,6 +1,5 @@
 ---
 title: Creating Custom Forms by Using Visual Basic Scripting Edition
-ms.prod: outlook
 ms.assetid: b3e31db1-299f-ddbc-4bb1-fdf4c9ea8313
 ms.date: 06/08/2019
 ms.localizationpriority: medium

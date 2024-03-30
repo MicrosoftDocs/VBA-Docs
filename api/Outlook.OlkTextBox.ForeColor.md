@@ -3,7 +3,6 @@ title: OlkTextBox.ForeColor property (Outlook)
 keywords: vbaol11.chm1000046
 f1_keywords:
 - vbaol11.chm1000046
-ms.prod: outlook
 api_name:
 - Outlook.OlkTextBox.ForeColor
 ms.assetid: 82b7dc37-d18e-efa5-d6ed-0a939dfc7b3b

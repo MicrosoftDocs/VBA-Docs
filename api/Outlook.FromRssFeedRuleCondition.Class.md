@@ -3,7 +3,6 @@ title: FromRssFeedRuleCondition.Class property (Outlook)
 keywords: vbaol11.chm3254
 f1_keywords:
 - vbaol11.chm3254
-ms.prod: outlook
 api_name:
 - Outlook.FromRssFeedRuleCondition.Class
 ms.assetid: 4a31ee55-45ea-b558-763b-a2d5364f6f19

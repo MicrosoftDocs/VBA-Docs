@@ -3,7 +3,6 @@ title: PivotTable.EnableDrilldown property (Excel)
 keywords: vbaxl10.chm235106
 f1_keywords:
 - vbaxl10.chm235106
-ms.prod: excel
 api_name:
 - Excel.PivotTable.EnableDrilldown
 ms.assetid: 329e6c74-6b23-eac8-2ffb-45696076c712

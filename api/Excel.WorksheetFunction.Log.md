@@ -3,7 +3,6 @@ title: WorksheetFunction.Log method (Excel)
 keywords: vbaxl10.chm137124
 f1_keywords:
 - vbaxl10.chm137124
-ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Log
 ms.assetid: baf9306b-0bb4-85d1-6509-6b510dbf4949

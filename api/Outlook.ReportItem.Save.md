@@ -3,7 +3,6 @@ title: ReportItem.Save method (Outlook)
 keywords: vbaol11.chm1670
 f1_keywords:
 - vbaol11.chm1670
-ms.prod: outlook
 api_name:
 - Outlook.ReportItem.Save
 ms.assetid: cfe23d31-8cf7-afc0-3232-b59e55e4a30b

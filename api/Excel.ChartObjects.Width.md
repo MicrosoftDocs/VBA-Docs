@@ -3,7 +3,6 @@ title: ChartObjects.Width property (Excel)
 keywords: vbaxl10.chm497093
 f1_keywords:
 - vbaxl10.chm497093
-ms.prod: excel
 api_name:
 - Excel.ChartObjects.Width
 ms.assetid: 835cb1e6-937c-de90-af37-309b9bebb070

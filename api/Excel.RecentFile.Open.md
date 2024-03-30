@@ -3,7 +3,6 @@ title: RecentFile.Open method (Excel)
 keywords: vbaxl10.chm170076
 f1_keywords:
 - vbaxl10.chm170076
-ms.prod: excel
 api_name:
 - Excel.RecentFile.Open
 ms.assetid: 0db24662-fe68-aa65-1875-0d58f1e37e39

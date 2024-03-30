@@ -3,7 +3,6 @@ title: DataBar.SetLastPriority method (Excel)
 keywords: vbaxl10.chm810085
 f1_keywords:
 - vbaxl10.chm810085
-ms.prod: excel
 api_name:
 - Excel.DataBar.SetLastPriority
 ms.assetid: 985b1225-6816-fe3b-e973-5fd90aa1fe47

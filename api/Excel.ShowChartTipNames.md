@@ -3,7 +3,6 @@ title: ShowChartTipNames property (Excel Graph)
 keywords: vbagr10.chm5207986
 f1_keywords:
 - vbagr10.chm5207986
-ms.prod: excel
 api_name:
 - Excel.ShowChartTipNames
 ms.assetid: 0281bd54-2dbb-086f-23f7-ac507e19e519

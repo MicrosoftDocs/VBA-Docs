@@ -3,7 +3,6 @@ title: PivotTable.VisibleFields property (Excel)
 keywords: vbaxl10.chm235101
 f1_keywords:
 - vbaxl10.chm235101
-ms.prod: excel
 api_name:
 - Excel.PivotTable.VisibleFields
 ms.assetid: 01d5e76d-e109-905d-1743-1fbacd85e7a6

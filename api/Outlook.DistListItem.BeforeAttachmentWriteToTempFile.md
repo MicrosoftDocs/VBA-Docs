@@ -1,6 +1,5 @@
 ---
 title: DistListItem.BeforeAttachmentWriteToTempFile event (Outlook)
-ms.prod: outlook
 api_name:
 - Outlook.DistListItem.BeforeAttachmentWriteToTempFile
 ms.assetid: 565c9c1d-cbab-1ac2-de79-3a15532c4f76

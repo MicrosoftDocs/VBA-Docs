@@ -3,7 +3,6 @@ title: Category.ShortcutKey property (Outlook)
 keywords: vbaol11.chm2428
 f1_keywords:
 - vbaol11.chm2428
-ms.prod: outlook
 api_name:
 - Outlook.Category.ShortcutKey
 ms.assetid: c78f882a-ab02-5218-e71f-362c86b4dfe1

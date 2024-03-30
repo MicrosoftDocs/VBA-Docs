@@ -3,7 +3,6 @@ title: Action.Session property (Outlook)
 keywords: vbaol11.chm12
 f1_keywords:
 - vbaol11.chm12
-ms.prod: outlook
 api_name:
 - Outlook.Action.Session
 ms.assetid: cfe619d2-3a7e-c8af-de17-be2363de0a56

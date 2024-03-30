@@ -3,7 +3,6 @@ title: Sort.Application property (Excel)
 keywords: vbaxl10.chm846073
 f1_keywords:
 - vbaxl10.chm846073
-ms.prod: excel
 api_name:
 - Excel.Sort.Application
 ms.assetid: 1aac5249-48ef-7706-80f7-a8a377072c01

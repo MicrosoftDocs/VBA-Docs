@@ -3,7 +3,6 @@ title: ColumnFormat.Align property (Outlook)
 keywords: vbaol11.chm2731
 f1_keywords:
 - vbaol11.chm2731
-ms.prod: outlook
 api_name:
 - Outlook.ColumnFormat.Align
 ms.assetid: cea9e062-e338-ee1d-f769-dd5f8beef463

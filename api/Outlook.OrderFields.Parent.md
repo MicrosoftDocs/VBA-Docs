@@ -3,7 +3,6 @@ title: OrderFields.Parent property (Outlook)
 keywords: vbaol11.chm2675
 f1_keywords:
 - vbaol11.chm2675
-ms.prod: outlook
 api_name:
 - Outlook.OrderFields.Parent
 ms.assetid: ea9c5766-c0d3-6d3c-ed3f-5a1bf9f31197

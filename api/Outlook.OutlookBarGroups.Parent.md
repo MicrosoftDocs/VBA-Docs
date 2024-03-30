@@ -3,7 +3,6 @@ title: OutlookBarGroups.Parent property (Outlook)
 keywords: vbaol11.chm349
 f1_keywords:
 - vbaol11.chm349
-ms.prod: outlook
 api_name:
 - Outlook.OutlookBarGroups.Parent
 ms.assetid: 73f12aaa-75ae-ddbd-ed76-cc3d4d630ddc

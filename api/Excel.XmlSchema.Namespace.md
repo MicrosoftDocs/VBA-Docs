@@ -3,7 +3,6 @@ title: XmlSchema.Namespace property (Excel)
 keywords: vbaxl10.chm750073
 f1_keywords:
 - vbaxl10.chm750073
-ms.prod: excel
 api_name:
 - Excel.XmlSchema.Namespace
 ms.assetid: eaffd8e6-7ec4-af4e-ef0d-9a9d8c3dda47

@@ -3,7 +3,6 @@ title: GapWidth property (Excel Graph)
 keywords: vbagr10.chm65587
 f1_keywords:
 - vbagr10.chm65587
-ms.prod: excel
 api_name:
 - Excel.GapWidth
 ms.assetid: d00b2a8b-76a0-1dbe-537d-bb55f3a069c9

@@ -3,7 +3,6 @@ title: WorksheetFunction.Convert method (Excel)
 keywords: vbaxl10.chm137344
 f1_keywords:
 - vbaxl10.chm137344
-ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Convert
 ms.assetid: 3fb95208-6419-da1c-008d-dc00e836183e

@@ -3,7 +3,6 @@ title: PivotField.EnableMultiplePageItems property (Excel)
 keywords: vbaxl10.chm240151
 f1_keywords:
 - vbaxl10.chm240151
-ms.prod: excel
 api_name:
 - Excel.PivotField.EnableMultiplePageItems
 ms.assetid: 989fa662-cafb-00a1-effb-4a6c18327ea3

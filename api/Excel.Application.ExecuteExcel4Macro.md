@@ -3,7 +3,6 @@ title: Application.ExecuteExcel4Macro method (Excel)
 keywords: vbaxl10.chm132097
 f1_keywords:
 - vbaxl10.chm132097
-ms.prod: excel
 api_name:
 - Excel.Application.ExecuteExcel4Macro
 ms.assetid: 0afa77ab-43e0-0120-4ffd-25e290c72f6c

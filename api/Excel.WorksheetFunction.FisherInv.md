@@ -3,7 +3,6 @@ title: WorksheetFunction.FisherInv method (Excel)
 keywords: vbaxl10.chm137188
 f1_keywords:
 - vbaxl10.chm137188
-ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.FisherInv
 ms.assetid: bf4656e3-b79d-7fe6-917f-16afedc736fe

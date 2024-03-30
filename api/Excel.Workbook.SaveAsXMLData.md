@@ -3,7 +3,6 @@ title: Workbook.SaveAsXMLData method (Excel)
 keywords: vbaxl10.chm199232
 f1_keywords:
 - vbaxl10.chm199232
-ms.prod: excel
 api_name:
 - Excel.Workbook.SaveAsXMLData
 ms.assetid: 7c4c1be3-d3a5-6e90-7750-9f371f008541

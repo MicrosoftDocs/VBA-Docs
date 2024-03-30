@@ -3,7 +3,6 @@ title: Series.MarkerSize property (Excel)
 keywords: vbaxl10.chm578097
 f1_keywords:
 - vbaxl10.chm578097
-ms.prod: excel
 api_name:
 - Excel.Series.MarkerSize
 ms.assetid: d1e499ae-d59c-3493-c741-9607c3c27a17

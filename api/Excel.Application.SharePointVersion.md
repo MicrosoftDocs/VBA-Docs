@@ -3,7 +3,6 @@ title: Application.SharePointVersion method (Excel)
 keywords: vbaxl10.chm133315
 f1_keywords:
 - vbaxl10.chm133315
-ms.prod: excel
 api_name:
 - Excel.Application.SharePointVersion
 ms.assetid: 9d561b10-dba9-8af5-6e64-66e41714e894

@@ -3,7 +3,6 @@ title: RuleActions.DeletePermanently property (Outlook)
 keywords: vbaol11.chm2185
 f1_keywords:
 - vbaol11.chm2185
-ms.prod: outlook
 api_name:
 - Outlook.RuleActions.DeletePermanently
 ms.assetid: fbd19516-c599-b7e6-cdd3-0c182d32b216

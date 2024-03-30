@@ -3,7 +3,6 @@ title: OlMailingAddress enumeration (Outlook)
 keywords: vbaol11.chm3066
 f1_keywords:
 - vbaol11.chm3066
-ms.prod: outlook
 api_name:
 - Outlook.OlMailingAddress
 ms.assetid: 1a0822be-3c4c-f162-8ab7-12edb20a0949

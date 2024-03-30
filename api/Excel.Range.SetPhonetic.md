@@ -3,7 +3,6 @@ title: Range.SetPhonetic method (Excel)
 keywords: vbaxl10.chm144230
 f1_keywords:
 - vbaxl10.chm144230
-ms.prod: excel
 api_name:
 - Excel.Range.SetPhonetic
 ms.assetid: 69a1e491-5505-621a-5ea0-b0600796caa3

@@ -3,7 +3,6 @@ title: SortField object (Excel)
 keywords: vbaxl10.chm842072
 f1_keywords:
 - vbaxl10.chm842072
-ms.prod: excel
 api_name:
 - Excel.SortField
 ms.assetid: 2becf77f-c072-2060-9baf-ebcf785c05bb

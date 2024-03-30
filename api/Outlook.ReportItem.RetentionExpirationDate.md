@@ -3,7 +3,6 @@ title: ReportItem.RetentionExpirationDate property (Outlook)
 keywords: vbaol11.chm3563
 f1_keywords:
 - vbaol11.chm3563
-ms.prod: outlook
 api_name:
 - Outlook.ReportItem.RetentionExpirationDate
 ms.assetid: 96ddf279-5cfe-0245-302d-816d3f020e39

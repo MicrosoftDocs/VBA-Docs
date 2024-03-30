@@ -3,7 +3,6 @@ title: Slicer.ColumnWidth property (Excel)
 keywords: vbaxl10.chm905081
 f1_keywords:
 - vbaxl10.chm905081
-ms.prod: excel
 api_name:
 - Excel.Slicer.ColumnWidth
 ms.assetid: ff97ad0c-952b-1d83-93e8-9a6144b09ceb

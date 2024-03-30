@@ -3,7 +3,6 @@ title: Range.PasteSpecial method (Excel)
 keywords: vbaxl10.chm144238
 f1_keywords:
 - vbaxl10.chm144238
-ms.prod: excel
 api_name:
 - Excel.Range.PasteSpecial
 ms.assetid: d3e991f2-7ef7-2ebc-d4bc-ba4c26be472e

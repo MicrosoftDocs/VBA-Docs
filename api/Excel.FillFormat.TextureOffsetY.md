@@ -1,6 +1,5 @@
 ---
 title: FillFormat.TextureOffsetY property (Excel)
-ms.prod: excel
 api_name:
 - Excel.FillFormat.TextureOffsetY
 ms.assetid: dd8346ac-2f22-9240-d9b8-214c7eb47bff

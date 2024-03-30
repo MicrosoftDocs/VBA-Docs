@@ -3,7 +3,6 @@ title: Hyperlink.Delete method (Excel)
 keywords: vbaxl10.chm536081
 f1_keywords:
 - vbaxl10.chm536081
-ms.prod: excel
 api_name:
 - Excel.Hyperlink.Delete
 ms.assetid: 434d5963-7099-0ec4-0ab9-88c91d793eee

@@ -3,7 +3,6 @@ title: FreeformBuilder.Application property (Excel)
 keywords: vbaxl10.chm647073
 f1_keywords:
 - vbaxl10.chm647073
-ms.prod: excel
 api_name:
 - Excel.FreeformBuilder.Application
 ms.assetid: 93f50afc-c753-1612-21d6-e7317ea9c150

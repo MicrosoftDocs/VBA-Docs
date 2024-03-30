@@ -3,7 +3,6 @@ title: OlkTimeControl.KeyUp event (Outlook)
 keywords: vbaol11.chm1000410
 f1_keywords:
 - vbaol11.chm1000410
-ms.prod: outlook
 api_name:
 - Outlook.OlkTimeControl.KeyUp
 ms.assetid: b2ff348b-6c94-09b3-e8ee-8eb25ac15ba0

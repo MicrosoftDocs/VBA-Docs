@@ -3,7 +3,6 @@ title: ModelRelationship.Parent property (Excel)
 keywords: vbaxl10.chm937075
 f1_keywords:
 - vbaxl10.chm937075
-ms.prod: excel
 ms.assetid: c9012604-396b-9923-3eee-4d1c12ea15fe
 ms.date: 04/20/2019
 ms.localizationpriority: medium

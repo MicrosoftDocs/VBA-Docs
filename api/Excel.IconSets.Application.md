@@ -3,7 +3,6 @@ title: IconSets.Application property (Excel)
 keywords: vbaxl10.chm819073
 f1_keywords:
 - vbaxl10.chm819073
-ms.prod: excel
 api_name:
 - Excel.IconSets.Application
 ms.assetid: d5a7decb-3ce7-78e8-0acf-dc7af7950829

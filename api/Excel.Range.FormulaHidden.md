@@ -3,7 +3,6 @@ title: Range.FormulaHidden property (Excel)
 keywords: vbaxl10.chm144135
 f1_keywords:
 - vbaxl10.chm144135
-ms.prod: excel
 api_name:
 - Excel.Range.FormulaHidden
 ms.assetid: b6425c86-7e20-e34e-2d96-eb16075c20b6

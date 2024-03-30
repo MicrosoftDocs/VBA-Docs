@@ -3,7 +3,6 @@ title: ChartGroups collection (Excel Graph)
 keywords: vbagr10.chm5207191
 f1_keywords:
 - vbagr10.chm5207191
-ms.prod: excel
 ms.assetid: 203bc32b-61e7-9bbc-bcc3-c7d8afc8b2ae
 ms.date: 04/06/2019
 ms.localizationpriority: medium

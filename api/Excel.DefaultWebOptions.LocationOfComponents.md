@@ -3,7 +3,6 @@ title: DefaultWebOptions.LocationOfComponents property (Excel)
 keywords: vbaxl10.chm660085
 f1_keywords:
 - vbaxl10.chm660085
-ms.prod: excel
 api_name:
 - Excel.DefaultWebOptions.LocationOfComponents
 ms.assetid: a3f1571d-9301-4e3f-7467-f7716f26e45f

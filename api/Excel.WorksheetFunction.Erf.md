@@ -3,7 +3,6 @@ title: WorksheetFunction.Erf method (Excel)
 keywords: vbaxl10.chm137300
 f1_keywords:
 - vbaxl10.chm137300
-ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Erf
 ms.assetid: 1c40c49d-6866-084e-7b35-4caf3d97971e

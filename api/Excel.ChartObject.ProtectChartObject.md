@@ -3,7 +3,6 @@ title: ChartObject.ProtectChartObject property (Excel)
 keywords: vbaxl10.chm494100
 f1_keywords:
 - vbaxl10.chm494100
-ms.prod: excel
 api_name:
 - Excel.ChartObject.ProtectChartObject
 ms.assetid: 0fd7830a-5c07-89f4-190d-b4b231512de7

@@ -3,7 +3,6 @@ title: LeaderLines.Border property (Excel)
 keywords: vbaxl10.chm606073
 f1_keywords:
 - vbaxl10.chm606073
-ms.prod: excel
 api_name:
 - Excel.LeaderLines.Border
 ms.assetid: 9f8eea5d-0885-c2d8-8c52-179e9aa4299f

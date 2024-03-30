@@ -3,7 +3,6 @@ title: Range.SetCellDataTypeFromCell method (Excel)
 keywords: vbaxl10.chm144265
 f1_keywords:
 - vbaxl10.chm144265
-ms.prod: excel
 api_name:
 - Excel.Range.SetCellDataTypeFromCell
 ms.date: 05/11/2019

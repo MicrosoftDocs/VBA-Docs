@@ -1,6 +1,5 @@
 ---
 title: XlMousePointer enumeration (Excel)
-ms.prod: excel
 api_name:
 - Excel.XlMousePointer
 ms.assetid: 5aa7dbb9-6473-a492-98c0-74c801e09939

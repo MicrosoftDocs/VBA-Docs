@@ -1,6 +1,5 @@
 ---
 title: DocumentItem.Forward event (Outlook)
-ms.prod: outlook
 api_name:
 - Outlook.DocumentItem.Forward
 ms.assetid: 394f3c85-61b8-4f2e-a64a-d2f61f42c6f4

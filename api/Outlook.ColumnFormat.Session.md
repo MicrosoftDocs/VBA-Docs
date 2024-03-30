@@ -3,7 +3,6 @@ title: ColumnFormat.Session property (Outlook)
 keywords: vbaol11.chm2726
 f1_keywords:
 - vbaol11.chm2726
-ms.prod: outlook
 api_name:
 - Outlook.ColumnFormat.Session
 ms.assetid: 6836c80e-5194-0a90-477f-3ed51a91c3b6

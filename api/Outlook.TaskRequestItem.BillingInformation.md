@@ -3,7 +3,6 @@ title: TaskRequestItem.BillingInformation property (Outlook)
 keywords: vbaol11.chm1874
 f1_keywords:
 - vbaol11.chm1874
-ms.prod: outlook
 api_name:
 - Outlook.TaskRequestItem.BillingInformation
 ms.assetid: de12ee8e-9283-f2b6-32fc-d07bed532dd8

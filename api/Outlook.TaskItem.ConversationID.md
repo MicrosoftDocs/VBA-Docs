@@ -3,7 +3,6 @@ title: TaskItem.ConversationID property (Outlook)
 keywords: vbaol11.chm3474
 f1_keywords:
 - vbaol11.chm3474
-ms.prod: outlook
 api_name:
 - Outlook.TaskItem.ConversationID
 ms.assetid: 69b28ef6-5521-944c-f908-df715e837c36

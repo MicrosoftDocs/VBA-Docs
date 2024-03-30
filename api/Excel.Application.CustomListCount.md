@@ -3,7 +3,6 @@ title: Application.CustomListCount property (Excel)
 keywords: vbaxl10.chm133100
 f1_keywords:
 - vbaxl10.chm133100
-ms.prod: excel
 api_name:
 - Excel.Application.CustomListCount
 ms.assetid: 98a32161-e413-a0b7-a6be-4b11ae90fc00

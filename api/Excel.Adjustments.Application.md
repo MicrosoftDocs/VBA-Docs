@@ -1,6 +1,5 @@
 ---
 title: Adjustments.Application property (Excel)
-ms.prod: excel
 api_name:
 - Excel.Adjustments.Application
 ms.assetid: 2875f3fa-d584-2ba5-c445-ac4dbad25af2

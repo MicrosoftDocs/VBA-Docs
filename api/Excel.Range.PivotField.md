@@ -3,7 +3,6 @@ title: Range.PivotField property (Excel)
 keywords: vbaxl10.chm144175
 f1_keywords:
 - vbaxl10.chm144175
-ms.prod: excel
 api_name:
 - Excel.Range.PivotField
 ms.assetid: 56003d2d-60cd-abd2-455e-4a4d3616a615

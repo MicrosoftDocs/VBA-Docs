@@ -3,7 +3,6 @@ title: PropertyAccessor.LocalTimeToUTC method (Outlook)
 keywords: vbaol11.chm1975
 f1_keywords:
 - vbaol11.chm1975
-ms.prod: outlook
 api_name:
 - Outlook.PropertyAccessor.LocalTimeToUTC
 ms.assetid: c19f60b2-441f-77b3-eb83-9cfd899e3a52

@@ -3,7 +3,6 @@ title: Bar3DGroup property (Excel Graph)
 keywords: vbagr10.chm5207118
 f1_keywords:
 - vbagr10.chm5207118
-ms.prod: excel
 api_name:
 - Excel.Bar3DGroup
 ms.assetid: abbf8004-862f-7d70-2ca7-83f278d32836

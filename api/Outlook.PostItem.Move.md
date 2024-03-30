@@ -3,7 +3,6 @@ title: PostItem.Move method (Outlook)
 keywords: vbaol11.chm1543
 f1_keywords:
 - vbaol11.chm1543
-ms.prod: outlook
 api_name:
 - Outlook.PostItem.Move
 ms.assetid: f2e7618d-bbf5-4e82-e7e5-6cfb19e8b78a

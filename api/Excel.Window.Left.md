@@ -3,7 +3,6 @@ title: Window.Left property (Excel)
 keywords: vbaxl10.chm356098
 f1_keywords:
 - vbaxl10.chm356098
-ms.prod: excel
 api_name:
 - Excel.Window.Left
 ms.assetid: fc9bcd55-0cef-88a8-9af0-60836bcdf5e7

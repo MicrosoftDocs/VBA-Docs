@@ -1,6 +1,5 @@
 ---
 title: Model3DFormat.RotationZ property (Excel)
-ms.prod: excel
 api_name:
 - Excel.Model3DFormat.RotationZ
 ms.date: 04/11/2019

@@ -3,7 +3,6 @@ title: Folder.AddressBookName property (Outlook)
 keywords: vbaol11.chm2004
 f1_keywords:
 - vbaol11.chm2004
-ms.prod: outlook
 api_name:
 - Outlook.Folder.AddressBookName
 ms.assetid: e80535e9-216f-03a6-36a1-3776b5862e96

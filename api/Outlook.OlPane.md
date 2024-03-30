@@ -3,7 +3,6 @@ title: OlPane enumeration (Outlook)
 keywords: vbaol11.chm3075
 f1_keywords:
 - vbaol11.chm3075
-ms.prod: outlook
 api_name:
 - Outlook.OlPane
 ms.assetid: efbdecc7-90ae-65b2-58aa-d323c19b816e

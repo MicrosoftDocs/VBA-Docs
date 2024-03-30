@@ -3,7 +3,6 @@ title: OLEObjects.Cut method (Excel)
 keywords: vbaxl10.chm419077
 f1_keywords:
 - vbaxl10.chm419077
-ms.prod: excel
 api_name:
 - Excel.OLEObjects.Cut
 ms.assetid: a72be6d7-5627-44d2-3401-b51489335e53

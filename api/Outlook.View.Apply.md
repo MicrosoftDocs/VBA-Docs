@@ -3,7 +3,6 @@ title: View.Apply method (Outlook)
 keywords: vbaol11.chm2484
 f1_keywords:
 - vbaol11.chm2484
-ms.prod: outlook
 api_name:
 - Outlook.View.Apply
 ms.assetid: b121d1ce-24b7-4ace-8369-42e5c7becd0a

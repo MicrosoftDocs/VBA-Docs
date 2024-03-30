@@ -3,7 +3,6 @@ title: QueryTable.TextFileColumnDataTypes property (Excel)
 keywords: vbaxl10.chm518108
 f1_keywords:
 - vbaxl10.chm518108
-ms.prod: excel
 api_name:
 - Excel.QueryTable.TextFileColumnDataTypes
 ms.assetid: 05445aaf-df9c-5981-7803-639c80460906

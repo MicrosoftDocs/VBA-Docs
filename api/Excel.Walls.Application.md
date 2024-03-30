@@ -3,7 +3,6 @@ title: Walls.Application property (Excel)
 keywords: vbaxl10.chm613073
 f1_keywords:
 - vbaxl10.chm613073
-ms.prod: excel
 api_name:
 - Excel.Walls.Application
 ms.assetid: 306ae3d9-2c61-50c6-92dd-2921911635ca

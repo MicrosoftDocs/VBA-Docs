@@ -3,7 +3,6 @@ title: TableStyle.ShowAsAvailableSlicerStyle property (Excel)
 keywords: vbaxl10.chm839082
 f1_keywords:
 - vbaxl10.chm839082
-ms.prod: excel
 api_name:
 - Excel.TableStyle.ShowAsAvailableSlicerStyle
 ms.assetid: d8f1144a-4e17-0b53-049a-f18dc4092fdb

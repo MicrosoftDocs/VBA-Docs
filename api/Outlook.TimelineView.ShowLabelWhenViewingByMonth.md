@@ -3,7 +3,6 @@ title: TimelineView.ShowLabelWhenViewingByMonth property (Outlook)
 keywords: vbaol11.chm2666
 f1_keywords:
 - vbaol11.chm2666
-ms.prod: outlook
 api_name:
 - Outlook.TimelineView.ShowLabelWhenViewingByMonth
 ms.assetid: 6af6ff5f-6fbb-e6b7-6270-7a12cc573514

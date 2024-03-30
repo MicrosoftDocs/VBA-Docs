@@ -3,7 +3,6 @@ title: StorageItem.Application property (Outlook)
 keywords: vbaol11.chm2137
 f1_keywords:
 - vbaol11.chm2137
-ms.prod: outlook
 api_name:
 - Outlook.StorageItem.Application
 ms.assetid: cfe47ac5-04d0-4192-181d-35dd5e7c3658

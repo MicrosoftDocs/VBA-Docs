@@ -1,6 +1,5 @@
 ---
 title: ScrollBar.Enabled Property (Outlook Forms Script)
-ms.prod: outlook
 ms.assetid: 0b13f6da-7c1f-5368-ae99-4fdeebde41a8
 ms.date: 06/08/2017
 ms.localizationpriority: medium

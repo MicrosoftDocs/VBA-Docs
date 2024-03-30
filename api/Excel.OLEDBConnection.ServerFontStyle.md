@@ -3,7 +3,6 @@ title: OLEDBConnection.ServerFontStyle property (Excel)
 keywords: vbaxl10.chm794101
 f1_keywords:
 - vbaxl10.chm794101
-ms.prod: excel
 api_name:
 - Excel.OLEDBConnection.ServerFontStyle
 ms.assetid: 5c45fea6-4e1b-6c21-785d-4a3e9f39dd5a

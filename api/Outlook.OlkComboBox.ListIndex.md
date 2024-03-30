@@ -3,7 +3,6 @@ title: OlkComboBox.ListIndex property (Outlook)
 keywords: vbaol11.chm1000219
 f1_keywords:
 - vbaol11.chm1000219
-ms.prod: outlook
 api_name:
 - Outlook.OlkComboBox.ListIndex
 ms.assetid: 1d016281-6b41-8a6b-075c-33ff1bcde28c

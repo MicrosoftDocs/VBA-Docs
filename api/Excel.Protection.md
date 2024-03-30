@@ -3,7 +3,6 @@ title: Protection object (Excel)
 keywords: vbaxl10.chm719072
 f1_keywords:
 - vbaxl10.chm719072
-ms.prod: excel
 api_name:
 - Excel.Protection
 ms.assetid: dc13a9dd-bd19-daa2-5093-7182917d5bde

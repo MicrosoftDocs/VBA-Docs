@@ -1,6 +1,5 @@
 ---
 title: XlPictureConvertorType enumeration (Excel)
-ms.prod: excel
 api_name:
 - Excel.XlPictureConvertorType
 ms.assetid: c70bdac4-b174-5679-c1dd-99fb8acf08c7

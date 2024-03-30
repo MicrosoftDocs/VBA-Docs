@@ -3,7 +3,6 @@ title: Stores.Parent property (Outlook)
 keywords: vbaol11.chm817
 f1_keywords:
 - vbaol11.chm817
-ms.prod: outlook
 api_name:
 - Outlook.Stores.Parent
 ms.assetid: d737cf58-fc6e-a6a1-5144-c294ffbcc314

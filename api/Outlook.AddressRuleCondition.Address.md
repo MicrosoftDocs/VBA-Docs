@@ -3,7 +3,6 @@ title: AddressRuleCondition.Address property (Outlook)
 keywords: vbaol11.chm2955
 f1_keywords:
 - vbaol11.chm2955
-ms.prod: outlook
 api_name:
 - Outlook.AddressRuleCondition.Address
 ms.assetid: de4186ec-0741-8ff6-7789-af0a46c470e0

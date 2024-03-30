@@ -3,7 +3,6 @@ title: SyncObject.SyncEnd event (Outlook)
 keywords: vbaol11.chm114
 f1_keywords:
 - vbaol11.chm114
-ms.prod: outlook
 api_name:
 - Outlook.SyncObject.SyncEnd
 ms.assetid: 6e36b438-bbd3-4810-f072-7b669c308bc6

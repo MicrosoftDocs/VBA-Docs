@@ -3,7 +3,6 @@ title: Attachment.PropertyAccessor property (Outlook)
 keywords: vbaol11.chm2374
 f1_keywords:
 - vbaol11.chm2374
-ms.prod: outlook
 api_name:
 - Outlook.Attachment.PropertyAccessor
 ms.assetid: 4b703cdb-f052-4386-e843-932c3cd18923

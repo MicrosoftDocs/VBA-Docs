@@ -3,7 +3,6 @@ title: RuleCondition.ConditionType property (Outlook)
 keywords: vbaol11.chm2330
 f1_keywords:
 - vbaol11.chm2330
-ms.prod: outlook
 api_name:
 - Outlook.RuleCondition.ConditionType
 ms.assetid: d695339d-5b64-dffb-652e-ac993fca4489

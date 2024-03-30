@@ -3,7 +3,6 @@ title: PivotCell.RowItems property (Excel)
 keywords: vbaxl10.chm692078
 f1_keywords:
 - vbaxl10.chm692078
-ms.prod: excel
 api_name:
 - Excel.PivotCell.RowItems
 ms.assetid: 4833f772-9abd-a2fa-e3f0-e86f54caf05e

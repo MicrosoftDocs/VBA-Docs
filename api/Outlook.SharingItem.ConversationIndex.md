@@ -3,7 +3,6 @@ title: SharingItem.ConversationIndex property (Outlook)
 keywords: vbaol11.chm603
 f1_keywords:
 - vbaol11.chm603
-ms.prod: outlook
 api_name:
 - Outlook.SharingItem.ConversationIndex
 ms.assetid: 63aa00ef-6ed1-5e5c-a59d-1f34a649b63d

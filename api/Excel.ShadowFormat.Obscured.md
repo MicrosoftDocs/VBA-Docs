@@ -3,7 +3,6 @@ title: ShadowFormat.Obscured property (Excel)
 keywords: vbaxl10.chm114003
 f1_keywords:
 - vbaxl10.chm114003
-ms.prod: excel
 api_name:
 - Excel.ShadowFormat.Obscured
 ms.assetid: a2cc3324-d394-5332-41d2-e3733d0eb2d7

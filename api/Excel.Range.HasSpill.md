@@ -3,7 +3,6 @@ title: Range.HasSpill property (Excel)
 keywords: ????
 f1_keywords:
 - ???
-ms.prod: excel
 api_name:
 - Excel.Range.HasSpill
 ms.assetid: ????

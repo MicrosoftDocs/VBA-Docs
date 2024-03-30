@@ -1,6 +1,5 @@
 ---
 title: ReportItem.AttachmentRead event (Outlook)
-ms.prod: outlook
 api_name:
 - Outlook.ReportItem.AttachmentRead
 ms.assetid: 16c7acf4-015e-b9ab-bd72-a54921de8709

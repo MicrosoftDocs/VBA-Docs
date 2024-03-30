@@ -3,7 +3,6 @@ title: Application.WindowActivate event (Excel)
 keywords: vbaxl10.chm504091
 f1_keywords:
 - vbaxl10.chm504091
-ms.prod: excel
 api_name:
 - Excel.Application.WindowActivate
 ms.assetid: 5c618983-27d8-49b1-0a52-001c7a1f94d8

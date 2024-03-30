@@ -3,7 +3,6 @@ title: ChartTitle.Left property (Excel)
 keywords: vbaxl10.chm563084
 f1_keywords:
 - vbaxl10.chm563084
-ms.prod: excel
 api_name:
 - Excel.ChartTitle.Left
 ms.assetid: fb2eac79-fafe-074e-02bb-74e0648073c4

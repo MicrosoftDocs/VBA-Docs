@@ -3,7 +3,6 @@ title: Axes.Creator property (Excel)
 keywords: vbaxl10.chm571074
 f1_keywords:
 - vbaxl10.chm571074
-ms.prod: excel
 api_name:
 - Excel.Axes.Creator
 ms.assetid: 7e183096-b65a-6014-ced7-1d296eaf6731

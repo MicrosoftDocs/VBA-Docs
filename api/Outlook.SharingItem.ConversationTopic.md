@@ -3,7 +3,6 @@ title: SharingItem.ConversationTopic property (Outlook)
 keywords: vbaol11.chm604
 f1_keywords:
 - vbaol11.chm604
-ms.prod: outlook
 api_name:
 - Outlook.SharingItem.ConversationTopic
 ms.assetid: fbad95b9-7816-a59d-17af-0dd7c0173d5d

@@ -3,7 +3,6 @@ title: TaskRequestUpdateItem.RTFBody property (Outlook)
 keywords: vbaol11.chm3539
 f1_keywords:
 - vbaol11.chm3539
-ms.prod: outlook
 api_name:
 - Outlook.TaskRequestUpdateItem.RTFBody
 ms.assetid: 59683caa-a702-920f-cbae-c309328bda5c

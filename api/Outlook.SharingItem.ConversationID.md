@@ -3,7 +3,6 @@ title: SharingItem.ConversationID property (Outlook)
 keywords: vbaol11.chm3497
 f1_keywords:
 - vbaol11.chm3497
-ms.prod: outlook
 api_name:
 - Outlook.SharingItem.ConversationID
 ms.assetid: f60a9a2e-76f7-0ff3-8b9d-70d3a4bc3f94

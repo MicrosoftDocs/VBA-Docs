@@ -1,6 +1,5 @@
 ---
 title: Attach a File to an Outlook Email Message
-ms.prod: outlook
 ms.assetid: 44721ad9-750c-4813-bcdb-585ffe8b32c5
 ms.date: 10/10/2018
 ms.localizationpriority: medium

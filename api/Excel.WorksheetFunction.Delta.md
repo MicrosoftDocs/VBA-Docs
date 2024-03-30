@@ -3,7 +3,6 @@ title: WorksheetFunction.Delta method (Excel)
 keywords: vbaxl10.chm137295
 f1_keywords:
 - vbaxl10.chm137295
-ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Delta
 ms.assetid: a8698aa3-88cf-fe5f-be57-f01daddfa4fd

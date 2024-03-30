@@ -3,7 +3,6 @@ title: CalloutFormat.Parent property (Excel)
 keywords: vbaxl10.chm104001
 f1_keywords:
 - vbaxl10.chm104001
-ms.prod: excel
 api_name:
 - Excel.CalloutFormat.Parent
 ms.assetid: 28daee90-306f-3311-236f-69ecc8679342

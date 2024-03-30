@@ -3,7 +3,6 @@ title: JournalItem.GetInspector property (Outlook)
 keywords: vbaol11.chm1242
 f1_keywords:
 - vbaol11.chm1242
-ms.prod: outlook
 api_name:
 - Outlook.JournalItem.GetInspector
 ms.assetid: 49d173ba-e4fd-e9c4-12b4-423a4c60ec46

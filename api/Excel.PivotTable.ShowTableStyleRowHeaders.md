@@ -3,7 +3,6 @@ title: PivotTable.ShowTableStyleRowHeaders property (Excel)
 keywords: vbaxl10.chm235175
 f1_keywords:
 - vbaxl10.chm235175
-ms.prod: excel
 api_name:
 - Excel.PivotTable.ShowTableStyleRowHeaders
 ms.assetid: 223de9b9-f98e-4151-758f-0ec886bb9636

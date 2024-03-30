@@ -3,7 +3,6 @@ title: ComboBox.Copy Method (Outlook Forms Script)
 keywords: olfm10.chm2000280
 f1_keywords:
 - olfm10.chm2000280
-ms.prod: outlook
 ms.assetid: 43b6bb14-cc84-3980-f442-577d2a5e7077
 ms.date: 06/08/2017
 ms.localizationpriority: medium

@@ -3,7 +3,6 @@ title: OlkFrameHeader.MouseIcon property (Outlook)
 keywords: vbaol11.chm1000466
 f1_keywords:
 - vbaol11.chm1000466
-ms.prod: outlook
 api_name:
 - Outlook.OlkFrameHeader.MouseIcon
 ms.assetid: c819eb95-4d4a-59cf-6ad2-a4df053e6d56

@@ -3,7 +3,6 @@ title: Window.TabRatio property (Excel)
 keywords: vbaxl10.chm356116
 f1_keywords:
 - vbaxl10.chm356116
-ms.prod: excel
 api_name:
 - Excel.Window.TabRatio
 ms.assetid: 41033d2d-9967-3990-b739-61c0649c24f3

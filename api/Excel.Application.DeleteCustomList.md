@@ -3,7 +3,6 @@ title: Application.DeleteCustomList method (Excel)
 keywords: vbaxl10.chm133117
 f1_keywords:
 - vbaxl10.chm133117
-ms.prod: excel
 api_name:
 - Excel.Application.DeleteCustomList
 ms.assetid: 41a936f7-05b5-520f-f5c5-172a5ea124d9

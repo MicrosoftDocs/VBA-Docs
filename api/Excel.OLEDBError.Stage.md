@@ -3,7 +3,6 @@ title: OLEDBError.Stage property (Excel)
 keywords: vbaxl10.chm654077
 f1_keywords:
 - vbaxl10.chm654077
-ms.prod: excel
 api_name:
 - Excel.OLEDBError.Stage
 ms.assetid: 71dd6495-3d03-307d-a7cd-816779f25754

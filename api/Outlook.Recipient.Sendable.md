@@ -3,7 +3,6 @@ title: Recipient.Sendable property (Outlook)
 keywords: vbaol11.chm3476
 f1_keywords:
 - vbaol11.chm3476
-ms.prod: outlook
 api_name:
 - Outlook.Recipient.Sendable
 ms.assetid: ba6c3f35-5e51-f502-fb74-5403de3411e9

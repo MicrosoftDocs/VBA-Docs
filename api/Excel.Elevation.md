@@ -3,7 +3,6 @@ title: Elevation property (Excel Graph)
 keywords: vbagr10.chm5207335
 f1_keywords:
 - vbagr10.chm5207335
-ms.prod: excel
 api_name:
 - Excel.Elevation
 ms.assetid: 5158f5d5-6900-f453-c4bc-7b52a1e42110

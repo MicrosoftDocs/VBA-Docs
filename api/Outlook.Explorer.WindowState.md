@@ -3,7 +3,6 @@ title: Explorer.WindowState property (Outlook)
 keywords: vbaol11.chm2773
 f1_keywords:
 - vbaol11.chm2773
-ms.prod: outlook
 api_name:
 - Outlook.Explorer.WindowState
 ms.assetid: 787b6339-eb92-3ab6-df9f-82f6122facc5

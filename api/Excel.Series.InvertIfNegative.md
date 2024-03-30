@@ -3,7 +3,6 @@ title: Series.InvertIfNegative property (Excel)
 keywords: vbaxl10.chm578092
 f1_keywords:
 - vbaxl10.chm578092
-ms.prod: excel
 api_name:
 - Excel.Series.InvertIfNegative
 ms.assetid: 06c963ac-6e81-5f45-b8b9-8c61bf0c02b6

@@ -3,7 +3,6 @@ title: AttachmentSelection.Application property (Outlook)
 keywords: vbaol11.chm2939
 f1_keywords:
 - vbaol11.chm2939
-ms.prod: outlook
 api_name:
 - Outlook.AttachmentSelection.Application
 ms.assetid: cd824947-7307-ebc0-aed8-53169c68ebf8

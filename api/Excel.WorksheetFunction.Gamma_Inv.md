@@ -3,7 +3,6 @@ title: WorksheetFunction.Gamma_Inv method (Excel)
 keywords: vbaxl10.chm137367
 f1_keywords:
 - vbaxl10.chm137367
-ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Gamma_Inv
 ms.assetid: a13d812f-9e27-e5e0-0226-7b0f5c666a91

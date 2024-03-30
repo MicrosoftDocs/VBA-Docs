@@ -3,7 +3,6 @@ title: Application.EnableLivePreview property (Excel)
 keywords: vbaxl10.chm133302
 f1_keywords:
 - vbaxl10.chm133302
-ms.prod: excel
 api_name:
 - Excel.Application.EnableLivePreview
 ms.assetid: 44163fba-3883-7744-de8b-36a0bd7f9e27

@@ -3,7 +3,6 @@ title: CubeField.DragToHide property (Excel)
 keywords: vbaxl10.chm668081
 f1_keywords:
 - vbaxl10.chm668081
-ms.prod: excel
 api_name:
 - Excel.CubeField.DragToHide
 ms.assetid: 55381de5-1eb9-2dee-9465-d18d8779beff

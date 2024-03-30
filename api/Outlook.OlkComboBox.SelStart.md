@@ -3,7 +3,6 @@ title: OlkComboBox.SelStart property (Outlook)
 keywords: vbaol11.chm1000221
 f1_keywords:
 - vbaol11.chm1000221
-ms.prod: outlook
 api_name:
 - Outlook.OlkComboBox.SelStart
 ms.assetid: f3141a7c-b9a5-b738-8803-9100e2283dc1

@@ -3,7 +3,6 @@ title: CustomProperties object (Excel)
 keywords: vbaxl10.chm679072
 f1_keywords:
 - vbaxl10.chm679072
-ms.prod: excel
 api_name:
 - Excel.CustomProperties
 ms.assetid: f0f38570-e3bf-58ad-ab8a-e412ad869907

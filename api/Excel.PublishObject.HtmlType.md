@@ -3,7 +3,6 @@ title: PublishObject.HtmlType property (Excel)
 keywords: vbaxl10.chm652079
 f1_keywords:
 - vbaxl10.chm652079
-ms.prod: excel
 api_name:
 - Excel.PublishObject.HtmlType
 ms.assetid: 16eb28e2-6535-7c44-ad8b-92078d44452a

@@ -3,7 +3,6 @@ title: FromRssFeedRuleCondition.Parent property (Outlook)
 keywords: vbaol11.chm3256
 f1_keywords:
 - vbaol11.chm3256
-ms.prod: outlook
 api_name:
 - Outlook.FromRssFeedRuleCondition.Parent
 ms.assetid: 35987b13-fb3a-add6-f762-984aba7d1dac

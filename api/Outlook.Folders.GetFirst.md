@@ -3,7 +3,6 @@ title: Folders.GetFirst method (Outlook)
 keywords: vbaol11.chm47
 f1_keywords:
 - vbaol11.chm47
-ms.prod: outlook
 api_name:
 - Outlook.Folders.GetFirst
 ms.assetid: 74757061-2f38-374e-1624-f8df211a711b

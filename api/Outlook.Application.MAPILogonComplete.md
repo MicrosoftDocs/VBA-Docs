@@ -3,7 +3,6 @@ title: Application.MAPILogonComplete event (Outlook)
 keywords: vbaol11.chm437
 f1_keywords:
 - vbaol11.chm437
-ms.prod: outlook
 api_name:
 - Outlook.Application.MAPILogonComplete
 ms.assetid: db6f7cf8-2a45-560f-f592-613de86e08e2

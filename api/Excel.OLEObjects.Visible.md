@@ -3,7 +3,6 @@ title: OLEObjects.Visible property (Excel)
 keywords: vbaxl10.chm419090
 f1_keywords:
 - vbaxl10.chm419090
-ms.prod: excel
 api_name:
 - Excel.OLEObjects.Visible
 ms.assetid: dc297a24-9a39-7b74-715d-e86d02c546c9

@@ -1,6 +1,5 @@
 ---
 title: RemoteItem.Send event (Outlook)
-ms.prod: outlook
 api_name:
 - Outlook.RemoteItem.Send
 ms.assetid: 6b2ddae1-8732-c6d2-8dff-585118c3d051

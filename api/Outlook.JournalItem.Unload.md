@@ -1,6 +1,5 @@
 ---
 title: JournalItem.Unload event (Outlook)
-ms.prod: outlook
 api_name:
 - Outlook.JournalItem.Unload
 ms.assetid: 4d82f733-6a5f-65db-054d-40aabc6d580f

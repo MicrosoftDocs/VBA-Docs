@@ -3,7 +3,6 @@ title: WorksheetFunction.RandBetween method (Excel)
 keywords: vbaxl10.chm137340
 f1_keywords:
 - vbaxl10.chm137340
-ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.RandBetween
 ms.assetid: 0b55c6d6-bfb4-a1e3-d37e-afb3ab90dc70

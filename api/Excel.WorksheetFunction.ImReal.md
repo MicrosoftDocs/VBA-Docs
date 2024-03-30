@@ -3,7 +3,6 @@ title: WorksheetFunction.ImReal method (Excel)
 keywords: vbaxl10.chm137287
 f1_keywords:
 - vbaxl10.chm137287
-ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.ImReal
 ms.assetid: 9fc2b5e5-f8dc-0d90-8bd2-cbb608656ed1

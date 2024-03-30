@@ -1,6 +1,5 @@
 ---
 title: XlDynamicFilterCriteria enumeration (Excel)
-ms.prod: excel
 api_name:
 - Excel.XlDynamicFilterCriteria
 ms.assetid: e1bf075a-8a34-476a-05b2-e341e20a5abe

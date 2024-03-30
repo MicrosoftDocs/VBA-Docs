@@ -3,7 +3,6 @@ title: Error.Ignore property (Excel)
 keywords: vbaxl10.chm702074
 f1_keywords:
 - vbaxl10.chm702074
-ms.prod: excel
 api_name:
 - Excel.Error.Ignore
 ms.assetid: 2e1eea04-fa93-86ed-670a-23246dddfbfe

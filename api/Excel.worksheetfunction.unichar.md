@@ -3,7 +3,6 @@ title: WorksheetFunction.Unichar method (Excel)
 keywords: vbaxl10.chm137453
 f1_keywords:
 - vbaxl10.chm137453
-ms.prod: excel
 ms.assetid: 0297b813-f613-82f5-325f-7e055e68642b
 ms.date: 05/25/2019
 ms.localizationpriority: medium

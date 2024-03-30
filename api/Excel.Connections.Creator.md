@@ -3,7 +3,6 @@ title: Connections.Creator property (Excel)
 keywords: vbaxl10.chm775074
 f1_keywords:
 - vbaxl10.chm775074
-ms.prod: excel
 api_name:
 - Excel.Connections.Creator
 ms.assetid: eb334a7c-d286-c1a0-c4d3-a4a2fe5be7c2

@@ -3,7 +3,6 @@ title: TableStyleElement.Parent property (Excel)
 keywords: vbaxl10.chm834075
 f1_keywords:
 - vbaxl10.chm834075
-ms.prod: excel
 api_name:
 - Excel.TableStyleElement.Parent
 ms.assetid: 15810259-c8bc-d5d4-ea3c-ce16af733ca6

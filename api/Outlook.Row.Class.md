@@ -3,7 +3,6 @@ title: Row.Class property (Outlook)
 keywords: vbaol11.chm2240
 f1_keywords:
 - vbaol11.chm2240
-ms.prod: outlook
 api_name:
 - Outlook.Row.Class
 ms.assetid: 5f01b168-7708-9b29-a6f2-8b4cedd75a20

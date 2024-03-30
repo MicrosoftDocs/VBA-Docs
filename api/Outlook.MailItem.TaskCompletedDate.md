@@ -3,7 +3,6 @@ title: MailItem.TaskCompletedDate property (Outlook)
 keywords: vbaol11.chm1395
 f1_keywords:
 - vbaol11.chm1395
-ms.prod: outlook
 api_name:
 - Outlook.MailItem.TaskCompletedDate
 ms.assetid: 4bee35d4-1f1e-0b77-2021-84d4916bef8e

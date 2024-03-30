@@ -3,7 +3,6 @@ title: OlkComboBox.MouseDown event (Outlook)
 keywords: vbaol11.chm1000237
 f1_keywords:
 - vbaol11.chm1000237
-ms.prod: outlook
 api_name:
 - Outlook.OlkComboBox.MouseDown
 ms.assetid: 7d9385c4-8c21-5ff3-ec00-789223f76072

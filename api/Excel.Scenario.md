@@ -3,7 +3,6 @@ title: Scenario object (Excel)
 keywords: vbaxl10.chm363072
 f1_keywords:
 - vbaxl10.chm363072
-ms.prod: excel
 api_name:
 - Excel.Scenario
 ms.assetid: edd1c4f4-12b1-0d9f-f4aa-dd66278ba891

@@ -3,7 +3,6 @@ title: DefaultWebOptions.OrganizeInFolder property (Excel)
 keywords: vbaxl10.chm660076
 f1_keywords:
 - vbaxl10.chm660076
-ms.prod: excel
 api_name:
 - Excel.DefaultWebOptions.OrganizeInFolder
 ms.assetid: 380edf97-e350-89a5-23e7-67e48b6be6f9

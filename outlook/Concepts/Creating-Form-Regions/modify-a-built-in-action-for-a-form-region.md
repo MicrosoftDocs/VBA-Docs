@@ -1,6 +1,5 @@
 ---
 title: Modify a Built-in Action for a Form Region
-ms.prod: outlook
 ms.assetid: c2493139-5c76-6f1c-6cee-7e0907d94c70
 ms.date: 06/08/2021
 ms.localizationpriority: medium

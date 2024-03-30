@@ -3,7 +3,6 @@ title: Slicer.Caption property (Excel)
 keywords: vbaxl10.chm905074
 f1_keywords:
 - vbaxl10.chm905074
-ms.prod: excel
 api_name:
 - Excel.Slicer.Caption
 ms.assetid: f0ba7c9b-d745-a72c-770e-852fc9cde9e0

@@ -3,7 +3,6 @@ title: PageSetup.DifferentFirstPageHeaderFooter property (Excel)
 keywords: vbaxl10.chm473113
 f1_keywords:
 - vbaxl10.chm473113
-ms.prod: excel
 api_name:
 - Excel.PageSetup.DifferentFirstPageHeaderFooter
 ms.assetid: b3613d11-33e3-77f6-3b9b-bbb05efbed3b

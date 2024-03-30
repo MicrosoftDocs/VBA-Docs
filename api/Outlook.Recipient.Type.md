@@ -3,7 +3,6 @@ title: Recipient.Type property (Outlook)
 keywords: vbaol11.chm2355
 f1_keywords:
 - vbaol11.chm2355
-ms.prod: outlook
 api_name:
 - Outlook.Recipient.Type
 ms.assetid: 3bdc616c-f008-ec95-0a92-0f704eedee34

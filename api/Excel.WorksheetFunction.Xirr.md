@@ -3,7 +3,6 @@ title: WorksheetFunction.Xirr method (Excel)
 keywords: vbaxl10.chm137306
 f1_keywords:
 - vbaxl10.chm137306
-ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Xirr
 ms.assetid: ac3b11b1-501a-1585-5c60-6e82167522aa

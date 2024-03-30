@@ -3,7 +3,6 @@ title: Frame.ScrollHeight Property (Outlook Forms Script)
 keywords: olfm10.chm2001790
 f1_keywords:
 - olfm10.chm2001790
-ms.prod: outlook
 ms.assetid: 899d5c03-73f5-e78a-bc09-5232bd302f94
 ms.date: 06/08/2017
 ms.localizationpriority: medium

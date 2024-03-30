@@ -3,7 +3,6 @@ title: XmlNamespaces.Count property (Excel)
 keywords: vbaxl10.chm746075
 f1_keywords:
 - vbaxl10.chm746075
-ms.prod: excel
 api_name:
 - Excel.XmlNamespaces.Count
 ms.assetid: d9ca7fdd-08cb-e6eb-bd4b-c56b6f6b803c

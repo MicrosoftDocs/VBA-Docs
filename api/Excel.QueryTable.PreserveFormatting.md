@@ -3,7 +3,6 @@ title: QueryTable.PreserveFormatting property (Excel)
 keywords: vbaxl10.chm518111
 f1_keywords:
 - vbaxl10.chm518111
-ms.prod: excel
 api_name:
 - Excel.QueryTable.PreserveFormatting
 ms.assetid: 0be15116-ff1a-9b39-ae59-46c2d9383f0b

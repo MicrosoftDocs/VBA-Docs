@@ -3,7 +3,6 @@ title: ExchangeUser.GetExchangeUser method (Outlook)
 keywords: vbaol11.chm2079
 f1_keywords:
 - vbaol11.chm2079
-ms.prod: outlook
 api_name:
 - Outlook.ExchangeUser.GetExchangeUser
 ms.assetid: ff0babba-895f-8205-fefb-c587ee53ea91

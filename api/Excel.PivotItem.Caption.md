@@ -3,7 +3,6 @@ title: PivotItem.Caption property (Excel)
 keywords: vbaxl10.chm246090
 f1_keywords:
 - vbaxl10.chm246090
-ms.prod: excel
 api_name:
 - Excel.PivotItem.Caption
 ms.assetid: 5b7f3136-971e-6e11-f709-7fffbc86975a

@@ -3,7 +3,6 @@ title: Inspector.BeforeMinimize event (Outlook)
 keywords: vbaol11.chm469
 f1_keywords:
 - vbaol11.chm469
-ms.prod: outlook
 api_name:
 - Outlook.Inspector.BeforeMinimize
 ms.assetid: a2a6ce7e-5980-2914-6785-be87d9b163c7

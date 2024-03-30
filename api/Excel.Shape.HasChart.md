@@ -3,7 +3,6 @@ title: Shape.HasChart property (Excel)
 keywords: vbaxl10.chm636147
 f1_keywords:
 - vbaxl10.chm636147
-ms.prod: excel
 api_name:
 - Excel.Shape.HasChart
 ms.assetid: fa795ef7-78a4-15f2-f745-94163f9dcf08

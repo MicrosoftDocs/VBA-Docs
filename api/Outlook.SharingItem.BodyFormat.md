@@ -3,7 +3,6 @@ title: SharingItem.BodyFormat property (Outlook)
 keywords: vbaol11.chm675
 f1_keywords:
 - vbaol11.chm675
-ms.prod: outlook
 api_name:
 - Outlook.SharingItem.BodyFormat
 ms.assetid: 60a18df9-8882-a5a2-efb9-cc59206f7345

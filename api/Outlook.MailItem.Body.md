@@ -3,7 +3,6 @@ title: MailItem.Body property (Outlook)
 keywords: vbaol11.chm1297
 f1_keywords:
 - vbaol11.chm1297
-ms.prod: outlook
 api_name:
 - Outlook.MailItem.Body
 ms.assetid: 578567b1-893b-db4e-dddb-f3c237952c03

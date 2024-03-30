@@ -3,7 +3,6 @@ title: WorksheetFunction.ImPower method (Excel)
 keywords: vbaxl10.chm137275
 f1_keywords:
 - vbaxl10.chm137275
-ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.ImPower
 ms.assetid: 00dfdca2-8609-6719-f666-c8a78998d07e

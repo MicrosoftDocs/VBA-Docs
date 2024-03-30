@@ -3,7 +3,6 @@ title: IRtdServer.ConnectData method (Excel)
 keywords: vbaxl10.chm500006
 f1_keywords:
 - vbaxl10.chm500006
-ms.prod: excel
 api_name:
 - Excel.IRtdServer.ConnectData
 ms.assetid: 2d660ccc-fca7-c794-61f1-4e0578cc7511

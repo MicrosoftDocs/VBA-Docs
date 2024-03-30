@@ -3,7 +3,6 @@ title: PlotArea.InsideLeft property (Excel)
 keywords: vbaxl10.chm618088
 f1_keywords:
 - vbaxl10.chm618088
-ms.prod: excel
 api_name:
 - Excel.PlotArea.InsideLeft
 ms.assetid: 193934e2-c3ca-c3cf-fb90-2dd45e17f9b8

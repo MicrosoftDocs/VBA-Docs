@@ -3,7 +3,6 @@ title: ExchangeDistributionList.Update method (Outlook)
 keywords: vbaol11.chm2123
 f1_keywords:
 - vbaol11.chm2123
-ms.prod: outlook
 api_name:
 - Outlook.ExchangeDistributionList.Update
 ms.assetid: 3009e641-81ea-ed51-9ad0-512af9367e79

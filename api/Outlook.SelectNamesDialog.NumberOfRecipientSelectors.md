@@ -3,7 +3,6 @@ title: SelectNamesDialog.NumberOfRecipientSelectors property (Outlook)
 keywords: vbaol11.chm834
 f1_keywords:
 - vbaol11.chm834
-ms.prod: outlook
 api_name:
 - Outlook.SelectNamesDialog.NumberOfRecipientSelectors
 ms.assetid: 2cb40e5f-b122-d032-9343-54fe98bc5455

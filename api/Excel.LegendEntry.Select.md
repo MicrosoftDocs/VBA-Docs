@@ -3,7 +3,6 @@ title: LegendEntry.Select method (Excel)
 keywords: vbaxl10.chm586078
 f1_keywords:
 - vbaxl10.chm586078
-ms.prod: excel
 api_name:
 - Excel.LegendEntry.Select
 ms.assetid: 1d4d2259-3150-ed51-a12b-9a2ca95109c9

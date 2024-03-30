@@ -3,7 +3,6 @@ title: OlkCategory.DoubleClick event (Outlook)
 keywords: vbaol11.chm1000450
 f1_keywords:
 - vbaol11.chm1000450
-ms.prod: outlook
 api_name:
 - Outlook.OlkCategory.DoubleClick
 ms.assetid: 13fabbc8-a78e-2f92-650b-2ddb906ce600

@@ -3,7 +3,6 @@ title: AboveAverage.Application property (Excel)
 keywords: vbaxl10.chm823073
 f1_keywords:
 - vbaxl10.chm823073
-ms.prod: excel
 api_name:
 - Excel.AboveAverage.Application
 ms.assetid: 25183b3d-a733-6ecd-694c-b14f76238e2f

@@ -3,7 +3,6 @@ title: Range.FindNext method (Excel)
 keywords: vbaxl10.chm144129
 f1_keywords:
 - vbaxl10.chm144129
-ms.prod: excel
 api_name:
 - Excel.Range.FindNext
 ms.assetid: 308c6241-2398-13e6-ba68-17ec713376f6

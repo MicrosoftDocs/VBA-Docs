@@ -3,7 +3,6 @@ title: LegendKey.InvertIfNegative property (Excel)
 keywords: vbaxl10.chm590079
 f1_keywords:
 - vbaxl10.chm590079
-ms.prod: excel
 api_name:
 - Excel.LegendKey.InvertIfNegative
 ms.assetid: f0c6cd77-b24f-f0ce-36da-117f5f291858

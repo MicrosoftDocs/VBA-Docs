@@ -3,7 +3,6 @@ title: TableStyle.Creator property (Excel)
 keywords: vbaxl10.chm838074
 f1_keywords:
 - vbaxl10.chm838074
-ms.prod: excel
 api_name:
 - Excel.TableStyle.Creator
 ms.assetid: 74922404-ce94-d5f9-aa3d-a82622859ac6

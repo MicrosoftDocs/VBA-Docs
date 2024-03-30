@@ -3,7 +3,6 @@ title: Explorer.HTMLDocument property (Outlook)
 keywords: vbaol11.chm2778
 f1_keywords:
 - vbaol11.chm2778
-ms.prod: outlook
 api_name:
 - Outlook.Explorer.HTMLDocument
 ms.assetid: dd9ff575-37f5-1b64-5ebf-f17998586d28

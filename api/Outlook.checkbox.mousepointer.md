@@ -3,7 +3,6 @@ title: CheckBox.MousePointer Property (Outlook Forms Script)
 keywords: olfm10.chm2001550
 f1_keywords:
 - olfm10.chm2001550
-ms.prod: outlook
 ms.assetid: 7787fce4-564a-ad9e-6e54-d4cd6a0a3e8a
 ms.date: 06/08/2017
 ms.localizationpriority: medium

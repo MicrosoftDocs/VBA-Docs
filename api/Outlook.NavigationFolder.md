@@ -3,7 +3,6 @@ title: NavigationFolder object (Outlook)
 keywords: vbaol11.chm3201
 f1_keywords:
 - vbaol11.chm3201
-ms.prod: outlook
 api_name:
 - Outlook.NavigationFolder
 ms.assetid: c8d7aabb-58ba-df5e-ccdc-06f73db7726c

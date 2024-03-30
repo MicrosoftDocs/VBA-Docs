@@ -3,7 +3,6 @@ title: Conflict.Session property (Outlook)
 keywords: vbaol11.chm413
 f1_keywords:
 - vbaol11.chm413
-ms.prod: outlook
 api_name:
 - Outlook.Conflict.Session
 ms.assetid: cd7eaf1e-545b-5a40-d95c-841f72a7a15e

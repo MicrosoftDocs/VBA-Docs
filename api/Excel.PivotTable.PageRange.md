@@ -3,7 +3,6 @@ title: PivotTable.PageRange property (Excel)
 keywords: vbaxl10.chm235087
 f1_keywords:
 - vbaxl10.chm235087
-ms.prod: excel
 api_name:
 - Excel.PivotTable.PageRange
 ms.assetid: 05629703-c43f-282c-e4da-22c95094e15b

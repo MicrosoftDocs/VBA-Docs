@@ -3,7 +3,6 @@ title: SparkVerticalAxis.CustomMaxScaleValue property (Excel)
 keywords: vbaxl10.chm881076
 f1_keywords:
 - vbaxl10.chm881076
-ms.prod: excel
 api_name:
 - Excel.SparkVerticalAxis.CustomMaxScaleValue
 ms.assetid: 6589c4e5-21c6-c54d-bde5-ac2daa58f6f5

@@ -3,7 +3,6 @@ title: Border object (Excel Graph)
 keywords: vbagr10.chm5207143
 f1_keywords:
 - vbagr10.chm5207143
-ms.prod: excel
 api_name:
 - Excel.Border
 ms.assetid: cb5ee6ef-f497-5113-85e4-a312871ad072

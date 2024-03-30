@@ -3,7 +3,6 @@ title: Scenario.Parent property (Excel)
 keywords: vbaxl10.chm363075
 f1_keywords:
 - vbaxl10.chm363075
-ms.prod: excel
 api_name:
 - Excel.Scenario.Parent
 ms.assetid: 40ad61c5-26d4-01a1-31ae-5535fb32d625

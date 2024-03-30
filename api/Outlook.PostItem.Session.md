@@ -3,7 +3,6 @@ title: PostItem.Session property (Outlook)
 keywords: vbaol11.chm1511
 f1_keywords:
 - vbaol11.chm1511
-ms.prod: outlook
 api_name:
 - Outlook.PostItem.Session
 ms.assetid: 53dc4396-598e-197b-cea1-135e44686b91

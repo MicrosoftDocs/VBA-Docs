@@ -3,7 +3,6 @@ title: LegendKey.Top property (Excel)
 keywords: vbaxl10.chm590091
 f1_keywords:
 - vbaxl10.chm590091
-ms.prod: excel
 api_name:
 - Excel.LegendKey.Top
 ms.assetid: b2664f90-505e-28b1-fd7c-388eaec5d6ee

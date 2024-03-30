@@ -3,7 +3,6 @@ title: Workbooks.CanCheckOut method (Excel)
 keywords: vbaxl10.chm203086
 f1_keywords:
 - vbaxl10.chm203086
-ms.prod: excel
 api_name:
 - Excel.Workbooks.CanCheckOut
 ms.assetid: 06259bbd-2e55-3fbe-d08c-094985cb9fff

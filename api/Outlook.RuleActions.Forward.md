@@ -3,7 +3,6 @@ title: RuleActions.Forward property (Outlook)
 keywords: vbaol11.chm2193
 f1_keywords:
 - vbaol11.chm2193
-ms.prod: outlook
 api_name:
 - Outlook.RuleActions.Forward
 ms.assetid: 48315808-5ef7-3262-a305-5b659986e7a8

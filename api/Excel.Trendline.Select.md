@@ -3,7 +3,6 @@ title: Trendline.Select method (Excel)
 keywords: vbaxl10.chm594089
 f1_keywords:
 - vbaxl10.chm594089
-ms.prod: excel
 api_name:
 - Excel.Trendline.Select
 ms.assetid: b866a79c-38c1-feb2-e244-31c727e98f46

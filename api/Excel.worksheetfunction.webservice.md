@@ -3,7 +3,6 @@ title: WorksheetFunction.WebService method (Excel)
 keywords: vbaxl10.chm137466
 f1_keywords:
 - vbaxl10.chm137466
-ms.prod: excel
 ms.assetid: 7b7be122-2b68-0431-6687-cc5dad897274
 ms.date: 05/25/2019
 ms.localizationpriority: medium

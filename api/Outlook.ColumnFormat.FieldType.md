@@ -3,7 +3,6 @@ title: ColumnFormat.FieldType property (Outlook)
 keywords: vbaol11.chm2732
 f1_keywords:
 - vbaol11.chm2732
-ms.prod: outlook
 api_name:
 - Outlook.ColumnFormat.FieldType
 ms.assetid: 84a40f6f-72fe-61e5-d85c-7a7c90f3e58a

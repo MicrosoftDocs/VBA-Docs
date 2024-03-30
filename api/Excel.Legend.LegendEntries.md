@@ -3,7 +3,6 @@ title: Legend.LegendEntries method (Excel)
 keywords: vbaxl10.chm622079
 f1_keywords:
 - vbaxl10.chm622079
-ms.prod: excel
 api_name:
 - Excel.Legend.LegendEntries
 ms.assetid: 6b20827c-7196-e1d7-485f-954b0ea90f58

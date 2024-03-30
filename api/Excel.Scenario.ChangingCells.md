@@ -3,7 +3,6 @@ title: Scenario.ChangingCells property (Excel)
 keywords: vbaxl10.chm364074
 f1_keywords:
 - vbaxl10.chm364074
-ms.prod: excel
 api_name:
 - Excel.Scenario.ChangingCells
 ms.assetid: 254abee5-0b64-7f68-33e9-28228541ad8f

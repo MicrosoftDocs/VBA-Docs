@@ -3,7 +3,6 @@ title: Hyperlinks.Count property (Excel)
 keywords: vbaxl10.chm534074
 f1_keywords:
 - vbaxl10.chm534074
-ms.prod: excel
 api_name:
 - Excel.Hyperlinks.Count
 ms.assetid: e3f58f84-9f15-dd33-9561-04d334c368ed

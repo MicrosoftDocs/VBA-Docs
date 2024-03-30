@@ -3,7 +3,6 @@ title: Parameter object (Excel)
 keywords: vbaxl10.chm522072
 f1_keywords:
 - vbaxl10.chm522072
-ms.prod: excel
 api_name:
 - Excel.Parameter
 ms.assetid: 2a30f4ef-2cae-c96d-4480-3ba55fa871e8

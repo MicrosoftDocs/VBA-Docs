@@ -3,7 +3,6 @@ title: SharingItem.Deny method (Outlook)
 keywords: vbaol11.chm692
 f1_keywords:
 - vbaol11.chm692
-ms.prod: outlook
 api_name:
 - Outlook.SharingItem.Deny
 ms.assetid: f2a5af98-280d-48f1-f6c3-3d17a2654774

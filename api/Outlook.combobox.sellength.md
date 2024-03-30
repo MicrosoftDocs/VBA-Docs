@@ -3,7 +3,6 @@ title: ComboBox.SelLength Property (Outlook Forms Script)
 keywords: olfm10.chm2001870
 f1_keywords:
 - olfm10.chm2001870
-ms.prod: outlook
 ms.assetid: 0fda7952-032c-1b2d-03aa-870fe3afc757
 ms.date: 06/08/2017
 ms.localizationpriority: medium

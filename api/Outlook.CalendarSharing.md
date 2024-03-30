@@ -3,7 +3,6 @@ title: CalendarSharing object (Outlook)
 keywords: vbaol11.chm3176
 f1_keywords:
 - vbaol11.chm3176
-ms.prod: outlook
 api_name:
 - Outlook.CalendarSharing
 ms.assetid: 37a8a15e-51c2-b1a0-7db6-cf2a1f4e8405

@@ -3,7 +3,6 @@ title: OlkContactPhoto object (Outlook)
 keywords: vbaol11.chm1000322
 f1_keywords:
 - vbaol11.chm1000322
-ms.prod: outlook
 api_name:
 - Outlook.OlkContactPhoto
 ms.assetid: eea9a5d0-c208-dbf9-39e1-93614fb98d1e

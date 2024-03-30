@@ -3,7 +3,6 @@ title: XmlDataBinding.Refresh method (Excel)
 keywords: vbaxl10.chm748074
 f1_keywords:
 - vbaxl10.chm748074
-ms.prod: excel
 api_name:
 - Excel.XmlDataBinding.Refresh
 ms.assetid: b396a071-87b1-2a89-9176-81e6dbc7efca

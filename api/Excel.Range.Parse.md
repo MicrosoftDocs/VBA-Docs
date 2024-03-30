@@ -3,7 +3,6 @@ title: Range.Parse method (Excel)
 keywords: vbaxl10.chm144173
 f1_keywords:
 - vbaxl10.chm144173
-ms.prod: excel
 api_name:
 - Excel.Range.Parse
 ms.assetid: 3580aeb7-e868-894a-9dd5-8e37475fb267

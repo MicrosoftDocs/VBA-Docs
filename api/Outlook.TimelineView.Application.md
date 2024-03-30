@@ -3,7 +3,6 @@ title: TimelineView.Application property (Outlook)
 keywords: vbaol11.chm2642
 f1_keywords:
 - vbaol11.chm2642
-ms.prod: outlook
 api_name:
 - Outlook.TimelineView.Application
 ms.assetid: 9f45f96a-55e0-5610-5096-272120685b6e

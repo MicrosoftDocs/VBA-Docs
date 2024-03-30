@@ -3,7 +3,6 @@ title: OlkCategory.MouseDown event (Outlook)
 keywords: vbaol11.chm1000451
 f1_keywords:
 - vbaol11.chm1000451
-ms.prod: outlook
 api_name:
 - Outlook.OlkCategory.MouseDown
 ms.assetid: c75c2b05-3f85-0f6d-a5d0-59ff43b5653c

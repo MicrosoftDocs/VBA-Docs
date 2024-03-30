@@ -3,7 +3,6 @@ title: PivotItem.ShowDetail property (Excel)
 keywords: vbaxl10.chm246082
 f1_keywords:
 - vbaxl10.chm246082
-ms.prod: excel
 api_name:
 - Excel.PivotItem.ShowDetail
 ms.assetid: d79e3f27-ff7a-9bf2-313d-e1add3e386a7

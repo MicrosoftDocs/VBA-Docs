@@ -3,7 +3,6 @@ title: Workbook.AccuracyVersion property (Excel)
 keywords: vbaxl10.chm199271
 f1_keywords:
 - vbaxl10.chm199271
-ms.prod: excel
 api_name:
 - Excel.Workbook.AccuracyVersion
 ms.assetid: bc81782c-662c-87ec-8381-d06e77674d0c

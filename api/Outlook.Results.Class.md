@@ -3,7 +3,6 @@ title: Results.Class property (Outlook)
 keywords: vbaol11.chm499
 f1_keywords:
 - vbaol11.chm499
-ms.prod: outlook
 api_name:
 - Outlook.Results.Class
 ms.assetid: 99f73d29-a52a-b2c5-d521-cfa0399a452d

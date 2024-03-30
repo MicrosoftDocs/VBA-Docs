@@ -3,7 +3,6 @@ title: PivotLines object (Excel)
 keywords: vbaxl10.chm765072
 f1_keywords:
 - vbaxl10.chm765072
-ms.prod: excel
 api_name:
 - Excel.PivotLines
 ms.assetid: 191aba6c-b238-3ac5-830a-cbbabeb377a2

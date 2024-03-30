@@ -3,7 +3,6 @@ title: TableView.AlwaysExpandConversation property (Outlook)
 keywords: vbaol11.chm3520
 f1_keywords:
 - vbaol11.chm3520
-ms.prod: outlook
 api_name:
 - Outlook.TableView.AlwaysExpandConversation
 ms.assetid: 99d74daf-7d3d-80b4-cf00-42f3f2cbd60b

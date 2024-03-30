@@ -3,7 +3,6 @@ title: OlkInfoBar.MouseDown event (Outlook)
 keywords: vbaol11.chm1000301
 f1_keywords:
 - vbaol11.chm1000301
-ms.prod: outlook
 api_name:
 - Outlook.OlkInfoBar.MouseDown
 ms.assetid: a158b599-0f02-49e4-f4fe-5495540a3676

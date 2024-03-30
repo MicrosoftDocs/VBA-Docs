@@ -3,7 +3,6 @@ title: OLEDBConnection.SavePassword property (Excel)
 keywords: vbaxl10.chm794090
 f1_keywords:
 - vbaxl10.chm794090
-ms.prod: excel
 api_name:
 - Excel.OLEDBConnection.SavePassword
 ms.assetid: d8edaa7c-b53f-2114-0ad8-699d78b7893a

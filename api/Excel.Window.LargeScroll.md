@@ -3,7 +3,6 @@ title: Window.LargeScroll method (Excel)
 keywords: vbaxl10.chm356097
 f1_keywords:
 - vbaxl10.chm356097
-ms.prod: excel
 api_name:
 - Excel.Window.LargeScroll
 ms.assetid: f3d74426-ece5-559f-c8c2-c356eb532217

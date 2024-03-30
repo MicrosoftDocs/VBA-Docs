@@ -1,6 +1,5 @@
 ---
 title: XlBarShape enumeration (Excel)
-ms.prod: excel
 api_name:
 - Excel.xlBarShape
 ms.assetid: 63a7cea6-e741-8e5b-94f3-16acfe22cb34

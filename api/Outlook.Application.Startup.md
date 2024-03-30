@@ -3,7 +3,6 @@ title: Application.Startup event (Outlook)
 keywords: vbaol11.chm433
 f1_keywords:
 - vbaol11.chm433
-ms.prod: outlook
 api_name:
 - Outlook.Application.Startup
 ms.assetid: d4724d96-2572-b1e3-e202-0bfffb5cf7d5

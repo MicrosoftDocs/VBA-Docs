@@ -3,7 +3,6 @@ title: PresetTexture property (Excel Graph)
 keywords: vbagr10.chm67162
 f1_keywords:
 - vbagr10.chm67162
-ms.prod: excel
 api_name:
 - Excel.PresetTexture
 ms.assetid: 5b471290-66f4-3504-096b-70265db88b93

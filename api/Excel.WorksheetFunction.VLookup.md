@@ -3,7 +3,6 @@ title: WorksheetFunction.VLookup method (Excel)
 keywords: vbaxl10.chm137123
 f1_keywords:
 - vbaxl10.chm137123
-ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.VLookup
 ms.assetid: 1b84b1f5-b557-3a5c-0787-7c19a9800580

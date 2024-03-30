@@ -3,7 +3,6 @@ title: ChartTitle.Select method (Excel)
 keywords: vbaxl10.chm563075
 f1_keywords:
 - vbaxl10.chm563075
-ms.prod: excel
 api_name:
 - Excel.ChartTitle.Select
 ms.assetid: 3ca37ca1-c874-cf06-dc4a-38df1879a5e2

@@ -1,6 +1,5 @@
 ---
 title: XlTotalsCalculation enumeration (Excel)
-ms.prod: excel
 api_name:
 - Excel.XlTotalsCalculation
 ms.assetid: 49e816b8-9f78-afd7-a107-e8628774b1ac

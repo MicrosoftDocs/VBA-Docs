@@ -3,7 +3,6 @@ title: Background property (Excel Graph)
 keywords: vbagr10.chm65716
 f1_keywords:
 - vbagr10.chm65716
-ms.prod: excel
 api_name:
 - Excel.Background
 ms.assetid: f20b2bfe-4f10-8300-be78-7b37135445a4

@@ -3,7 +3,6 @@ title: TextFrame.MarginBottom property (Excel)
 keywords: vbaxl10.chm644073
 f1_keywords:
 - vbaxl10.chm644073
-ms.prod: excel
 api_name:
 - Excel.TextFrame.MarginBottom
 ms.assetid: 50b2d7a9-8595-44a7-6f7a-ee2d2255869c

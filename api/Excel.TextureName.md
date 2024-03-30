@@ -3,7 +3,6 @@ title: TextureName property (Excel Graph)
 keywords: vbagr10.chm5208045
 f1_keywords:
 - vbagr10.chm5208045
-ms.prod: excel
 api_name:
 - Excel.TextureName
 ms.assetid: a2c0e2af-5f16-f181-0404-49223de24a97

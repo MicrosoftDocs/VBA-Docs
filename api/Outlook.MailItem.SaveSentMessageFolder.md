@@ -3,7 +3,6 @@ title: MailItem.SaveSentMessageFolder property (Outlook)
 keywords: vbaol11.chm1356
 f1_keywords:
 - vbaol11.chm1356
-ms.prod: outlook
 api_name:
 - Outlook.MailItem.SaveSentMessageFolder
 ms.assetid: ab36ae3b-6c6d-842b-dbb4-88c37d8e7874

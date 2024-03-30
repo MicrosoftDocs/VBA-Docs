@@ -3,7 +3,6 @@ title: Range.FillDown method (Excel)
 keywords: vbaxl10.chm144124
 f1_keywords:
 - vbaxl10.chm144124
-ms.prod: excel
 api_name:
 - Excel.Range.FillDown
 ms.assetid: bb7c0b2d-8dd9-13e5-b90a-b2708935afa9

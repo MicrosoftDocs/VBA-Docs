@@ -3,7 +3,6 @@ title: Items.Add method (Outlook)
 keywords: vbaol11.chm61
 f1_keywords:
 - vbaol11.chm61
-ms.prod: outlook
 api_name:
 - Outlook.Items.Add
 ms.assetid: 0ee68068-1452-0f29-b85a-88b801ac0448

@@ -1,6 +1,5 @@
 ---
 title: Concepts (Outlook)
-ms.prod: outlook
 ms.assetid: 98b66ea0-ef43-fda8-8893-b49cef9c28da
 ms.date: 10/10/2018
 ms.localizationpriority: medium

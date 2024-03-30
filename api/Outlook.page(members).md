@@ -1,6 +1,5 @@
 ---
 title: Page Members (Outlook Forms Script)
-ms.prod: outlook
 ms.assetid: 430d453a-6727-4dc6-bc77-0ec9866b4a38
 ms.date: 06/08/2019
 ms.localizationpriority: medium

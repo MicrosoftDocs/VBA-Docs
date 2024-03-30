@@ -1,6 +1,5 @@
 ---
 title: Forms and Message Classes
-ms.prod: outlook
 ms.assetid: 0d07f6dc-2567-40a8-913b-c31f9e8ae214
 ms.date: 06/08/2019
 ms.localizationpriority: medium

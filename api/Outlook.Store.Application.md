@@ -3,7 +3,6 @@ title: Store.Application property (Outlook)
 keywords: vbaol11.chm796
 f1_keywords:
 - vbaol11.chm796
-ms.prod: outlook
 api_name:
 - Outlook.Store.Application
 ms.assetid: 97ea6907-8619-3777-d201-2727a59ff59c

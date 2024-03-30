@@ -1,6 +1,5 @@
 ---
 title: XlIMEMode enumeration (Excel)
-ms.prod: excel
 api_name:
 - Excel.XlIMEMode
 ms.assetid: 846620f7-6d41-5b53-cc5b-1985a95c173d

@@ -1,6 +1,5 @@
 ---
 title: ReportItem.BeforeCheckNames event (Outlook)
-ms.prod: outlook
 api_name:
 - Outlook.ReportItem.BeforeCheckNames
 ms.assetid: a1d1a844-96c0-50f0-0db8-d0f6980d422d

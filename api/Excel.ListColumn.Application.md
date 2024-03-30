@@ -3,7 +3,6 @@ title: ListColumn.Application property (Excel)
 keywords: vbaxl10.chm737073
 f1_keywords:
 - vbaxl10.chm737073
-ms.prod: excel
 api_name:
 - Excel.ListColumn.Application
 ms.assetid: 49351e5a-e06c-aaac-5002-e1682b79c4a3

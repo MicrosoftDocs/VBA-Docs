@@ -3,7 +3,6 @@ title: WorksheetFunction.Covariance_P method (Excel)
 keywords: vbaxl10.chm137363
 f1_keywords:
 - vbaxl10.chm137363
-ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Covariance_P
 ms.assetid: a1cc46fe-e725-3d29-d3d3-1c6a56a67abf

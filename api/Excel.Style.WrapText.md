@@ -3,7 +3,6 @@ title: Style.WrapText property (Excel)
 keywords: vbaxl10.chm177098
 f1_keywords:
 - vbaxl10.chm177098
-ms.prod: excel
 api_name:
 - Excel.Style.WrapText
 ms.assetid: 9b6d236e-b46d-c557-0a54-5c9f765fd707

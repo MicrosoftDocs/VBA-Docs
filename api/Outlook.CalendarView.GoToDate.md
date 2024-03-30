@@ -3,7 +3,6 @@ title: CalendarView.GoToDate method (Outlook)
 keywords: vbaol11.chm2623
 f1_keywords:
 - vbaol11.chm2623
-ms.prod: outlook
 api_name:
 - Outlook.CalendarView.GoToDate
 ms.assetid: f54ad557-4529-b598-1314-c277ddba8495

@@ -3,7 +3,6 @@ title: Column3DGroup property (Excel Graph)
 keywords: vbagr10.chm3076976
 f1_keywords:
 - vbagr10.chm3076976
-ms.prod: excel
 api_name:
 - Excel.Column3DGroup
 ms.assetid: 9fa90f46-29b8-c710-93de-4150e276330c

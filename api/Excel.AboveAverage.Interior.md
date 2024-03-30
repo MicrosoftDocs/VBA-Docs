@@ -3,7 +3,6 @@ title: AboveAverage.Interior property (Excel)
 keywords: vbaxl10.chm824077
 f1_keywords:
 - vbaxl10.chm824077
-ms.prod: excel
 api_name:
 - Excel.AboveAverage.Interior
 ms.assetid: 49c68b75-7358-e9bd-6532-bac221a1241c

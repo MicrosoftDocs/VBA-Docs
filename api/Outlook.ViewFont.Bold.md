@@ -3,7 +3,6 @@ title: ViewFont.Bold property (Outlook)
 keywords: vbaol11.chm2695
 f1_keywords:
 - vbaol11.chm2695
-ms.prod: outlook
 api_name:
 - Outlook.ViewFont.Bold
 ms.assetid: 9a557c99-e23c-8104-9ab4-c8075e30d4f3

@@ -3,7 +3,6 @@ title: ImportanceRuleCondition.ConditionType property (Outlook)
 keywords: vbaol11.chm2337
 f1_keywords:
 - vbaol11.chm2337
-ms.prod: outlook
 api_name:
 - Outlook.ImportanceRuleCondition.ConditionType
 ms.assetid: c4fd234b-7a7a-dfb6-9b09-2840f254d713

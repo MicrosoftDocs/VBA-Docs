@@ -3,7 +3,6 @@ title: Style.IncludeFont property (Excel)
 keywords: vbaxl10.chm177082
 f1_keywords:
 - vbaxl10.chm177082
-ms.prod: excel
 api_name:
 - Excel.Style.IncludeFont
 ms.assetid: 280f866f-dcd8-dabd-0673-a26090e7f53a

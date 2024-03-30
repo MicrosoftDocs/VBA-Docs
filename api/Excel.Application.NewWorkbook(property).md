@@ -3,7 +3,6 @@ title: Application.NewWorkbook property (Excel)
 keywords: vbaxl10.chm133283
 f1_keywords:
 - vbaxl10.chm133283
-ms.prod: excel
 api_name:
 - Excel.Application.NewWorkbook
 ms.assetid: 3a50a338-53be-3ac9-d398-c58084e19e6d

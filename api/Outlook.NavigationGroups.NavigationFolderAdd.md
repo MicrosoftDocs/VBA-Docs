@@ -3,7 +3,6 @@ title: NavigationGroups.NavigationFolderAdd event (Outlook)
 keywords: vbaol11.chm2914
 f1_keywords:
 - vbaol11.chm2914
-ms.prod: outlook
 api_name:
 - Outlook.NavigationGroups.NavigationFolderAdd
 ms.assetid: b290941c-794d-0c95-ed63-ea8db3be553e

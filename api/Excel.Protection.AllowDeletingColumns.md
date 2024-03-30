@@ -3,7 +3,6 @@ title: Protection.AllowDeletingColumns property (Excel)
 keywords: vbaxl10.chm719079
 f1_keywords:
 - vbaxl10.chm719079
-ms.prod: excel
 api_name:
 - Excel.Protection.AllowDeletingColumns
 ms.assetid: 602e0599-f444-0e81-9d9c-70f1f8093a29

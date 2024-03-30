@@ -3,7 +3,6 @@ title: TickLabels.NumberFormatLocal property (Excel)
 keywords: vbaxl10.chm616079
 f1_keywords:
 - vbaxl10.chm616079
-ms.prod: excel
 api_name:
 - Excel.TickLabels.NumberFormatLocal
 ms.assetid: 0637816f-7737-5201-96a0-53389d24e8ed

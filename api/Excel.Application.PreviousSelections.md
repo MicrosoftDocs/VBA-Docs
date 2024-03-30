@@ -3,7 +3,6 @@ title: Application.PreviousSelections property (Excel)
 keywords: vbaxl10.chm133191
 f1_keywords:
 - vbaxl10.chm133191
-ms.prod: excel
 api_name:
 - Excel.Application.PreviousSelections
 ms.assetid: 967ba122-700c-dca5-1b95-aeaf59e9f19c

@@ -3,7 +3,6 @@ title: Columns.Remove method (Outlook)
 keywords: vbaol11.chm2742
 f1_keywords:
 - vbaol11.chm2742
-ms.prod: outlook
 api_name:
 - Outlook.Columns.Remove
 ms.assetid: f567879c-f37a-2b65-b4a5-832b6f3acdf8

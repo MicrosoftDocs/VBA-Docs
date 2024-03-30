@@ -3,7 +3,6 @@ title: OutlookBarPane.Session property (Outlook)
 keywords: vbaol11.chm361
 f1_keywords:
 - vbaol11.chm361
-ms.prod: outlook
 api_name:
 - Outlook.OutlookBarPane.Session
 ms.assetid: 8aa3d36b-2044-85a7-2b79-86c6b161c4df

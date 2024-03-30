@@ -3,7 +3,6 @@ title: ListObject.ShowTableStyleColumnStripes property (Excel)
 keywords: vbaxl10.chm734104
 f1_keywords:
 - vbaxl10.chm734104
-ms.prod: excel
 api_name:
 - Excel.ListObject.ShowTableStyleColumnStripes
 ms.assetid: 30e2236b-df82-0fa2-e820-a0fc8978ced1

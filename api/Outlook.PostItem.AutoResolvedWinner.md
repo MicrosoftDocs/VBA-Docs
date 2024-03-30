@@ -3,7 +3,6 @@ title: PostItem.AutoResolvedWinner property (Outlook)
 keywords: vbaol11.chm1565
 f1_keywords:
 - vbaol11.chm1565
-ms.prod: outlook
 api_name:
 - Outlook.PostItem.AutoResolvedWinner
 ms.assetid: 4ad920e3-0487-f63c-1af9-2ac623d2487b

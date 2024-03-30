@@ -1,6 +1,5 @@
 ---
 title: LineFormat.InsetPen property (Excel)
-ms.prod: excel
 api_name:
 - Excel.LineFormat.InsetPen
 ms.assetid: 7a9999ad-b3a5-bae5-e068-8d85cab5ecb5

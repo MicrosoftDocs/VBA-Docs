@@ -3,7 +3,6 @@ title: CalendarView.ViewType property (Outlook)
 keywords: vbaol11.chm2621
 f1_keywords:
 - vbaol11.chm2621
-ms.prod: outlook
 api_name:
 - Outlook.CalendarView.ViewType
 ms.assetid: 84c81ce1-cc77-6bc3-cc6d-077d4b8d8eac

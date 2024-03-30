@@ -3,7 +3,6 @@ title: Legend.IncludeInLayout property (Excel)
 keywords: vbaxl10.chm622090
 f1_keywords:
 - vbaxl10.chm622090
-ms.prod: excel
 api_name:
 - Excel.Legend.IncludeInLayout
 ms.assetid: ebb55dfa-8b3e-b247-4574-65b22640eadd

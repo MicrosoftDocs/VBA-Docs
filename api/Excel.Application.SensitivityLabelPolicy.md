@@ -1,6 +1,5 @@
 ---
 title: Application.SensitivityLabelPolicy property (Excel)
-ms.prod: excel
 api_name:
 - Excel.Application.SensitivityLabelPolicy
 ms.assetid: 88b8e43d-14ae-4012-84ab-27e978069f79

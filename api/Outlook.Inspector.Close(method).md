@@ -3,7 +3,6 @@ title: Inspector.Close method (Outlook)
 keywords: vbaol11.chm2965
 f1_keywords:
 - vbaol11.chm2965
-ms.prod: outlook
 api_name:
 - Outlook.Inspector.Close
 ms.assetid: de821cf4-72f8-ba62-3d8d-96548db0b4a0

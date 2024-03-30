@@ -3,7 +3,6 @@ title: Axis.CategoryNames property (Excel)
 keywords: vbaxl10.chm561077
 f1_keywords:
 - vbaxl10.chm561077
-ms.prod: excel
 api_name:
 - Excel.Axis.CategoryNames
 ms.assetid: bc565687-ec07-8b60-0bac-a3e13456fefe

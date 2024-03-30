@@ -3,7 +3,6 @@ title: Dialogs object (Excel)
 keywords: vbaxl10.chm253072
 f1_keywords:
 - vbaxl10.chm253072
-ms.prod: excel
 api_name:
 - Excel.Dialogs
 ms.assetid: d1d54f0e-6057-92f5-4f4c-254c51e36040

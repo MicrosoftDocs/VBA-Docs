@@ -3,7 +3,6 @@ title: Reminders.ReminderAdd event (Outlook)
 keywords: vbaol11.chm576
 f1_keywords:
 - vbaol11.chm576
-ms.prod: outlook
 api_name:
 - Outlook.Reminders.ReminderAdd
 ms.assetid: cb1710f1-0c1d-eb71-e57f-6e33e3268576

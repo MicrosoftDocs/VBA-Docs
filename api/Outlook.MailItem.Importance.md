@@ -3,7 +3,6 @@ title: MailItem.Importance property (Outlook)
 keywords: vbaol11.chm1306
 f1_keywords:
 - vbaol11.chm1306
-ms.prod: outlook
 api_name:
 - Outlook.MailItem.Importance
 ms.assetid: 77de74c9-e910-e021-1015-6e65f3ead3df

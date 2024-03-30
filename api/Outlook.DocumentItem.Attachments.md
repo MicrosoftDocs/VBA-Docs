@@ -3,7 +3,6 @@ title: DocumentItem.Attachments property (Outlook)
 keywords: vbaol11.chm1184
 f1_keywords:
 - vbaol11.chm1184
-ms.prod: outlook
 api_name:
 - Outlook.DocumentItem.Attachments
 ms.assetid: d6214f5c-3675-08eb-6898-e34d76b6fe21

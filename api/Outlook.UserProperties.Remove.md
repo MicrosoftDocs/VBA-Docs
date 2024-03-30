@@ -3,7 +3,6 @@ title: UserProperties.Remove method (Outlook)
 keywords: vbaol11.chm211
 f1_keywords:
 - vbaol11.chm211
-ms.prod: outlook
 api_name:
 - Outlook.UserProperties.Remove
 ms.assetid: 47b77e76-3164-12d1-bf08-fa11847eafcb

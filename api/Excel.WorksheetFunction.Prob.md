@@ -3,7 +3,6 @@ title: WorksheetFunction.Prob method (Excel)
 keywords: vbaxl10.chm137221
 f1_keywords:
 - vbaxl10.chm137221
-ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Prob
 ms.assetid: 7715295d-90da-53fc-ef66-8422e829e05c

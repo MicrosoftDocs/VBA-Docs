@@ -3,7 +3,6 @@ title: OLEObject.Creator property (Excel)
 keywords: vbaxl10.chm414074
 f1_keywords:
 - vbaxl10.chm414074
-ms.prod: excel
 api_name:
 - Excel.OLEObject.Creator
 ms.assetid: 6bbbaad2-30f5-c443-c6ab-b6c375a7810f

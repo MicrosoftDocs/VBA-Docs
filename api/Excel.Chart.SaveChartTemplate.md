@@ -3,7 +3,6 @@ title: Chart.SaveChartTemplate method (Excel)
 keywords: vbaxl10.chm149181
 f1_keywords:
 - vbaxl10.chm149181
-ms.prod: excel
 api_name:
 - Excel.Chart.SaveChartTemplate
 ms.assetid: d9e36023-b5bb-aaf4-5b34-9a22df468ced

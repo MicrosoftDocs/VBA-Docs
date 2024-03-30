@@ -3,7 +3,6 @@ title: Validation.InputMessage property (Excel)
 keywords: vbaxl10.chm532081
 f1_keywords:
 - vbaxl10.chm532081
-ms.prod: excel
 api_name:
 - Excel.Validation.InputMessage
 ms.assetid: cef219c7-4fb2-128c-b091-170f63f70a98

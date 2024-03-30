@@ -3,7 +3,6 @@ title: PivotField.IncludeNewItemsInFilter property (Excel)
 keywords: vbaxl10.chm240145
 f1_keywords:
 - vbaxl10.chm240145
-ms.prod: excel
 api_name:
 - Excel.PivotField.IncludeNewItemsInFilter
 ms.assetid: af77670a-a7ae-4797-6afb-1be17e611a99

@@ -3,7 +3,6 @@ title: ViewFont.Strikethrough property (Outlook)
 keywords: vbaol11.chm2699
 f1_keywords:
 - vbaol11.chm2699
-ms.prod: outlook
 api_name:
 - Outlook.ViewFont.Strikethrough
 ms.assetid: d3423e4d-838b-5e0c-9ad7-0f3e50a9a1bc

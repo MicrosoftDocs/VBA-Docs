@@ -3,7 +3,6 @@ title: DoughnutGroups method (Excel Graph)
 keywords: vbagr10.chm3077618
 f1_keywords:
 - vbagr10.chm3077618
-ms.prod: excel
 api_name:
 - Excel.DoughnutGroups
 ms.assetid: 41ca4213-c17b-7bba-c357-7ba65fd55d39

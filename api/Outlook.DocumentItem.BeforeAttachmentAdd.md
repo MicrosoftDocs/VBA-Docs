@@ -1,6 +1,5 @@
 ---
 title: DocumentItem.BeforeAttachmentAdd event (Outlook)
-ms.prod: outlook
 api_name:
 - Outlook.DocumentItem.BeforeAttachmentAdd
 ms.assetid: cd440e8a-c79a-d1b4-9d03-940b2f3fa50b

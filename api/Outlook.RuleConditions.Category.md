@@ -3,7 +3,6 @@ title: RuleConditions.Category property (Outlook)
 keywords: vbaol11.chm2313
 f1_keywords:
 - vbaol11.chm2313
-ms.prod: outlook
 api_name:
 - Outlook.RuleConditions.Category
 ms.assetid: f1131bf8-4752-4e93-c68d-73c0511d22da

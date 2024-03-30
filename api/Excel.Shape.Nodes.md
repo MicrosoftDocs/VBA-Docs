@@ -3,7 +3,6 @@ title: Shape.Nodes property (Excel)
 keywords: vbaxl10.chm636104
 f1_keywords:
 - vbaxl10.chm636104
-ms.prod: excel
 api_name:
 - Excel.Shape.Nodes
 ms.assetid: 476b7ac6-d45c-c7a5-ef93-0cbe0c19ec15

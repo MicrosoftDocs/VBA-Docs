@@ -3,7 +3,6 @@ title: Results.ResetColumns method (Outlook)
 keywords: vbaol11.chm509
 f1_keywords:
 - vbaol11.chm509
-ms.prod: outlook
 api_name:
 - Outlook.Results.ResetColumns
 ms.assetid: 1839dd92-cbab-5fac-a59b-b1ceb6ef874a

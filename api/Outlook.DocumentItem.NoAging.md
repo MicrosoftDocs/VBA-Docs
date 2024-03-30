@@ -3,7 +3,6 @@ title: DocumentItem.NoAging property (Outlook)
 keywords: vbaol11.chm1200
 f1_keywords:
 - vbaol11.chm1200
-ms.prod: outlook
 api_name:
 - Outlook.DocumentItem.NoAging
 ms.assetid: 33d66a6d-abff-d7d1-ca86-80a7a2caeb79

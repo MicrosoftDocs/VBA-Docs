@@ -3,7 +3,6 @@ title: FormRegion.SetControlItemProperty method (Outlook)
 keywords: vbaol11.chm2401
 f1_keywords:
 - vbaol11.chm2401
-ms.prod: outlook
 api_name:
 - Outlook.FormRegion.SetControlItemProperty
 ms.assetid: da0b3762-e10d-85d1-70bf-94156d21e900

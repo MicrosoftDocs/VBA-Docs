@@ -1,6 +1,5 @@
 ---
 title: Change the Name Property of a Control
-ms.prod: outlook
 ms.assetid: a6bbe04d-8ea9-9b61-c077-5da197aac1fe
 ms.date: 02/06/2022
 ms.localizationpriority: medium

@@ -3,7 +3,6 @@ title: ProtectedViewWindow.Caption property (Excel)
 keywords: vbaxl10.chm914074
 f1_keywords:
 - vbaxl10.chm914074
-ms.prod: excel
 api_name:
 - Excel.ProtectedViewWindow.Caption
 ms.assetid: fe3f8026-71e2-3a5a-9376-7b9d93f97b6f

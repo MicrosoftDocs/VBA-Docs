@@ -3,7 +3,6 @@ title: Application.TransitionMenuKey property (Excel)
 keywords: vbaxl10.chm133218
 f1_keywords:
 - vbaxl10.chm133218
-ms.prod: excel
 api_name:
 - Excel.Application.TransitionMenuKey
 ms.assetid: 3ea5b071-1ba7-19e9-1d6d-00bf128466e2

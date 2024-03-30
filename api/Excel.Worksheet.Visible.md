@@ -3,7 +3,6 @@ title: Worksheet.Visible property (Excel)
 keywords: vbaxl10.chm174097
 f1_keywords:
 - vbaxl10.chm174097
-ms.prod: excel
 api_name:
 - Excel.Worksheet.Visible
 ms.assetid: 48860564-6079-932e-2cae-0802235be61e

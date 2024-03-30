@@ -3,7 +3,6 @@ title: TaskRequestUpdateItem.Attachments property (Outlook)
 keywords: vbaol11.chm1922
 f1_keywords:
 - vbaol11.chm1922
-ms.prod: outlook
 api_name:
 - Outlook.TaskRequestUpdateItem.Attachments
 ms.assetid: 876a6f31-b756-44a0-0c73-1ca6d0812394

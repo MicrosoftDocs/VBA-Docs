@@ -3,7 +3,6 @@ title: Perspective property (Excel Graph)
 keywords: vbagr10.chm65593
 f1_keywords:
 - vbagr10.chm65593
-ms.prod: excel
 api_name:
 - Excel.Perspective
 ms.assetid: 84ddaf6c-1204-1a7b-55e5-7d3cf2787a2c

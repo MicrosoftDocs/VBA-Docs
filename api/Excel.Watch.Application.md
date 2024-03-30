@@ -3,7 +3,6 @@ title: Watch.Application property (Excel)
 keywords: vbaxl10.chm689073
 f1_keywords:
 - vbaxl10.chm689073
-ms.prod: excel
 api_name:
 - Excel.Watch.Application
 ms.assetid: 3089a5d1-92b4-3f75-3c27-409e0a8008c4

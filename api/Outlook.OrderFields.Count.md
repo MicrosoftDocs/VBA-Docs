@@ -3,7 +3,6 @@ title: OrderFields.Count property (Outlook)
 keywords: vbaol11.chm2676
 f1_keywords:
 - vbaol11.chm2676
-ms.prod: outlook
 api_name:
 - Outlook.OrderFields.Count
 ms.assetid: 31978ea9-f55b-a5c9-0770-6fd8701d42eb

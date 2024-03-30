@@ -3,7 +3,6 @@ title: OLEObjects.Duplicate method (Excel)
 keywords: vbaxl10.chm419079
 f1_keywords:
 - vbaxl10.chm419079
-ms.prod: excel
 api_name:
 - Excel.OLEObjects.Duplicate
 ms.assetid: c0a841f7-8b92-95e7-c1b1-b0172ebed9cd

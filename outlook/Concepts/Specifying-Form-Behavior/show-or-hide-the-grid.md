@@ -1,6 +1,5 @@
 ---
 title: Show or Hide the Grid
-ms.prod: outlook
 ms.assetid: 63140c68-35ae-a8a5-b678-9b886718722b
 ms.date: 06/08/2019
 ms.localizationpriority: medium

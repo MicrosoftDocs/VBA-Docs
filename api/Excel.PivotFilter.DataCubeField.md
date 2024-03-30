@@ -3,7 +3,6 @@ title: PivotFilter.DataCubeField property (Excel)
 keywords: vbaxl10.chm770081
 f1_keywords:
 - vbaxl10.chm770081
-ms.prod: excel
 api_name:
 - Excel.PivotFilter.DataCubeField
 ms.assetid: 1170ed0e-f567-d01d-bca2-add9b6116352

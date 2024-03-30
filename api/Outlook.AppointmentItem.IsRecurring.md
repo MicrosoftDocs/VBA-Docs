@@ -3,7 +3,6 @@ title: AppointmentItem.IsRecurring property (Outlook)
 keywords: vbaol11.chm881
 f1_keywords:
 - vbaol11.chm881
-ms.prod: outlook
 api_name:
 - Outlook.AppointmentItem.IsRecurring
 ms.assetid: 93e243cc-fec9-2474-6828-5077bfd744e7

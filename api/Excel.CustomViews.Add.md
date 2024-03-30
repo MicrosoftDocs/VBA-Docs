@@ -3,7 +3,6 @@ title: CustomViews.Add method (Excel)
 keywords: vbaxl10.chm506075
 f1_keywords:
 - vbaxl10.chm506075
-ms.prod: excel
 api_name:
 - Excel.CustomViews.Add
 ms.assetid: 134d9969-048b-6a53-4f2c-cc83589c5a70

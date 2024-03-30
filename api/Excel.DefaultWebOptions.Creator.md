@@ -3,7 +3,6 @@ title: DefaultWebOptions.Creator property (Excel)
 keywords: vbaxl10.chm659074
 f1_keywords:
 - vbaxl10.chm659074
-ms.prod: excel
 api_name:
 - Excel.DefaultWebOptions.Creator
 ms.assetid: 5fcbd08f-1e37-db2c-75c2-db65c4af3f00

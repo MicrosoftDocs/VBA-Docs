@@ -3,7 +3,6 @@ title: XmlMaps.Add method (Excel)
 keywords: vbaxl10.chm756073
 f1_keywords:
 - vbaxl10.chm756073
-ms.prod: excel
 api_name:
 - Excel.XmlMaps.Add
 ms.assetid: 0197c932-73bf-024e-35b1-aba984175aee

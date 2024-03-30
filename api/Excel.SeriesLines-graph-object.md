@@ -3,7 +3,6 @@ title: SeriesLines object (Excel Graph)
 keywords: vbagr10.chm131201
 f1_keywords:
 - vbagr10.chm131201
-ms.prod: excel
 api_name:
 - Excel.SeriesLines
 ms.assetid: 958145eb-8801-b285-b3b4-99fd7b7882ed

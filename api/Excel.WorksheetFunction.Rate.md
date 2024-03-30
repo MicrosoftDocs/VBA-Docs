@@ -3,7 +3,6 @@ title: WorksheetFunction.Rate method (Excel)
 keywords: vbaxl10.chm137111
 f1_keywords:
 - vbaxl10.chm137111
-ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Rate
 ms.assetid: 5b412b46-d54a-a36a-a309-c819f2671185

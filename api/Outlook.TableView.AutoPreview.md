@@ -3,7 +3,6 @@ title: TableView.AutoPreview property (Outlook)
 keywords: vbaol11.chm2536
 f1_keywords:
 - vbaol11.chm2536
-ms.prod: outlook
 api_name:
 - Outlook.TableView.AutoPreview
 ms.assetid: 51d20d34-5a2f-03f6-cfea-2279d286f067

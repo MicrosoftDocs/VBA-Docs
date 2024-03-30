@@ -3,7 +3,6 @@ title: Application.Rows property (Excel)
 keywords: vbaxl10.chm132103
 f1_keywords:
 - vbaxl10.chm132103
-ms.prod: excel
 api_name:
 - Excel.Application.Rows
 ms.assetid: 499f6045-1334-a8f8-9a04-f1aef7908312

@@ -3,7 +3,6 @@ title: OutlookBarGroups.GroupAdd event (Outlook)
 keywords: vbaol11.chm355
 f1_keywords:
 - vbaol11.chm355
-ms.prod: outlook
 api_name:
 - Outlook.OutlookBarGroups.GroupAdd
 ms.assetid: 5fae2579-b4db-d645-27d4-dce867e64242

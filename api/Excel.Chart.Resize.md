@@ -3,7 +3,6 @@ title: Chart.Resize event (Excel)
 keywords: vbaxl10.chm500075
 f1_keywords:
 - vbaxl10.chm500075
-ms.prod: excel
 api_name:
 - Excel.Chart.Resize
 ms.assetid: d1b7d0bb-d190-18f2-83f9-b91b637d80aa

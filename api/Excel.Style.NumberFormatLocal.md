@@ -3,7 +3,6 @@ title: Style.NumberFormatLocal property (Excel)
 keywords: vbaxl10.chm177093
 f1_keywords:
 - vbaxl10.chm177093
-ms.prod: excel
 api_name:
 - Excel.Style.NumberFormatLocal
 ms.assetid: 3635d267-ecee-a5e9-f3e8-b4156f91d5d3

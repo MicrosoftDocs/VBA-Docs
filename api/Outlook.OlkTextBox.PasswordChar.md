@@ -3,7 +3,6 @@ title: OlkTextBox.PasswordChar property (Outlook)
 keywords: vbaol11.chm1000054
 f1_keywords:
 - vbaol11.chm1000054
-ms.prod: outlook
 api_name:
 - Outlook.OlkTextBox.PasswordChar
 ms.assetid: 1632642a-2948-4cc0-b086-ae454ae9a7ed

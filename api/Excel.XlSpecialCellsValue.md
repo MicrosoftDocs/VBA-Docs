@@ -1,6 +1,5 @@
 ---
 title: XlSpecialCellsValue enumeration (Excel)
-ms.prod: excel
 api_name:
 - Excel.XlSpecialCellsValue
 ms.assetid: 0fdd2624-4292-02ed-d490-524da69a1a3a

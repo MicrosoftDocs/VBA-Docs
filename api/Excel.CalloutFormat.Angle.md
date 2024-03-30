@@ -3,7 +3,6 @@ title: CalloutFormat.Angle property (Excel)
 keywords: vbaxl10.chm104007
 f1_keywords:
 - vbaxl10.chm104007
-ms.prod: excel
 api_name:
 - Excel.CalloutFormat.Angle
 ms.assetid: 8f3dab54-4597-e22c-ae3e-cf894849b668

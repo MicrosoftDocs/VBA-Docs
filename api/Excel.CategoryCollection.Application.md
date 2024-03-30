@@ -3,7 +3,6 @@ title: CategoryCollection.Application property (Excel)
 keywords: vbaxl10.chm947073
 f1_keywords:
 - vbaxl10.chm947073
-ms.prod: excel
 api_name:
 - Excel.CategoryCollection.Application
 ms.assetid: cfae4e60-9cda-c43b-e1d5-78ba110dd21c

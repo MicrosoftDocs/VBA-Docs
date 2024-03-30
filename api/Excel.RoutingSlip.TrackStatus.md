@@ -3,7 +3,6 @@ title: RoutingSlip.TrackStatus property (Excel)
 keywords: vbaxl10.chm453080
 f1_keywords:
 - vbaxl10.chm453080
-ms.prod: excel
 api_name:
 - Excel.RoutingSlip.TrackStatus
 ms.assetid: 3ef4ed69-1325-c557-c52d-307b2bd31280

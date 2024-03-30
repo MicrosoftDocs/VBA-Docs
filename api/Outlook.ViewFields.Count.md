@@ -3,7 +3,6 @@ title: ViewFields.Count property (Outlook)
 keywords: vbaol11.chm2550
 f1_keywords:
 - vbaol11.chm2550
-ms.prod: outlook
 api_name:
 - Outlook.ViewFields.Count
 ms.assetid: ab9bb1e5-85de-fad6-e48a-03b89d692077

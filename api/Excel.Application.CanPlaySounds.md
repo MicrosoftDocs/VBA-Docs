@@ -3,7 +3,6 @@ title: Application.CanPlaySounds property (Excel)
 keywords: vbaxl10.chm133086
 f1_keywords:
 - vbaxl10.chm133086
-ms.prod: excel
 api_name:
 - Excel.Application.CanPlaySounds
 ms.assetid: 4e74bdbe-c649-9171-b42c-3c226b6c92a0

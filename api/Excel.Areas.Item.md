@@ -3,7 +3,6 @@ title: Areas.Item property (Excel)
 keywords: vbaxl10.chm197074
 f1_keywords:
 - vbaxl10.chm197074
-ms.prod: excel
 api_name:
 - Excel.Areas.Item
 ms.assetid: 92b544c5-9122-f4d6-f22a-f5b21c7d6596

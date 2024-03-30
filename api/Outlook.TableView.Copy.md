@@ -3,7 +3,6 @@ title: TableView.Copy method (Outlook)
 keywords: vbaol11.chm2504
 f1_keywords:
 - vbaol11.chm2504
-ms.prod: outlook
 api_name:
 - Outlook.TableView.Copy
 ms.assetid: 985b5aaa-1f66-77e3-a035-3e2030318bf8

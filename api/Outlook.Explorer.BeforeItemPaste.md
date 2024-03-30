@@ -3,7 +3,6 @@ title: Explorer.BeforeItemPaste event (Outlook)
 keywords: vbaol11.chm463
 f1_keywords:
 - vbaol11.chm463
-ms.prod: outlook
 api_name:
 - Outlook.Explorer.BeforeItemPaste
 ms.assetid: a6d43429-5309-4b07-7b0b-68cddd2d7e59

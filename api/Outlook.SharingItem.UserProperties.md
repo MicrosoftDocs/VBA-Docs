@@ -3,7 +3,6 @@ title: SharingItem.UserProperties property (Outlook)
 keywords: vbaol11.chm622
 f1_keywords:
 - vbaol11.chm622
-ms.prod: outlook
 api_name:
 - Outlook.SharingItem.UserProperties
 ms.assetid: bc224a0e-c602-a0cc-cb0b-820102957e61

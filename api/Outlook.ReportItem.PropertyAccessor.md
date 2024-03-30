@@ -3,7 +3,6 @@ title: ReportItem.PropertyAccessor property (Outlook)
 keywords: vbaol11.chm1680
 f1_keywords:
 - vbaol11.chm1680
-ms.prod: outlook
 api_name:
 - Outlook.ReportItem.PropertyAccessor
 ms.assetid: 090bedce-4517-1d8c-9c46-1f67bcced7fa

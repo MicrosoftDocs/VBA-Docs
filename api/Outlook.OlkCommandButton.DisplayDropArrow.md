@@ -3,7 +3,6 @@ title: OlkCommandButton.DisplayDropArrow property (Outlook)
 keywords: vbaol11.chm1000501
 f1_keywords:
 - vbaol11.chm1000501
-ms.prod: outlook
 api_name:
 - Outlook.OlkCommandButton.DisplayDropArrow
 ms.assetid: 20130ecb-fa4c-dd5f-1af6-89cb3cec3c9e

@@ -1,6 +1,5 @@
 ---
 title: MeetingItem.Open event (Outlook)
-ms.prod: outlook
 api_name:
 - Outlook.MeetingItem.Open
 ms.assetid: d286705a-d542-f3aa-3121-f0635e0cc62c

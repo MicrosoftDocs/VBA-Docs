@@ -3,7 +3,6 @@ title: UserAccessList.Add method (Excel)
 keywords: vbaxl10.chm726075
 f1_keywords:
 - vbaxl10.chm726075
-ms.prod: excel
 api_name:
 - Excel.UserAccessList.Add
 ms.assetid: dd3b3bc4-8618-b680-7409-c431a12374b0

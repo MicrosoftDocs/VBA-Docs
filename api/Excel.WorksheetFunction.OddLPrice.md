@@ -3,7 +3,6 @@ title: WorksheetFunction.OddLPrice method (Excel)
 keywords: vbaxl10.chm137336
 f1_keywords:
 - vbaxl10.chm137336
-ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.OddLPrice
 ms.assetid: ca5d6902-0c96-5532-98c7-1db4f3aaa990

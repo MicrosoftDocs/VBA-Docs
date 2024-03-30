@@ -3,7 +3,6 @@ title: Worksheet.XmlDataQuery method (Excel)
 keywords: vbaxl10.chm175158
 f1_keywords:
 - vbaxl10.chm175158
-ms.prod: excel
 api_name:
 - Excel.Worksheet.XmlDataQuery
 ms.assetid: de728702-962f-a047-a58d-3e2fa9c86acd

@@ -3,7 +3,6 @@ title: TextConnection.TextFileParseType property (Excel)
 keywords: vbaxl10.chm926081
 f1_keywords:
 - vbaxl10.chm926081
-ms.prod: excel
 ms.assetid: 1b84a15f-85da-532b-15d3-0d487bd2c326
 ms.date: 05/17/2019
 ms.localizationpriority: medium

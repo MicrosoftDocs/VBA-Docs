@@ -3,7 +3,6 @@ title: Folders.GetNext method (Outlook)
 keywords: vbaol11.chm49
 f1_keywords:
 - vbaol11.chm49
-ms.prod: outlook
 api_name:
 - Outlook.Folders.GetNext
 ms.assetid: 5c2de8b2-b251-1983-a10b-1945abc38709

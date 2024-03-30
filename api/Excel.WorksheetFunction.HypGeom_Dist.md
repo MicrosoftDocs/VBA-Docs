@@ -3,7 +3,6 @@ title: WorksheetFunction.HypGeom_Dist method (Excel)
 keywords: vbaxl10.chm137406
 f1_keywords:
 - vbaxl10.chm137406
-ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.HypGeom_Dist
 ms.assetid: 83fd3d7f-f9f0-fa49-863e-7ddd604b4de7

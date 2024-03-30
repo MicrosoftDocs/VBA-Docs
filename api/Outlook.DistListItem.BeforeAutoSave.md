@@ -1,6 +1,5 @@
 ---
 title: DistListItem.BeforeAutoSave event (Outlook)
-ms.prod: outlook
 api_name:
 - Outlook.DistListItem.BeforeAutoSave
 ms.assetid: bb005bda-6270-22a8-5ae0-43979e3f3e63

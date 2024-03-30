@@ -3,7 +3,6 @@ title: Account.ExchangeMailboxServerName property (Outlook)
 keywords: vbaol11.chm3550
 f1_keywords:
 - vbaol11.chm3550
-ms.prod: outlook
 api_name:
 - Outlook.Account.ExchangeMailboxServerName
 ms.assetid: f75354c9-3374-140f-63a6-ca04ce6101cb

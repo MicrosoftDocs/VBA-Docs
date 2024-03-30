@@ -1,6 +1,5 @@
 ---
 title: Model3DFormat.LookAtPointX property (Excel)
-ms.prod: excel
 api_name:
 - Excel.Model3DFormat.LookAtPointX
 ms.date: 04/11/2019
