@@ -27,6 +27,67 @@ For example, the following diagram shows how arguments in the property procedure
 
 ![Property Let](../../../images/abhlp002_ZA01201812.gif)
 
+The following code example demonstrates the relationship between property procedure arguments and parameters.
+
+```vb:DemoType.cls
+'DemoType class declaration
+Private pW
+Private pX
+Private pY
+Private pZ
+
+Property Get DemoProperty(w, x, y)
+    'Calling format is: `z = DemoProperty(w, x, y)`
+    ' or `Set z = DemoProperty(w, x, y)`
+    w = pW
+    x = pX
+    y = pY
+    If IsObject(pZ) Then
+        Set DemoProperty = pZ
+    Else
+        DemoProperty = pZ
+    End If
+End Property
+Property Let DemoProperty(w, x, y, z)
+    'Calling format is `DemoProperty(w, x, y) = z`
+    pW = w
+    pX = x
+    pY = y
+    pZ = z
+End Property
+Property Set DemoProperty(w, x, y, z As Object)
+    'Calling format is `Set DemoProperty(w, x, y) = z`
+    pW = w
+    pX = x
+    pY = y
+    Set pZ = z
+End Property
+```
+
+```vb:DemoCodeModule.bas
+Sub DemoSub()
+    Dim myDemo As Object
+    Dim a, b, c, d
+    Dim w, x, y, z
+
+    Set myDemo = New DemoType
+
+    a = "Hello"
+    b = ", "
+    c = "world"
+    d = "!"
+
+    Debug.Print Join(Array(a, b, c, d), "") ' Hello, world!
+
+    'Call Property Let DemoProperty(a, b, c, d)
+    Let myDemo.DemoProperty(a, b, c) = d
+    'Call Property Get
+    d = myDemo.DemoProperty(a, b, c)
+
+    Debug.Print Join(Array(a, b, c, d), "") ' Hello, world!
+End Sub
+```
+
 In practice, the only use for property procedures with multiple arguments is to create [arrays](../../Glossary/vbe-glossary.md#array) of [properties](../../Glossary/vbe-glossary.md#property).
 
 ## See also
