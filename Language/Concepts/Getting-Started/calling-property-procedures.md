@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Calling property procedures
 
-The following table lists the syntax for calling property procedures:
+The following table lists the syntax for calling [property procedures](../../Glossary/vbe-glossary.md#property-procedure):
 
 |Property procedure|Syntax|
 |:-----|:-----|
@@ -19,11 +19,11 @@ The following table lists the syntax for calling property procedures:
 |**[Property Let](../../reference/user-interface-help/property-let-statement.md)**|[**Let** ] [ _object_.] _propname_ [( [_arguments_] )] = _argument_|
 |**[Property Set](../../reference/user-interface-help/property-set-statement.md)**| **Set** [ _object_.] _propname_ [( [_arguments_] )] = _objectArg_|
 
-When you call a **Property Let** or **Property Set** procedure, one [argument](../../Glossary/vbe-glossary.md#argument) always appears on the right side of the equal sign (**=**).
+When you call a **Property Let** or **Property Set** procedure, one [argument](../../Glossary/vbe-glossary.md#argument) always appears on the right side of the [assignment (**=**) operator](../../Reference/User-Interface-Help/equals-operator.md).
 
-When you declare a **Property Let** or **Property Set** procedure with multiple arguments, Visual Basic passes the argument on the right side of the call to the last argument in the **Property Let** or **Property Set** declaration.
+If a property procedure's declaration has multiple [parameters](../../Glossary/vbe-glossary.md#parameter), calling **Property Let** or **Property Set** passes the argument on the right-side of the [assignment operator](../../Reference/User-Interface-Help/equals-operator.md) to the last [parameter](../../Glossary/vbe-glossary.md#parameter) of the **Property Let** or **Property Set** procedure.
 
-For example, the following diagram shows how arguments in the property procedure call relate to arguments in the **Property Let** declaration:
+For example, the following diagram uses **Property Let** to show how arguments in the property procedure call (on top) relate to parameters in the declaration (on bottom):
 
 ![Property Let](../../../images/abhlp002_ZA01201812.gif)
 
