@@ -3,7 +3,6 @@ title: SparkVerticalAxis.MaxScaleType property (Excel)
 keywords: vbaxl10.chm881075
 f1_keywords:
 - vbaxl10.chm881075
-ms.prod: excel
 api_name:
 - Excel.SparkVerticalAxis.MaxScaleType
 ms.assetid: 14d04182-d6d2-b884-db8f-04cef4673e82

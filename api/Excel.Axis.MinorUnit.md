@@ -3,7 +3,6 @@ title: Axis.MinorUnit property (Excel)
 keywords: vbaxl10.chm561094
 f1_keywords:
 - vbaxl10.chm561094
-ms.prod: excel
 api_name:
 - Excel.Axis.MinorUnit
 ms.assetid: 64cd6523-19c3-7ebc-9b6b-db02667db4d2

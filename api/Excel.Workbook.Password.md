@@ -3,7 +3,6 @@ title: Workbook.Password property (Excel)
 keywords: vbaxl10.chm199209
 f1_keywords:
 - vbaxl10.chm199209
-ms.prod: excel
 api_name:
 - Excel.Workbook.Password
 ms.assetid: 5eaaf8cd-4344-946e-ecfa-c0f48946d2f2

@@ -3,7 +3,6 @@ title: Version property (Excel Graph)
 keywords: vbagr10.chm5208125
 f1_keywords:
 - vbagr10.chm5208125
-ms.prod: excel
 api_name:
 - Excel.Version
 ms.assetid: 16be4008-4999-135e-dc53-b0212bbedac9

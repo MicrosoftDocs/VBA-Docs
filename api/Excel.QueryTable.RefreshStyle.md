@@ -3,7 +3,6 @@ title: QueryTable.RefreshStyle property (Excel)
 keywords: vbaxl10.chm518083
 f1_keywords:
 - vbaxl10.chm518083
-ms.prod: excel
 api_name:
 - Excel.QueryTable.RefreshStyle
 ms.assetid: d32e96f9-ab4f-c6d5-50ac-13c9b1939a0f

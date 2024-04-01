@@ -3,7 +3,6 @@ title: WorksheetFunction.BesselK method (Excel)
 keywords: vbaxl10.chm137303
 f1_keywords:
 - vbaxl10.chm137303
-ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.BesselK
 ms.assetid: 9b2eb52e-2b8a-3608-6410-52abccc886b3

@@ -3,7 +3,6 @@ title: PivotLineCells.Full property (Excel)
 keywords: vbaxl10.chm762077
 f1_keywords:
 - vbaxl10.chm762077
-ms.prod: excel
 ms.assetid: 6ed4ce25-f832-a0b5-b1ed-4b9956c100ef
 ms.date: 05/07/2019
 ms.localizationpriority: medium

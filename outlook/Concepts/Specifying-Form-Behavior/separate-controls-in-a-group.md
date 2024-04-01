@@ -1,6 +1,5 @@
 ---
 title: Separate Controls in a Group
-ms.prod: outlook
 ms.assetid: 670138a7-ae21-c025-e928-ab519b5ae57a
 ms.date: 06/08/2019
 ms.localizationpriority: medium

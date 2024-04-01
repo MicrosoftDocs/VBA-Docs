@@ -3,7 +3,6 @@ title: Range.Row property (Excel)
 keywords: vbaxl10.chm144188
 f1_keywords:
 - vbaxl10.chm144188
-ms.prod: excel
 api_name:
 - Excel.Range.Row
 ms.assetid: 3c8d7351-4fc6-748b-c2a8-de3dab4b964e

@@ -3,7 +3,6 @@ title: ChartGroup.FirstSliceAngle property (Excel)
 keywords: vbaxl10.chm568077
 f1_keywords:
 - vbaxl10.chm568077
-ms.prod: excel
 api_name:
 - Excel.ChartGroup.FirstSliceAngle
 ms.assetid: a6bded62-d757-fc67-4677-7f9c12fd6395

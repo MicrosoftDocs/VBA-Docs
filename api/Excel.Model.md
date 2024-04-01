@@ -1,6 +1,5 @@
 ---
 title: Model object (Excel)
-ms.prod: excel
 api_name:
 - Excel.Model
 ms.date: 04/30/2019

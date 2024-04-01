@@ -3,7 +3,6 @@ title: Icon object (Excel)
 keywords: vbaxl10.chm815072
 f1_keywords:
 - vbaxl10.chm815072
-ms.prod: excel
 api_name:
 - Excel.Icon
 ms.assetid: 99dd63ab-2981-aab7-cfe8-7e47fe911281

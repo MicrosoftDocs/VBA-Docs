@@ -3,7 +3,6 @@ title: VPageBreaks.Count property (Excel)
 keywords: vbaxl10.chm167073
 f1_keywords:
 - vbaxl10.chm167073
-ms.prod: excel
 api_name:
 - Excel.VPageBreaks.Count
 ms.assetid: cc302751-24f8-d4d2-3c08-7671010a9598

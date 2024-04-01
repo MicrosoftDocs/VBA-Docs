@@ -3,7 +3,6 @@ title: WorksheetFunction.F_Inv method (Excel)
 keywords: vbaxl10.chm137404
 f1_keywords:
 - vbaxl10.chm137404
-ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.F_Inv
 ms.assetid: c24c12b0-9c0b-076c-4488-947ec94f8dd0

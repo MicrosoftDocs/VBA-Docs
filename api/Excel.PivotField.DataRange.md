@@ -3,7 +3,6 @@ title: PivotField.DataRange property (Excel)
 keywords: vbaxl10.chm240078
 f1_keywords:
 - vbaxl10.chm240078
-ms.prod: excel
 api_name:
 - Excel.PivotField.DataRange
 ms.assetid: 14d5e4c4-1acb-aa02-6694-28e358afc881

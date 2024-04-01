@@ -3,7 +3,6 @@ title: PageSetup.HeaderMargin property (Excel)
 keywords: vbaxl10.chm473085
 f1_keywords:
 - vbaxl10.chm473085
-ms.prod: excel
 api_name:
 - Excel.PageSetup.HeaderMargin
 ms.assetid: c22feaf6-c9f5-f285-a8f6-75753a1e9cff

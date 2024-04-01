@@ -1,6 +1,5 @@
 ---
 title: About coauthoring in Excel
-ms.prod: excel
 ms.date: 07/19/2017
 ms.localizationpriority: medium
 ---

@@ -3,7 +3,6 @@ title: Phonetics.Text property (Excel)
 keywords: vbaxl10.chm658083
 f1_keywords:
 - vbaxl10.chm658083
-ms.prod: excel
 api_name:
 - Excel.Phonetics.Text
 ms.assetid: fe420ad7-d945-2009-5a91-13653d5316d9

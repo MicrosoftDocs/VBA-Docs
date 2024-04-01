@@ -3,7 +3,6 @@ title: Range.FillLeft method (Excel)
 keywords: vbaxl10.chm144125
 f1_keywords:
 - vbaxl10.chm144125
-ms.prod: excel
 api_name:
 - Excel.Range.FillLeft
 ms.assetid: 42722b18-8b40-c27b-8bca-ef180cf0f636

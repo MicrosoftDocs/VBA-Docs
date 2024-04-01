@@ -3,7 +3,6 @@ title: ListObject.Unlink method (Excel)
 keywords: vbaxl10.chm734076
 f1_keywords:
 - vbaxl10.chm734076
-ms.prod: excel
 api_name:
 - Excel.ListObject.Unlink
 ms.assetid: 37e70576-e577-cfbb-f5ee-63ba830e174e

@@ -3,7 +3,6 @@ title: Window.DisplayHorizontalScrollBar property (Excel)
 keywords: vbaxl10.chm356085
 f1_keywords:
 - vbaxl10.chm356085
-ms.prod: excel
 api_name:
 - Excel.Window.DisplayHorizontalScrollBar
 ms.assetid: e411433e-286f-7482-a026-f186ae715949

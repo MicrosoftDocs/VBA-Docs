@@ -3,7 +3,6 @@ title: CommentsThreaded object (Excel)
 keywords: vbaxl10.chm1007072
 f1_keywords:
 - vbaxl10.chm1007072
-ms.prod: excel
 api_name:
 - Excel.CommentsThreaded
 ms.date: 06/21/2019

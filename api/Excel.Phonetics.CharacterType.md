@@ -3,7 +3,6 @@ title: Phonetics.CharacterType property (Excel)
 keywords: vbaxl10.chm658077
 f1_keywords:
 - vbaxl10.chm658077
-ms.prod: excel
 api_name:
 - Excel.Phonetics.CharacterType
 ms.assetid: b61c3bd5-86dc-baed-e47f-62d522fca290

@@ -3,7 +3,6 @@ title: DataLabel.Text property (Excel)
 keywords: vbaxl10.chm582087
 f1_keywords:
 - vbaxl10.chm582087
-ms.prod: excel
 api_name:
 - Excel.DataLabel.Text
 ms.assetid: 026edc24-dd5d-0d90-393f-062580b44229

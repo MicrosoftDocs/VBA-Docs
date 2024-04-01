@@ -3,7 +3,6 @@ title: ErrorBars object (Excel)
 keywords: vbaxl10.chm623072
 f1_keywords:
 - vbaxl10.chm623072
-ms.prod: excel
 api_name:
 - Excel.ErrorBars
 ms.assetid: 646de974-bf6f-99c8-20dd-9ca514b7a304

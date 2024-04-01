@@ -3,7 +3,6 @@ title: Item property (Excel Graph)
 keywords: vbagr10.chm3077068
 f1_keywords:
 - vbagr10.chm3077068
-ms.prod: excel
 ms.assetid: 24f3a6a8-8f8a-f04d-138d-99fb9a374c7f
 ms.date: 04/11/2019
 ms.localizationpriority: medium

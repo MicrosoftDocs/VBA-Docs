@@ -3,7 +3,6 @@ title: XmlMap.RootElementNamespace property (Excel)
 keywords: vbaxl10.chm754083
 f1_keywords:
 - vbaxl10.chm754083
-ms.prod: excel
 api_name:
 - Excel.XmlMap.RootElementNamespace
 ms.assetid: f81d0762-fa03-6f90-be99-713478a1ab42

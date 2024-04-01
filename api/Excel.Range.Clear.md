@@ -3,7 +3,6 @@ title: Range.Clear method (Excel)
 keywords: vbaxl10.chm144094
 f1_keywords:
 - vbaxl10.chm144094
-ms.prod: excel
 api_name:
 - Excel.Range.Clear
 ms.assetid: 56f46ac7-8bb0-2651-8024-312c7cb7356c

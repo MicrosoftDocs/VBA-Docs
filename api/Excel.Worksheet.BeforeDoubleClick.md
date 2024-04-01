@@ -3,7 +3,6 @@ title: Worksheet.BeforeDoubleClick event (Excel)
 keywords: vbaxl10.chm502074
 f1_keywords:
 - vbaxl10.chm502074
-ms.prod: excel
 api_name:
 - Excel.Worksheet.BeforeDoubleClick
 ms.assetid: 36e23bc8-0b49-2e22-bfb0-cfff24a82fda

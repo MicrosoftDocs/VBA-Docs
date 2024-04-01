@@ -3,7 +3,6 @@ title: ListRow.Application property (Excel)
 keywords: vbaxl10.chm741073
 f1_keywords:
 - vbaxl10.chm741073
-ms.prod: excel
 api_name:
 - Excel.ListRow.Application
 ms.assetid: ace7b6cb-4afe-d2d5-5912-e2eb1aa5a90a

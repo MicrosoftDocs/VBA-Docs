@@ -3,7 +3,6 @@ title: ShadowFormat.Parent property (Excel)
 keywords: vbaxl10.chm114001
 f1_keywords:
 - vbaxl10.chm114001
-ms.prod: excel
 api_name:
 - Excel.ShadowFormat.Parent
 ms.assetid: f259fce5-50b8-ccdd-f955-b30a11c67a51

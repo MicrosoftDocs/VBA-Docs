@@ -3,7 +3,6 @@ title: CustomViews.Item method (Excel)
 keywords: vbaxl10.chm506074
 f1_keywords:
 - vbaxl10.chm506074
-ms.prod: excel
 api_name:
 - Excel.CustomViews.Item
 ms.assetid: 542a3838-c499-5aa1-735e-5fe0c9c852a1

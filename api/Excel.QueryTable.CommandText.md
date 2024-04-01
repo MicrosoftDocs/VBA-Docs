@@ -3,7 +3,6 @@ title: QueryTable.CommandText property (Excel)
 keywords: vbaxl10.chm518113
 f1_keywords:
 - vbaxl10.chm518113
-ms.prod: excel
 api_name:
 - Excel.QueryTable.CommandText
 ms.assetid: 5f1f84f2-d613-17be-7b2e-3b6a3cc56002

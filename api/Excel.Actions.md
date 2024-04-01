@@ -3,7 +3,6 @@ title: Actions object (Excel)
 keywords: vbaxl10.chm799072
 f1_keywords:
 - vbaxl10.chm799072
-ms.prod: excel
 api_name:
 - Excel.Actions
 ms.assetid: c4175be1-826d-e5f8-6e3b-b98a1bd755ef

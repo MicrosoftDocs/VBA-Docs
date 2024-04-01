@@ -3,7 +3,6 @@ title: ThreeDFormat.IncrementRotationX method (Excel)
 keywords: vbaxl10.chm119020
 f1_keywords:
 - vbaxl10.chm119020
-ms.prod: excel
 api_name:
 - Excel.ThreeDFormat.IncrementRotationX
 ms.assetid: 599f96ca-6a8a-3b9e-5d76-c053f3236522

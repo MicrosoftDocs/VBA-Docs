@@ -3,7 +3,6 @@ title: ShapeNodes.Item method (Excel)
 keywords: vbaxl10.chm112003
 f1_keywords:
 - vbaxl10.chm112003
-ms.prod: excel
 api_name:
 - Excel.ShapeNodes.Item
 ms.assetid: f311dcab-f496-c6ac-a032-b21adae3fde8

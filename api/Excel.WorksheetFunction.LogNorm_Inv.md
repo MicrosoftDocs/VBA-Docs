@@ -3,7 +3,6 @@ title: WorksheetFunction.LogNorm_Inv method (Excel)
 keywords: vbaxl10.chm137408
 f1_keywords:
 - vbaxl10.chm137408
-ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.LogNorm_Inv
 ms.assetid: d8a3c416-c2c4-dc57-e1f0-1d05e9fec2a1

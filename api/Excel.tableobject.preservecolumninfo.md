@@ -3,7 +3,6 @@ title: TableObject.PreserveColumnInfo property (Excel)
 keywords: vbaxl10.chm916082
 f1_keywords:
 - vbaxl10.chm916082
-ms.prod: excel
 ms.assetid: eb9c65b5-587d-375c-0655-9bf78ce3dc85
 ms.date: 04/19/2019
 ms.localizationpriority: medium

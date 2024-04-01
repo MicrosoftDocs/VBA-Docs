@@ -1,6 +1,5 @@
 ---
 title: XlRemoveDocInfoType enumeration (Excel)
-ms.prod: excel
 api_name:
 - Excel.XlRemoveDocInfoType
 ms.assetid: b85c9eb6-8644-3866-b03c-08a46c1f70f6

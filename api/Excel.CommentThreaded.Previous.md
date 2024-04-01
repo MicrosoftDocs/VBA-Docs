@@ -3,7 +3,6 @@ title: CommentThreaded.Previous method (Excel)
 keywords: vbaxl10.chm1010080
 f1_keywords:
 - vbaxl10.chm1010080
-ms.prod: excel
 api_name:
 - Excel.CommentThreaded.Previous
 ms.date: 05/15/2019

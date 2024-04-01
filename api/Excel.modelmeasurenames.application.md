@@ -3,7 +3,6 @@ title: ModelMeasureNames.Application property (Excel)
 keywords: vbaxl10.chm971073
 f1_keywords:
 - vbaxl10.chm971073
-ms.prod: excel
 ms.assetid: c755709d-d0f0-ac56-8d57-39230fd92486
 ms.date: 05/01/2019
 ms.localizationpriority: medium

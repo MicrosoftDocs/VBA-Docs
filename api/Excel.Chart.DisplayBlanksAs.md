@@ -3,7 +3,6 @@ title: Chart.DisplayBlanksAs property (Excel)
 keywords: vbaxl10.chm149101
 f1_keywords:
 - vbaxl10.chm149101
-ms.prod: excel
 api_name:
 - Excel.Chart.DisplayBlanksAs
 ms.assetid: b4e18939-6214-25e8-a0cd-c984b9f82346

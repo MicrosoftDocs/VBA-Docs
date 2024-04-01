@@ -3,7 +3,6 @@ title: OLEObject.LostFocus event (Excel)
 keywords: vbaxl10.chm501074
 f1_keywords:
 - vbaxl10.chm501074
-ms.prod: excel
 api_name:
 - Excel.OLEObject.LostFocus
 ms.assetid: 9d8004be-97f5-54d2-3826-210f7cf0569f

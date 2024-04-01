@@ -3,7 +3,6 @@ title: VPageBreak.Application property (Excel)
 keywords: vbaxl10.chm155073
 f1_keywords:
 - vbaxl10.chm155073
-ms.prod: excel
 api_name:
 - Excel.VPageBreak.Application
 ms.assetid: 86002135-5004-f82b-7e8c-6819e84bcbf4

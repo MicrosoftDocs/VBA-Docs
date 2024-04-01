@@ -3,7 +3,6 @@ title: Shapes.Range property (Excel)
 keywords: vbaxl10.chm638088
 f1_keywords:
 - vbaxl10.chm638088
-ms.prod: excel
 api_name:
 - Excel.Shapes.Range
 ms.assetid: 8158e8aa-76e3-4d11-860d-aa3dcde6e0ca

@@ -3,7 +3,6 @@ title: Author object (Excel)
 keywords: vbaxl10.chm1011072
 f1_keywords:
 - vbaxl10.chm1011072
-ms.prod: excel
 api_name:
 - Excel.Author
 ms.date: 05/15/2019

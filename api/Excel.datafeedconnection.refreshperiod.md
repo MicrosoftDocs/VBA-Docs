@@ -3,7 +3,6 @@ title: DataFeedConnection.RefreshPeriod property (Excel)
 keywords: vbaxl10.chm928081
 f1_keywords:
 - vbaxl10.chm928081
-ms.prod: excel
 ms.assetid: 64ff3022-f79f-a263-e770-9e6ce33a7ed8
 ms.date: 03/28/2019
 ms.localizationpriority: medium

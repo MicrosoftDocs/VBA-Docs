@@ -3,7 +3,6 @@ title: DataBar.StopIfTrue property (Excel)
 keywords: vbaxl10.chm810074
 f1_keywords:
 - vbaxl10.chm810074
-ms.prod: excel
 api_name:
 - Excel.DataBar.StopIfTrue
 ms.assetid: a484451c-903e-c3ef-fa68-29f6b9718990

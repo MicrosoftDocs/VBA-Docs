@@ -3,7 +3,6 @@ title: OlkCheckBox.Enabled property (Outlook)
 keywords: vbaol11.chm1000139
 f1_keywords:
 - vbaol11.chm1000139
-ms.prod: outlook
 api_name:
 - Outlook.OlkCheckBox.Enabled
 ms.assetid: 37e0c232-1144-7e4a-1d77-094922853006

@@ -3,7 +3,6 @@ title: CustomView.Name property (Excel)
 keywords: vbaxl10.chm508073
 f1_keywords:
 - vbaxl10.chm508073
-ms.prod: excel
 api_name:
 - Excel.CustomView.Name
 ms.assetid: 0ba0f790-3f08-7a8c-23ee-acf265f5f8af

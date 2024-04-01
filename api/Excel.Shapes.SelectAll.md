@@ -3,7 +3,6 @@ title: Shapes.SelectAll method (Excel)
 keywords: vbaxl10.chm638089
 f1_keywords:
 - vbaxl10.chm638089
-ms.prod: excel
 api_name:
 - Excel.Shapes.SelectAll
 ms.assetid: 322f53c0-3a01-ce08-6112-89447f5ce686

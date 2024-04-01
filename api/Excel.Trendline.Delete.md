@@ -3,7 +3,6 @@ title: Trendline.Delete method (Excel)
 keywords: vbaxl10.chm594078
 f1_keywords:
 - vbaxl10.chm594078
-ms.prod: excel
 api_name:
 - Excel.Trendline.Delete
 ms.assetid: 76b903bc-4d95-d376-f0d0-9b8a52225d22

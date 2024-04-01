@@ -3,7 +3,6 @@ title: Axis.HasTitle property (Excel)
 keywords: vbaxl10.chm561083
 f1_keywords:
 - vbaxl10.chm561083
-ms.prod: excel
 api_name:
 - Excel.Axis.HasTitle
 ms.assetid: 4b3d656f-4416-42a6-cefd-9684ba98c8e3

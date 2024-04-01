@@ -3,7 +3,6 @@ title: Points method (Excel Graph)
 keywords: vbagr10.chm3077627
 f1_keywords:
 - vbagr10.chm3077627
-ms.prod: excel
 api_name:
 - Excel.Points
 ms.assetid: d5ec1f3d-a530-d967-4809-850dae59e5be

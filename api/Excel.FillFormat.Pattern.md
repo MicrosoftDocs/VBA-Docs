@@ -3,7 +3,6 @@ title: FillFormat.Pattern property (Excel)
 keywords: vbaxl10.chm115017
 f1_keywords:
 - vbaxl10.chm115017
-ms.prod: excel
 api_name:
 - Excel.FillFormat.Pattern
 ms.assetid: 051e17ce-accd-13f4-edca-9860bc78197b

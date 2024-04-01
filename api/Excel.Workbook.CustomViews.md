@@ -3,7 +3,6 @@ title: Workbook.CustomViews property (Excel)
 keywords: vbaxl10.chm199164
 f1_keywords:
 - vbaxl10.chm199164
-ms.prod: excel
 api_name:
 - Excel.Workbook.CustomViews
 ms.assetid: 286f6d5a-fb91-a339-8e74-9014ab7f4835

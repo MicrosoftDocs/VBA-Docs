@@ -3,7 +3,6 @@ title: Workbook.CheckIn method (Excel)
 keywords: vbaxl10.chm199204
 f1_keywords:
 - vbaxl10.chm199204
-ms.prod: excel
 api_name:
 - Excel.Workbook.CheckIn
 ms.assetid: f9750086-aaa6-3b04-6b51-ebcadf6b1911

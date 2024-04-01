@@ -1,6 +1,5 @@
 ---
 title: DocumentItem.CustomPropertyChange event (Outlook)
-ms.prod: outlook
 api_name:
 - Outlook.DocumentItem.CustomPropertyChange
 ms.assetid: 11fc60a4-39ef-3e39-d9af-0a5ccf3cbc43

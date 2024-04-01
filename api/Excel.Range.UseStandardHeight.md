@@ -3,7 +3,6 @@ title: Range.UseStandardHeight property (Excel)
 keywords: vbaxl10.chm144213
 f1_keywords:
 - vbaxl10.chm144213
-ms.prod: excel
 api_name:
 - Excel.Range.UseStandardHeight
 ms.assetid: 59e0be39-25ea-c18d-919d-506d4f041f45

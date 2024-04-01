@@ -3,7 +3,6 @@ title: AddressRuleCondition object (Outlook)
 keywords: vbaol11.chm3203
 f1_keywords:
 - vbaol11.chm3203
-ms.prod: outlook
 api_name:
 - Outlook.AddressRuleCondition
 ms.assetid: 8cf897ad-a8f9-67ea-c0fa-d7f4bb917bd4

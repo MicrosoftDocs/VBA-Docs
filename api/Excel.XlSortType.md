@@ -1,6 +1,5 @@
 ---
 title: XlSortType enumeration (Excel)
-ms.prod: excel
 api_name:
 - Excel.XlSortType
 ms.assetid: 223cfc69-714b-1c1e-7765-9ba5b61671fd

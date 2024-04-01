@@ -3,7 +3,6 @@ title: Application.WorkbookBeforeRemoteChange event (Excel)
 keywords: vbaxl10.chm503113
 f1_keywords:
 - vbaxl10.chm503113
-ms.prod: excel
 api_name:
 - Excel.Application.WorkbookBeforeRemoteChange
 ms.date: 04/05/2019

@@ -3,7 +3,6 @@ title: Trendlines.Count property (Excel)
 keywords: vbaxl10.chm592075
 f1_keywords:
 - vbaxl10.chm592075
-ms.prod: excel
 api_name:
 - Excel.Trendlines.Count
 ms.assetid: 6731edf2-8d9a-76b5-bf9f-23c1c3a9bed9

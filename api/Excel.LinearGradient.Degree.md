@@ -3,7 +3,6 @@ title: LinearGradient.Degree property (Excel)
 keywords: vbaxl10.chm855074
 f1_keywords:
 - vbaxl10.chm855074
-ms.prod: excel
 api_name:
 - Excel.LinearGradient.Degree
 ms.assetid: 0608fe59-76e9-e199-2cc6-848f283813f3

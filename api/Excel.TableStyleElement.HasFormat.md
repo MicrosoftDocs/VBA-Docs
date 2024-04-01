@@ -3,7 +3,6 @@ title: TableStyleElement.HasFormat property (Excel)
 keywords: vbaxl10.chm835073
 f1_keywords:
 - vbaxl10.chm835073
-ms.prod: excel
 api_name:
 - Excel.TableStyleElement.HasFormat
 ms.assetid: 3a9778ef-f2f4-7d07-5378-1d12feeb2711

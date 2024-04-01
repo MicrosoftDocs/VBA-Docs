@@ -3,7 +3,6 @@ title: CubeField.PivotFields property (Excel)
 keywords: vbaxl10.chm668088
 f1_keywords:
 - vbaxl10.chm668088
-ms.prod: excel
 api_name:
 - Excel.CubeField.PivotFields
 ms.assetid: d3da6064-a4b2-7075-cc3e-033896f5b4a9

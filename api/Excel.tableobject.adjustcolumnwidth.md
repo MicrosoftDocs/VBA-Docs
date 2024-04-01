@@ -3,7 +3,6 @@ title: TableObject.AdjustColumnWidth property (Excel)
 keywords: vbaxl10.chm916084
 f1_keywords:
 - vbaxl10.chm916084
-ms.prod: excel
 ms.assetid: 0e389572-16f8-6d3f-aa3e-af25efaba0c8
 ms.date: 04/19/2019
 ms.localizationpriority: medium

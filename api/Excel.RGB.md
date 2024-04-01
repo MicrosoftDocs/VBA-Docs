@@ -3,7 +3,6 @@ title: RGB property (Excel Graph)
 keywords: vbagr10.chm5207930
 f1_keywords:
 - vbagr10.chm5207930
-ms.prod: excel
 api_name:
 - Excel.RGB
 ms.assetid: bb3dbad0-a96a-969d-1234-ee9cf59e4c87

@@ -3,7 +3,6 @@ title: WorksheetView object (Excel)
 keywords: vbaxl10.chm777072
 f1_keywords:
 - vbaxl10.chm777072
-ms.prod: excel
 api_name:
 - Excel.WorksheetView
 ms.assetid: 9af65167-f9de-5c4f-6005-8debf96e54de

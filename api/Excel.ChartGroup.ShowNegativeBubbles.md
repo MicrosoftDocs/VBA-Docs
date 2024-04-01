@@ -3,7 +3,6 @@ title: ChartGroup.ShowNegativeBubbles property (Excel)
 keywords: vbaxl10.chm568096
 f1_keywords:
 - vbaxl10.chm568096
-ms.prod: excel
 api_name:
 - Excel.ChartGroup.ShowNegativeBubbles
 ms.assetid: 1f1288d5-71c5-f5da-583c-584db90c6c33

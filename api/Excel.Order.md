@@ -3,7 +3,6 @@ title: Order property (Excel Graph)
 keywords: vbagr10.chm5207737
 f1_keywords:
 - vbagr10.chm5207737
-ms.prod: excel
 api_name:
 - Excel.Order
 ms.assetid: aa56d241-870c-c3a9-00da-269fb8c314ea

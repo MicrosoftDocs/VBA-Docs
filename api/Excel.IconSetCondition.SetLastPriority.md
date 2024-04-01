@@ -3,7 +3,6 @@ title: IconSetCondition.SetLastPriority method (Excel)
 keywords: vbaxl10.chm812081
 f1_keywords:
 - vbaxl10.chm812081
-ms.prod: excel
 api_name:
 - Excel.IconSetCondition.SetLastPriority
 ms.assetid: b1003681-b5ac-85ab-dd9c-8a13685694d6

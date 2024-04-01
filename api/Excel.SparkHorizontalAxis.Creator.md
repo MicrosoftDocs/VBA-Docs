@@ -3,7 +3,6 @@ title: SparkHorizontalAxis.Creator property (Excel)
 keywords: vbaxl10.chm878074
 f1_keywords:
 - vbaxl10.chm878074
-ms.prod: excel
 api_name:
 - Excel.SparkHorizontalAxis.Creator
 ms.assetid: 2420bb92-b37e-cbd2-22d3-906cdc039afa

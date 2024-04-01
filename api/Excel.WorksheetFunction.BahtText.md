@@ -3,7 +3,6 @@ title: WorksheetFunction.BahtText method (Excel)
 keywords: vbaxl10.chm137249
 f1_keywords:
 - vbaxl10.chm137249
-ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.BahtText
 ms.assetid: a4c4d70f-4ac9-e90f-2ec2-9cab9e36fa84

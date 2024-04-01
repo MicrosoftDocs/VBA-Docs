@@ -3,7 +3,6 @@ title: XmlDataBinding.Application property (Excel)
 keywords: vbaxl10.chm747073
 f1_keywords:
 - vbaxl10.chm747073
-ms.prod: excel
 api_name:
 - Excel.XmlDataBinding.Application
 ms.assetid: 7cde1f38-aeb5-049a-361f-df1feb6dbc35

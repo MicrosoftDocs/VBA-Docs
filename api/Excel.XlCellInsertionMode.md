@@ -1,6 +1,5 @@
 ---
 title: XlCellInsertionMode enumeration (Excel)
-ms.prod: excel
 api_name:
 - Excel.xlCellInsertionMode
 ms.assetid: 582f504f-8acf-c359-186e-35429192b6b0

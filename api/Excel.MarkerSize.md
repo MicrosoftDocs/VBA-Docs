@@ -3,7 +3,6 @@ title: MarkerSize property (Excel Graph)
 keywords: vbagr10.chm65767
 f1_keywords:
 - vbagr10.chm65767
-ms.prod: excel
 api_name:
 - Excel.MarkerSize
 ms.assetid: 8af0ad97-9291-8bee-b896-283b76f8a882

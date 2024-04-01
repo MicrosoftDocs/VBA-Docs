@@ -3,7 +3,6 @@ title: WorksheetFunction.Var_S method (Excel)
 keywords: vbaxl10.chm137388
 f1_keywords:
 - vbaxl10.chm137388
-ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Var_S
 ms.assetid: ec764729-a498-5c99-035a-bc35759b7bfb

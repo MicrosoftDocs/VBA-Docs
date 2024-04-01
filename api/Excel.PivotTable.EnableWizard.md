@@ -3,7 +3,6 @@ title: PivotTable.EnableWizard property (Excel)
 keywords: vbaxl10.chm235108
 f1_keywords:
 - vbaxl10.chm235108
-ms.prod: excel
 api_name:
 - Excel.PivotTable.EnableWizard
 ms.assetid: 3e87af08-711d-cddb-bcc1-0b9179e71cb1

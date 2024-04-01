@@ -3,7 +3,6 @@ title: WorksheetFunction.Large method (Excel)
 keywords: vbaxl10.chm137229
 f1_keywords:
 - vbaxl10.chm137229
-ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.Large
 ms.assetid: d4695008-a800-955d-ce41-8988d1a869ab

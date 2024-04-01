@@ -3,7 +3,6 @@ title: TextFrame.AutoSize property (Excel)
 keywords: vbaxl10.chm644081
 f1_keywords:
 - vbaxl10.chm644081
-ms.prod: excel
 api_name:
 - Excel.TextFrame.AutoSize
 ms.assetid: bf434f76-5749-8163-f737-b3bd624092d5

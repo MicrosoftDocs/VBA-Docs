@@ -3,7 +3,6 @@ title: Shape.Model3D property (Excel)
 keywords: vbaxl10.chm636158
 f1_keywords:
 - vbaxl10.chm636158
-ms.prod: excel
 api_name:
 - Excel.Shape.Model3D
 ms.date: 05/14/2019

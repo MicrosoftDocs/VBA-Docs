@@ -3,7 +3,6 @@ title: DataTable.Creator property (Excel)
 keywords: vbaxl10.chm625074
 f1_keywords:
 - vbaxl10.chm625074
-ms.prod: excel
 api_name:
 - Excel.DataTable.Creator
 ms.assetid: 5a6faf28-485f-26e6-2f47-b0cd9275f261

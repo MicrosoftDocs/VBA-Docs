@@ -3,7 +3,6 @@ title: ContactItem.CustomerID property (Outlook)
 keywords: vbaol11.chm989
 f1_keywords:
 - vbaol11.chm989
-ms.prod: outlook
 api_name:
 - Outlook.ContactItem.CustomerID
 ms.assetid: 863c6dec-2375-7e7b-45bf-69fcc920b948

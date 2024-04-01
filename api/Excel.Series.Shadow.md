@@ -3,7 +3,6 @@ title: Series.Shadow property (Excel)
 keywords: vbaxl10.chm578119
 f1_keywords:
 - vbaxl10.chm578119
-ms.prod: excel
 api_name:
 - Excel.Series.Shadow
 ms.assetid: 8b1ad20a-764d-595b-5c3f-b7e6b68421a7

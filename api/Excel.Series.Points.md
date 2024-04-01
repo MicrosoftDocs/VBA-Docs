@@ -3,7 +3,6 @@ title: Series.Points method (Excel)
 keywords: vbaxl10.chm578104
 f1_keywords:
 - vbaxl10.chm578104
-ms.prod: excel
 api_name:
 - Excel.Series.Points
 ms.assetid: 9b6f08a1-3fbe-e9bc-a509-345a3d2d78b3

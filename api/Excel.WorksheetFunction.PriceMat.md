@@ -3,7 +3,6 @@ title: WorksheetFunction.PriceMat method (Excel)
 keywords: vbaxl10.chm137308
 f1_keywords:
 - vbaxl10.chm137308
-ms.prod: excel
 api_name:
 - Excel.WorksheetFunction.PriceMat
 ms.assetid: ecef19b5-eff5-7f26-02c8-fc25fd7f5949

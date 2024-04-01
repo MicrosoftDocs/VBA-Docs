@@ -3,7 +3,6 @@ title: Point.Has3DEffect property (Excel)
 keywords: vbaxl10.chm576101
 f1_keywords:
 - vbaxl10.chm576101
-ms.prod: excel
 api_name:
 - Excel.Point.Has3DEffect
 ms.assetid: 0e703274-3158-efe9-24cb-f2794d8acac4

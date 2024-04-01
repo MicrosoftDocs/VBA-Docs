@@ -3,7 +3,6 @@ title: PivotTable.ClearAllFilters method (Excel)
 keywords: vbaxl10.chm235170
 f1_keywords:
 - vbaxl10.chm235170
-ms.prod: excel
 api_name:
 - Excel.PivotTable.ClearAllFilters
 ms.assetid: e12fba36-f699-9800-99bc-d29b58b26043

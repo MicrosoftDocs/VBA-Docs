@@ -3,7 +3,6 @@ title: ProtectedViewWindow.SourceName property (Excel)
 keywords: vbaxl10.chm914081
 f1_keywords:
 - vbaxl10.chm914081
-ms.prod: excel
 api_name:
 - Excel.ProtectedViewWindow.SourceName
 ms.assetid: e5347e6e-b9d4-d3b1-ca41-ba577d836e31

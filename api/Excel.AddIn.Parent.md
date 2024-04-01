@@ -3,7 +3,6 @@ title: AddIn.Parent property (Excel)
 keywords: vbaxl10.chm184075
 f1_keywords:
 - vbaxl10.chm184075
-ms.prod: excel
 api_name:
 - Excel.AddIn.Parent
 ms.assetid: 9dc50fa3-280c-c859-3d8a-d56ec25b8047

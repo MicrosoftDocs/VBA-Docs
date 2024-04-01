@@ -3,7 +3,6 @@ title: TableStyleElement.StripeSize property (Excel)
 keywords: vbaxl10.chm835077
 f1_keywords:
 - vbaxl10.chm835077
-ms.prod: excel
 api_name:
 - Excel.TableStyleElement.StripeSize
 ms.assetid: b0f9515f-38d7-c338-43e0-0da0e9de0555

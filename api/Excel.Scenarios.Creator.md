@@ -3,7 +3,6 @@ title: Scenarios.Creator property (Excel)
 keywords: vbaxl10.chm361074
 f1_keywords:
 - vbaxl10.chm361074
-ms.prod: excel
 api_name:
 - Excel.Scenarios.Creator
 ms.assetid: 90485e33-0812-a678-1ec1-865271450264

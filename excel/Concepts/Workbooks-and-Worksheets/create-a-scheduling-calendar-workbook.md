@@ -1,6 +1,5 @@
 ---
 title: Create a Scheduling Calendar Workbook
-ms.prod: excel
 ms.assetid: 0f0f4946-c04c-4866-a6dd-79101df7bafb
 ms.date: 06/08/2017
 ms.localizationpriority: medium

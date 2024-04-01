@@ -3,7 +3,6 @@ title: Chart.ExportAsFixedFormat method (Excel)
 keywords: vbaxl10.chm149183
 f1_keywords:
 - vbaxl10.chm149183
-ms.prod: excel
 api_name:
 - Excel.Chart.ExportAsFixedFormat
 ms.assetid: 4fa48315-c9e9-944c-71c3-72ec9894daac

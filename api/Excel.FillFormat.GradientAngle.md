@@ -1,6 +1,5 @@
 ---
 title: FillFormat.GradientAngle property (Excel)
-ms.prod: excel
 api_name:
 - Excel.FillFormat.GradientAngle
 ms.assetid: cc2b2d08-1411-f79f-806c-5f832a1ce715

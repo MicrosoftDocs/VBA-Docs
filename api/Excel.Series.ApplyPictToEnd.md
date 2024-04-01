@@ -3,7 +3,6 @@ title: Series.ApplyPictToEnd property (Excel)
 keywords: vbaxl10.chm578117
 f1_keywords:
 - vbaxl10.chm578117
-ms.prod: excel
 api_name:
 - Excel.Series.ApplyPictToEnd
 ms.assetid: 40d4dca5-1747-c9c6-a117-29939bf4cd74

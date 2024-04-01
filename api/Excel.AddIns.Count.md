@@ -3,7 +3,6 @@ title: AddIns.Count property (Excel)
 keywords: vbaxl10.chm187074
 f1_keywords:
 - vbaxl10.chm187074
-ms.prod: excel
 api_name:
 - Excel.AddIns.Count
 ms.assetid: ed72ad41-e673-05dd-780c-5a3612af0ba2
