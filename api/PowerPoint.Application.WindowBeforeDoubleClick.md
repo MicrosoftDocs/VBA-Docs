@@ -53,7 +53,7 @@ In slide sorter view, the default double-click event for any slide is to change 
 
 
 ```vb
-Private Sub App_WindowBeforeDoubleClick (ByVal Sel As Selection, ByVal Cancel As Boolean)
+Private Sub App_WindowBeforeDoubleClick (ByVal Sel As Selection, Cancel As Boolean)
 
     With Application.ActiveWindow
 
