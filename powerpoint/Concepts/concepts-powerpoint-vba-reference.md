@@ -10,6 +10,8 @@ ms.localizationpriority: high
 
 This section contains the following overviews about programmability in PowerPoint:
 
+- [Auto Macros](auto-macros.md)
+
 - [Control and dialog box events](control-and-dialog-box-events-powerpoint.md)
 
 - [Language-specific properties and methods](language-specific-properties-and-methods-powerpoint.md)
