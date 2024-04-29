@@ -42,7 +42,7 @@ This example disables the default right-click action.
 
 ```vb
 Private Sub Workbook_SheetBeforeRightClick(ByVal Sh As Object, _ 
- ByVal Target As Range, ByVal Cancel As Boolean) 
+ ByVal Target As Range, Cancel As Boolean) 
  Cancel = True 
 End Sub
 ```
