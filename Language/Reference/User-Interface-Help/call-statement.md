@@ -29,6 +29,8 @@ The **Call** statement syntax has these parts:
 
 You are not required to use the **Call** keyword when calling a procedure. However, if you use the **Call** keyword to call a procedure that requires arguments, _argumentlist_ must be enclosed in parentheses. If you omit the **Call** keyword, you also must omit the parentheses around _argumentlist_. If you use either **Call** syntax to call any intrinsic or user-defined function, the function's return value is discarded.
 
+In Visual Basic .NET, you can omit only the **Call** keyword leaving the parentheses in most cases, but in VBA, you must use **both or none** of the **Call** and parentheses.
+
 To pass a whole array to a procedure, use the array name followed by empty parentheses.
 
 ## Example

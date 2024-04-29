@@ -71,7 +71,7 @@ The _arglist_ argument has the following syntax and parts:
 |:-----|:-----|
 |**Optional**|Optional. Indicates that an argument is not required. If used, all subsequent arguments in  _arglist_ must also be optional and declared by using the **Optional** keyword. **Optional** can't be used for any argument if **ParamArray** is used.|
 |**ByVal**|Optional. Indicates that the argument is passed [by value](../../Glossary/vbe-glossary.md#by-value).|
-|**ByRef**|Indicates that the argument is passed [by reference](../../Glossary/vbe-glossary.md#by-reference). **ByRef** is the default in Visual Basic.|
+|**ByRef**|Indicates that the argument is passed [by reference](../../Glossary/vbe-glossary.md#by-reference). **ByRef** is the default in VBA unlike in Visual Basic .NET.|
 |**ParamArray**|Optional. Used only as the last argument in _arglist_ to indicate that the final argument is an **Optional** [array](../../Glossary/vbe-glossary.md#array) of **Variant** elements. The **ParamArray** keyword allows you to provide an arbitrary number of arguments. The **ParamArray** keyword can't be used with **ByVal**, **ByRef**, or **Optional**.|
 | _varname_|Required. Name of the variable representing the argument being passed to the procedure; follows standard variable naming conventions.|
 |**( )**|Required for array variables. Indicates that  _varname_ is an array.|
