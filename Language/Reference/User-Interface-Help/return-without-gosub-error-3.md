@@ -17,7 +17,7 @@ A **Return** statement must have a corresponding **GoSub** statement. This error
 
 - You have a **Return** statement that can't be matched with a **GoSub** statement. Make sure your **GoSub** statement wasn't inadvertently deleted.
 - **Return** in VBA has a different meaning than that in the Visual Basic .NET.
-  - If you want to exit a **Sub** in VBA, use **Exit Sub** instead of **Return**.
+- If you want to exit a **Sub** in VBA, use **Exit Sub** instead of **Return**.
     
 
 Unlike **For...Next**, **While...Wend**, and **Sub...End Sub**, which are matched at [compile time](../../Glossary/vbe-glossary.md#compile-time), **GoSub** and **Return** are matched at [run time](../../Glossary/vbe-glossary.md#run-time).
