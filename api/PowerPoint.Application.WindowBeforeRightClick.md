@@ -38,7 +38,7 @@ This example creates a duplicate of the selected shape. If the shape has a text 
 
 
 ```vb
-Private Sub App_WindowBeforeRightClick(ByVal Sel As Selection, ByVal Cancel As Boolean)
+Private Sub App_WindowBeforeRightClick(ByVal Sel As Selection, Cancel As Boolean)
 
     With ActivePresentation.Selection.ShapeRange
 
