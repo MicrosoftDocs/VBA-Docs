@@ -56,6 +56,7 @@ The DataType parameter can be one of these **PpPasteDataType** constants
 |**ppPastePNG**|
 |**ppPasteRTF**|
 |**ppPasteShape**|
+|**ppPasteSVG**|
 |**ppPasteText**|
 
 The DisplayAsIcon parameter can be one of these **MsoTriState** constants.
