@@ -51,6 +51,7 @@ There is a set of folders within an Outlook data store that supports the default
 |[GetCalendarExporter](Outlook.Folder.GetCalendarExporter.md)|
 |[GetCustomIcon](Outlook.Folder.GetCustomIcon.md)|
 |[GetExplorer](Outlook.Folder.GetExplorer.md)|
+|[GetOwner](Outlook.Folder.GetOwner.md)|
 |[GetStorage](Outlook.Folder.GetStorage.md)|
 |[GetTable](Outlook.Folder.GetTable.md)|
 |[MoveTo](Outlook.Folder.MoveTo.md)|
