@@ -46,7 +46,7 @@ _expression_ A variable that represents a **[Presentation](PowerPoint.Presentati
 | _HandoutOrder_|Optional|PPPRINTHANDOUTORDER||
 | _OutputType_|Optional|PPPRINTOUTPUTTYPE||
 | _PrintHiddenSlides_|Optional|unknown||
-| _PrintRange_|Required|PRINTRANGE|Nothing||
+| _PrintRange_|Required|PRINTRANGE or Nothing||
 | _RangeType_|Required|PPPRINTRANGETYPE||
 | _SlideShowName_|Optional|**String**||
 | _IncludeDocProperties_|Optional|BOOL||
