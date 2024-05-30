@@ -29,7 +29,7 @@ _expression_ A variable that represents a **[Presentation](PowerPoint.Presentati
 | _HandoutOrder_|Optional|**PpPrintHandoutOrder**|The order in which the handout should be printed.|
 | _OutputType_|Optional|**PpPrintOutputType**|The type of output.|
 | _PrintHiddenSlides_|Optional|**MsoTriState**|Whether to print hidden slides.|
-| _PrintRange_|Optional|**PrintRange**|The slide range.|
+| _PrintRange_|Required|**PrintRange**|The slide range. Can be set to `Nothing` for all|
 | _RangeType_|Optional|**PpPrintRangeType**|The type of slide range.|
 | _SlideShowName_|Optional|**String**|The name of the slide show.|
 | _IncludeDocProperties_|Optional|**Boolean**|Whether the document properties should also be exported. The default is **False**.|
@@ -46,8 +46,8 @@ _expression_ A variable that represents a **[Presentation](PowerPoint.Presentati
 | _HandoutOrder_|Optional|PPPRINTHANDOUTORDER||
 | _OutputType_|Optional|PPPRINTOUTPUTTYPE||
 | _PrintHiddenSlides_|Optional|unknown||
-| _PrintRange_|Optional|PRINTRANGE||
-| _RangeType_|Optional|PPPRINTRANGETYPE||
+| _PrintRange_|Required|PRINTRANGE|Nothing||
+| _RangeType_|Required|PPPRINTRANGETYPE||
 | _SlideShowName_|Optional|**String**||
 | _IncludeDocProperties_|Optional|BOOL||
 | _KeepIRMSettings_|Optional|BOOL||
@@ -66,6 +66,8 @@ _expression_ A variable that represents a **[Presentation](PowerPoint.Presentati
 The _KeepIRMSettings_ parameter behaves specially for PDF. It controls the retention of both labels and encryption to the output file. For more information, see [Manage sensitivity labels in Office apps](/microsoft-365/compliance/sensitivity-labels-office-apps?view=o365-worldwide#pdf-support&preserve-view=true).
 
 If the presentation is not fully downloaded, this method fails and an error occurs. For more information about the Partial Documents, see [Work with Partial Documents](~/powerpoint/How-to/work-with-partial-documents.md).
+
+PrintRange is a required parameter, but may be set to `Nothing`. If not supplied, the call will fail with a `Type mismatch`
 
 ### See also
 [Manage sensitivity labels in Office apps](/microsoft-365/compliance/sensitivity-labels-office-apps?view=o365-worldwide#pdf-support&preserve-view=true)
