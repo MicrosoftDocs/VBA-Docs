@@ -31,5 +31,13 @@ Specifies the format for the automatically updated date and time.
 |**ppDateTimeMMMMdyyyy**|4|MMMMdyyyy|
 |**ppDateTimeMMMMyy**|6|MMMMyy|
 |**ppDateTimeMMyy**|7|MMyy|
+|**ppDateTimeUAQ1**|15|UAQ1|
+|**ppDateTimeUAQ2**|16|UAQ2|
+|**ppDateTimeUAQ3**|17|UAQ3|
+|**ppDateTimeUAQ4**|18|UAQ4|
+|**ppDateTimeUAQ5**|19|UAQ5|
+|**ppDateTimeUAQ6**|20|UAQ6|
+|**ppDateTimeUAQ7**|21|UAQ7|
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
