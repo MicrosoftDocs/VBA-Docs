@@ -31,7 +31,7 @@ _expression_ An expression that returns a **[Presentation](PowerPoint.Presentati
 | _HandoutOrder_|Optional|**PpPrintHandoutOrder**|The order in which the handout should be printed.|
 | _OutputType_|Optional|**PpPrintOutputType**|The type of output.|
 | _PrintHiddenSlides_|Optional|**MsoTriState**|Whether to print hidden slides.|
-| _PrintRange_|Optional|**PrintRange**|The slide range.|
+| _PrintRange_|Required|**PrintRange**|The slide range, can be `Nothing`.|
 | _RangeType_|Optional|**PpPrintRangeType**|The type of slide range.|
 | _SlideShowName_|Optional|**String**|The name of the slide show.|
 | _IncludeDocProperties_|Optional|**Boolean**|Whether the document properties should also be exported. The default is **False**.|
@@ -120,6 +120,8 @@ The _RangeType_ parameter value can be one of these **PpPrintRangeType** constan
 Set _BitmapMissingFonts_ to **True** when font licensing does not permit you to embed a font in the PDF file. If you set this parameter to **False**, the font is referenced, and the viewer's computer substitutes an appropriate font if the authored one is not available.
 
 The _KeepIRMSettings_ parameter behaves specially for PDF. It controls the retention of both labels and encryption to the output file. For more information, see [Manage sensitivity labels in Office apps](/microsoft-365/compliance/sensitivity-labels-office-apps?view=o365-worldwide#pdf-support&preserve-view=true).
+
+The _PrintRange_ parameter is required, but can be set to `Nothing` for all.
 
 If the presentation is not fully downloaded, this method fails and an error occurs. For more information about the Partial Documents, see [Work with Partial Documents](~/powerpoint/How-to/work-with-partial-documents.md).
 
