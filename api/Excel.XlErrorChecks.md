@@ -21,7 +21,7 @@ Specifies the type of error object to be retrieved from the **Errors** collectio
 | **xlListDataValidation**|8|Data in the list contains a validation error.|
 | **xlNumberAsText**|3|Number entered as text.|
 | **xlOmittedCells**|5|Cells omitted.|
-| **xlStaleValue**|12|The cell contains an uncalculated value. |
+| **xlStaleValue**|12|The cell contains an uncalculated formula. |
 | **xlTextDate**|2|Date entered as text. |
 | **xlUnlockedFormulaCells**|6|Formula cells are unlocked.|
 
