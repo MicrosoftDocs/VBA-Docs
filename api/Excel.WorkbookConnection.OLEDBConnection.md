@@ -13,7 +13,7 @@ ms.localizationpriority: medium
 
 # WorkbookConnection.OLEDBConnection property (Excel)
 
-Returns the OLEDB connection details for the specified **WorkbookConnection** object. Read-only **OLEDBConnection**.
+Returns the OLEDB connection details for the specified **WorkbookConnection** object. Read-only **[OLEDBConnection](Excel.OLEDBConnection.md)**.
 
 
 ## Syntax
