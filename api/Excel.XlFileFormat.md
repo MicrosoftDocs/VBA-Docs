@@ -72,6 +72,6 @@ Specifies the file format when saving the worksheet.
 | **xlXMLSpreadsheet**|46|XML Spreadsheet|*.xml|
 
 ## See also:
-* [File formats that are supported in Excel](https://learn.microsoft.com/en-us/deployoffice/compat/office-file-format-reference#file-formats-that-are-supported-in-excel)
+* [File formats that are supported in Excel](https://learn.microsoft.com/deployoffice/compat/office-file-format-reference#file-formats-that-are-supported-in-excel)
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
