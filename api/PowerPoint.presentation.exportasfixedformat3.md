@@ -55,6 +55,10 @@ If the presentation is not fully downloaded, this method fails and an error occu
 
 PrintRange is a required parameter, but may be set to `Nothing`. If not supplied, the call will fail with a `Type mismatch`
 
+## Requirements
+
+Microsoft 365 Version 2408 (Build 17928.xxxxx)
+
 ### See also
 [Manage sensitivity labels in Office apps](/microsoft-365/compliance/sensitivity-labels-office-apps?view=o365-worldwide#pdf-support&preserve-view=true)
 
