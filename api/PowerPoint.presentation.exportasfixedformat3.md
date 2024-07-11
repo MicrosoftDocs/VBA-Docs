@@ -1,20 +1,20 @@
 ---
-title: Presentation.ExportAsFixedFormat2 method (PowerPoint)
-keywords: vbapp10.chm583126
+title: Presentation.ExportAsFixedFormat3 method (PowerPoint)
+keywords: vbapp10.chm583139
 f1_keywords:
-- vbapp10.chm583126
-ms.assetid: b1101e58-e6a8-9dd4-7071-1325ba71edb1
-ms.date: 08/02/2022
+- vbapp10.chm583139
+ms.assetid: 55a9c44e-e82d-4cb8-9b21-bd491087c1e9
+ms.date: 07/10/2024
 ms.localizationpriority: medium
 ---
 
-# Presentation.ExportAsFixedFormat2 method (PowerPoint)
+# Presentation.ExportAsFixedFormat3 method (PowerPoint)
 
 Publishes a copy of a Microsoft PowerPoint presentation as a file in a fixed format, either PDF or XPS.
 
 ## Syntax
 
-_expression_.**ExportAsFixedFormat2** (_Path_, _FixedFormatType_, _Intent_, _FrameSlides_, _HandoutOrder_, _OutputType_, _PrintHiddenSlides_, _PrintRange_, _RangeType_, _SlideShowName_, _IncludeDocProperties_, _KeepIRMSettings_, _DocStructureTags_, _BitmapMissingFonts_, _UseISO19005_1_, _IncludeMarkup_, _ExternalExporter_)
+_expression_.**ExportAsFixedFormat3** (_Path_, _FixedFormatType_, _Intent_, _FrameSlides_, _HandoutOrder_, _OutputType_, _PrintHiddenSlides_, _PrintRange_, _RangeType_, _SlideShowName_, _IncludeDocProperties_, _KeepIRMSettings_, _DocStructureTags_, _BitmapMissingFonts_, _UseISO19005_1_, _IncludeMarkup_, _ExternalExporter_, _Bookmarks_, _DocumentMarkup_, _PromotedHyperlinkShape_)
 
 _expression_ A variable that represents a **[Presentation](PowerPoint.Presentation.md)** object.
 
@@ -38,6 +38,9 @@ _expression_ A variable that represents a **[Presentation](PowerPoint.Presentati
 | _BitmapMissingFonts_|Optional|**Boolean**|Whether to include a bitmap of the text. The default is **True**.|
 | _UseISO19005_1_|Optional|**Boolean**|Whether the resulting document is compliant with ISO 19005-1 (PDF/A). The default is **False**.|
 | _IncludeMarkup_|Optional|**Boolean**|Whether the resulting document should include associated pen marks.|
+| _Bookmarks_|Optional|**Boolean**|Whether bookmarks for each section and slide should be included in the exported document. When using this option, external exporters should not add their own bookmarks for sections or slides. The default is **True**.|
+| _DocumentMarkup_|Optional|**Boolean**|Whether the **Document** tag should be included in the document structure tags. When using this option, external exporters should not add their own **Document** tag. The default is **True**.|
+| _PromotedHyperlinkShape_|Optional|**Boolean**|Whether hyperlinks should be promoted to siblings of objects rather than nested within objects in document structure tags. Transparent text elements with alpha of 0 are included for the hyperlinks and external exporters should respect the alpha value so that they are not visible in the document. The default is **True**.|
 | _ExternalExporter_|Optional|**Variant**|A pointer to an Office add-in that implements the **IMsoDocExporter** COM interface and allows calls to an alternate implementation of code. The default is a null pointer.|
 
 ## Return value
@@ -51,6 +54,10 @@ The _KeepIRMSettings_ parameter behaves specially for PDF. It controls the reten
 If the presentation is not fully downloaded, this method fails and an error occurs. For more information about the Partial Documents, see [Work with Partial Documents](~/powerpoint/How-to/work-with-partial-documents.md).
 
 PrintRange is a required parameter, but may be set to `Nothing`. If not supplied, the call will fail with a `Type mismatch`
+
+## Requirements
+
+Microsoft 365 Version 2408 (Build 17928.xxxxx)
 
 ### See also
 [Manage sensitivity labels in Office apps](/microsoft-365/compliance/sensitivity-labels-office-apps?view=o365-worldwide#pdf-support&preserve-view=true)
