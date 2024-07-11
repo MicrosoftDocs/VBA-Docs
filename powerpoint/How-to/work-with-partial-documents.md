@@ -67,6 +67,7 @@ The following is a list of impacted OM API calls which may return the error code
 |[Presentation.Export](~/api/PowerPoint.Presentation.Export.md)|
 |[Presentation.ExportAsFixedFormat](~/api/PowerPoint.Presentation.ExportAsFixedFormat.md)|
 |[Presentation.ExportAsFixedFormat2](~/api/PowerPoint.Presentation.ExportAsFixedFormat2.md)|
+|[Presentation.ExportAsFixedFormat3](~/api/PowerPoint.Presentation.ExportAsFixedFormat3.md)|
 |[Presentation.SaveAs](~/api/PowerPoint.Presentation.SaveAs.md)|
 |[Presentation.SaveCopyAs](~/api/PowerPoint.Presentation.SaveCopyAs.md)|
 |[Presentation.SaveCopyAs2](~/api/PowerPoint.Presentation.SaveCopyAs2.md)|
