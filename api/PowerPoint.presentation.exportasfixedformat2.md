@@ -39,23 +39,6 @@ _expression_ A variable that represents a **[Presentation](PowerPoint.Presentati
 | _UseISO19005_1_|Optional|**Boolean**|Whether the resulting document is compliant with ISO 19005-1 (PDF/A). The default is **False**.|
 | _IncludeMarkup_|Optional|**Boolean**|Whether the resulting document should include associated pen marks.|
 | _ExternalExporter_|Optional|**Variant**|A pointer to an Office add-in that implements the **IMsoDocExporter** COM interface and allows calls to an alternate implementation of code. The default is a null pointer.|
-| _Path_|Required|**String**||
-| _FixedFormatType_|Required|PPFIXEDFORMATTYPE||
-| _Intent_|Optional|PPFIXEDFORMATINTENT||
-| _FrameSlides_|Optional|unknown||
-| _HandoutOrder_|Optional|PPPRINTHANDOUTORDER||
-| _OutputType_|Optional|PPPRINTOUTPUTTYPE||
-| _PrintHiddenSlides_|Optional|unknown||
-| _PrintRange_|Required|PRINTRANGE or Nothing||
-| _RangeType_|Required|PPPRINTRANGETYPE||
-| _SlideShowName_|Optional|**String**||
-| _IncludeDocProperties_|Optional|BOOL||
-| _KeepIRMSettings_|Optional|BOOL||
-| _DocStructureTags_|Optional|BOOL||
-| _BitmapMissingFonts_|Optional|BOOL||
-| _UseISO19005_1_|Optional|BOOL||
-| _IncludeMarkup_|Optional|BOOL||
-| _ExternalExporter_|Optional|**Variant**||
 
 ## Return value
 
