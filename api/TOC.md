@@ -17760,6 +17760,7 @@
 ###### [Export](PowerPoint.Presentation.Export.md)
 ###### [ExportAsFixedFormat](PowerPoint.Presentation.ExportAsFixedFormat.md)
 ###### [ExportAsFixedFormat2](PowerPoint.presentation.exportasfixedformat2.md)
+###### [ExportAsFixedFormat3](PowerPoint.presentation.exportasfixedformat3.md)
 ###### [FollowHyperlink](PowerPoint.Presentation.FollowHyperlink.md)
 ###### [GetWorkflowTasks](PowerPoint.Presentation.GetWorkflowTasks.md)
 ###### [GetWorkflowTemplates](PowerPoint.Presentation.GetWorkflowTemplates.md)
