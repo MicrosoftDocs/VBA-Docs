@@ -1,8 +1,5 @@
 ---
 title: Range.ResetContents method (Excel)
-keywords: 
-f1_keywords:
-- 
 api_name:
 - Excel.Range.ResetContents
 ms.assetid: 375545fc-688f-47db-9185-65e9a60ed9de
