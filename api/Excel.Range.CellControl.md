@@ -1,8 +1,6 @@
 ---
 title: CellControl object (Excel)
 keywords: 
-f1_keywords:
-- 
 api_name:
 - Excel.CellControl
 ms.assetid: 8cf98be1-cd6a-4008-9dd7-bd445ef33977
