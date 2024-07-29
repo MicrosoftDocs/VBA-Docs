@@ -318,7 +318,7 @@ Indicates that no beginning value has been assigned to a **Variant** variable. A
 
 ## error number
 
-A whole number in the range 0 - 65,535 that corresponds to the **Number** property setting of the **Err** object. When combined with the **Description** property setting of the **Err** object, this number represents a particular error message.
+A whole number in the range 0 - 65,535 that corresponds to the [**Number** property](../reference/user-interface-help/number-property-visual-basic-for-applications.md) setting of the **Err** object. When combined with the **Description** property setting of the **Err** object, this number represents a particular error message.
 
 
 ## event source object
