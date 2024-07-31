@@ -19,20 +19,20 @@ The following **Sub** procedure has comments explaining each line.
 ' Declares a procedure named GetInfo 
 ' This Sub procedure takes no arguments 
 Sub GetInfo() 
-' Declares a string variable named answer 
-Dim answer As String 
-' Assigns the return value of the InputBox function to answer 
-answer = InputBox(Prompt:="What is your name?") 
- ' Conditional If...Then...Else statement 
- If answer = Empty Then 
- ' Calls the MsgBox function 
- MsgBox Prompt:="You did not enter a name." 
- Else 
- ' MsgBox function concatenated with the variable answer 
- MsgBox Prompt:="Your name is " & answer 
- ' Ends the If...Then...Else statement 
- End If 
-' Ends the Sub procedure 
+    ' Declares a string variable named answer 
+    Dim answer As String 
+    ' Assigns the return value of the InputBox function to answer 
+    answer = InputBox(Prompt:="What is your name?") 
+    ' Conditional If...Then...Else statement 
+    If answer = Empty Then 
+        ' Calls the MsgBox function 
+        MsgBox Prompt:="You did not enter a name." 
+    Else 
+        ' MsgBox function concatenated with the variable answer 
+        MsgBox Prompt:="Your name is " & answer 
+        ' Ends the If...Then...Else statement 
+    End If 
+    ' Ends the Sub procedure 
 End Sub
 ```
 

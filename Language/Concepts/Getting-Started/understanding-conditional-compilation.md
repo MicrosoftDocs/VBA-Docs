@@ -22,15 +22,11 @@ The following example runs debug code or production code, based on the value of 
 #Const conDebug = 1 
  
 Sub SelectiveExecution() 
- #If conDebug = 1 Then 
- . ' Run code with debugging statements. 
- . 
- . 
- #Else 
- . ' Run normal code. 
- . 
- . 
- #End If 
+    #If conDebug = 1 Then 
+        ... ' Run code with debugging statements. 
+    #Else 
+        ... ' Run normal code. 
+    #End If 
 End Sub
 ```
 

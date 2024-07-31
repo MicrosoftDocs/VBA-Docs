@@ -24,11 +24,11 @@ To set the value of an individual element, you specify the element's index. The 
 
 ```vb
 Sub FillArray() 
- Dim curExpense(364) As Currency 
- Dim intI As Integer 
- For intI = 0 to 364 
- curExpense(intI) = 20 
- Next 
+    Dim curExpense(364) As Currency 
+    Dim intI As Integer 
+    For intI = 0 to 364 
+        curExpense(intI) = 20 
+    Next 
 End Sub
 ```
 
@@ -100,16 +100,16 @@ Use nested **[For...Next](../../reference/user-interface-help/fornext-statement.
 
 ```vb
 Sub FillArrayMulti() 
- Dim intI As Integer, intJ As Integer 
- Dim sngMulti(1 To 5, 1 To 10) As Single 
+    Dim intI As Integer, intJ As Integer 
+    Dim sngMulti(1 To 5, 1 To 10) As Single 
  
- ' Fill array with values. 
- For intI = 1 To 5 
- For intJ = 1 To 10 
- sngMulti(intI, intJ) = intI * intJ 
- Debug.Print sngMulti(intI, intJ) 
- Next intJ 
- Next intI 
+    ' Fill array with values. 
+    For intI = 1 To 5 
+        For intJ = 1 To 10 
+            sngMulti(intI, intJ) = intI * intJ 
+            Debug.Print sngMulti(intI, intJ) 
+        Next intJ 
+    Next intI 
 End Sub
 ```
 

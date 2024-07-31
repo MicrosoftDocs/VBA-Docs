@@ -26,11 +26,12 @@ End Sub
 The following code loops through each element in an array and sets the value of each to the value of the index variable I.
 
 ```vb
-Dim TestArray(10) As Integer, I As Variant 
-For Each I In TestArray 
- TestArray(I) = I 
-Next I 
-
+Sub SetArrayValue()
+    Dim TestArray(10) As Integer, I As Variant 
+        For Each I In TestArray 
+        TestArray(I) = I 
+    Next I 
+End Sub
 ```
 
 
@@ -40,9 +41,9 @@ Use a **For Each...Next** loop to loop through the cells in a range. The followi
 
 ```vb
 Sub RoundToZero() 
- For Each rng in Range("A1:D10") 
- If Abs(rng.Value) < 0.01 Then rng.Value = 0 
- Next 
+    For Each rng in Range("A1:D10") 
+        If Abs(rng.Value) < 0.01 Then rng.Value = 0 
+    Next 
 End Sub
 ```
 
@@ -54,12 +55,12 @@ The following example tests for the first cell in the range A1:B5 that does not 
 
 ```vb
 Sub TestForNumbers() 
- For Each rng In Range("A1:B5") 
-  If IsNumeric(rng.Value) = False Then 
-   MsgBox "Cell " & rng.Address & " contains a non-numeric value." 
-   Exit For 
-  End If 
- Next rng 
+    For Each rng In Range("A1:B5") 
+        If IsNumeric(rng.Value) = False Then 
+            MsgBox "Cell " & rng.Address & " contains a non-numeric value." 
+            Exit For 
+        End If 
+    Next rng 
 End Sub
 ```
 
@@ -147,7 +148,7 @@ Following is an example demonstrating how you can do this.
     Dim Element
     Dim MyCustomCollection As New CustomCollection
     For Each Element In MyCustomCollection
-    MsgBox Element
+        MsgBox Element
     Next
     ```
 

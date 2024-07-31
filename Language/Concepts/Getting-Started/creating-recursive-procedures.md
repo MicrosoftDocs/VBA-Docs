@@ -15,7 +15,7 @@ ms.localizationpriority: medium
 
 ```vb
 Function RunOut(Maximum) 
- RunOut = RunOut(Maximum) 
+    RunOut = RunOut(Maximum) 
 End Function
 ```
 
@@ -23,11 +23,11 @@ This error may be less obvious when two procedures call each other indefinitely,
 
 ```vb
 Function Factorial (N) 
- If N <= 1 Then ' Reached end of recursive calls. 
- Factorial = 1 ' (N = 0) so climb back out of calls. 
- Else ' Call Factorial again if N > 0. 
- Factorial = Factorial(N - 1) * N 
- End If 
+    If N <= 1 Then ' Reached end of recursive calls. 
+        Factorial = 1 ' (N = 0) so climb back out of calls. 
+    Else ' Call Factorial again if N > 0. 
+        Factorial = Factorial(N - 1) * N 
+    End If 
 End Function
 ```
 

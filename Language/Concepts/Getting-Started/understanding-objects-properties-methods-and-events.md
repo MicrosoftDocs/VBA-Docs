@@ -21,7 +21,7 @@ Items in a collection can be identified by number or by name. For example, the f
 
 ```vb
 Sub CloseFirst() 
- Workbooks(1).Close 
+    Workbooks(1).Close 
 End Sub
 ```
 
@@ -29,7 +29,7 @@ The following procedure uses a name specified as a string to identify a **Form**
 
 ```vb
 Sub CloseForm() 
- Forms("MyForm.frm").Close 
+    Forms("MyForm.frm").Close 
 End Sub
 ```
 
@@ -37,7 +37,7 @@ You can also manipulate an entire collection of objects if the objects share com
 
 ```vb
 Sub CloseAll() 
- Forms.Close 
+    Forms.Close 
 End Sub
 ```
 
@@ -53,7 +53,7 @@ The following procedure uses the **Add** method to add a new item to a **ComboBo
 
 ```vb
 Sub AddEntry(newEntry as String) 
- Combo1.Add newEntry 
+    Combo1.Add newEntry 
 End Sub
 ```
 
@@ -65,7 +65,7 @@ To set the value of a property, follow the reference to an object with a period,
 
 ```vb
 Sub ChangeName(newTitle) 
- myForm.Caption = newTitle 
+    myForm.Caption = newTitle 
 End Sub
 ```
 
@@ -75,8 +75,8 @@ You can retrieve information about an object by returning the value of one of it
 
 ```vb
 Sub GetFormName() 
- formName = Screen.ActiveForm.Caption 
- MsgBox formName 
+    formName = Screen.ActiveForm.Caption 
+    MsgBox formName 
 End Sub
 ```
 

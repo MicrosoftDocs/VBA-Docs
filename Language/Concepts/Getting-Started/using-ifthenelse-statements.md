@@ -23,8 +23,8 @@ To run only one statement when a condition is **True**, use the single-line synt
 
 ```vb
 Sub FixDate() 
- myDate = #2/13/95# 
- If myDate < Now Then myDate = Now 
+    myDate = #2/13/95# 
+    If myDate < Now Then myDate = Now 
 End Sub
 ```
 
@@ -32,11 +32,11 @@ To run more than one line of code, you must use the multiple-line syntax. This s
 
 ```vb
 Sub AlertUser(value as Long) 
- If value = 0 Then 
- AlertLabel.ForeColor = "Red" 
- AlertLabel.Font.Bold = True 
- AlertLabel.Font.Italic = True 
- End If 
+    If value = 0 Then 
+        AlertLabel.ForeColor = "Red" 
+        AlertLabel.Font.Bold = True 
+        AlertLabel.Font.Italic = True 
+    End If 
 End Sub
 ```
 
@@ -48,15 +48,15 @@ Use an **If...Then...Else** statement to define two blocks of executable stateme
 
 ```vb
 Sub AlertUser(value as Long) 
- If value = 0 Then 
- AlertLabel.ForeColor = vbRed 
- AlertLabel.Font.Bold = True 
- AlertLabel.Font.Italic = True 
- Else 
- AlertLabel.Forecolor = vbBlack 
- AlertLabel.Font.Bold = False 
- AlertLabel.Font.Italic = False 
- End If 
+    If value = 0 Then 
+        AlertLabel.ForeColor = vbRed 
+        AlertLabel.Font.Bold = True 
+        AlertLabel.Font.Italic = True 
+    Else 
+        AlertLabel.Forecolor = vbBlack 
+        AlertLabel.Font.Bold = False 
+        AlertLabel.Font.Italic = False 
+    End If 
 End Sub
 ```
 
@@ -68,15 +68,15 @@ You can add **ElseIf** statements to an **If...Then...Else** statement to test a
 
 ```vb
 Function Bonus(performance, salary) 
- If performance = 1 Then 
- Bonus = salary * 0.1 
- ElseIf performance = 2 Then 
- Bonus = salary * 0.09 
- ElseIf performance = 3 Then 
- Bonus = salary * 0.07 
- Else 
- Bonus = 0 
- End If 
+    If performance = 1 Then 
+        Bonus = salary * 0.1 
+    ElseIf performance = 2 Then 
+        Bonus = salary * 0.09 
+    ElseIf performance = 3 Then 
+        Bonus = salary * 0.07 
+    Else 
+        Bonus = 0 
+    End If 
 End Function
 ```
 
