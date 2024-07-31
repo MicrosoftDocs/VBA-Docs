@@ -19,13 +19,13 @@ The following example shows how you might define a procedure with a parameter ar
 
 ```vb
 Sub AnyNumberArgs(strName As String, ParamArray intScores() As Variant) 
- Dim intI As Integer 
+    Dim intI As Integer 
  
- Debug.Print strName; " Scores" 
- ' Use UBound function to determine upper limit of array. 
- For intI = 0 To UBound(intScores()) 
- Debug.Print " "; intScores(intI) 
- Next intI 
+    Debug.Print strName; " Scores" 
+    ' Use UBound function to determine upper limit of array. 
+    For intI = 0 To UBound(intScores()) 
+        Debug.Print " "; intScores(intI) 
+    Next intI 
 End Sub
 ```
 
