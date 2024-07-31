@@ -70,8 +70,8 @@ Setting an object variable equal to **Nothing** discontinues the association of 
 
 ```vb
 If Not MyObject Is Nothing Then 
- ' Variable refers to valid object. 
- . . . 
+    ' Variable refers to valid object. 
+    . . . 
 End If 
 
 ```
@@ -84,7 +84,7 @@ Use the **[Me](../../reference/user-interface-help/me-keyword.md)** keyword to r
 
 ```vb
 Sub ChangeObjectColor(MyObjectName As Object) 
- MyObjectName.BackColor = RGB(Rnd * 256, Rnd * 256, Rnd * 256) 
+    MyObjectName.BackColor = RGB(Rnd * 256, Rnd * 256, Rnd * 256) 
 End Sub
 ```
 
