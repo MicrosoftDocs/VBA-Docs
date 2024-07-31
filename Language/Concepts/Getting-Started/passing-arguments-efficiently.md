@@ -27,7 +27,7 @@ Function Factorial(ByVal MyVar As Integer) ' Function declaration.
     Factorial = Factorial(MyVar) * (MyVar + 1) 
 End Function 
  
-' Call Factorial with a variable S.
+' Call Factorial with a variable N.
 Sub Test()
     N = 5 
     Debug.Print Factorial(N) ' Displays 120 (the factorial of 5) 
