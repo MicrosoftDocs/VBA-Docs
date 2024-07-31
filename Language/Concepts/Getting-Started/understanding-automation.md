@@ -19,10 +19,10 @@ When an application supports Automation, the objects the application exposes can
 MyObj.Insert "Hello, world." ' Place text. 
 MyObj.Bold = True ' Format text. 
 If Mac = True ' Check your platform constant 
- MyObj.SaveAs "HD:\WORDPROC\DOCS\TESTOBJ.DOC" ' Save the object (Macintosh). 
+    MyObj.SaveAs "HD:\WORDPROC\DOCS\TESTOBJ.DOC" ' Save the object (Macintosh). 
 Else 
- MyObj.SaveAs "C:\WORDPROC\DOCS\TESTOBJ.DOC" ' Save the object (Windows). 
-
+    MyObj.SaveAs "C:\WORDPROC\DOCS\TESTOBJ.DOC" ' Save the object (Windows). 
+End If
 ```
 
 Use the following functions to access an Automation object.
