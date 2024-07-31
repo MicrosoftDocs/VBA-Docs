@@ -17,26 +17,26 @@ The following example fills a range of cells with the number 30, applies bold fo
 
 ```vb
 Sub FormatRange() 
- With Worksheets("Sheet1").Range("A1:C10") 
- .Value = 30 
- .Font.Bold = True 
- .Interior.Color = RGB(255, 255, 0) 
- End With 
+    With Worksheets("Sheet1").Range("A1:C10") 
+        .Value = 30 
+        .Font.Bold = True 
+        .Interior.Color = RGB(255, 255, 0) 
+    End With 
 End Sub
 ```
 
-You can nest **With** statements for greater efficiency. The following example inserts a formula into cell A1, and then formats the font.
+**With** statements may also be nested. The following example inserts a formula into cell A1, and then formats the font.
 
 ```vb
 Sub MyInput() 
- With Workbooks("Book1").Worksheets("Sheet1").Cells(1, 1) 
- .Formula = "=SQRT(50)" 
- With .Font 
- .Name = "Arial" 
- .Bold = True 
- .Size = 8 
- End With 
- End With 
+    With Workbooks("Book1").Worksheets("Sheet1").Cells(1, 1) 
+        .Formula = "=SQRT(50)" 
+        With .Font 
+            .Name = "Arial" 
+            .Bold = True 
+            .Size = 8 
+        End With 
+    End With 
 End Sub
 ```
 

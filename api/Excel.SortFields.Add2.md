@@ -24,10 +24,10 @@ _expression_ A variable that represents a **[SortFields](Excel.SortFields.md)** 
 |Name |Required/Optional |Data type |Description|
 |:-----|:-----|:-----|:-----|
 | _Key_|Required| **Range**|Specifies a key value for the sort.|
-| _SortOn_|Optional| **Variant**|The field to sort on.|
-| _Order_|Optional| **Variant**|Specifies the sort order.|
+| _SortOn_|Optional| **Variant**|An [XlSortOn](Excel.XlSortOn.md) value that specifies which property of a cell to use for the sort.|
+| _Order_|Optional| **Variant**|An [XlSortOrder](Excel.XlSortOrder.md) value that specifies the sort order.|
 | _CustomOrder_|Optional| **Variant**|Specifies if a custom sort order should be used.|
-| _DataOption_|Optional| **Variant**|Specifies the data option.|
+| _DataOption_|Optional| **Variant**|An [XlSortDataOption](Excel.XlSortDataOption.md) value that specifies how to sort text.|
 | _SubField_|Optional| **Variant**|Specifies the field to sort on for a data type (such as Population for Geography or Volume for Stocks).|
 
 ## Return value

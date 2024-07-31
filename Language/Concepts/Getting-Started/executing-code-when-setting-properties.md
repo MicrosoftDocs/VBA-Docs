@@ -28,13 +28,13 @@ The actual work of inverting a bitmap on the form is done within the **Property 
 Private IsInverted As Boolean 
  
 Property Let Inverted(X As Boolean) 
- IsInverted = X 
- If IsInverted Then 
- … 
- (statements) 
- Else 
- (statements) 
- End If 
+    IsInverted = X 
+    If IsInverted Then 
+        …
+        (statements) 
+    Else 
+        (statements) 
+    End If 
 End Property 
 
 ```
@@ -45,7 +45,7 @@ This **Property Get** procedure is used to return the current state of the prope
 
 ```vb
 Property Get Inverted() As Boolean 
- Inverted = IsInverted 
+    Inverted = IsInverted 
 End Property 
 
 ```

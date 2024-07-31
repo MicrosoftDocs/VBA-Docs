@@ -22,13 +22,13 @@ A variable or constant defined within a procedure is not visible outside that pr
 
 ```vb
 Sub LocalVariable() 
- Dim strMsg As String 
- strMsg = "This variable can't be used outside this procedure." 
- MsgBox strMsg 
+    Dim strMsg As String 
+    strMsg = "This variable can't be used outside this procedure." 
+    MsgBox strMsg 
 End Sub 
  
 Sub OutsideScope() 
- MsgBox strMsg 
+    MsgBox strMsg 
 End Sub
 ```
 
@@ -44,11 +44,11 @@ In the following example, the string variable `strMsg` is available to any proce
 Private strMsg As String 
  
 Sub InitializePrivateVariable() 
- strMsg = "This variable can't be used outside this module." 
+    strMsg = "This variable can't be used outside this module." 
 End Sub 
  
 Sub UsePrivateVariable() 
- MsgBox strMsg 
+    MsgBox strMsg 
 End Sub
 ```
 

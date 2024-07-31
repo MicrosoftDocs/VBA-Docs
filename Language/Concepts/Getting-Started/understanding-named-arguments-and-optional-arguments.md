@@ -17,7 +17,7 @@ For example, the following **Sub** procedure takes three arguments.
 
 ```vb
 Sub PassArgs(strName As String, intAge As Integer, dteBirth As Date) 
- Debug.Print strName, intAge, dteBirth 
+    Debug.Print strName, intAge, dteBirth 
 End Sub
 ```
 
@@ -43,7 +43,7 @@ Optional arguments are preceded by the **Optional** [keyword](../../Glossary/vbe
 
 ```vb
 Sub OptionalArgs(strState As String, Optional strCountry As String = "USA") 
-. . . 
+    ...
 End Sub
 ```
 
@@ -52,17 +52,16 @@ When you call a procedure with an optional argument, you can choose whether or n
 The following procedure includes two optional arguments, the `varRegion` and `varCountry` variables. The **[IsMissing](../../reference/user-interface-help/ismissing-function.md)** function determines whether an optional Variant argument has been passed to the procedure.
 
 ```vb
-Sub OptionalArgs(strState As String, Optional varRegion As Variant, _ 
-Optional varCountry As Variant = "USA") 
- If IsMissing(varRegion) And IsMissing(varCountry) Then 
- Debug.Print strState 
- ElseIf IsMissing(varCountry) Then 
- Debug.Print strState, varRegion 
- ElseIf IsMissing(varRegion) Then 
- Debug.Print strState, varCountry 
- Else 
- Debug.Print strState, varRegion, varCountry 
- End If 
+Sub OptionalArgs(strState As String, Optional varRegion As Variant, Optional varCountry As Variant = "USA") 
+    If IsMissing(varRegion) And IsMissing(varCountry) Then 
+        Debug.Print strState 
+    ElseIf IsMissing(varCountry) Then 
+        Debug.Print strState, varRegion 
+    ElseIf IsMissing(varRegion) Then 
+        Debug.Print strState, varCountry 
+    Else 
+        Debug.Print strState, varRegion, varCountry 
+    End If 
 End Sub
 ```
 

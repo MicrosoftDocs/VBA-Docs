@@ -17,9 +17,9 @@ The following example assigns the return value of the **InputBox** function to t
 
 ```vb
 Sub Question() 
- Dim yourName As String 
- yourName = InputBox("What is your name?") 
- MsgBox "Your name is " & yourName 
+    Dim yourName As String 
+    yourName = InputBox("What is your name?") 
+    MsgBox "Your name is " & yourName 
 End Sub
 ```
 
@@ -35,12 +35,12 @@ The **[Set](../../reference/user-interface-help/set-statement.md)** statement is
 
 ```vb
 Sub ApplyFormat() 
-Dim myCell As Range 
-Set myCell = Worksheets("Sheet1").Range("A1") 
- With myCell.Font 
- .Bold = True 
- .Italic = True 
- End With 
+    Dim myCell As Range 
+    Set myCell = Worksheets("Sheet1").Range("A1") 
+    With myCell.Font 
+        .Bold = True 
+        .Italic = True 
+    End With 
 End Sub
 ```
 

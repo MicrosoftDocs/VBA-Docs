@@ -47,12 +47,11 @@ Dim intX, intY, intZ As Integer
 
 You don't have to supply the variable's data type in the declaration statement. If you omit the data type, the variable will be of type **Variant**.
 
-The shorthand to declare `x` and `y` as Integer in the statement above is:
+You may also use an [identifier type character](../../reference/user-interface-help/data-type-summary.md#identifier-type-characters) to specify the data type. In the following statement, `x` is declared as a Long, and `y` and `z` are declared as Integers:
 
-```vb
-Dim intX%, intY%, intZ as Integer
+```vba
+Dim intX&, intY%, intZ as Integer
 ```
-The shorthand for the types is: % -integer; & -long; @ -currency; # -double; ! -single; $ -string
 
 
 ## Public statement
