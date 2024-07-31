@@ -18,20 +18,21 @@ You can pass an argument [by value](../../Glossary/vbe-glossary.md#by-value) if 
 Passing an argument by value copies the original [variable](../../Glossary/vbe-glossary.md#variable). Changes to the argument within the procedure aren't reflected back to the original variable. For example:
 
 ```vb
-Function Factorial (ByVal MyVar As Integer) ' Function declaration. 
- MyVar = MyVar - 1 
- If MyVar = 0 Then 
- Factorial = 1 
- Exit Function 
- End If 
- Factorial = Factorial(MyVar) * (MyVar + 1) 
+Function Factorial(ByVal MyVar As Integer) ' Function declaration. 
+    MyVar = MyVar - 1 
+    If MyVar = 0 Then 
+        Factorial = 1 
+        Exit Function 
+    End If 
+    Factorial = Factorial(MyVar) * (MyVar + 1) 
 End Function 
  
-' Call Factorial with a variable S. 
-S = 5 
-Print Factorial(S) ' Displays 120 (the factorial of 5) 
-Print S ' Displays 5. 
-
+' Call Factorial with a variable S.
+Sub Test()
+    N = 5 
+    Debug.Print Factorial(N) ' Displays 120 (the factorial of 5) 
+    Debug.Print N ' Displays 5. 
+End Sub
 ```
 
 Without including **ByVal** in the function declaration, the preceding **Print** statements would display 1 and 0. This is because `MyVar` would then refer to variable `S`, which is reduced by 1 until it equals 0.
