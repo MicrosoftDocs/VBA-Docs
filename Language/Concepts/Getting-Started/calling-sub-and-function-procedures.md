@@ -19,18 +19,18 @@ After `MultiBeep` runs, control returns to `Main`, and `Main` calls the **Sub** 
 
 ```vb
 Sub Main() 
- MultiBeep 56 
- Message 
+    MultiBeep 56 
+    Message 
 End Sub 
  
 Sub MultiBeep(numbeeps) 
- For counter = 1 To numbeeps 
- Beep 
- Next counter 
+    For counter = 1 To numbeeps 
+        Beep 
+    Next counter 
 End Sub 
  
 Sub Message() 
- MsgBox "Time to take a break!" 
+    MsgBox "Time to take a break!" 
 End Sub
 ```
 
@@ -42,16 +42,16 @@ The following example shows two ways to call a **Sub** procedure with more than 
 
 ```vb
 Sub Main() 
- HouseCalc 99800, 43100 
- Call HouseCalc(380950, 49500) 
+    HouseCalc 99800, 43100 
+    Call HouseCalc(380950, 49500) 
 End Sub 
  
 Sub HouseCalc(price As Single, wage As Single) 
- If 2.5 * wage <= 0.8 * price Then 
- MsgBox "You cannot afford this house." 
- Else 
- MsgBox "This house is affordable." 
- End If 
+    If 2.5 * wage <= 0.8 * price Then 
+        MsgBox "You cannot afford this house." 
+    Else 
+        MsgBox "This house is affordable." 
+    End If 
 End Sub
 ```
 
