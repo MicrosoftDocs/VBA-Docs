@@ -28,7 +28,7 @@ _expression_ A variable that represents a **[Chart](Excel.Chart(object).md)** ob
 
 ## Return value
 
-**OBJECT**
+**Object**
 
 
 ## Remarks

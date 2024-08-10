@@ -23,7 +23,7 @@ _expression_ A variable that represents a **[ModelColumnChanges](Excel.modelcolu
 
 ## Property value
 
-**OBJECT**
+**Object**
 
 
 

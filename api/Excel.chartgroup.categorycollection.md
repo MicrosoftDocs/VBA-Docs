@@ -30,7 +30,7 @@ _expression_ A variable that represents a **[ChartGroup](Excel.ChartGroup(object
 
 ## Return value
 
-**OBJECT**
+**Object**
 
 
 

@@ -23,7 +23,7 @@ _expression_ A variable that represents a **[Model](Excel.Model.md)** object.
 
 ## Property value
 
-**OBJECT**
+**Object**
 
 
 
