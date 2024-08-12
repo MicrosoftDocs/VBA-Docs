@@ -23,7 +23,7 @@ _expression_ A variable that represents a **[TextConnection](Excel.TextConnectio
 
 ## Property value
 
-**OBJECT**
+**Object**
 
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

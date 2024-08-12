@@ -32,7 +32,7 @@ _expression_ A variable that represents a **[Sheets](Excel.Sheets.md)** object.
 
 ## Return value
 
-**OBJECT**
+**Object**
 
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

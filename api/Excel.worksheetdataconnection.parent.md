@@ -23,7 +23,7 @@ _expression_ A variable that represents a **[WorksheetDataConnection](Excel.work
 
 ## Property value
 
-**OBJECT**
+**Object**
 
 
 

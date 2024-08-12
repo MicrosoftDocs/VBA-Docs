@@ -30,7 +30,7 @@ This property will return the **Chart** object that owns this collection of cate
 
 ## Property value
 
-**OBJECT**
+**Object**
 
 
 

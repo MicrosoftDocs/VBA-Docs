@@ -32,7 +32,7 @@ _expression_ A variable that represents a **[Worksheets](Excel.Worksheets.md)** 
 
 ## Return value
 
-**OBJECT**
+**Object**
 
 
 

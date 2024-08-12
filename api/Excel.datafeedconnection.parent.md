@@ -23,7 +23,7 @@ _expression_ A variable that represents a **[DataFeedConnection](Excel.datafeedc
 
 ## Property value
 
-**OBJECT**
+**Object**
 
 
 

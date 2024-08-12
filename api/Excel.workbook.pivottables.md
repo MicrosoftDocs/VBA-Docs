@@ -28,7 +28,7 @@ _expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** obje
 
 ## Property value
 
-**OBJECT**
+**Object**
 
 
 

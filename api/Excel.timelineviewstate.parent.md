@@ -23,7 +23,7 @@ _expression_ A variable that represents a **[TimelineViewState](Excel.TimelineVi
 
 ## Property value
 
-**OBJECT**
+**Object**
 
 
 

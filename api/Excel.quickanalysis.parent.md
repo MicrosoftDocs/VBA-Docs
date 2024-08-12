@@ -23,7 +23,7 @@ _expression_ A variable that represents a **[QuickAnalysis](Excel.quickanalysis.
 
 ## Property value
 
-**OBJECT**
+**Object**
 
 
 
