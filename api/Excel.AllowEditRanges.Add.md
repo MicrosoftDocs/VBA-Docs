@@ -47,16 +47,16 @@ Sub UseChangePassword()
  Dim wksOne As Worksheet 
  
  Set wksOne = Application.ActiveSheet 
- 
- ' Protect the worksheet. 
- wksOne.Protect 
- 
+
  ' Establish a range that can allow edits 
  ' on the protected worksheet. 
  wksOne.Protection.AllowEditRanges.Add _ 
  Title:="Classified", _ 
  Range:=Range("A1:A4"), _ 
  Password:="secret" 
+
+ ' Protect the worksheet. 
+ wksOne.Protect 
  
  MsgBox "Cells A1 to A4 can be edited on the protected worksheet." 
  

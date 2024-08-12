@@ -28,7 +28,7 @@ Typically the chart to which this **FullSeriesCollection** object belongs is ret
 
 ## Property value
 
-**OBJECT**
+**Object**
 
 
 

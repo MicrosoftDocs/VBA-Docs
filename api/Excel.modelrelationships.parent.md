@@ -23,7 +23,7 @@ _expression_ A variable that represents a **[ModelRelationships](Excel.modelrela
 
 ## Property value
 
-**OBJECT**
+**Object**
 
 
 

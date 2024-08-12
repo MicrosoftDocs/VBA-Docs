@@ -23,7 +23,7 @@ _expression_ A variable that represents a **[ChartCategory](Excel.chartcategory.
 
 ## Property value
 
-**OBJECT**
+**Object**
 
 
 

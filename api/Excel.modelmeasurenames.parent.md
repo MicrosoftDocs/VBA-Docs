@@ -23,7 +23,7 @@ _expression_ A variable that represents a **[ModelMeasureNames](Excel.modelmeasu
 
 ## Property value
 
-**OBJECT**
+**Object**
 
 
 
