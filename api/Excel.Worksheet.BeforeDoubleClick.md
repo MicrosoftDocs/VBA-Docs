@@ -36,7 +36,27 @@ The **[DoubleClick](Excel.Application.DoubleClick.md)** method doesn't cause thi
 
 This event doesn't occur when the user double-clicks the border of a cell.
 
-
-
+## Example
+This example changes the fill color of cells around the target cell when the worksheet cell is double-clicked.
+```
+Private Sub Worksheet_BeforeDoubleClick(ByVal Target As Range, Cancel As Boolean)
+Dim targetCol As Integer, StartCol As Integer
+Dim targetRow As Integer, StartRow As Integer
+    Me.Cells.ClearFormats
+    targetRow = Target.Row
+    targetCol = Target.Column
+    If targetRow - 1 >= 1 Then
+        StartRow = targetRow - 1
+    Else
+        StartRow = targetRow
+    End If
+    If targetCol - 1 >= 1 Then
+        StartCol = targetCol - 1
+    Else
+        StartCol = targetCol
+    End If
+    Me.Range(Me.Cells(StartRow, StartCol), Me.Cells(targetRow + 1, targetCol + 1)).Interior.Color = vbYellow
+End Sub
+```
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
