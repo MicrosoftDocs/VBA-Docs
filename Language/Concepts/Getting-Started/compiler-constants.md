@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Compiler constants
 
-Visual Basic for Applications defines [constants](../../Glossary/vbe-glossary.md#constant) for exclusive use with the **[#If...Then...#Else](../../reference/user-interface-help/ifthenelse-directive.md)** directive. These constants are functionally equivalent to constants defined with the **#If...Then...#Else** directive except that they are global in [scope](../../Glossary/vbe-glossary.md#scope); that is, they apply everywhere in a [project](../../Glossary/vbe-glossary.md#project).
+Visual Basic for Applications defines [constants](../../Glossary/vbe-glossary.md#constant) for exclusive use with the **[#If...Then...#Else](../../reference/user-interface-help/ifthenelse-directive.md)** directive. These constants are functionally equivalent to constants defined with the [**#Const**](../../reference/user-interface-help/const-directive.md) directive except that they are global in [scope](../../Glossary/vbe-glossary.md#scope); that is, they apply everywhere in a [project](../../Glossary/vbe-glossary.md#project).
 
 > [!NOTE] 
 > Because **Win32** returns **True** in both 32-bit and 64-bit development platforms, it is important that the order within the **#If...Then...#Else** directive returns the desired results in your code. For example, because **Win32** returns **True** in 64-bit (**Win32** is compatible in **Win64** environments), checking for **Win32** before **Win64** results in the **Win64** condition never running because **Win32** returns **True**. The following order returns predictable results (this applies to both Winx and VBAx constants):
