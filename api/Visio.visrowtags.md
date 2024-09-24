@@ -37,7 +37,7 @@ Row-type constants used in conjunction with the **Shape.RowType** property and s
 | **visTagRelEllipticalArcTo**|240|The row type of a RelEllipticalArcTo row in a Geometry section.|
 | **visTagRelLineTo**|239|The row type of a RelLineTo row in a Geometry section.|
 | **visTagRelMoveTo**|238|The row type of a RelMoveTo row in a Geometry section.|
-| **visTagRelQuadBezTo**|23777|The row type of a RelQuadBezTo row in a Geometry section.|
+| **visTagRelQuadBezTo**|237|The row type of a RelQuadBezTo row in a Geometry section.|
 | **visTagSplineBeg**|165|The row type of a SplineStart row in a Geometry section.|
 | **visTagSplineSpan**|166|The row type of a SplineKnot row in a Geometry section.|
 | **visTagTab0**|136|The row type of a row in a **visSectionTab** section that defines 0 (zero) tab stops.|
