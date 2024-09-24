@@ -66,7 +66,7 @@ Public Sub PrintAdresses()
    Debug.Print exampleRange.Item(2,4).Address      'Prints "$E$3"
    Debug.Print exampleRange.Item(20,40).Address    'Prints "$AO$21"
    Debug.Print exampleRange.Item(2,"D").Address    'Prints "$E$3"
-   Debug.Print exampleRange.Item(20,"AN").Address  'Prints "$E$3"
+   Debug.Print exampleRange.Item(20,"AN").Address  'Prints "$AO$21"
 End Sub
 ```
 
