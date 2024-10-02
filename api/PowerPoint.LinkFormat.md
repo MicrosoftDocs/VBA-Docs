@@ -28,7 +28,7 @@ For Each sld In ActivePresentation.Slides
 
         If sh.Type = msoLinkedOLEObject Then
 
-            If sh.OLEFormat.ProgID = "Excel.Sheet" Then
+            If sh.OLEFormat.ProgID = "Excel.Sheet.12" Then
 
                 sh.LinkFormat.AutoUpdate = ppUpdateOptionManual
 
@@ -41,6 +41,29 @@ For Each sld In ActivePresentation.Slides
 Next
 ```
 
+The following example loops through all the shapes on all the slides in the active presentation and updates linked Microsoft Excel charts before setting them to be updated automatically.
+
+
+```vb
+For Each sld In ActivePresentation.Slides
+
+    For Each sh In sld.Shapes
+
+        If sh.HasChart Then
+
+            If sh.Chart.ChartData.IsLinked Then
+
+                Call sh.LinkFormat.Update
+                sh.LinkFormat.AutoUpdate = ppUpdateOptionAutomatic
+
+            End If
+
+        End If
+
+    Next
+
+Next
+```
 
 ## Methods
 
