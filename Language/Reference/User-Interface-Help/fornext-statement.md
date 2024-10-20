@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # For...Next statement
 
-Repeats a group of [statements](../../Glossary/vbe-glossary.md#statement) a specified number of times.
+Repeats a group of [statements](../../Glossary/vbe-glossary.md#statement) while the loop counter approaches its final value.
 
 ## Syntax
 
