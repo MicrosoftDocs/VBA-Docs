@@ -44,7 +44,7 @@ FileSystemObject.CopyFolder "c:\mydocuments\*\*", "c:\tempfolder\"
 
 ```
 
-If _source_ contains wildcard characters, or _destination_ ends with a path separator (\), it is assumed that _destination_ is an existing folder in which to copy matching folders and subfolders. Otherwise, _destination_ is assumed to be the name of a folder to create. In either case, four things can happen when an individual folder is copied:
+If _source_ contains wildcard characters, or _destination_ ends with a path separator (`\`), it is assumed that _destination_ is an existing folder in which to copy matching folders and subfolders. Otherwise, _destination_ is assumed to be the name of a folder to create. In either case, four things can happen when an individual folder is copied:
 
 - If _destination_ does not exist, the _source_ folder and all its contents gets copied. This is the usual case.
     
