@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # AcAggregateType enumeration (Access)
 
-Specifies the type of aggregation to apply to a set of values.
+Specifies the type of aggregation to apply for an Access Modern Chart series.
 
 |Name|Value|Description|
 |:-----|:-----|:-----|
