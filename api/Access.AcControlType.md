@@ -20,6 +20,7 @@ Specifies the type of control created by the **[CreateControl](Access.Applicatio
 |**acAttachment**|126|Attachment control|
 |**acBoundObjectFrame**|108|BoundObjectFrame control|
 |**acChart**|133|Modern Chart control|
+
 |**acCheckBox**|106|CheckBox control|
 |**acComboBox**|111|ComboBox control|
 |**acCommandButton**|104|CommandButton control|
