@@ -19,12 +19,13 @@ Specifies the type of control created by the **[CreateControl](Access.Applicatio
 |:-----|:-----|:-----|
 |**acAttachment**|126|Attachment control|
 |**acBoundObjectFrame**|108|BoundObjectFrame control|
-|**acChart**|133|Chart control|
+|**acChart**|133|Modern Chart control|
+
 |**acCheckBox**|106|CheckBox control|
 |**acComboBox**|111|ComboBox control|
 |**acCommandButton**|104|CommandButton control|
 |**acCustomControl**|119|ActiveX control|
-|**acEdgeBrowser**|134|EdgeBrowserControl control|
+|**acEdgeBrowser**|134|Edge Browser control|
 |**acEmptyCell**|127|EmptyCell control|
 |**acImage**|103|Image control|
 |**acLabel**|100|Label control|
