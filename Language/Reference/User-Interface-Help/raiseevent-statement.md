@@ -15,7 +15,7 @@ Fires an event declared at the [module level](../../Glossary/vbe-glossary.md#mod
 
 ## Syntax
 
-**RaiseEvent**_eventname_ [ ( _argumentlist_ ) ]
+**RaiseEvent** _eventname_ [ ( _argumentlist_ ) ]
 
 The required _eventname_ is the name of an event declared within the [module](../../Glossary/vbe-glossary.md#module) and follows Basic variable naming conventions.
 
@@ -34,7 +34,7 @@ If the event has not been declared within the module in which it is raised, an e
 ' Declare an event at module level of a class module 
 Event LogonCompleted (UserName as String) 
  
-Sub 
+Sub Demo()
  ' Raise the event. 
  RaiseEvent LogonCompleted ("AntoineJan") 
 End Sub
