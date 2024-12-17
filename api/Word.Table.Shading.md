@@ -30,7 +30,7 @@ This example applies horizontal line texture to the first table in the active do
 
 ```vb
 If ActiveDocument.Tables.Count >= 1 Then 
- With ActiveDocument.Tables(1)Shading 
+ With ActiveDocument.Tables(1).Shading 
  .Texture = wdTextureHorizontal 
  End With 
 End If
