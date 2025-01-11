@@ -44,12 +44,11 @@ Do you need to copy all of your contacts from Outlook to Word and then format th
 
 VBA programming is a powerful solution, but it is not always the optimal approach. Sometimes it makes sense to use other ways to achieve your aims.
 
-The critical question to ask is whether there is an easier way. Before you begin a VBA project, consider the built-in tools and standard functionalities. For example, if you have a time-consuming editing or layout task, consider using styles or accelerator keys to solve the problem. Can you perform the task once and then use CTRL+Y (Redo) to repeat it? Can you create a new document with the correct format or template, and then copy the content into that new document? 
+The critical question to ask is whether there is an easier way. Before you begin a VBA project, consider the built-in tools and standard functionalities. For example, if you have a time-consuming editing or layout task, consider using styles or accelerator keys to solve the problem. Can you perform the task once and then use CTRL+Y (Redo) to repeat it? Can you create a new document with the correct format or template, and then copy the content into that new document?
 
 Office applications are powerful; the solution that you need may already be there. Take some time to learn more about Office before you jump into programming.
 
 Before you begin a VBA project, ensure that you have the time to work with VBA. Programming requires focus and can be unpredictable. Especially as a beginner, never turn to programming unless you have time to work carefully. Trying to write a "quick script" to solve a problem when a deadline looms can result in a very stressful situation. If you are in a rush, you might want to use conventional methods, even if they are monotonous and repetitive.
-
 
 ## VBA Programming 101
 
@@ -106,7 +105,7 @@ In the first line of the code snippet, there is the **Application** object, Exce
 
 The second line of code sets the **Value** property of **Selection** to the text "Hello World", and that value appears in cell A1.
 
-The simplest VBA code that you write might simply gain access to objects in the Office application that you are working with and set properties. For example, you could get access to the rows in a table in Word and change their formatting in your VBA script. 
+The simplest VBA code that you write might simply gain access to objects in the Office application that you are working with and set properties. For example, you could get access to the rows in a table in Word and change their formatting in your VBA script.
 
 That sounds simple, but it can be incredibly useful; once you can write that code, you can harness all of the power of programming to make those same changes in several tables or documents, or make them according to some logic or condition. For a computer, making 1000 changes is no different from making 10, so there is an economy of scale here with larger documents and problems, and that is where VBA can really shine and save you time.
 
@@ -119,16 +118,16 @@ All Office applications use the ribbon. One tab on the ribbon is the **Developer
 ### To enable the Developer tab
 
 1. On the **File** tab, choose **Options** to open the **Options** dialog box.
-    
+
 2. Choose **Customize Ribbon** on the left side of the dialog box.
-    
+
 3. Under **Choose commands from** on the left side of the dialog box, select **Popular Commands**.
-    
+
 4. Under **Customize the Ribbon** on the right side of the dialog box, select **Main Tabs** in the drop down list box, and then select the **Developer** checkbox.
-    
+
 5. Choose **OK**.
-    
-> [!NOTE] 
+
+> [!NOTE]
 > In Office 2007, you displayed the **Developer** tab by choosing the Office button, choosing **Options**, and then selecting the **Show Developer tab in Ribbon** check box in the **Popular** category of the **Options** dialog box.
 
 After you enable the **Developer** tab, it is easy to find the **Visual Basic** and **Macros** buttons.
@@ -137,17 +136,16 @@ After you enable the **Developer** tab, it is easy to find the **Visual Basic** 
 
 ![Buttons on the Developer tab](../../images/a3f71a29-06f2-4ee5-8c30-5dc60ad2ed31.png)
 
-
 ### Security issues
 
 To protect Office users against viruses and dangerous macro code, you cannot save macro code in a standard Office document that uses a standard file extension. Instead, you must save the code in a file with a special extension. For example you cannot save macros in a standard Word document with a .docx extension; instead, you must use a special Word Macro-Enabled Document with a .docm extension.
 
-When you open a .docm file, Office security might still prevent the macros in the document from running, with or without telling you. Examine the settings and options in the Trust Center on all Office applications. The default setting disables macro from running, but warns you that macros have been disabled and gives you the option to turn them back on for that document. 
+When you open a .docm file, Office security might still prevent the macros in the document from running, with or without telling you. Examine the settings and options in the Trust Center on all Office applications. The default setting disables macro from running, but warns you that macros have been disabled and gives you the option to turn them back on for that document.
 
 You can designate specific folders where macros can run by creating Trusted Locations, Trusted Documents, or Trusted Publishers. The most portable option is to use Trusted Publishers, which works with digitally signed documents that you distribute. For more information about the security settings in a particular Office application, open the **Options** dialog box, choose **Trust Center**, and then choose **Trust Center Settings**.
 
-> [!NOTE] 
-> Some Office applications, like Outlook, save macros by default in a master template on your local computer. Although that strategy reduces the local security issues on your own computer when you run your own macros, it requires a deployment strategy if you want to distribute your macro. 
+> [!NOTE]
+> Some Office applications, like Outlook, save macros by default in a master template on your local computer. Although that strategy reduces the local security issues on your own computer when you run your own macros, it requires a deployment strategy if you want to distribute your macro.
 
 ### Recording a macro
 
@@ -158,19 +156,18 @@ Another button on the **Developer** tab in Word and Excel is the **Record Macro*
 #### To record a macro
 
 1. Open Excel to a new Workbook and choose the **Developer** tab in the ribbon. Choose **Record Macro** and accept all of the default settings in the **Record Macro** dialog box, including **Macro1** as the name of the macro and **This Workbook** as the location.
-    
+
 2. Choose **OK** to begin recording the macro. Note how the button text changes to **Stop Recording**. Choose that button the instant you complete the actions that you want to record.
-    
+
 3. Choose cell B1 and type the programmer's classic first string: Hello World. Stop typing and look at the **Stop Recording** button; it is grayed out because Excel is waiting for you to finish typing the value in the cell.
-    
+
 4. Choose cell B2 to complete the action in cell B1, and then choose **Stop Recording**.
-    
+
 5. Choose **Macros** on the **Developer** tab, select **Macro1** if it is not selected, and then choose **Edit** to view the code from Macro1 in the Visual Basic Editor.
-    
+
 **Figure 2. Macro code in Visual Basic Editor**
 
 ![Macro code in Visual Basic Editor](../../images/5d9acd78-5168-4a0c-83b6-3f1e440bf649.png)
-
 
 ### Looking at the code
 
@@ -188,7 +185,7 @@ Sub Macro1()
 End Sub
 ```
 
-Be aware of the similarities to the earlier code snippet that selected text in cell A1, and the differences. In this code, cell B1 is selected, and then the string "Hello World" is applied to the cell that has been made active. The quotes around the text specify a string value as opposed to a numeric value. 
+Be aware of the similarities to the earlier code snippet that selected text in cell A1, and the differences. In this code, cell B1 is selected, and then the string "Hello World" is applied to the cell that has been made active. The quotes around the text specify a string value as opposed to a numeric value.
 
 Remember how you chose cell B2 to display the **Stop Recording** button again? That action shows up as a line of code as well. The macro recorder records every keystroke.
 
@@ -196,15 +193,14 @@ The lines of code that start with an apostrophe and colored green by the editor 
 
 When the macro recorder generates the code, it uses a complex algorithm to determine the methods and the properties that you intended. If you don't recognize a given property, there are many resources available to help you. For example, in the macro that you recorded, the macro recorder generated code that refers to the **FormulaR1C1** property. Not sure what that means?
 
-> [!NOTE] 
+> [!NOTE]
 > Be aware that **Application** object is implied in all VBA macros. The code that you recorded works with **Application.** at the beginning of each line.
 
 ### Using Developer Help
 
-Select **FormulaR1C1** in the recorded macro and press F1. The Help system runs a quick search, determines that the appropriate subjects are in the Excel Developer section of the Excel Help, and lists the **FormulaR1C1** property. You can choose the link to read more about the property, but before you do, be aware of the **Excel Object Model Reference** link near the bottom of the window. Choose the link to view a long list of objects that Excel uses in its object model to describe the Worksheets and their components. 
+Select **FormulaR1C1** in the recorded macro and press F1. The Help system runs a quick search, determines that the appropriate subjects are in the Excel Developer section of the Excel Help, and lists the **FormulaR1C1** property. You can choose the link to read more about the property, but before you do, be aware of the **Excel Object Model Reference** link near the bottom of the window. Choose the link to view a long list of objects that Excel uses in its object model to describe the Worksheets and their components.
 
 Choose any one of those to see the properties and methods that apply to that particular object, along with cross references to different related options. Many Help entries also have brief code examples that can help you. For example, you can follow the links in the **Borders** object to see how to set a border in VBA.
-
 
 ```vb
 Worksheets(1).Range("A1").Borders.LineStyle = xlDouble
@@ -212,7 +208,7 @@ Worksheets(1).Range("A1").Borders.LineStyle = xlDouble
 
 ### Editing the code
 
-The Borders code looks different from the recorded macro. One thing that can be confusing with an object model is that there is more than one way to address any given object, cell A1 in this example. 
+The Borders code looks different from the recorded macro. One thing that can be confusing with an object model is that there is more than one way to address any given object, cell A1 in this example.
 
 Sometimes the best way to learn programming is to make minor changes to some working code and see what happens as a result. Try it now. Open **Macro1** in the Visual Basic Editor and change the code to the following.
 
@@ -223,8 +219,8 @@ Sub Macro1()
 End Sub
 ```
 
-> [!TIP] 
-> Use Copy and Paste as much as possible when working with code to avoid typing errors. 
+> [!TIP]
+> Use Copy and Paste as much as possible when working with code to avoid typing errors.
 
 You don't need to save the code to try it out, so return to the Excel document, choose **Macros** on the **Developer** tab, choose **Macro1**, and then choose **Run**. Cell A1 now contains the text Wow! and has a double-line border around it.
 
@@ -246,7 +242,7 @@ That does not mean that free and well-thought-out code is on the Web waiting for
 
 ### Make a simpler problem
 
-Programming can get complex quickly. It's critical, especially as a beginner, that you break the problem down to the smallest possible logical units, then write and test each piece in isolation. If you have too much code in front of you and you get confused or muddled, stop and set the problem aside. When you come back to the problem, copy out a small piece of the problem into a new module, solve that piece, get the code working, and test it to ensure that it works. Then move on to the next part. 
+Programming can get complex quickly. It's critical, especially as a beginner, that you break the problem down to the smallest possible logical units, then write and test each piece in isolation. If you have too much code in front of you and you get confused or muddled, stop and set the problem aside. When you come back to the problem, copy out a small piece of the problem into a new module, solve that piece, get the code working, and test it to ensure that it works. Then move on to the next part.
 
 ### Bugs and debugging
 
@@ -272,9 +268,9 @@ It's a good idea to learn how to use the debugger more deliberately for longer, 
 
 ### Using reference materials well
 
-To open the Developer Reference that is built into Office Help, open the Help reference from any Office application by choosing the question mark in the ribbon or by pressing F1. Then, to the right of the **Search** button, choose the dropdown arrow to filter the contents. Choose **Developer Reference**. If you don't see the table of contents in the left panel, choose the little book icon to open it, and then expand the Object Model Reference from there. 
+To open the Developer Reference that is built into Office Help, open the Help reference from any Office application by choosing the question mark in the ribbon or by pressing F1. Then, to the right of the **Search** button, choose the dropdown arrow to filter the contents. Choose **Developer Reference**. If you don't see the table of contents in the left panel, choose the little book icon to open it, and then expand the Object Model Reference from there.
 
-**Figure 5. Filtering on developer Help applies to all Office applications**
+**Figure 4. Filtering on developer Help applies to all Office applications**
 
 ![Filtering on developer Help applies to all Office applications](../../images/5deb3fe2-2c45-4fb0-851c-3816bce8f68d.png)
 
@@ -293,14 +289,14 @@ If you have done everything that you can to solve a problem, don't be afraid to 
 The following are a few points of etiquette to follow when you post to a developer forum:
 
 - Before you post, look on the site for an FAQ or for guidelines that members want you to follow. Ensure that you post content that is consistent with those guidelines and in the correct section of the forum.
-    
+
 - Include a clear and complete code sample, and consider editing your code to clarify it for others if it is part of a longer section of code.
-    
+
 - Describe your problem clearly and concisely, and summarize any steps that you have taken to solve the problem. Take the time to write your post as well as you can, especially if you are flustered or in a hurry. Present the situation in a way that will make sense to readers the first time that they read the problem statement.
-    
+
 - Be polite and express your appreciation.
 
-<a name="odc_office14_ta_AddingVBAProgrammingToYourOfficeToolkit_GoingFurtherWithProgramming"> </a>    
+<a name="odc_office14_ta_AddingVBAProgrammingToYourOfficeToolkit_GoingFurtherWithProgramming"> </a>
 
 ## Going further with programming
 
@@ -322,7 +318,7 @@ To use a variable in VBA, must tell VBA which type of object the variable repres
 
 ### Branching and looping
 
-The simple programs in this article execute one line at a time, from the top down. The real power in programming comes from the options that you have to determine which lines of code to execute, based on one or more conditions that you specify. You can extend those capabilities even further when you can repeat an operation many times. For example, the following code extends Macro1. 
+The simple programs in this article execute one line at a time, from the top down. The real power in programming comes from the options that you have to determine which lines of code to execute, based on one or more conditions that you specify. You can extend those capabilities even further when you can repeat an operation many times. For example, the following code extends Macro1.
 
 ```vb
 Sub Macro1()

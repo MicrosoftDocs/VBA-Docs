@@ -8,10 +8,9 @@ ms.localizationpriority: medium
 
 # Adjust Spacing for Controls
 
-1. In Forms Designer, select the controls for which you want to adjust the spacing. 
-    
+1. In Forms Designer, select the controls for which you want to adjust the spacing.
+
 2. On the **Developer** tab, in the **Arrange** group, click **Align**, point to **Distribute Horizontally** or **Distribute Vertically**, and then click one of the following.
-    
 
 |**Click**|**To**|
 |:-----|:-----|
