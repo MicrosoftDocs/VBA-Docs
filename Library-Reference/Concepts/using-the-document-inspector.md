@@ -10,10 +10,10 @@ ms.localizationpriority: medium
 
 The **Document Inspector** gives users an easy way to examine documents for personal or sensitive information, text phrases, and other document contents. For example, before distributing a document, they can use the **Document Inspector** to remove unwanted information.
 
-> [!NOTE] 
+> [!NOTE]
 > Microsoft does not support the automatic removal of hidden information for signed or protected documents, or for documents that use Information Rights Management (IRM). We recommend that you run the **Document Inspector** before you sign a document or invoke IRM on a document.
 
-As a developer, you can use the Document Inspector framework to extend the built-in modules and integrate your extensions into the standard user interface. 
+As a developer, you can use the Document Inspector framework to extend the built-in modules and integrate your extensions into the standard user interface.
 
 The **Document Inspector** in Word, Excel, and PowerPoint includes the following enhancements.
 
@@ -23,17 +23,17 @@ The **Document Inspector** has modules that help users inspect and fix specific 
 
 ### For all Office documents
 
-- Embedded documents   
-- OLE objects and packages 
-- Data models 
-- Content apps 
-- Task Pane apps 
+- Embedded documents
+- OLE objects and packages
+- Data models
+- Content apps
+- Task Pane apps
 - Macros and VBA modules
 - Legacy macros (XLM and WordBasic)
-    
+
 ### For Excel documents
 
-- PivotTables and slicers 
+- PivotTables and slicers
 - PivotCharts
 - Cube formulas
 - Timelines (cache)
@@ -41,27 +41,27 @@ The **Document Inspector** has modules that help users inspect and fix specific 
 - Comments and annotations
 - Document properties and personal information
 - Headers and footers
-- Hidden rows and columns   
-- Hidden worksheets and names   
-- Invisible content   
-- External links and data functions   
-- Excel surveys   
+- Hidden rows and columns
+- Hidden worksheets and names
+- Invisible content
+- External links and data functions
+- Excel surveys
 - Custom worksheet properties
-    
+
 ### For PowerPoint documents
 
-- Comments and annotations   
-- Document properties and personal information   
-- Invisible on-slide content   
-- Off-slide content 
+- Comments and annotations
+- Document properties and personal information
+- Invisible on-slide content
+- Off-slide content
 - Presentation notes
-    
+
 ### For Word documents
 
-- Comments, revisions, versions, and annotations 
+- Comments, revisions, versions, and annotations
 - Document properties and personal information; this includes metadata, SharePoint properties, custom properties, and other content information  
-- Custom XML data   
-- Headers, footers, and watermarks   
+- Custom XML data
+- Headers, footers, and watermarks
 - Invisible content  
 - Hidden text
 
@@ -70,11 +70,11 @@ The **Document Inspector** has modules that help users inspect and fix specific 
 To open the **Document Inspector**:
 
 1. Choose the **File** tab, and then choose **Info**.
-    
+
 2. Choose **Check for Issues**.
-    
+
 3. Choose **Inspect Document**.
-    
+
 Use the **Document Inspector** dialog box to select the type or types of data to find in the document.
 
 After the modules complete the inspection, the **Document Inspector** displays the results for each module in a dialog box. If a given module finds data, the dialog box includes a **Remove All** button that you can click to remove that data. If the module does not find data, the dialog box displays a message to that effect.

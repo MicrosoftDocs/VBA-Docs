@@ -7,7 +7,7 @@ ms.localizationpriority: medium
 
 # How AutoSave impacts add-ins and macros
 
-Learn about how AutoSave works in Excel, PowerPoint, and Word, and how it can impact add-ins or macros. 
+Learn about how AutoSave works in Excel, PowerPoint, and Word, and how it can impact add-ins or macros.
 
 ## Overview of AutoSave
 
@@ -48,17 +48,17 @@ You may need to handle one or more of the following issues regarding the interac
 
 ### Issue 1: Code in BeforeSave or AfterSave events runs too long
 
-In general, Word, Excel and PowerPoint are not responsive to user interaction while add-in or macro code is being run. Therefore, if your code in a **BeforeSave** or **AfterSave** event handler takes too long to run, it may significantly degrade the user experience. 
+In general, Word, Excel and PowerPoint are not responsive to user interaction while add-in or macro code is being run. Therefore, if your code in a **BeforeSave** or **AfterSave** event handler takes too long to run, it may significantly degrade the user experience.
 
-When AutoSave is disabled, this code is only run when the user explicitly chooses to save, so a delay is not as noticeable and can be avoided by the user until he or she is ready to save. 
+When AutoSave is disabled, this code is only run when the user explicitly chooses to save, so a delay is not as noticeable and can be avoided by the user until he or she is ready to save.
 
 When AutoSave is enabled, this code runs automatically on a periodic basis, which has the potential to interrupt the user, especially if the code takes a long time.
 
 #### Example scenario
 
-Imagine an add-in that allows the user to create custom maps based on data in an Excel workbook. Such an add-in might have **BeforeSave** code that serializes any maps that the user has created and stores them in the workbook in a CustomXML part. This process might take a second to complete, and Excel could be unresponsive while this is happening. 
+Imagine an add-in that allows the user to create custom maps based on data in an Excel workbook. Such an add-in might have **BeforeSave** code that serializes any maps that the user has created and stores them in the workbook in a CustomXML part. This process might take a second to complete, and Excel could be unresponsive while this is happening.
 
-When AutoSave is off, the user gets to choose when he or she wants to save, and therefore, even though the add-in slows down the save process slightly, the user does not notice. 
+When AutoSave is off, the user gets to choose when he or she wants to save, and therefore, even though the add-in slows down the save process slightly, the user does not notice.
 
 When AutoSave is enabled, this **BeforeSave** code runs automatically on a periodic basis even if the user is in the middle of something else (such as typing data into a cell), which could be extremely annoying.
 
@@ -97,14 +97,14 @@ An add-in might have code that runs in response to the **BeforeSave** event that
 Consider removing code that writes to the workbook in **BeforeSave** or **AfterSave** events. For example, the add-in described in the example scenario might be modified to store the change log in a separate file or database.
 
 <a name="Issue4"></a>
- 
+
 ### Issue 4: Code in **AfterSave** dirties the workbook (Excel only)
 
 When AutoSave is on, the **BeforeSave** and **AfterSave** events will only trigger if there has been a change in the workbook since the last time they were triggered. If code in the **AfterSave** event dirties the workbook (that is, makes additional changes), that could potentially trigger events to fire again for the same change, and then queue up the events to fire again indefinitely. This could waste system resources and affect battery life.
 
 #### Workaround
 
-Code that dirties the workbook in **AfterSave** should be moved to **BeforeSave** or to another location entirely (see [Issue 3](#Issue3)). This isn't a good practice today, even without AutoSave, because it leaves the workbook in a perpetual "dirty" state, which causes a prompt to appear on close that asks the user to save their changes even if they made no additional changes. 
+Code that dirties the workbook in **AfterSave** should be moved to **BeforeSave** or to another location entirely (see [Issue 3](#Issue3)). This isn't a good practice today, even without AutoSave, because it leaves the workbook in a perpetual "dirty" state, which causes a prompt to appear on close that asks the user to save their changes even if they made no additional changes.
 
 <a name="Issue5"></a>
 
@@ -118,7 +118,7 @@ Private Sub Workbook_BeforeSave(ByVal SaveAsUI As Boolean, Cancel As Boolean) 
 End Sub
 ```
 
-When AutoSave is enabled, the application (that is, Excel, Word, or PowerPoint) triggers saves automatically on a continuous basis until the file has no more unsaved changes. After the user makes a single change to the file, the application attempts to save it. 
+When AutoSave is enabled, the application (that is, Excel, Word, or PowerPoint) triggers saves automatically on a continuous basis until the file has no more unsaved changes. After the user makes a single change to the file, the application attempts to save it.
 
 If the developer chooses to cancel the save in the manner described earlier, the application continually determines that there are unsaved changes, which causes the save to (eventually) be attempted again. Because the same event code that cancelled the first save will also cancel this second save attempt, the process will continue for as long as the file is open, potentially degrading performance and battery life.
 
