@@ -10,6 +10,8 @@ ms.localizationpriority: medium
 
 
 # Presentation.Merge method (PowerPoint)
+> [!NOTE] 
+> This object or member has been deprecated, but it remains part of the object model for backward compatibility. You should not use it in new applications.
 
 Merges the changes in one presentation with another.
 
@@ -26,7 +28,7 @@ _expression_ A variable that represents a [Presentation](PowerPoint.Presentation
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
 | _Path_|Required|**String**|The path, including filename, of the presentation to merge changes with.|
-| _Path_|Required|**String**||
+
 
 ## Return value
 
