@@ -19,12 +19,12 @@ Constants representing days of the week.
 
 |Name|Value|Description|
 |:-----|:-----|:-----|
-| **olFriday**|32|Friday|
-| **olMonday**|2|Monday|
-| **olSaturday**|64|Saturday|
 | **olSunday**|1|Sunday|
-| **olThursday**|16|Thursday|
+| **olMonday**|2|Monday|
 | **olTuesday**|4|Tuesday|
 | **olWednesday**|8|Wednesday|
+| **olThursday**|16|Thursday|
+| **olFriday**|32|Friday|
+| **olSaturday**|64|Saturday|
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
