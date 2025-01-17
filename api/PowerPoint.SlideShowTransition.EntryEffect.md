@@ -25,7 +25,7 @@ _expression_ A variable that represents a [SlideShowTransition](PowerPoint.Slide
 
 ## Return value
 
-PpEntryEffect
+[PpEntryEffect](PowerPoint.PpEntryEffect.md)
 
 
 ## Remarks
