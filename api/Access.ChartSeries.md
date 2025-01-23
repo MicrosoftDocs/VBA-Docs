@@ -20,6 +20,7 @@ Represents a series of values in the specified chart.
 - [BorderColor](Access.ChartSeries.BorderColor.md)
 - [ComboChartType](Access.ChartSeries.ComboChartType.md)
 - [DashType](Access.ChartSeries.DashType.md)
+- [DataLabelPosition (only available in Current Channel)](Access.ChartSeries.DataLabelPosition.md)
 - [DisplayBoxWhiskerDataPoints (only available in Current Channel)](Access.ChartSeries.DisplayBoxWhiskerDataPoints.md)
 - [DisplayBoxWhiskerMeanMarker (only available in Current Channel)](Access.ChartSeries.DisplayBoxWhiskerMeanMarker.md)
 - [DisplayDataLabel](Access.ChartSeries.DisplayDataLabel.md)
@@ -31,8 +32,12 @@ Represents a series of values in the specified chart.
 - [MissingDataPolicy](Access.ChartSeries.MissingDataPolicy.md)
 - [Name](Access.ChartSeries.Name.md)
 - [PlotSeriesOn](Access.ChartSeries.PlotSeriesOn.md)
+- [ShowWaterfallConnectorLines (only available in Current Channel)](Access.ChartSeries.ShowWaterfallConnectorLines.md)
+- [ShowFunnelPercentages (only available in Current Channel)](Access.ChartSeries.ShowFunnelPercentages.md)
+- [ShowWaterfallTotal(only available in Current Channel)](Access.ChartSeries.ShowWaterfallTotal.md)
 - [TrendlineName](Access.ChartSeries.TrendlineName.md)
-- [TrendlineOptions](Access.ChartSeries.TrendlineOptions.md)
+- [WordCloudWordOrientation (only available in Current Channel)](Access.ChartSeries.WordCloudWordOrientation.md)
+- [WordCloudShape (only available in Current Channel)](Access.ChartSeries.WordCloudShape.md)
 
 ## See also
 

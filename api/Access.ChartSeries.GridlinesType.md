@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # ChartSeries.GridlinesType property (Access)
 
-Returns or sets the gridlines type for a Modern Chart. Read/write **[AcGridlinesType](Access.AcGridlinesType.md)**.
+Returns or sets the gridlines type for a Modern Chart (only available in Current Channel). Read/write **[AcGridlinesType](Access.AcGridlinesType.md)**.
 
 
 ## Syntax
