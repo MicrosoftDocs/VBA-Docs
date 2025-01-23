@@ -1,16 +1,16 @@
 ---
-title: AcGridlinesType enumeration (Access)
+title: AcGridlineType enumeration (Access)
 keywords: vbaac10.chm14856
 f1_keywords:
 - vbaac10.chm14856
 api_name:
-- Access.AcGridlinesType
+- Access.AcGridlineType
 ms.date: 01/23/2025
 ms.localizationpriority: medium
 ---
 
 
-# AcGridlinesType enumeration (Access)
+# AcGridlineType enumeration (Access)
 
 Specifies the gridlines type to use for a Modern Chart
 
