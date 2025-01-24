@@ -27,5 +27,19 @@ Specifies the chart type.
 |**acChartLineStacked**|7|Line Stacked|
 |**acChartLineStacked100**|8|100% Stacked Line|
 |**acChartPie**|9|Pie|
+|**acChartArea**|11|Area (only available in Current Channel)|
+|**acChartAreaStacked**|12|Stacked Area (only available in Current Channel)|
+|**acChartAreaStacked100**|13|100% Stacked Area (only available in Current Channel)|
+|**acChartRadar**|14|Radar (only available in Current Channel)|
+|**acChartRadarFilled**|15|Radar Filled (only available in Current Channel)|
+|**acChartBoxWhisker**|16|Box and Whisker (only available in Current Channel)|
+|**acChartBubble**|17|Bubble (only available in Current Channel)|
+|**acChartDoughnut**|18|Doughnut (only available in Current Channel)|
+|**acChartFunnel**|19|Funnel (only available in Current Channel)|
+|**acChartScatter**|20|Scatter (only available in Current Channel)|
+|**acChartWaterfall**|21|Waterfall (only available in Current Channel)|
+|**acChartWordCloud**|22|Word Cloud (only available in Current Channel)|
+|**acChartArc**|23|Arc (only available in Current Channel)|
+|**acChartPareto**|24|Pareto (only available in Current Channel)|
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
