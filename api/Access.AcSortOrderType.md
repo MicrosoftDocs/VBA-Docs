@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # AcSortOrderType enumeration (Access)
 
-Specifies the sort order type for series in a Modern Chart
+Specifies the sort order type for series in a Modern Chart.
 
 |Name|Value|Description|
 |:-----|:-----|:-----|
