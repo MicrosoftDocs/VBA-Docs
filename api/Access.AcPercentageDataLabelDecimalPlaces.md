@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # AcPercentageDataLabelDecimalPlaces enumeration (Access)
 
-Specifies the number of decimal places when data labels are displayed as a percentage for Pie, Arc and Doughnut Modern Charts
+Specifies the number of decimal places when data labels are displayed as a percentage for Pie, Arc, and Doughnut Modern Charts.
 
 |Name|Value|Description|
 |:-----|:-----|:-----|
