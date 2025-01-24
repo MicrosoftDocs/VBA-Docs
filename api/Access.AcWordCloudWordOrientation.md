@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # AcWordCloudWordOrientation enumeration (Access)
 
-Specifies the word orientation for a Word Cloud Modern Chart
+Specifies the word orientation for a Word Cloud Modern Chart.
 
 |Name|Value|Description|
 |:-----|:-----|:-----|
