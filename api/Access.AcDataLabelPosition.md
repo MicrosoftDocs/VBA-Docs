@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # AcDataLabelPosition enumeration (Access)
 
-Specifies the data label position to use for for Pie, Arc and Doughnut Modern Charts
+Specifies the data label position to use for for Pie, Arc, and Doughnut Modern Charts
 
 |Name|Value|Description|
 |:-----|:-----|:-----|
