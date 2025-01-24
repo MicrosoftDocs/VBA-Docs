@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # ChartSeries.DataLabelPosition property (Access)
 
-Returns or sets the data label position for Pie, Arc and Doughnut Modern Charts (only available in Current Channel). Read/write **[AcDataLabelPosition](Access.AcDataLabelPosition.md)**.
+Returns or sets the data label position for Pie, Arc, and Doughnut Modern Charts (only available in Current Channel). Read/write **[AcDataLabelPosition](Access.AcDataLabelPosition.md)**.
 
 
 ## Syntax
