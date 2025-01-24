@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # ChartSeries.DataLabelDisplayFormat property (Access)
 
-Returns or sets data label format for Pie, Arc and Doughnut Modern Charts (only available in Current Channel). Read/write **[AcDataLabelDisplayFormat](Access.AcDataLabelDisplayFormat.md)**.
+Returns or sets data label format for Pie, Arc, and Doughnut Modern Charts (only available in Current Channel). Read/write **[AcDataLabelDisplayFormat](Access.AcDataLabelDisplayFormat.md)**.
 
 
 ## Syntax
