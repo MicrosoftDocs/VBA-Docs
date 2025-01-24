@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # AcWordCloudShape enumeration (Access)
 
-Specifies the shape for a Word Cloud Modern Chart
+Specifies the shape for a Word Cloud Modern Chart.
 
 |Name|Value|Description|
 |:-----|:-----|:-----|
