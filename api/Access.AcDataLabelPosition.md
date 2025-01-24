@@ -17,7 +17,7 @@ Specifies the data label position to use for for Pie, Arc, and Doughnut Modern C
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**acBestFit**|0|Best Fit|
-|**acInsideCenterr**|1|Inside Center|
+|**acInsideCenter**|1|Inside Center|
 |**acInsideEnd**|2|Inside End|
 |**acOutsideCircle**|3|Outside Circle|
 |**acOutsideEnd**|4|Outside End|
