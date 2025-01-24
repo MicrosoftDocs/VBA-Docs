@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # AcDataLabelDisplayFormat enumeration (Access)
 
-Specifies the data label format for Pie, Arc, and Doughnut Modern Charts
+Specifies the data label format for Pie, Arc, and Doughnut Modern Charts.
 
 |Name|Value|Description|
 |:-----|:-----|:-----|
