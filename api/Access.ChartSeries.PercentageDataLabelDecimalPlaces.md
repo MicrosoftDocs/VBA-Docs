@@ -12,7 +12,7 @@ ms.localizationpriority: medium
 
 # ChartSeries.PercentageDataLabelDecimalPlaces property (Access)
 
-Returns or sets the demimal places for percentage data labels - only applicable to Pie, Arc and Doughnut Modern Charts (only available in Current Channel). Read/write **[AcPercentageDataLabelDecimalPlaces](Access.AcPercentageDataLabelDecimalPlaces.md)**.
+Returns or sets the demimal places for percentage data labels - only applicable to Pie, Arc, and Doughnut Modern Charts (only available in Current Channel). Read/write **[AcPercentageDataLabelDecimalPlaces](Access.AcPercentageDataLabelDecimalPlaces.md)**.
 
 
 ## Syntax
