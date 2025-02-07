@@ -1,0 +1,25 @@
+---
+title: Style.Hidden property (Word)
+api_name:
+- Word.Style.Hidden
+ms.assetid: 
+ms.date: 02/06/2025
+ms.localizationpriority: medium
+---
+
+
+# Style.Hidden property (Word)
+
+ **True** if the specified style is hidden as a recommended style in the **Styles** gallery and in the **Styles** task pane. Read/write.
+
+## Syntax
+
+_expression_. `Hidden`
+
+ _expression_ An expression that returns a '[Style](Word.Style.md)' object.
+
+## See also
+
+[Style Object](Word.Style.md)
+
+[!include[Support and feedback](~/includes/feedback-boilerplate.md)]
