@@ -1,0 +1,38 @@
+name: auto-publish
+run-name: Automatically publish documentation
+on:
+  schedule:
+    - cron: '45 23 * * WED'
+jobs:
+  auto-publish:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    defaults:
+      run:
+        shell: bash
+        working-directory: ./
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Check out main
+        run: |
+          echo "Checking out main branch"
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git checkout main
+      - name: Check out live
+        run: |
+          echo "Checking out live branch"
+          git checkout live
+      - name: Merge from main into live
+        run: |
+          echo "Merging from main to live"
+          git merge main
+      - name: Push changes
+        run: |
+          echo "Pushing changes to live branch"
+          git push origin live
+
