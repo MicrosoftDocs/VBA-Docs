@@ -31,7 +31,7 @@ Before you can use an Outlook object in Visual Basic or Visual Basic for Applica
 
 Once you've referenced the object model library, you must declare variables that reference the object you want to use. You can declare the variable in the module in which the object will be used (that is, the module containing the event-handler procedure), but more commonly you' ll declare it in a class module so it can be used in any module in your program.
 
-For example, to declare an object variable for the **Application](../../../api/Outlook.Application.md)** object in a class module, you use code like the following.
+For example, to declare an object variable for the **[Application](../../../api/Outlook.Application.md)** object in a class module, you use code like the following.
 
 ```vb
 Public WithEvents myOlApp As Outlook.Application

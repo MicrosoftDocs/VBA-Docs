@@ -15,16 +15,13 @@ ms.localizationpriority: medium
 
  **True** if the specified style is visible as a recommended style in the **Styles** gallery and in the **Styles** task pane. Read/write.
 
-
 ## Syntax
 
 _expression_. `Visibility`
 
  _expression_ An expression that returns a '[Style](Word.Style.md)' object.
 
-
 ## See also
-
 
 [Style Object](Word.Style.md)
 
