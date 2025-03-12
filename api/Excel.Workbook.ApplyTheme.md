@@ -27,7 +27,13 @@ _expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** obje
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _FileName_|Required| **String**|Name of the theme.|
+| _FileName_|Required| **String**|Full path and file name of a stored theme|
+
+Example:
+
+    Sub ApplyThemeExample()
+        ActiveWorkbook.ApplyTheme "C:\Program Files\Microsoft Office\Root\Document Themes 16\Office Theme.thmx"
+    End Sub
 
 
 
