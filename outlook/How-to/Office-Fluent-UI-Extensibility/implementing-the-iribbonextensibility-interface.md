@@ -10,9 +10,9 @@ ms.localizationpriority: medium
 
 A Microsoft Outlook add-in that customizes the ribbon, shortcut menus, new-item menus, or Microsoft Office Backstage view must implement the following interfaces:
 
-- **DTExtensibility2**
+- **IDTExtensibility2**
 
-- **IRibbonExtensibility](../../../api/Office.IRibbonExtensibility.md)**
+- **[IRibbonExtensibility](../../../api/Office.IRibbonExtensibility.md)**
 
 In Visual C# and Visual Basic add-ins, you must implement these interfaces in the same class.
 When you implement **Office.IRibbonExtensibility**, use the **IRibbonExtensibility.GetCustomUI** method to return XML markup for your custom user interface to Outlook. The way that Outlook calls **GetCustomUI** and when it calls it is unique among Microsoft Office applications:
