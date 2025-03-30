@@ -47,11 +47,11 @@ _expression_ An expression that returns a **[Document](Word.Document.md)** objec
 
 The _KeepIRM_ parameter behaves specially for PDF. It controls the retention of both labels and encryption to the output file. For more information, see [Manage sensitivity labels in Office apps](/microsoft-365/compliance/sensitivity-labels-office-apps?view=o365-worldwide#pdf-support&preserve-view=true).
 
-The _ImproveExportTagging_ parameter enables improved accessibility tagging for footnotes/endnotes, block quotes, inline quotes, captions, title, comments, equations, layout tables, and nodes (paragraphs, lists, tables) spanning pages. When using the _FixedFormatExtClassPtr_ parameter, your handling of footnotes/endnotes, comments, layout tables, and nodes spanning pages will have to be updated when migrating from **Document.ExportAsFixedFormat2**. See [Extending Office PDF Export](../../pdf/extendingofficepdfexport) for more information.
+The _ImproveExportTagging_ parameter enables improved accessibility tagging for footnotes/endnotes, block quotes, inline quotes, captions, title, comments, equations, layout tables, and nodes (paragraphs, lists, tables) spanning pages. When using the _FixedFormatExtClassPtr_ parameter, your handling of footnotes/endnotes, comments, layout tables, and nodes spanning pages will have to be updated when migrating from **Document.ExportAsFixedFormat2**. See the "Post-processing tips" section within the "HrBeginStructNode" section in [Extending Office PDF Export](../../pdf/extendingofficepdfexport) for more information.
 
 ## Requirements
 
-Microsoft 365 Beta Version 16.0.18720.20000
+Microsoft 365 Beta Channel 16.0.18720.20000
 
 ### See also
 [Manage sensitivity labels in Office apps](/microsoft-365/compliance/sensitivity-labels-office-apps?view=o365-worldwide#pdf-support&preserve-view=true)
