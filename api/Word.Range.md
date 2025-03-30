@@ -63,6 +63,7 @@ For more information about working with **Range** objects, see [Working with Ran
 - [Expand](Word.Range.Expand.md)
 - [ExportAsFixedFormat](Word.Range.ExportAsFixedFormat.md)
 - [ExportAsFixedFormat2](Word.Range.ExportAsFixedFormat2.md)
+- [ExportAsFixedFormat3](Word.Range.ExportAsFixedFormat3.md)
 - [ExportFragment](Word.Range.ExportFragment.md)
 - [GetSpellingSuggestions](Word.Range.GetSpellingSuggestions.md)
 - [GoTo](Word.Range.GoTo.md)

@@ -92,6 +92,7 @@ ActiveDocument.PrintOut
 - [EndReview](Word.Document.EndReview.md)
 - [ExportAsFixedFormat](Word.Document.ExportAsFixedFormat.md)
 - [ExportAsFixedFormat2](Word.Document.ExportAsFixedFormat2.md)
+- [ExportAsFixedFormat3](Word.Document.ExportAsFixedFormat3.md)
 - [FitToPages](Word.Document.FitToPages.md)
 - [FollowHyperlink](Word.Document.FollowHyperlink.md)
 - [FreezeLayout](Word.Document.FreezeLayout.md)
