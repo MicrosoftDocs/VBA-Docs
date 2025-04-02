@@ -139,6 +139,7 @@ Because **Range** objects share many of the same methods and properties as **Sel
 - [Expand](Word.Selection.Expand.md)
 - [ExportAsFixedFormat](Word.Selection.ExportAsFixedFormat.md)
 - [ExportAsFixedFormat2](Word.Selection.ExportAsFixedFormat2.md)
+- [ExportAsFixedFormat3](Word.Selection.ExportAsFixedFormat3.md)
 - [Extend](Word.Selection.Extend.md)
 - [GoTo](Word.Selection.GoTo.md)
 - [GoToEditableRange](Word.Selection.GoToEditableRange.md)
