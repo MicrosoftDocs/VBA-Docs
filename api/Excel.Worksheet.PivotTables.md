@@ -31,7 +31,7 @@ _expression_ A variable that represents a **[Worksheet](Excel.Worksheet.md)** ob
 
 ## Return value
 
-**Object**
+**[PivotTable](Excel.PivotTable.md)**
 
 
 ## Example
