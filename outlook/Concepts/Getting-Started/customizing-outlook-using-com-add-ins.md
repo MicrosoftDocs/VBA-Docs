@@ -6,7 +6,7 @@ f1_keywords:
 ms.assetid: 84a4f616-3ace-0139-57d5-f0c070064ab2
 ms.date: 06/08/2019
 ms.localizationpriority: medium
-ms.custom: required-for-compliance # Indicates that this page is linked to in a legal document. 
+ms.custom: required-for-compliance # Indicates that this topic is linked to from a legal document. 
 ---
 
 # Customizing Outlook using COM add-ins
