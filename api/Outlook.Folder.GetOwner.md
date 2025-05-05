@@ -11,7 +11,7 @@ ms.date: 05/02/2024
 ms.localizationpriority: medium
 ---
 
-
+//I'm trying to use this feature but not getting this method. I'm using Microsoft.Office.Interop with version 15.0.4569 but still not able to use it. can you pls help me with this 
 # Folder.GetOwner method (Outlook)
 
 Obtains the **[AddressEntry](Outlook.AddressEntry.md)** object that contains information from the Address Book about the owner of the **[Folder](Outlook.Folder.md)**.
