@@ -18,7 +18,7 @@ Returns a **Boolean** indicating characters in cells within the specified range.
 
 ## Syntax
 
-_expression_.**Replace** (_What_, _Replacement_, _LookAt_, _SearchOrder_, _MatchCase_, _MatchByte_, _SearchFormat_, _ReplaceFormat_)
+_expression_.**Replace** (_What_, _Replacement_, _LookAt_, _SearchOrder_, _MatchCase_, _MatchByte_, _SearchFormat_, _ReplaceFormat_, _FormulaVersion_)
 
 _expression_ A variable that represents a **[Range](excel.range(object).md)** object.
 
@@ -35,7 +35,7 @@ _expression_ A variable that represents a **[Range](excel.range(object).md)** ob
 | _MatchByte_|Optional| **Variant**|Use this argument only if you have selected or installed double-byte language support in Microsoft Excel. **True** to have double-byte characters match only double-byte characters. **False** to have double-byte characters match their single-byte equivalents.|
 | _SearchFormat_|Optional| **Variant**|The search format for the method.|
 | _ReplaceFormat_|Optional| **Variant**|The replace format for the method.|
-
+| _FormulaVersion_|Optional| **Variant**|Determines whether to replace in Dynamic Array formula state constants: **xlReplaceFormula** or **xlReplaceFormula2**.|
 ## Return value
 
 Boolean
