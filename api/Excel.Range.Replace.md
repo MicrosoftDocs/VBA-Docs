@@ -36,6 +36,7 @@ _expression_ A variable that represents a **[Range](excel.range(object).md)** ob
 | _SearchFormat_|Optional| **Variant**|The search format for the method.|
 | _ReplaceFormat_|Optional| **Variant**|The replace format for the method.|
 | _FormulaVersion_|Optional| **Variant**|Determines whether to replace in Dynamic Array formula state constants: **xlReplaceFormula** or **xlReplaceFormula2**.|
+
 ## Return value
 
 Boolean
