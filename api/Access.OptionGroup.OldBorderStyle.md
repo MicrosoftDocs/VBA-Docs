@@ -37,8 +37,6 @@ The **OldBorderStyle** property uses the following settings.
 |Sparse dots|5|Dotted line with dots spaced far apart|
 |Dash dot|6|Line with a dash-dot combination|
 |Dash dot dot|7|Line with a dash-dot-dot combination|
-|Double solid|8|Double solid lines|
-
 
 ## Example
 

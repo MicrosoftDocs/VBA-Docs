@@ -37,7 +37,6 @@ For controls, the **BorderStyle** property uses the following settings.
 |Sparse dots|5|Dotted line with dots spaced far apart|
 |Dash dot|6|Line with a dash-dot combination|
 |Dash dot dot|7|Line with a dash-dot-dot combination|
-|Double solid|8|Double solid lines|
 
 You can set the default for this property by using a control's default control style or the **[DefaultControl](access.report.defaultcontrol.md)** property in Visual Basic.
 
