@@ -25,7 +25,7 @@ _expression_ A variable that represents a **[Form](Access.Form.md)** object.
 
 ## Remarks
 
-Valid values are between zero and eight. Values greater than eight are ignored; negative values or values above 255 cause an error.
+Valid values are between zero and seven. Values greater than eight are ignored; negative values or values above 255 cause an error.
 
 |Value|Description|
 |:-----|:-----|
@@ -37,7 +37,6 @@ Valid values are between zero and eight. Values greater than eight are ignored; 
 |5|Sparse dots|
 |6|Dash-dot|
 |7|Dash-dot-dot|
-|8|Double solid|
 
 ## Example
 
