@@ -26,7 +26,7 @@ The **GetFileName** method syntax has these parts:
 
 ## Remarks
 
-The **GetFileName** method returns a zero-length string ("") if _pathspec_ contains a drive specification only (Example: "C:\"), otherwise it will return the last component in the path, even if that component is the name of a folder and not a file.
+The **GetFileName** method returns a zero-length string ("") if _pathspec_ contains a drive specification only (Example: "C:\"), otherwise it returns the last component in the path, even if that component is the name of a folder and not a file.
 
 > [!NOTE] 
 > The **GetFileName** method works only on the provided path string. It does not attempt to resolve the path, nor does it check for the existence of the specified path.
