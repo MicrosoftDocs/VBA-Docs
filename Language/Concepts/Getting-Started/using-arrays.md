@@ -67,7 +67,7 @@ varData(3) = Format("06-09-1952", "General Date")
 
 ```
 
-The other way is to assign the array returned by the **Array** function to a **Variant** variable, as shown in the following example.
+The other way is to assign the array returned by the **[Array](../../reference/user-interface-help/array-function.md)** function to a **Variant** variable, as shown in the following example.
 
 ```vb
 Dim varData As Variant 
