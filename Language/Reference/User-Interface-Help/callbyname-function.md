@@ -23,7 +23,7 @@ The **CallByName** function syntax has these [named arguments](../../Glossary/vb
 |:-----|:-----|
 |_object_ |Required: **Variant** (**Object**). The name of the object on which the function will be executed.|
 |_procname_ |Required: **Variant** (**String**). A string expression containing the name of a property or method of the object.|
-|_calltype_ |Required: **Constant**. A constant of type **vbCallType** representing the type of procedure being called.|
+|_calltype_ |Required: **Constant**. A constant of type **[vbCallType](calltype-constants.md)** representing the type of procedure being called.|
 | _args()_|Optional: **Variant** (**Array**).|
 
 ## Remarks
