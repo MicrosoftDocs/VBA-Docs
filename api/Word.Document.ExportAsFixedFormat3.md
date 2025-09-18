@@ -51,7 +51,7 @@ The _ImproveExportTagging_ parameter enables improved accessibility tagging for 
 
 ## Requirements
 
-Microsoft 365 Beta Channel 16.0.18720.20000
+Microsoft 365 Version 2506
 
 ### See also
 [Manage sensitivity labels in Office apps](/microsoft-365/compliance/sensitivity-labels-office-apps?view=o365-worldwide#pdf-support&preserve-view=true)
