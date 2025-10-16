@@ -23,11 +23,24 @@ The **VPageBreak** object is a member of the **[VPageBreaks](Excel.VPageBreaks.m
 
 ## Example
 
-Use **[VPageBreaks](Excel.Sheets.VPageBreaks.md)** (_index_), where _index_ is the page break index number of the page break, to return a **VPageBreak** object. The following example changes the location of vertical page break one.
+Use **[VPageBreaks](Excel.Sheets.VPageBreaks.md)** (_index_), where _index_ is the page break index number of the page break, to return a **VPageBreak** object. 
+```vb
+Dim r as Range
+Set r = Worksheets(1).VPageBreaks(1).Location
+```
+
+The following example changes the location of vertical page break one.
 
 ```vb
-Worksheets(1).VPageBreaks(1).Location = Worksheets(1).Range("e5")
+With Worksheets(1)
+    .VPageBreaks(1).Delete
+    .VPageBreaks.Add Before:=.Columns("E")
+End With
 ```
+> [!NOTE] 
+> **Location** is read-only, and can only be used to return the current vertical page-break location. To change the location of a **VPageBreak**, you must use the **[Delete](Excel.VpageBreak.Delete.md)** or **[Dragoff](Excel.VPageBreak.DragOff.md)** methods. 
+
+
 
 ## Methods
 
