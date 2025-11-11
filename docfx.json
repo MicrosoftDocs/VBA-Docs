@@ -111,6 +111,27 @@
          "excel/Concepts/Miscellaneous/**.md": "NOINDEX,NOFOLLOW",
          "outlook/Concepts/Miscellaneous/**.md": "NOINDEX,NOFOLLOW",
          "F1/**.md": "NOINDEX,NOFOLLOW"
+      },
+      "description": {
+        "api/PowerPoint.*.md": "PowerPoint VBA reference",
+        "powerpoint/**.md": "PowerPoint VBA conceptual documentation",
+        "api/Access.*.md": "Access VBA reference",
+        "access/**.md": "Access VBA conceptual documentation",
+        "api/Excel.*.md": "Excel VBA reference",
+        "excel/**.md": "Excel VBA conceptual documentation",
+        "api/Outlook.*.md": "Outlook VBA reference",
+        "outlook/**.md": "Outlook VBA conceptual documentation",
+        "api/Project.*.md": "Project VBA reference",
+        "project/**.md": "Project VBA conceptual documentation",
+        "api/Publisher.*.md": "Publisher VBA reference",
+        "publisher/**.md": "Publisher VBA conceptual documentation",
+        "api/Visio.*.md": "Visio VBA reference",
+        "visio/**.md": "Visio VBA conceptual documentation",
+        "api/Word.*.md": "Word VBA reference",
+        "word/**.md": "Word VBA conceptual documentation",
+        "api/Office.*.md": "Office VBA reference",
+        "Language/**.md": "VBA language reference",
+        "Library-Reference/**.md": "Office library reference"
       }
     },
     "template": [],

@@ -1,3 +1,8 @@
+---
+title: Security
+ms.service: office
+ms.date: 11/11/2025
+---
 <!-- BEGIN MICROSOFT SECURITY.MD V0.0.8 BLOCK -->
 
 # Security
