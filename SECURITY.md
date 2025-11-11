@@ -1,8 +1,3 @@
----
-title: Security
-ms.service: office
-ms.date: 11/11/2025
----
 <!-- BEGIN MICROSOFT SECURITY.MD V0.0.8 BLOCK -->
 
 # Security
@@ -19,7 +14,7 @@ Instead, please report them to the Microsoft Security Response Center (MSRC) at 
 
 If you prefer to submit without logging in, send email to [secure@microsoft.com](mailto:secure@microsoft.com).  If possible, encrypt your message with our PGP key; please download it from the [Microsoft Security Response Center PGP Key page](https://aka.ms/opensource/security/pgpkey).
 
-You should receive a response within 24 hours. If for some reason you do not, please follow up via email to ensure we received your original message. Additional information can be found at [microsoft.com/msrc](https://aka.ms/opensource/security/msrc). 
+You should receive a response within 24 hours. If for some reason you do not, please follow up via email to ensure we received your original message. Additional information can be found at [microsoft.com/msrc](https://aka.ms/opensource/security/msrc).
 
 Please include the requested information listed below (as much as you can provide) to help us better understand the nature and scope of the possible issue:
 
