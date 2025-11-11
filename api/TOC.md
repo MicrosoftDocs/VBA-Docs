@@ -7852,7 +7852,7 @@
 ###### [RemoveDuplicates](Excel.Range.RemoveDuplicates.md)
 ###### [RemoveSubtotal](Excel.Range.RemoveSubtotal.md)
 ###### [Replace](Excel.Range.Replace.md)
-###### [ResetContents](Excel.ResetContents.md)
+###### [ResetContents](Excel.Range.ResetContents.md)
 ###### [RowDifferences](Excel.Range.RowDifferences.md)
 ###### [Run](Excel.Range.Run.md)
 ###### [Select](Excel.Range.Select.md)

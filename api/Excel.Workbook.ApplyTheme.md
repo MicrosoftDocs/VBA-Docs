@@ -31,9 +31,11 @@ _expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** obje
 
 Example:
 
-    Sub ApplyThemeExample()
-        ActiveWorkbook.ApplyTheme "C:\Program Files\Microsoft Office\Root\Document Themes 16\Office Theme.thmx"
-    End Sub
+```vb
+Sub ApplyThemeExample()
+    ActiveWorkbook.ApplyTheme "C:\Program Files\Microsoft Office\Root\Document Themes 16\Office Theme.thmx"
+End Sub
+```
 
 
 
