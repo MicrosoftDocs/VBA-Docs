@@ -6,6 +6,7 @@ f1_keywords:
 api_name:
 - Office.IRibbonControl.Tag
 ms.assetid: d0f041c
+ms.date: 11/11/2025
 ms.localizationpriority: medium
 ---
 
