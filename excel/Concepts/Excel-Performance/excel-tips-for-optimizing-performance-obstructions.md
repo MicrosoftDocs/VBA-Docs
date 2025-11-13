@@ -1,7 +1,7 @@
 ---
 title: Excel performance - Tips for optimizing performance obstructions
 description: Learn about ways to optimize Excel functionality such as links, lookups, formulas, functions, and VBA code to avoid common obstructions and improve performance.
-ms.date: 10/06/2017 
+ms.date: 11/11/2025
 author: FastExcel
 ms.localizationpriority: medium
 ---
@@ -565,6 +565,34 @@ The DFunctions **DSUM**, **DCOUNT**, **DAVERAGE**, and so on are significantly f
 ## Create faster VBA macros
 
 Use the following tips to create faster VBA macros.
+
+### Use `DoEvents` to prevent Excel from becoming unresponsive
+
+VBA macros run on Excel's main thread, which is also responsible for handling user interface updates and other critical operations. Long-running macros that don't yield control can cause Excel to become unresponsive, potentially affecting other processes that depend on Excel's message loop.
+
+To prevent Excel from hanging during lengthy operations, use the `DoEvents` function periodically within your VBA code. `DoEvents` temporarily yields control to the operating system, allowing Excel to process pending events and remain responsive. This is especially important for macros that perform extensive looping, data processing, or calculations.
+
+The following example shows how to incorporate `DoEvents` in a loop:
+
+```vb
+  Dim i As Long
+  Dim counter As Long
+  counter = 0
+  
+  For i = 1 To 100000
+      ' Your processing code here
+      Range("A" & i).Value = i * 2
+      
+      ' Call DoEvents periodically (e.g., every 100 iterations)
+      counter = counter + 1
+      If counter Mod 100 = 0 Then
+          DoEvents
+      End If
+  Next i
+```
+
+> [!NOTE]
+> While `DoEvents` improves responsiveness, calling it too frequently can slow down your macro's execution. Find a balance by calling `DoEvents` at appropriate intervals based on your macro's operations.
 
 ### Turn off everything but the essentials while code is running
 
