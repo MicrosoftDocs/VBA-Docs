@@ -19,7 +19,7 @@ Copies an image of the active Timeline view to the Clipboard, for pasting into o
 
 ## Syntax
 
-_expression_. `TimelineExport`( `_SelectionOnly_`, `_ExportWidth_` )
+_expression_.**TimelineExport**( `_SelectionOnly_`, `_ExportWidth_` )
 
  _expression_ An expression that returns an **[Application](Project.Application.md)** object.
 

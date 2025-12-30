@@ -19,7 +19,7 @@ Shows the **Task Inspector** pane.
 
 ## Syntax
 
-_expression_. `TaskDrivers`
+_expression_.**TaskDrivers**
 
 _expression_ A variable that represents an **[Application](Project.Application.md)** object.
 

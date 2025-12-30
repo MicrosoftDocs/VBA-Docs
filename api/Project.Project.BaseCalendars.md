@@ -16,7 +16,7 @@ Gets a **[Calendars](Project.Calendar.md)** collection representing all base cal
 
 ## Syntax
 
-_expression_. `BaseCalendars`
+_expression_.**BaseCalendars**
 
 _expression_ A variable that represents a **[Project](project.project.md)** object.
 

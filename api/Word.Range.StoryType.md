@@ -18,7 +18,7 @@ Returns the story type for the specified range, selection, or bookmark. Read-onl
 
 ## Syntax
 
-_expression_. `StoryType`
+_expression_.**StoryType**
 
 _expression_ Required. A variable that represents a **[Range](Word.Range.md)** object.
 

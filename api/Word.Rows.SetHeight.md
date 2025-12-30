@@ -18,7 +18,7 @@ Sets the height of table rows.
 
 ## Syntax
 
-_expression_. `SetHeight`( `_RowHeight_` , `_HeightRule_` )
+_expression_.**SetHeight**( `_RowHeight_` , `_HeightRule_` )
 
 _expression_ Required. A variable that represents a **[Rows](Word.Rows.md)** object.
 

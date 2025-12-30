@@ -18,7 +18,7 @@ ms.localizationpriority: medium
 
 ## Syntax
 
-_expression_. `ShowCodes`
+_expression_.**ShowCodes**
 
  _expression_ An expression that returns a '[Field](Word.Field.md)' object.
 

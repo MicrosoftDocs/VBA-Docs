@@ -13,7 +13,7 @@ Gets a **TextRange2** object that represents the specified subset of text paragr
 
 ## Syntax
 
-_expression_. `Paragraphs`( `_Start_`, `_Length_` )
+_expression_.**Paragraphs**( `_Start_`, `_Length_` )
 
  _expression_ An expression that returns a 'TextRange2' object.
 

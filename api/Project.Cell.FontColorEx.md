@@ -19,7 +19,7 @@ Gets or sets the color of the font. Read/write **Long**.
 
 ## Syntax
 
-_expression_. `FontColorEx`
+_expression_.**FontColorEx**
 
  _expression_ An expression that returns a [Cell](./Project.Cell.md) object.
 

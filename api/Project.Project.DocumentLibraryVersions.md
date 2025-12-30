@@ -19,7 +19,7 @@ Gets a **DocumentLibraryVersions** collection for the specified project. Read-on
 
 ## Syntax
 
-_expression_. `DocumentLibraryVersions`
+_expression_.**DocumentLibraryVersions**
 
 _expression_ A variable that represents a **[Project](project.project.md)** object.
 

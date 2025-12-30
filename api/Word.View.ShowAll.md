@@ -18,7 +18,7 @@ ms.localizationpriority: medium
 
 ## Syntax
 
-_expression_. `ShowAll`
+_expression_.**ShowAll**
 
 _expression_ Required. A variable that represents a '[View](Word.View.md)' object.
 

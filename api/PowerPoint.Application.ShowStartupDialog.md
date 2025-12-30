@@ -18,7 +18,7 @@ Determines whether to display the **New Presentation** task pane when Microsoft 
 
 ## Syntax
 
-_expression_. `ShowStartupDialog`
+_expression_.**ShowStartupDialog**
 
 _expression_ A variable that represents an **[Application](PowerPoint.Application.md)** object.
 

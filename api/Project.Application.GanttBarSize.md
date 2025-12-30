@@ -19,7 +19,7 @@ Sets the height, in [points](../language/glossary/vbe-glossary.md#point), of the
 
 ## Syntax
 
-_expression_. `GanttBarSize`( `_Size_` )
+_expression_.**GanttBarSize**( `_Size_` )
 
 _expression_ A variable that represents an **[Application](Project.Application.md)** object.
 

@@ -19,7 +19,7 @@ Shows or hides the **Add New Column** column at the right side of the active she
 
 ## Syntax
 
-_expression_. `ShowAddNewColumn`( `_Show_` )
+_expression_.**ShowAddNewColumn**( `_Show_` )
 
  _expression_ An expression that returns an **[Application](Project.Application.md)** object.
 

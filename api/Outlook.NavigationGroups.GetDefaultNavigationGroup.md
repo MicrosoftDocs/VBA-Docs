@@ -18,7 +18,7 @@ Returns the **[NavigationGroup](Outlook.NavigationGroup.md)** that corresponds t
 
 ## Syntax
 
-_expression_. `GetDefaultNavigationGroup`( `_DefaultFolderGroup_` )
+_expression_.**GetDefaultNavigationGroup**( `_DefaultFolderGroup_` )
 
 _expression_ A variable that represents a [NavigationGroups](Outlook.NavigationGroups.md) object.
 

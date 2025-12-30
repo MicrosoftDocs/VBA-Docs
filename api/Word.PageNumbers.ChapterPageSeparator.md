@@ -18,7 +18,7 @@ Returns or sets the separator character used between the chapter number and the 
 
 ## Syntax
 
-_expression_. `ChapterPageSeparator`
+_expression_.**ChapterPageSeparator**
 
  _expression_ An expression that represents a '[PageNumbers](Word.pagenumbers.md)' object.
 

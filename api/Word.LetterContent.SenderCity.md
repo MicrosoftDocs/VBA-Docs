@@ -18,7 +18,7 @@ Returns or sets the sender's city. Not used in the U.S. English version of Micro
 
 ## Syntax
 
-_expression_. `SenderCity`
+_expression_.**SenderCity**
 
  _expression_ An expression that returns a '[LetterContent](Word.LetterContent.md)' object.
 

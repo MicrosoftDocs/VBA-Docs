@@ -19,7 +19,7 @@ Displays the **Change Icon** dialog box to enable changing the icon of an active
 
 ## Syntax
 
-_expression_. `ObjectChangeIcon`
+_expression_.**ObjectChangeIcon**
 
 _expression_ A variable that represents an **[Application](Project.Application.md)** object.
 

@@ -18,7 +18,7 @@ Returns a [SmartArtLayouts](Office.SmartArtLayouts.md) object that represents th
 
 ## Syntax
 
-_expression_. `SmartArtLayouts`
+_expression_.**SmartArtLayouts**
 
  _expression_ An expression that returns a '[Application](Word.Application.md)' object.
 

@@ -18,7 +18,7 @@ Returns a **[SendRuleAction](Outlook.SendRuleAction.md)** object with **[SendRul
 
 ## Syntax
 
-_expression_. `Redirect`
+_expression_.**Redirect**
 
 _expression_ A variable that represents a [RuleActions](Outlook.RuleActions.md) object.
 

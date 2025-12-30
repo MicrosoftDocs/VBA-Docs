@@ -12,7 +12,7 @@ Rotates each shape in the shape range around the z-axis by the specified number 
 
 ## Syntax
 
-_expression_. `IncrementRotation` _(Increment)_
+_expression_.**IncrementRotation** _(Increment)_
 
 _expression_ A variable that represents a 'ShapeRange' object.
 

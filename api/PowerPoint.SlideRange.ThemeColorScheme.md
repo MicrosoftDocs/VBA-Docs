@@ -18,7 +18,7 @@ Returns a **ThemeColorScheme** object that represents the color scheme associate
 
 ## Syntax
 
-_expression_. `ThemeColorScheme`
+_expression_.**ThemeColorScheme**
 
 _expression_ A variable that represents a [SlideRange](PowerPoint.SlideRange.md) object.
 

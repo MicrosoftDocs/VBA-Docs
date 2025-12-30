@@ -16,7 +16,7 @@ Gets the separator character for the file system path. Read/write **String**.
 
 ## Syntax
 
-_expression_. `PathSeparator`
+_expression_.**PathSeparator**
 
 _expression_ A variable that represents an **[Application](Project.Application.md)** object.
 

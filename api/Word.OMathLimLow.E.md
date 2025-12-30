@@ -18,7 +18,7 @@ Returns an **OMath** object that represents the base of the specified equation o
 
 ## Syntax
 
-_expression_. `E`
+_expression_.**E**
 
  _expression_ An expression that returns an [OMathLimLow](./Word.OMathLimLow.md) object.
 

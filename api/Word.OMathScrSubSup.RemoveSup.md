@@ -18,7 +18,7 @@ Removes the superscript for an equation and returns an **OMathFunction** object 
 
 ## Syntax
 
-_expression_. `RemoveSup`
+_expression_.**RemoveSup**
 
  _expression_ An expression that returns a [OMathScrSubSup](./Word.OMathScrSubSup.md) object.
 

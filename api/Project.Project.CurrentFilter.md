@@ -19,7 +19,7 @@ Gets the name of the active filter for a project. Read-only **String**.
 
 ## Syntax
 
-_expression_. `CurrentFilter`
+_expression_.**CurrentFilter**
 
 _expression_ A variable that represents a **[Project](project.project.md)** object.
 

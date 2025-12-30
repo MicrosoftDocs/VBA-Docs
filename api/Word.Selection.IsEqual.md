@@ -18,7 +18,7 @@ ms.localizationpriority: medium
 
 ## Syntax
 
-_expression_. `IsEqual`( `_Range_` )
+_expression_.**IsEqual**( `_Range_` )
 
 _expression_ Required. A variable that represents a **[Selection](Word.Selection.md)** object.
 

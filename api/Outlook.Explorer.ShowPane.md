@@ -18,7 +18,7 @@ Displays or hides a specific pane in the explorer.
 
 ## Syntax
 
-_expression_. `ShowPane`( `_Pane_` , `_Visible_` )
+_expression_.**ShowPane**( `_Pane_` , `_Visible_` )
 
 _expression_ A variable that represents an **[Explorer](Outlook.Explorer.md)** object.
 

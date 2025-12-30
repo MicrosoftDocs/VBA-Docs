@@ -18,7 +18,7 @@ Toggles the spacing before the specified paragraphs.
 
 ## Syntax
 
-_expression_. `OpenOrCloseUp`
+_expression_.**OpenOrCloseUp**
 
 _expression_ Required. A variable that represents a '[ParagraphFormat](Word.ParagraphFormat.md)' object.
 

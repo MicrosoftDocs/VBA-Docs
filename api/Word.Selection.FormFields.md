@@ -18,7 +18,7 @@ Returns a **[FormFields](Word.formfields.md)** collection that represents all th
 
 ## Syntax
 
-_expression_. `FormFields`
+_expression_.**FormFields**
 
 _expression_ A variable that represents a **[Selection](Word.Selection.md)** object.
 

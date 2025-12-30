@@ -16,7 +16,7 @@ Returns an [MSOBroadcastState](overview/Library-Reference/msobroadcaststate-enum
 
 ## Syntax
 
-_expression_. `State`
+_expression_.**State**
 
 _expression_ A variable that represents a [Broadcast](PowerPoint.Broadcast.md) object.
 

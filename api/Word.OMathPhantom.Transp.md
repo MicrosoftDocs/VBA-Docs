@@ -18,7 +18,7 @@ Returns or sets a **Boolean** that represents whether a phantom object is transp
 
 ## Syntax
 
-_expression_. `Transp`
+_expression_.**Transp**
 
  _expression_ An expression that returns an '[OMathPhantom](Word.OMathPhantom.md)' object.
 

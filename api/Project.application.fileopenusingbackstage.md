@@ -15,7 +15,7 @@ Displays the **Open** tab in the Backstage view.
 
 ## Syntax
 
-_expression_. `FileOpenUsingBackstage`
+_expression_.**FileOpenUsingBackstage**
 
 _expression_ A variable that represents an **[Application](Project.Application.md)** object.
 

@@ -18,7 +18,7 @@ ms.localizationpriority: medium
 
 ## Syntax
 
-_expression_. `IsObjectValid`( `_Object_` )
+_expression_.**IsObjectValid**( `_Object_` )
 
 _expression_ A variable that represents a '[Global](Word.Global.md)' object. Optional.
 

@@ -18,7 +18,7 @@ The date and time that the tracked change was made. Read-only **Date**.
 
 ## Syntax
 
-_expression_. `Date`
+_expression_.**Date**
 
 _expression_ A variable that represents a '[Revision](Word.Revision.md)' object.
 

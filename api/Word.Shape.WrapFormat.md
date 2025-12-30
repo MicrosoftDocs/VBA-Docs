@@ -18,7 +18,7 @@ Returns a **WrapFormat** object that contains the properties for wrapping text a
 
 ## Syntax
 
-_expression_. `WrapFormat`
+_expression_.**WrapFormat**
 
 _expression_ A variable that represents a **[Shape](Word.Shape.md)** object.
 

@@ -18,7 +18,7 @@ Returns or sets the complex script font name. Used for mixed language text. Read
 
 ## Syntax
 
-_expression_. `NameComplexScript`
+_expression_.**NameComplexScript**
 
 _expression_ A variable that represents a [Font](PowerPoint.Font.md) object.
 

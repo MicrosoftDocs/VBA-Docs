@@ -18,7 +18,7 @@ ms.localizationpriority: medium
 
 ## Syntax
 
-_expression_. `AutoScaling`
+_expression_.**AutoScaling**
 
 _expression_ A variable that represents a **[Chart](Word.Chart.md)** object.
 

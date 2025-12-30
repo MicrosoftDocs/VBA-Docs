@@ -18,7 +18,7 @@ Returns the number of slides you'd need to print to simulate the builds on the s
 
 ## Syntax
 
-_expression_. `PrintSteps`
+_expression_.**PrintSteps**
 
 _expression_ A variable that represents a [Slide](PowerPoint.Slide.md) object.
 

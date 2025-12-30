@@ -18,7 +18,7 @@ Returns a **Boolean** that indicates **True** if the task should be regenerated 
 
 ## Syntax
 
-_expression_. `Regenerate`
+_expression_.**Regenerate**
 
 _expression_ A variable that represents a [RecurrencePattern](Outlook.RecurrencePattern.md) object.
 

@@ -13,7 +13,7 @@ Creates an open polyline or a closed polygon drawing, and returns a **Shape** ob
 
 ## Syntax
 
-_expression_. `AddPolyline` _(SafeArrayOfPoints)_
+_expression_.**AddPolyline** _(SafeArrayOfPoints)_
 
 _expression_ A variable that represents a **[Shapes](Project.Shapes.md)** object.
 

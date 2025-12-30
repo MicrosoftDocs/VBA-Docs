@@ -18,7 +18,7 @@ Returns an **[OMathMatCol](Word.OMathMatCol.md)** object that represents the par
 
 ## Syntax
 
-_expression_. `ParentCol`
+_expression_.**ParentCol**
 
  _expression_ An expression that returns an '[OMath](Word.OMath.md)' object.
 

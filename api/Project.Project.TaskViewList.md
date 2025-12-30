@@ -19,7 +19,7 @@ Gets a **[List](Project.List.md)** object representing all task views in the pro
 
 ## Syntax
 
-_expression_. `TaskViewList`
+_expression_.**TaskViewList**
 
 _expression_ A variable that represents a **[Project](project.project.md)** object.
 

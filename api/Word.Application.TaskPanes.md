@@ -18,7 +18,7 @@ Returns a **[TaskPanes](Word.TaskPanes.md)** collection that represents the most
 
 ## Syntax
 
-_expression_. `TaskPanes`
+_expression_.**TaskPanes**
 
  _expression_ An expression that returns an **[Application](Word.Application.md)** object. 
 

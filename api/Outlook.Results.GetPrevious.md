@@ -18,7 +18,7 @@ Returns the previous object in the collection.
 
 ## Syntax
 
-_expression_. `GetPrevious`
+_expression_.**GetPrevious**
 
 _expression_ A variable that represents a [Results](Outlook.Results.md) object.
 

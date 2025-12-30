@@ -19,7 +19,7 @@ Zooms out from the active view. Not available on the Resource Sheet, Task Sheet,
 
 ## Syntax
 
-_expression_. `ZoomOut`
+_expression_.**ZoomOut**
 
 _expression_ A variable that represents an **[Application](Project.Application.md)** object.
 

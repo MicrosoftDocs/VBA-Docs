@@ -16,7 +16,7 @@ ms.localizationpriority: medium
 
 ## Syntax
 
-_expression_. `NewTasksEstimated`
+_expression_.**NewTasksEstimated**
 
 _expression_ A variable that represents a **[Project](project.project.md)** object.
 

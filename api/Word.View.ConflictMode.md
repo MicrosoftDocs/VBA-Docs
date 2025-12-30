@@ -18,7 +18,7 @@ ms.localizationpriority: medium
 
 ## Syntax
 
-_expression_. `ConflictMode`
+_expression_.**ConflictMode**
 
  _expression_ An expression that returns a '[View](Word.View.md)' object.
 

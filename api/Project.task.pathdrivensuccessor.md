@@ -12,7 +12,7 @@ Gets a value that indicates whether the task is a successor that is driven by th
 
 ## Syntax
 
-_expression_. `PathDrivenSuccessor`
+_expression_.**PathDrivenSuccessor**
 
 _expression_ A variable that represents a [Task](./Project.Task.md) object.
 

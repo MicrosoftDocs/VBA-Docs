@@ -18,7 +18,7 @@ Indicates whether the file is in the Broadcast Documents library. Read-only.
 
 ## Syntax
 
-_expression_. `IsBroadcasting`
+_expression_.**IsBroadcasting**
 
 _expression_ A variable that represents a [Broadcast](PowerPoint.Broadcast.md) object.
 

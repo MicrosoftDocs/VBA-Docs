@@ -19,7 +19,7 @@ Triggers the **[WindowSidepaneDisplayChange](Project.Application.WindowSidepaneD
 
 ## Syntax
 
-_expression_. `SidepaneToggle`( `_Show_` )
+_expression_.**SidepaneToggle**( `_Show_` )
 
 _expression_ A variable that represents an **[Application](Project.Application.md)** object.
 

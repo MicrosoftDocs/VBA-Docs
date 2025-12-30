@@ -18,7 +18,7 @@ Creates a shape whose path consists of an arc defined by the three points passed
 
 ## Syntax
 
-_expression_. `DrawArcByThreePoints`( `_xBegin_` , `_yBegin_` , `_xEnd_` , `_yEnd_` , `_xControl_` , `_yControl_` )
+_expression_.**DrawArcByThreePoints**( `_xBegin_` , `_yBegin_` , `_xEnd_` , `_yEnd_` , `_xControl_` , `_yControl_` )
 
 _expression_ A variable that represents a **[Shape](Visio.Shape.md)** object.
 

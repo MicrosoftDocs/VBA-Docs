@@ -19,7 +19,7 @@ Returns the number of resource errors.
 
 ## Syntax
 
-_expression_. `ResourceErrorCount`
+_expression_.**ResourceErrorCount**
 
  _expression_ An expression that returns a **[Project](project.project.md)** object.
 

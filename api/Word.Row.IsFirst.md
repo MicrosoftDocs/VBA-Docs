@@ -18,7 +18,7 @@ ms.localizationpriority: medium
 
 ## Syntax
 
-_expression_. `IsFirst`
+_expression_.**IsFirst**
 
 _expression_ Required. A variable that represents a '[Row](Word.Row.md)' object.
 

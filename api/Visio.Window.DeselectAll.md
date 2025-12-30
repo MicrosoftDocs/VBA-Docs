@@ -18,7 +18,7 @@ Deselects all shapes in a window or selection.
 
 ## Syntax
 
-_expression_. `DeselectAll`
+_expression_.**DeselectAll**
 
 _expression_ A variable that represents a **[Window](Visio.Window.md)** object.
 

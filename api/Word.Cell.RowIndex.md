@@ -18,7 +18,7 @@ Returns the number of the row that contains the specified cell. Read-only **Long
 
 ## Syntax
 
-_expression_. `RowIndex`
+_expression_.**RowIndex**
 
  _expression_ An expression that returns a '[Cell](Word.Cell.md)' object.
 

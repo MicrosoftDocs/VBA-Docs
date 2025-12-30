@@ -18,7 +18,7 @@ Sends the appointment.
 
 ## Syntax
 
-_expression_. `Send`
+_expression_.**Send**
 
 _expression_ A variable that represents an [AppointmentItem](Outlook.AppointmentItem.md) object.
 

@@ -17,7 +17,7 @@ Returns the committed finish date for the engagement. Read-only **DateType**. In
 
 ## Syntax
 
-_expression_. `EngagementCommittedFinish`
+_expression_.**EngagementCommittedFinish**
 
 _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 

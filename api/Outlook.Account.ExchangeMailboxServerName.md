@@ -18,7 +18,7 @@ Returns a **String** value that represents the name of the Microsoft Exchange Se
 
 ## Syntax
 
-_expression_. `ExchangeMailboxServerName`
+_expression_.**ExchangeMailboxServerName**
 
 _expression_ A variable that represents an '[Account](Outlook.Account.md)' object.
 

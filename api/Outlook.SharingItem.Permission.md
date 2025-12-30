@@ -18,7 +18,7 @@ Sets or returns an **[OlPermission](Outlook.OlPermission.md)** constant that det
 
 ## Syntax
 
-_expression_. `Permission`
+_expression_.**Permission**
 
 _expression_ A variable that represents a [SharingItem](Outlook.SharingItem.md) object.
 

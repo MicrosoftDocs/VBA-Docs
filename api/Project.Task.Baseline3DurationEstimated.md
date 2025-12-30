@@ -19,7 +19,7 @@ ms.localizationpriority: medium
 
 ## Syntax
 
-_expression_. `Baseline3DurationEstimated`
+_expression_.**Baseline3DurationEstimated**
 
 _expression_ A variable that represents a [Task](./Project.Task.md) object.
 

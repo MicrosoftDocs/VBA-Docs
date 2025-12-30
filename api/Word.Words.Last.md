@@ -18,7 +18,7 @@ Returns a **Range** object that represents the last word in a collection of word
 
 ## Syntax
 
-_expression_. `Last`
+_expression_.**Last**
 
 _expression_ Required. A variable that represents a '[Words](Word.words.md)' collection.
 

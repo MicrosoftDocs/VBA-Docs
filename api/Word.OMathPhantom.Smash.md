@@ -18,7 +18,7 @@ Returns or sets a **Boolean** that represents that the contents of the phantom a
 
 ## Syntax
 
-_expression_. `Smash`
+_expression_.**Smash**
 
  _expression_ An expression that returns an '[OMathPhantom](Word.OMathPhantom.md)' object.
 

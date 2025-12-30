@@ -18,7 +18,7 @@ Returns or sets a **Long** that represents the spacing between the rows in an eq
 
 ## Syntax
 
-_expression_. `RowSpacing`
+_expression_.**RowSpacing**
 
  _expression_ An expression that returns an '[OMathEqArray](Word.OMathEqArray.md)' object.
 

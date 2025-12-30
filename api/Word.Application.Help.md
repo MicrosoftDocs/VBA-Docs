@@ -18,7 +18,7 @@ Displays installed Help information.
 
 ## Syntax
 
-_expression_. `Help`( `_HelpType_` )
+_expression_.**Help**( `_HelpType_` )
 
 _expression_ A variable that represents an **[Application](Word.Application.md)** object. 
 

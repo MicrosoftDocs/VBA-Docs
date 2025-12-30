@@ -18,7 +18,7 @@ Indicates if an item in a **Selection** object is subselected, if the group to w
 
 ## Syntax
 
-_expression_. `ItemStatus` (_Index_)
+_expression_.**ItemStatus** (_Index_)
 
 _expression_ A variable that represents a **[Selection](Visio.Selection.md)** object.
 

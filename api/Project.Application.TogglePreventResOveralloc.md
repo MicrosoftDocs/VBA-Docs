@@ -19,7 +19,7 @@ Toggles the **Prevent Overallocations** command for the Team Planner view.
 
 ## Syntax
 
-_expression_. `TogglePreventResOveralloc`
+_expression_.**TogglePreventResOveralloc**
 
  _expression_ An expression that returns an **[Application](Project.Application.md)** object.
 

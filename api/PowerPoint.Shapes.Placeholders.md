@@ -18,7 +18,7 @@ Returns a **[Placeholders](PowerPoint.Placeholders.md)** collection that represe
 
 ## Syntax
 
-_expression_. `Placeholders`
+_expression_.**Placeholders**
 
 _expression_ A variable that represents a **[Shapes](PowerPoint.Shapes.md)** object.
 

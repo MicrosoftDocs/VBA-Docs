@@ -18,7 +18,7 @@ Creates a reply, pre-addressed to the original sender, from the original **[Shar
 
 ## Syntax
 
-_expression_. `Reply`
+_expression_.**Reply**
 
 _expression_ A variable that represents a [SharingItem](Outlook.SharingItem.md) object.
 

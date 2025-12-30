@@ -18,7 +18,7 @@ Joins a list paragraph with the closest list above or below the specified paragr
 
 ## Syntax
 
-_expression_. `JoinList`
+_expression_.**JoinList**
 
  _expression_ An expression that returns a '[Paragraph](Word.Paragraph.md)' object.
 

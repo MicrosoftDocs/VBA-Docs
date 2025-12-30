@@ -18,7 +18,7 @@ ms.localizationpriority: medium
 
 ## Syntax
 
-_expression_. `Expanded`
+_expression_.**Expanded**
 
 _expression_ A variable that represents a '[Subdocument](Word.Subdocument.md)' object.
 

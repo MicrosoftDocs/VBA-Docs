@@ -14,7 +14,7 @@ Returns the Word [Document](./Word.Document.md) object of the active inline resp
 
 ## Syntax
 
-_expression_. `ActiveInlineResponseWordEditor`
+_expression_.**ActiveInlineResponseWordEditor**
 
 _expression_ A variable that represents an '[Explorer](Outlook.Explorer.md)' object.
 

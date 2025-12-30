@@ -19,7 +19,7 @@ Shows or hides the related summary rows.
 
 ## Syntax
 
-_expression_. `FilterShowSummaryRows`( `_On_` )
+_expression_.**FilterShowSummaryRows**( `_On_` )
 
  _expression_ An expression that returns an **[Application](Project.Application.md)** object.
 

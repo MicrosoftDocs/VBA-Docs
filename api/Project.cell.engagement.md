@@ -17,7 +17,7 @@ Gets or sets the engagement resource for a cell.
 
 ## Syntax
 
-_expression_. `Engagement`
+_expression_.**Engagement**
 
 _expression_ A variable that represents a [Cell](./Project.Cell.md) object.
 

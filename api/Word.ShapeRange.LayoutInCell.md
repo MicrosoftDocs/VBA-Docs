@@ -18,7 +18,7 @@ Returns a **Long** that represents whether a shape in a table is displayed insid
 
 ## Syntax
 
-_expression_. `LayoutInCell`
+_expression_.**LayoutInCell**
 
 _expression_ Required. A variable that represents a **[ShapeRange](Word.shaperange.md)** object.
 

@@ -16,7 +16,7 @@ Logs on to a MAPI mail system and establishes a mail session. A mail session mus
 
 ## Syntax
 
-_expression_. `MailLogon`( `_Name_`, `_Password_`, `_DownloadNewMail_` )
+_expression_.**MailLogon**( `_Name_`, `_Password_`, `_DownloadNewMail_` )
 
 _expression_ A variable that represents an **[Application](Project.Application.md)** object.
 

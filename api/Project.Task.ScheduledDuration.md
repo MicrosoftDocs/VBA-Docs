@@ -19,7 +19,7 @@ Gets the scheduled (as opposed to actual) duration of a task. Read-only **Varian
 
 ## Syntax
 
-_expression_. `ScheduledDuration`
+_expression_.**ScheduledDuration**
 
  _expression_ An expression that returns a [Task](./Project.Task.md) object.
 

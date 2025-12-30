@@ -16,7 +16,7 @@ Occurs when Project Professional starts to save project changes to the Project S
 
 ## Syntax
 
-_expression_. `SaveStartingToServer`( `_bstrName_`, `_bstrprojGuid_` )
+_expression_.**SaveStartingToServer**( `_bstrName_`, `_bstrprojGuid_` )
 
 _expression_ A variable that represents an **[Application](Project.Application.md)** object.
 

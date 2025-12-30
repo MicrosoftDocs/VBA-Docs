@@ -18,7 +18,7 @@ Creates an instance of a **[ContactCard](Office.ContactCard.md)** object for the
 
 ## Syntax
 
-_expression_. `CreateContactCard`( `_Address_` )
+_expression_.**CreateContactCard**( `_Address_` )
 
 _expression_ A variable that represents a '[NameSpace](Outlook.NameSpace.md)' object.
 

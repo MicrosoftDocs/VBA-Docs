@@ -18,7 +18,7 @@ Returns a **[MailingLabel](Word.MailingLabel.md)** object that represents a mail
 
 ## Syntax
 
-_expression_. `MailingLabel`
+_expression_.**MailingLabel**
 
  _expression_ An expression that returns an **[Application](Word.Application.md)** object. 
 

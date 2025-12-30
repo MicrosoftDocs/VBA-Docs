@@ -18,7 +18,7 @@ Adds a horizontal line based on an image file to the current document.
 
 ## Syntax
 
-_expression_. `AddHorizontalLine`( `_FileName_` , `_Range_` )
+_expression_.**AddHorizontalLine**( `_FileName_` , `_Range_` )
 
 _expression_ Required. A variable that represents an '[InlineShapes](Word.inlineshapes.md)' collection.
 

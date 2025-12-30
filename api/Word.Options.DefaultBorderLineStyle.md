@@ -18,7 +18,7 @@ Returns or sets the default border line style. Read/write **WdLineStyle**.
 
 ## Syntax
 
-_expression_. `DefaultBorderLineStyle`
+_expression_.**DefaultBorderLineStyle**
 
 _expression_ Required. A variable that represents an **[Options](Word.Options.md)** object.
 

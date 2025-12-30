@@ -18,7 +18,7 @@ Occurs when one or more items are added to the specified collection.
 
 ## Syntax
 
-_expression_. `ItemAdd`( `_Item_` )
+_expression_.**ItemAdd**( `_Item_` )
 
 _expression_ A variable that represents a [Results](Outlook.Results.md) object.
 

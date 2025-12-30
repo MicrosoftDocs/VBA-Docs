@@ -19,7 +19,7 @@ Expands or collapses resource rows in the Team Planner view, where there is more
 
 ## Syntax
 
-_expression_. `ToggleTPAutoExpand`
+_expression_.**ToggleTPAutoExpand**
 
  _expression_ An expression that returns an **[Application](Project.Application.md)** object.
 

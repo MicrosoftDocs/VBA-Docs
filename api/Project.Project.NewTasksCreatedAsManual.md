@@ -19,7 +19,7 @@ ms.localizationpriority: medium
 
 ## Syntax
 
-_expression_. `NewTasksCreatedAsManual`
+_expression_.**NewTasksCreatedAsManual**
 
  _expression_ An expression that returns a **[Project](project.project.md)** object.
 

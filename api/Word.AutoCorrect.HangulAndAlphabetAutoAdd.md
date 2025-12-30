@@ -18,7 +18,7 @@ ms.localizationpriority: medium
 
 ## Syntax
 
-_expression_. `HangulAndAlphabetAutoAdd`
+_expression_.**HangulAndAlphabetAutoAdd**
 
  _expression_ An expression that returns an '[AutoCorrect](Word.AutoCorrect.md)' object.
 

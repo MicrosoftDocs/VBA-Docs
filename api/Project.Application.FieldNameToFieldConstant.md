@@ -19,7 +19,7 @@ Returns a **Long** value for a local custom field or an enterprise custom field 
 
 ## Syntax
 
-_expression_. `FieldNameToFieldConstant`( `_FieldName_`, `_FieldType_` )
+_expression_.**FieldNameToFieldConstant**( `_FieldName_`, `_FieldType_` )
 
 _expression_ A variable that represents an **[Application](Project.Application.md)** object.
 

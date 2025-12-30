@@ -18,7 +18,7 @@ Rejects all of the user's changes and retains the server copy of the document.
 
 ## Syntax
 
-_expression_. `RejectAll`
+_expression_.**RejectAll**
 
  _expression_ An expression that returns a [Conflicts](./Word.Conflicts.md) object.
 

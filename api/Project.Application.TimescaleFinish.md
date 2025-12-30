@@ -19,7 +19,7 @@ Gets the date and time that the timescale in the current view ends. Read-only **
 
 ## Syntax
 
-_expression_. `TimescaleFinish`
+_expression_.**TimescaleFinish**
 
  _expression_ An expression that returns an **[Application](Project.Application.md)** object.
 

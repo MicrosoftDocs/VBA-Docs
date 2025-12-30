@@ -18,7 +18,7 @@ ms.localizationpriority: medium
 
 ## Syntax
 
-_expression_. `KerningByAlgorithm`
+_expression_.**KerningByAlgorithm**
 
 _expression_ A variable that represents a **[Document](Word.Document.md)** object.
 

@@ -16,7 +16,7 @@ Gets date the specified baseline was last saved. Read-only **Variant**.
 
 ## Syntax
 
-_expression_. `BaselineSavedDate`( `_Baseline_` )
+_expression_.**BaselineSavedDate**( `_Baseline_` )
 
 _expression_ A variable that represents a **[Project](project.project.md)** object.
 

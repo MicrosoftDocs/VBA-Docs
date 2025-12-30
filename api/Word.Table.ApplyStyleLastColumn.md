@@ -18,7 +18,7 @@ ms.localizationpriority: medium
 
 ## Syntax
 
-_expression_. `ApplyStyleLastColumn`
+_expression_.**ApplyStyleLastColumn**
 
  _expression_ An expression that returns a '[Table](Word.Table.md)' object.
 

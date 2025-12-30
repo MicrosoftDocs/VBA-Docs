@@ -18,7 +18,7 @@ Sets or returns a **Single** that represents the starting width or horizontal po
 
 ## Syntax
 
-_expression_. `FromX`
+_expression_.**FromX**
 
 _expression_ A variable that represents a [ScaleEffect](PowerPoint.ScaleEffect.md) object.
 

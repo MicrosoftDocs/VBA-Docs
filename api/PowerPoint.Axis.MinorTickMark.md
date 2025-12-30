@@ -18,7 +18,7 @@ Returns or sets the type of minor tick mark for the specified axis. Read/write *
 
 ## Syntax
 
-_expression_. `MinorTickMark`
+_expression_.**MinorTickMark**
 
 _expression_ A variable that represents an '[Axis](PowerPoint.Axis.md)' object.
 

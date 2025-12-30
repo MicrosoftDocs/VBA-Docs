@@ -18,7 +18,7 @@ Returns a **String** that represents the name of the element without any prefix.
 
 ## Syntax
 
-_expression_. `BaseName`
+_expression_.**BaseName**
 
 _expression_ Required. A variable that represents a '[XMLNode](Word.XMLNode.md)' object.
 

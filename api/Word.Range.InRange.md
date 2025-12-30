@@ -18,7 +18,7 @@ Returns **True** if the range to which the method is applied is contained in the
 
 ## Syntax
 
-_expression_. `InRange`( `_Range_` )
+_expression_.**InRange**( `_Range_` )
 
 _expression_ Required. A variable that represents a **[Range](Word.Range.md)** object.
 

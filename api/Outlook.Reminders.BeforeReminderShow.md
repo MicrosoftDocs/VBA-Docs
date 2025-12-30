@@ -18,7 +18,7 @@ Occurs before the **Reminder** dialog box is displayed.
 
 ## Syntax
 
-_expression_. `BeforeReminderShow`( `_Cancel_` )
+_expression_.**BeforeReminderShow**( `_Cancel_` )
 
 _expression_ A variable that represents a [Reminders](Outlook.Reminders.md) object.
 

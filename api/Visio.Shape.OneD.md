@@ -18,7 +18,7 @@ Determines whether an object behaves as a one-dimensional (1D) object. Read/writ
 
 ## Syntax
 
-_expression_. `OneD`
+_expression_.**OneD**
 
 _expression_ A variable that represents a **[Shape](Visio.Shape.md)** object.
 

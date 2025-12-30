@@ -18,7 +18,7 @@ Returns or sets a **Boolean** that represents whether to allow users to open doc
 
 ## Syntax
 
-_expression_. `AllowOpenInDraftView`
+_expression_.**AllowOpenInDraftView**
 
  _expression_ An expression that returns an [Options](./Word.Options.md) object.
 

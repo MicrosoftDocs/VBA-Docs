@@ -18,7 +18,7 @@ Returns the points recorded in a polyline row.
 
 ## Syntax
 
-_expression_. `GetPolylineData`( `_Flags_` , `_xyArray()_` )
+_expression_.**GetPolylineData**( `_Flags_` , `_xyArray()_` )
 
 _expression_ A variable that represents a **[Row](Visio.Row.md)** object.
 

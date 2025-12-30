@@ -16,7 +16,7 @@ Gets the variance (in minutes) between the baseline start date and the start dat
 
 ## Syntax
 
-_expression_. `StartVariance`
+_expression_.**StartVariance**
 
 _expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
 

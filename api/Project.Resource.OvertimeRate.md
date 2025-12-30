@@ -16,7 +16,7 @@ Gets or sets the overtime rate of a resource. Read/write **Variant**.
 
 ## Syntax
 
-_expression_. `OvertimeRate`
+_expression_.**OvertimeRate**
 
 _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 

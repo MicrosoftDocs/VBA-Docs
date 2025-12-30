@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 ## Syntax
 
-_expression_. `Hidden`
+_expression_.**Hidden**
 
  _expression_ An expression that returns a '[Style](Word.Style.md)' object.
 

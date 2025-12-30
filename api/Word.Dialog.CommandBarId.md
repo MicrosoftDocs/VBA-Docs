@@ -18,7 +18,7 @@ Returns a **Long** that represents the toolbar control id for a built-in Microso
 
 ## Syntax
 
-_expression_. `CommandBarId`
+_expression_.**CommandBarId**
 
  _expression_ An expression that returns a '[Dialog](Word.Dialog.md)' object.
 

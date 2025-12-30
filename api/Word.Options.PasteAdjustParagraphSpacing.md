@@ -18,7 +18,7 @@ ms.localizationpriority: medium
 
 ## Syntax
 
-_expression_. `PasteAdjustParagraphSpacing`
+_expression_.**PasteAdjustParagraphSpacing**
 
 _expression_ A variable that represents a '[Options](Word.Options.md)' object.
 

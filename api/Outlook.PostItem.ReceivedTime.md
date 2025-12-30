@@ -18,7 +18,7 @@ Returns a **Date** indicating the date and time at which the item was received. 
 
 ## Syntax
 
-_expression_. `ReceivedTime`
+_expression_.**ReceivedTime**
 
 _expression_ A variable that represents a [PostItem](Outlook.PostItem.md) object.
 

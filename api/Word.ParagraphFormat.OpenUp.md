@@ -18,7 +18,7 @@ Sets spacing before the specified paragraphs to 12 points.
 
 ## Syntax
 
-_expression_. `OpenUp`
+_expression_.**OpenUp**
 
 _expression_ Required. A variable that represents a '[ParagraphFormat](Word.ParagraphFormat.md)' object.
 

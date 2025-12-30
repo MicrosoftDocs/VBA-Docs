@@ -16,7 +16,7 @@ ms.localizationpriority: medium
 
 ## Syntax
 
-_expression_. `GroupAssignments`
+_expression_.**GroupAssignments**
 
  _expression_ An expression that returns a [Group2](./Project.Group2.md) object.
 

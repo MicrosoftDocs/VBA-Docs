@@ -18,7 +18,7 @@ Returns or sets a **String** representing the country/region code portion of the
 
 ## Syntax
 
-_expression_. `MailingAddressCountry`
+_expression_.**MailingAddressCountry**
 
 _expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 

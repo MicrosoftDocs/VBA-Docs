@@ -16,7 +16,7 @@ Collapses all the headings in the document.
 
 ## Syntax
 
-_expression_. `CollapseAllHeadings`
+_expression_.**CollapseAllHeadings**
 
 _expression_ A variable that represents a [View](./Word.View.md) object.
 

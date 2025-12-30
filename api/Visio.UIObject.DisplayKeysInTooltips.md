@@ -18,7 +18,7 @@ Determines whether ScreenTip text includes keyboard shortcuts. Read/write.
 
 ## Syntax
 
-_expression_. `DisplayKeysInTooltips`
+_expression_.**DisplayKeysInTooltips**
 
 _expression_ A variable that represents a **[UIObject](Visio.UIObject.md)** object.
 

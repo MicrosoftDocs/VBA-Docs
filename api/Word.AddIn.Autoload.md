@@ -18,7 +18,7 @@ ms.localizationpriority: medium
 
 ## Syntax
 
-_expression_. `Autoload`
+_expression_.**Autoload**
 
 _expression_ A variable that represents a '[AddIn](Word.AddIn.md)' object.
 

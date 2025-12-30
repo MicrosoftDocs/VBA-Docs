@@ -18,7 +18,7 @@ Returns or sets the vertical distance between the edge of the rows and the item 
 
 ## Syntax
 
-_expression_. `VerticalPosition`
+_expression_.**VerticalPosition**
 
 _expression_ Required. A variable that represents a **[Rows](Word.Rows.md)** object.
 

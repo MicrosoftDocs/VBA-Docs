@@ -14,7 +14,7 @@ ms.localizationpriority: medium
 
 ## Syntax
 
-_expression_. `ProposedWork`
+_expression_.**ProposedWork**
 
 _expression_ A variable that represents a 'Engagement' object.
 

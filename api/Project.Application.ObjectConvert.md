@@ -19,7 +19,7 @@ Displays the **Convert** dialog box, which prompts the user to convert the activ
 
 ## Syntax
 
-_expression_. `ObjectConvert`
+_expression_.**ObjectConvert**
 
 _expression_ A variable that represents an **[Application](Project.Application.md)** object.
 

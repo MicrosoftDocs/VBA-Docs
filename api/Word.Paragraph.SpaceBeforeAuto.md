@@ -18,7 +18,7 @@ ms.localizationpriority: medium
 
 ## Syntax
 
-_expression_. `SpaceBeforeAuto`
+_expression_.**SpaceBeforeAuto**
 
 _expression_ A variable that represents a '[Paragraph](Word.Paragraph.md)' object.
 

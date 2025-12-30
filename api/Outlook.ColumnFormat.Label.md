@@ -18,7 +18,7 @@ Returns or sets a **String** value that represents the column label and tooltip 
 
 ## Syntax
 
-_expression_. `Label`
+_expression_.**Label**
 
 _expression_ A variable that represents a [ColumnFormat](Outlook.ColumnFormat.md) object.
 

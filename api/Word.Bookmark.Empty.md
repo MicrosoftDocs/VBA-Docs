@@ -18,7 +18,7 @@ ms.localizationpriority: medium
 
 ## Syntax
 
-_expression_. `Empty`
+_expression_.**Empty**
 
 _expression_ A variable that represents a '[Bookmarks](Word.bookmarks.md)' object.
 

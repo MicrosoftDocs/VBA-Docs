@@ -18,7 +18,7 @@ Returns or sets a **String** specifying the specific office location (for exampl
 
 ## Syntax
 
-_expression_. `OfficeLocation`
+_expression_.**OfficeLocation**
 
 _expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 

@@ -19,7 +19,7 @@ Imports the specified deliverable into a project.
 
 ## Syntax
 
-_expression_. `ImportCommitment`( `_CommitmentDate_`, `_CommitmentGuid_` )
+_expression_.**ImportCommitment**( `_CommitmentDate_`, `_CommitmentGuid_` )
 
 _expression_ A variable that represents an **[Application](Project.Application.md)** object.
 

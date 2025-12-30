@@ -16,7 +16,7 @@ Gets a **[Subprojects](Project.Subproject.md)** collection representing subproje
 
 ## Syntax
 
-_expression_. `Subprojects`
+_expression_.**Subprojects**
 
 _expression_ A variable that represents a **[Project](project.project.md)** object.
 

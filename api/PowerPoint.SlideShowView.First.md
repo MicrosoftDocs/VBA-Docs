@@ -18,7 +18,7 @@ Sets the specified slide show view to display the first slide in the presentatio
 
 ## Syntax
 
-_expression_. `First`
+_expression_.**First**
 
 _expression_ A variable that represents a [SlideShowView](PowerPoint.SlideShowView.md) object.
 

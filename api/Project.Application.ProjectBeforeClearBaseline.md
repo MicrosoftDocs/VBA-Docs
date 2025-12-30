@@ -16,7 +16,7 @@ Occurs before a baseline is cleared. Uses the **EventInfo** object parameter.
 
 ## Syntax
 
-_expression_. `ProjectBeforeClearBaseline`( `_pj_`, `_Interim_`, `_bl_`, `_InterimFrom_`, `_AllTasks_`, `_Info_` )
+_expression_.**ProjectBeforeClearBaseline**( `_pj_`, `_Interim_`, `_bl_`, `_InterimFrom_`, `_AllTasks_`, `_Info_` )
 
 _expression_ A variable that represents an **[Application](Project.Application.md)** object.
 

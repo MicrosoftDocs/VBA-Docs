@@ -19,7 +19,7 @@ Cancels the last user-interface action.
 
 ## Syntax
 
-_expression_. `EditUndo`( `_fUndo_` )
+_expression_.**EditUndo**( `_fUndo_` )
 
 _expression_ A variable that represents an **[Application](Project.Application.md)** object.
 

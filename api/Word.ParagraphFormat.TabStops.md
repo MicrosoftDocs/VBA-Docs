@@ -18,7 +18,7 @@ Returns or sets a **TabStops** collection that represents all the custom tab sto
 
 ## Syntax
 
-_expression_. `TabStops`
+_expression_.**TabStops**
 
 _expression_ A variable that represents a '[ParagraphFormat](Word.ParagraphFormat.md)' object.
 

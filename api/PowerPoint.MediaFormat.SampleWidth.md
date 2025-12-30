@@ -18,7 +18,7 @@ Returns the resolution width of the media sample. Read-only.
 
 ## Syntax
 
-_expression_. `SampleWidth`
+_expression_.**SampleWidth**
 
  _expression_ An expression that returns a [MediaFormat](PowerPoint.MediaFormat.md) object.
 

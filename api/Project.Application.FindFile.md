@@ -19,7 +19,7 @@ Displays the **File Open** dialog box, which allows the user to search for a fil
 
 ## Syntax
 
-_expression_. `FindFile`
+_expression_.**FindFile**
 
 _expression_ A variable that represents an **[Application](Project.Application.md)** object.
 

@@ -18,7 +18,7 @@ Returns a **Tasks** collection that represents all the applications that are run
 
 ## Syntax
 
-_expression_. `Tasks`
+_expression_.**Tasks**
 
 _expression_ Required. A variable that represents a '[Global](Word.Global.md)' object.
 

@@ -18,7 +18,7 @@ Returns a **Column** object that represents the last column in a table.
 
 ## Syntax
 
-_expression_. `Last`
+_expression_.**Last**
 
 _expression_ Required. A variable that represents a '[Columns](Word.columns.md)' collection.
 

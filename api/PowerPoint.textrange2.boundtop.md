@@ -13,7 +13,7 @@ Gets the top coordinate, in [points](../language/glossary/vbe-glossary.md#point)
 
 ## Syntax
 
-_expression_. `BoundTop`
+_expression_.**BoundTop**
 
  _expression_ An expression that returns a 'TextRange2' object.
 

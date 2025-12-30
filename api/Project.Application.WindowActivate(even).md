@@ -16,7 +16,7 @@ Occurs when any window within Project is activated. The **WindowActivate** event
 
 ## Syntax
 
-_expression_. `WindowActivate`( `_activatedWindow_`, )
+_expression_.**WindowActivate**( `_activatedWindow_`, )
 
 _expression_ A variable that represents an **[Application](Project.Application.md)** object.
 

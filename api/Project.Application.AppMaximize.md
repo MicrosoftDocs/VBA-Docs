@@ -19,7 +19,7 @@ Maximizes the main window.
 
 ## Syntax
 
-_expression_. `AppMaximize`
+_expression_.**AppMaximize**
 
 _expression_ A variable that represents an **[Application](Project.Application.md)** object.
 

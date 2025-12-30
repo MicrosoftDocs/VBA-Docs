@@ -19,7 +19,7 @@ Gets or sets a string representation of the baseline duration of a task. Read/wr
 
 ## Syntax
 
-_expression_. `Baseline5DurationText`
+_expression_.**Baseline5DurationText**
 
  _expression_ An expression that returns a [Task](./Project.Task.md) object.
 

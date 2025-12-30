@@ -18,7 +18,7 @@ Returns or sets a **Boolean** that represents whether to apply style bands to th
 
 ## Syntax
 
-_expression_. `ApplyStyleRowBands`
+_expression_.**ApplyStyleRowBands**
 
  _expression_ An expression that returns a [Table](./Word.Table.md) object.
 

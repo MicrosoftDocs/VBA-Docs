@@ -13,7 +13,7 @@ Changes the case of a **TextRange2** object to one of the values in the **MsoTex
 
 ## Syntax
 
-_expression_. `ChangeCase`( `_Type_` )
+_expression_.**ChangeCase**( `_Type_` )
 
  _expression_ An expression that returns a 'TextRange2' object.
 

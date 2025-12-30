@@ -18,7 +18,7 @@ Returns a **[DropCap](Word.DropCap.md)** object that represents a dropped capita
 
 ## Syntax
 
-_expression_. `DropCap`
+_expression_.**DropCap**
 
 _expression_ A variable that represents a '[Paragraph](Word.Paragraph.md)' object.
 

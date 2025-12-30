@@ -18,7 +18,7 @@ ms.localizationpriority: medium
 
 ## Syntax
 
-_expression_. `ObjectThemeColor`
+_expression_.**ObjectThemeColor**
 
  _expression_ An expression that returns a '[ColorFormat](Word.ColorFormat.md)' object.
 

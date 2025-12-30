@@ -19,7 +19,7 @@ Displays the **Change Working Time** dialog box, which prompts the user to manag
 
 ## Syntax
 
-_expression_. `ResourceCalendars`( `_Index_`, `_Locked_` )
+_expression_.**ResourceCalendars**( `_Index_`, `_Locked_` )
 
 _expression_ A variable that represents an **[Application](Project.Application.md)** object.
 

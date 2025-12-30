@@ -18,7 +18,7 @@ Switches form design mode on or off.
 
 ## Syntax
 
-_expression_. `ToggleFormsDesign`
+_expression_.**ToggleFormsDesign**
 
 _expression_ Required. A variable that represents a **[Document](Word.Document.md)** object.
 

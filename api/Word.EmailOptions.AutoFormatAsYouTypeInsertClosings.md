@@ -18,7 +18,7 @@ ms.localizationpriority: medium
 
 ## Syntax
 
-_expression_. `AutoFormatAsYouTypeInsertClosings`
+_expression_.**AutoFormatAsYouTypeInsertClosings**
 
 _expression_ Required. A variable that represents an '[EmailOptions](Word.EmailOptions.md)' collection.
 

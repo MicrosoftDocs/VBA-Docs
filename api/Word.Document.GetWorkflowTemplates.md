@@ -18,7 +18,7 @@ Returns a **WorkflowTemplates** collection that represents the workflow template
 
 ## Syntax
 
-_expression_. `GetWorkflowTemplates`
+_expression_.**GetWorkflowTemplates**
 
  _expression_ An expression that returns a **[Document](Word.Document.md)** object.
 

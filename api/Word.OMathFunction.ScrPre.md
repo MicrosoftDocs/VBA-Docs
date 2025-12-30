@@ -18,7 +18,7 @@ Returns an **[OMathScrPre](Word.OMathScrPre.md)** object that represents a super
 
 ## Syntax
 
-_expression_. `ScrPre`
+_expression_.**ScrPre**
 
  _expression_ An expression that returns an '[OMathFunction](Word.OMathFunction.md)' object.
 

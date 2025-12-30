@@ -19,7 +19,7 @@ Shows the subtasks of the selected task or tasks.
 
 ## Syntax
 
-_expression_. `OutlineShowSubTasks`
+_expression_.**OutlineShowSubTasks**
 
 _expression_ A variable that represents an **[Application](Project.Application.md)** object.
 

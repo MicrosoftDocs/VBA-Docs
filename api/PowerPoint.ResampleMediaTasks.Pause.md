@@ -18,7 +18,7 @@ Pauses the media represented by the specified object.
 
 ## Syntax
 
-_expression_. `Pause`
+_expression_.**Pause**
 
 _expression_ A variable that represents a [ResampleMediaTasks](PowerPoint.ResampleMediaTasks.md) object.
 

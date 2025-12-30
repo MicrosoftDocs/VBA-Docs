@@ -18,7 +18,7 @@ Returns or sets a **Boolean** that specifies whether to display the **None** but
 
 ## Syntax
 
-_expression_. `ShowNoneButton`
+_expression_.**ShowNoneButton**
 
 _expression_ A variable that represents an [OlkDateControl](Outlook.OlkDateControl.md) object.
 

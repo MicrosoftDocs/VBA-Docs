@@ -18,7 +18,7 @@ Returns or sets how the insertion point progresses within bidirectional text. Re
 
 ## Syntax
 
-_expression_. `CursorMovement`
+_expression_.**CursorMovement**
 
 _expression_ Required. A variable that represents an **[Options](Word.Options.md)** object.
 

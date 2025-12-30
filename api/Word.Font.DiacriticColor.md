@@ -18,7 +18,7 @@ Returns or sets the 24-bit color to be used for diacritics for the specified **F
 
 ## Syntax
 
-_expression_. `DiacriticColor`
+_expression_.**DiacriticColor**
 
 _expression_ Required. A variable that represents a **[Font](Word.Font.md)** object.
 

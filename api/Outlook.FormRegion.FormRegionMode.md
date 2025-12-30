@@ -18,7 +18,7 @@ Returns an **OlFormRegionMode** constant that indicates whether the form region 
 
 ## Syntax
 
-_expression_. `FormRegionMode`
+_expression_.**FormRegionMode**
 
 _expression_ A variable that represents a [FormRegion](Outlook.FormRegion.md) object.
 

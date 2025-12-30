@@ -19,7 +19,7 @@ Gets a **[List](Project.List.md)** object representing all task tables in the pr
 
 ## Syntax
 
-_expression_. `TaskTableList`
+_expression_.**TaskTableList**
 
 _expression_ A variable that represents a **[Project](project.project.md)** object.
 

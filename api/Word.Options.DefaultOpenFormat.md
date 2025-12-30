@@ -18,7 +18,7 @@ Returns or sets the default file converter used to open documents. Can be a numb
 
 ## Syntax
 
-_expression_. `DefaultOpenFormat`
+_expression_.**DefaultOpenFormat**
 
 _expression_ Required. A variable that represents an **[Options](Word.Options.md)** object.
 

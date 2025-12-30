@@ -16,7 +16,7 @@ Project property for the three-character ISO standard currency code of the proje
 
 ## Syntax
 
-_expression_. `CurrencyCode`
+_expression_.**CurrencyCode**
 
 _expression_ A variable that represents a **[Project](project.project.md)** object.
 

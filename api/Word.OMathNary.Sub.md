@@ -18,7 +18,7 @@ Returns an **[OMath](Word.OMath.md)** object that represents the lower limit of 
 
 ## Syntax
 
-_expression_. `Sub`
+_expression_.**Sub**
 
  _expression_ An expression that returns an '[OMathNary](Word.OMathNary.md)' object.
 

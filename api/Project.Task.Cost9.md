@@ -16,7 +16,7 @@ Gets or sets the value of the **Cost9** custom field for the task. Read/write **
 
 ## Syntax
 
-_expression_. `Cost9`
+_expression_.**Cost9**
 
 _expression_ A variable that represents a [Task](./Project.Task.md) object.
 

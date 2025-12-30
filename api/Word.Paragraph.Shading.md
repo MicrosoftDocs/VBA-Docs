@@ -18,7 +18,7 @@ Returns a **[Shading](Word.Shading.md)** object that refers to the shading forma
 
 ## Syntax
 
-_expression_. `Shading`
+_expression_.**Shading**
 
 _expression_ Required. A variable that represents a '[Paragraph](Word.Paragraph.md)' object.
 

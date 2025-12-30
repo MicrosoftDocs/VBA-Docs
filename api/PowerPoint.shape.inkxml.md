@@ -14,7 +14,7 @@ If the specified shape does not contain a ink object more than one ink object oc
 
 ## Syntax
 
-_expression_. `InkXML`
+_expression_.**InkXML**
 
 _expression_ A variable that represents a **[Shape](PowerPoint.Shape.md)** object.
 

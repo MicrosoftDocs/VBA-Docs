@@ -19,7 +19,7 @@ Stops loading the document.
 
 ## Syntax
 
-_expression_. `WebStopLoading`
+_expression_.**WebStopLoading**
 
 _expression_ A variable that represents an **[Application](Project.Application.md)** object.
 

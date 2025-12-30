@@ -18,7 +18,7 @@ Occurs when a folder is added to the specified **[Folders](Outlook.Folders.md)**
 
 ## Syntax
 
-_expression_. `FolderAdd`( `_Folder_` )
+_expression_.**FolderAdd**( `_Folder_` )
 
 _expression_ A variable that represents a [Folders](Outlook.Folders.md) object.
 

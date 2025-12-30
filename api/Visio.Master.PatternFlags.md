@@ -18,7 +18,7 @@ Determines whether a master behaves as a custom pattern. Read/write.
 
 ## Syntax
 
-_expression_. `PatternFlags`
+_expression_.**PatternFlags**
 
 _expression_ A variable that represents a **[Master](Visio.Master.md)** object.
 

@@ -16,7 +16,7 @@ Returns **False** if the most recent firing of the [Application.DocumentBeforeSa
 
 ## Syntax
 
-_expression_. `IsInAutosave`
+_expression_.**IsInAutosave**
 
 _expression_ A variable that represents a [Document](./Word.Document.md) object.
 

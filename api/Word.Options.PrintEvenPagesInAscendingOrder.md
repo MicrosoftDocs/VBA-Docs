@@ -18,7 +18,7 @@ ms.localizationpriority: medium
 
 ## Syntax
 
-_expression_. `PrintEvenPagesInAscendingOrder`
+_expression_.**PrintEvenPagesInAscendingOrder**
 
  _expression_ An expression that returns an **[Options](Word.Options.md)** object.
 

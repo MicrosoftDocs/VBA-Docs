@@ -18,7 +18,7 @@ Returns or sets the currently selected **Date** value with the time set to 12:00
 
 ## Syntax
 
-_expression_. `Date`
+_expression_.**Date**
 
 _expression_ A variable that represents an [OlkDateControl](Outlook.OlkDateControl.md) object.
 

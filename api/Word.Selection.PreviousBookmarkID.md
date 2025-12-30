@@ -18,7 +18,7 @@ Returns the number of the last bookmark that starts before or at the same place 
 
 ## Syntax
 
-_expression_. `PreviousBookmarkID`
+_expression_.**PreviousBookmarkID**
 
 _expression_ A variable that represents a **[Selection](Word.Selection.md)** object.
 

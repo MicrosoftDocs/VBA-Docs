@@ -18,7 +18,7 @@ Returns or sets a **Boolean** that represents whether to use the contextual spel
 
 ## Syntax
 
-_expression_. `ContextualSpeller`
+_expression_.**ContextualSpeller**
 
  _expression_ An expression that returns an [Options](./Word.Options.md) object.
 

@@ -18,7 +18,7 @@ Returns a **[HeadersFooters](PowerPoint.HeadersFooters.md)** collection that rep
 
 ## Syntax
 
-_expression_. `HeadersFooters`
+_expression_.**HeadersFooters**
 
 _expression_ A variable that represents a [CustomLayout](PowerPoint.CustomLayout.md) object.
 

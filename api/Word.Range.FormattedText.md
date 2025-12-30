@@ -18,7 +18,7 @@ Returns or sets a **Range** object that includes the formatted text in the speci
 
 ## Syntax
 
-_expression_. `FormattedText`
+_expression_.**FormattedText**
 
 _expression_ A variable that represents a **[Range](Word.Range.md)** object.
 

@@ -18,7 +18,7 @@ Returns an **[OMath](Word.OMath.md)** object that represents the numerator for a
 
 ## Syntax
 
-_expression_. `Num`
+_expression_.**Num**
 
  _expression_ An expression that returns an '[OMathFrac](Word.OMathFrac.md)' object.
 

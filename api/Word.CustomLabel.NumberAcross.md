@@ -18,7 +18,7 @@ Returns or sets the number of custom mailing labels across a page. Read/write **
 
 ## Syntax
 
-_expression_. `NumberAcross`
+_expression_.**NumberAcross**
 
  _expression_ An expression that returns a '[CustomLabel](Word.CustomLabel.md)' object.
 

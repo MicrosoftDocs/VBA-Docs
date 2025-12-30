@@ -18,7 +18,7 @@ Returns or sets the amount of horizontal space between the invisible gridlines t
 
 ## Syntax
 
-_expression_. `GridDistanceHorizontal`
+_expression_.**GridDistanceHorizontal**
 
 _expression_ A variable that represents an **[Options](Word.Options.md)** object.
 

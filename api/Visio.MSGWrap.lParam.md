@@ -18,7 +18,7 @@ Gets or sets the **lParam** member of the **MSG** structure being wrapped. Read/
 
 ## Syntax
 
-_expression_. `lParam`
+_expression_.**lParam**
 
 _expression_ A variable that represents an **[MSGWrap](Visio.MSGWrap.md)** object.
 

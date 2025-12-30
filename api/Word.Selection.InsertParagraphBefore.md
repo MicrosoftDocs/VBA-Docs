@@ -18,7 +18,7 @@ Inserts a new paragraph before the specified selection or range.
 
 ## Syntax
 
-_expression_. `InsertParagraphBefore`
+_expression_.**InsertParagraphBefore**
 
 _expression_ Required. A variable that represents a **[Selection](Word.Selection.md)** object.
 

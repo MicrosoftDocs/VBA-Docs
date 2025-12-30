@@ -18,7 +18,7 @@ Returns a **[Frame](Word.Frame.md)** object that represents the frame formatting
 
 ## Syntax
 
-_expression_. `Frame`
+_expression_.**Frame**
 
 _expression_ A variable that represents a '[Find](Word.Find.md)' object.
 

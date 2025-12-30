@@ -18,7 +18,7 @@ Returns a **[RuleAction](Outlook.RuleAction.md)** object with **[RuleAction.Acti
 
 ## Syntax
 
-_expression_. `DeletePermanently`
+_expression_.**DeletePermanently**
 
 _expression_ A variable that represents a [RuleActions](Outlook.RuleActions.md) object.
 

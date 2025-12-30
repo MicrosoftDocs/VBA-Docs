@@ -18,7 +18,7 @@ Returns a **Boolean** that indicates **True** if the recipient cannot forward th
 
 ## Syntax
 
-_expression_. `RecipientReassignmentProhibited`
+_expression_.**RecipientReassignmentProhibited**
 
 _expression_ A variable that represents a [MailItem](Outlook.MailItem.md) object.
 

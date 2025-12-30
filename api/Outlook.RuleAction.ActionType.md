@@ -18,7 +18,7 @@ Returns a constant from the **[OlRuleActionType](Outlook.OlRuleActionType.md)** 
 
 ## Syntax
 
-_expression_. `ActionType`
+_expression_.**ActionType**
 
 _expression_ A variable that represents a [RuleAction](Outlook.RuleAction.md) object.
 

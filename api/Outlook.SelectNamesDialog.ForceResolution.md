@@ -18,7 +18,7 @@ Returns or sets a **Boolean** that determines if Outlook must resolve all recipi
 
 ## Syntax
 
-_expression_. `ForceResolution`
+_expression_.**ForceResolution**
 
 _expression_ A variable that represents a [SelectNamesDialog](Outlook.SelectNamesDialog.md) object.
 

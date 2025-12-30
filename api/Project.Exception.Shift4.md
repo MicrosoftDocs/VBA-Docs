@@ -16,7 +16,7 @@ Gets a **[Shift](Project.Shift.md)** object representing the fourth work shift i
 
 ## Syntax
 
-_expression_. `Shift4`
+_expression_.**Shift4**
 
 _expression_ A variable that represents an [Exception](./Project.Exception.md) object.
 

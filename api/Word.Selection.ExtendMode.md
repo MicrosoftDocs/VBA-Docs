@@ -18,7 +18,7 @@ ms.localizationpriority: medium
 
 ## Syntax
 
-_expression_. `ExtendMode`
+_expression_.**ExtendMode**
 
  _expression_ An expression that returns a **[Selection](Word.Selection.md)** object.
 

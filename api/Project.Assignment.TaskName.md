@@ -19,7 +19,7 @@ Gets or sets the name of the task in the assignment. Read/write **String**.
 
 ## Syntax
 
-_expression_. `TaskName`
+_expression_.**TaskName**
 
 _expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
 

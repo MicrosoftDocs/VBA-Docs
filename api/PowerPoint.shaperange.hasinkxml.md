@@ -14,7 +14,7 @@ An error is returned if the shape range does not contain any ink XML.
 
 ## Syntax
 
-_expression_. `HasInkXML`
+_expression_.**HasInkXML**
 
 _expression_ A variable that represents a **[ShapeRange](PowerPoint.ShapeRange.md)** object.
 

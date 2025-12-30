@@ -19,7 +19,7 @@ Opens the document specified by a hyperlink address.
 
 ## Syntax
 
-_expression_. `WebOpenHyperlink`( `_Address_`, `_SubAddress_`, `_AddHistory_`, `_NewWindow_` )
+_expression_.**WebOpenHyperlink**( `_Address_`, `_SubAddress_`, `_AddHistory_`, `_NewWindow_` )
 
 _expression_ A variable that represents an **[Application](Project.Application.md)** object.
 

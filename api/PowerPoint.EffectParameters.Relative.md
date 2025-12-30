@@ -18,7 +18,7 @@ Determines whether to set the motion position relative to the position of the sh
 
 ## Syntax
 
-_expression_. `Relative`
+_expression_.**Relative**
 
 _expression_ A variable that represents a [EffectParameters](PowerPoint.EffectParameters.md) object.
 

@@ -19,7 +19,7 @@ Gets a **VBProject** object that represents the Microsoft Visual Basic project. 
 
 ## Syntax
 
-_expression_. `VBProject`
+_expression_.**VBProject**
 
 _expression_ A variable that represents a **[Project](project.project.md)** object.
 

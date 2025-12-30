@@ -18,7 +18,7 @@ ms.localizationpriority: medium
 
 ## Syntax
 
-_expression_. `DisplayVerticalRuler`
+_expression_.**DisplayVerticalRuler**
 
 _expression_ A variable that represents a '[Pane](Word.Pane.md)' object.
 

@@ -18,7 +18,7 @@ ms.localizationpriority: medium
 
 ## Syntax
 
-_expression_. `Overflowing`
+_expression_.**Overflowing**
 
  _expression_ An expression that returns a **[TextFrame](Word.TextFrame.md)** object.
 

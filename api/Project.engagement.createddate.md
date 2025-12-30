@@ -17,7 +17,7 @@ The CreatedDate property for the Engagement object. Introduced in Office 2016.
 
 ## Syntax
 
-_expression_. `CreatedDate`
+_expression_.**CreatedDate**
 
 _expression_ A variable that represents a 'Engagement' object.
 

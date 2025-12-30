@@ -18,7 +18,7 @@ Specifies the relative vertical position of a shape. Read/write **WdRelativeVert
 
 ## Syntax
 
-_expression_. `RelativeVerticalPosition`
+_expression_.**RelativeVerticalPosition**
 
 _expression_ A variable that represents a **[Shape](Word.Shape.md)** object.
 

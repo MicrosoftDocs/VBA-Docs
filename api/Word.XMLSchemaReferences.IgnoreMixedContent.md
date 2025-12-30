@@ -18,7 +18,7 @@ Returns a **Boolean** that represents whether Microsoft Word preforms validation
 
 ## Syntax
 
-_expression_. `IgnoreMixedContent`
+_expression_.**IgnoreMixedContent**
 
  _expression_ An expression that returns an '[XMLSchemaReferences](Word.XMLSchemaReferences.md)' collection.
 

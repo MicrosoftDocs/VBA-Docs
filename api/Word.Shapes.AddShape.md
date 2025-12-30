@@ -18,7 +18,7 @@ Adds an AutoShape to a document. Returns a **[Shape](Word.Shape.md)** object tha
 
 ## Syntax
 
-_expression_. `AddShape`( `_Type_` , `_Left_` , `_Top_` , `_Width_` , `_Height_` )
+_expression_.**AddShape**( `_Type_` , `_Left_` , `_Top_` , `_Width_` , `_Height_` )
 
 _expression_ Required. A variable that represents a **[Shapes](Word.Shapes.md)** object.
 

@@ -18,7 +18,7 @@ Returns a presentation from a local computer to a server, and sets the local fil
 
 ## Syntax
 
-_expression_. `CheckInWithVersion`( `_SaveChanges_`, `_Comments_`, `_MakePublic_`, `_VersionType_` )
+_expression_.**CheckInWithVersion**( `_SaveChanges_`, `_Comments_`, `_MakePublic_`, `_VersionType_` )
 
  _expression_ An expression that returns a [Presentation](PowerPoint.Presentation.md) object.
 

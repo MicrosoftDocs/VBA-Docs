@@ -18,7 +18,7 @@ Returns a [ProtectedViewWindow](Word.ProtectedViewWindow.md) object that represe
 
 ## Syntax
 
-_expression_. `ActiveProtectedViewWindow`
+_expression_.**ActiveProtectedViewWindow**
 
  _expression_ An expression that returns a [Application](./Word.Application.md) object.
 

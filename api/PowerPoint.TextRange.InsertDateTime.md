@@ -16,7 +16,7 @@ Inserts the date and time in the specified text range. Returns a **TextRange** o
 
 ## Syntax
 
-_expression_. `InsertDateTime`( _DateTimeFormat_, _InsertAsField_ )
+_expression_.**InsertDateTime**( _DateTimeFormat_, _InsertAsField_ )
 
 _expression_ A variable that represents a [TextRange](PowerPoint.TextRange.md) object.
 

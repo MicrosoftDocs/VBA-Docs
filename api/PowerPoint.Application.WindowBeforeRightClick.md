@@ -18,7 +18,7 @@ Occurs when you right-click a shape, a slide, a notes page, or some text. This e
 
 ## Syntax
 
-_expression_. `WindowBeforeRightClick`( `_Sel_`, `_Cancel_` )
+_expression_.**WindowBeforeRightClick**( `_Sel_`, `_Cancel_` )
 
 _expression_ A variable that represents an **[Application](PowerPoint.Application.md)** object.
 

@@ -18,7 +18,7 @@ Returns or sets a **String** indicating the owner for the task.
 
 ## Syntax
 
-_expression_. `Owner`
+_expression_.**Owner**
 
 _expression_ A variable that represents a [TaskItem](Outlook.TaskItem.md) object.
 

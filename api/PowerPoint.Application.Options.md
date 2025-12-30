@@ -18,7 +18,7 @@ Returns an **[Options](PowerPoint.Options.md)** object that represents applicati
 
 ## Syntax
 
-_expression_. `Options`
+_expression_.**Options**
 
 _expression_ A variable that represents an **[Application](PowerPoint.Application.md)** object.
 

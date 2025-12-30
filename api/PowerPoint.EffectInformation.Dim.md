@@ -18,7 +18,7 @@ Returns a **[ColorFormat](PowerPoint.ColorFormat.md)** object that represents th
 
 ## Syntax
 
-_expression_. `Dim`
+_expression_.**Dim**
 
 _expression_ A variable that represents an [EffectInformation](PowerPoint.EffectInformation.md) object.
 

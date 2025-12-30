@@ -18,7 +18,7 @@ Returns a [ProtectedViewWindows](Word.ProtectedViewWindows.md) object that repre
 
 ## Syntax
 
-_expression_. `ProtectedViewWindows`
+_expression_.**ProtectedViewWindows**
 
  _expression_ An expression that returns a [Global](./Word.Global.md) object.
 

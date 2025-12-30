@@ -18,7 +18,7 @@ Converts an equation to linear format.
 
 ## Syntax
 
-_expression_. `Linearize`
+_expression_.**Linearize**
 
  _expression_ An expression that returns an [OMath](./Word.OMath.md) object.
 

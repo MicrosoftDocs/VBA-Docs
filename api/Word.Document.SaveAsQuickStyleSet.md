@@ -18,7 +18,7 @@ Saves the group of quick styles currently in use.
 
 ## Syntax
 
-_expression_. `SaveAsQuickStyleSet`( `_FileName_` )
+_expression_.**SaveAsQuickStyleSet**( `_FileName_` )
 
  _expression_ An expression that returns a **[Document](Word.Document.md)** object.
 

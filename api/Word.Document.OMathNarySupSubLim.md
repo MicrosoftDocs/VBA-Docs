@@ -18,7 +18,7 @@ Returns or sets a **Boolean** that represents the default location of limits for
 
 ## Syntax
 
-_expression_. `OMathNarySupSubLim`
+_expression_.**OMathNarySupSubLim**
 
  _expression_ An expression that returns a **[Document](Word.Document.md)** object.
 

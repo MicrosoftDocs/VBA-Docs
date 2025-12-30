@@ -12,7 +12,7 @@ Gets whether the checkout message bar is visible. Read-only **Boolean**.
 
 ## Syntax
 
-_expression_. `IsCheckoutMsgBarVisible`
+_expression_.**IsCheckoutMsgBarVisible**
 
 _expression_ A variable that represents a **[Project](project.project.md)** object.
 

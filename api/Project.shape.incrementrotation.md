@@ -12,7 +12,7 @@ Rotates the shape around the z-axis by the specified number of degrees.
 
 ## Syntax
 
-_expression_. `IncrementRotation` _(Increment)_
+_expression_.**IncrementRotation** _(Increment)_
 
 _expression_ A variable that represents a **[Shape](Project.Shape.md)** object.
 

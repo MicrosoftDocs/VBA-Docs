@@ -18,7 +18,7 @@ ms.localizationpriority: medium
 
 ## Syntax
 
-_expression_. `EmbedLinguisticData`
+_expression_.**EmbedLinguisticData**
 
  _expression_ An expression that returns a **[Document](Word.Document.md)** object.
 

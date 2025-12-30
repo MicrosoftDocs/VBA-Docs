@@ -19,7 +19,7 @@ Gets the date a project was last saved. Read-only **Variant**.
 
 ## Syntax
 
-_expression_. `LastSaveDate`
+_expression_.**LastSaveDate**
 
 _expression_ A variable that represents a **[Project](project.project.md)** object.
 

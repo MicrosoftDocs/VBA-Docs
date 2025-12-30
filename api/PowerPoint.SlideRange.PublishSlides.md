@@ -18,7 +18,7 @@ Creates a Web presentation (in HTML format) from any loaded presentation. You ca
 
 ## Syntax
 
-_expression_. `PublishSlides`( `_SlideLibraryUrl_`, `_Overwrite_` )
+_expression_.**PublishSlides**( `_SlideLibraryUrl_`, `_Overwrite_` )
 
  _expression_ An expression that returns a [SlideRange](PowerPoint.SlideRange.md) object.
 

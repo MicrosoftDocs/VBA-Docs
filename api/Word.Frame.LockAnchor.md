@@ -18,7 +18,7 @@ ms.localizationpriority: medium
 
 ## Syntax
 
-_expression_. `LockAnchor`
+_expression_.**LockAnchor**
 
 _expression_ Required. A variable that represents a '[Frame](Word.Frame.md)' object.
 

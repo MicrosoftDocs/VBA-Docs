@@ -18,7 +18,7 @@ Automatically resizes the drawing page by adding as many printer-paper-sized til
 
 ## Syntax
 
-_expression_. `AutoSizeDrawing`
+_expression_.**AutoSizeDrawing**
 
  _expression_ An expression that returns a **[Page](Visio.Page.md)** object.
 

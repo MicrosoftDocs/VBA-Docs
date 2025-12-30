@@ -18,7 +18,7 @@ Returns a **[Frames](Word.Frames.md)** collection that represents all the frames
 
 ## Syntax
 
-_expression_. `Frames`
+_expression_.**Frames**
 
 _expression_ A variable that represents a **[Document](Word.Document.md)** object.
 

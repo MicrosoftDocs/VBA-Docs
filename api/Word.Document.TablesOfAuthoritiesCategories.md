@@ -18,7 +18,7 @@ Returns a **[TablesOfAuthoritiesCategories](Word.tablesofauthoritiescategories.m
 
 ## Syntax
 
-_expression_. `TablesOfAuthoritiesCategories`
+_expression_.**TablesOfAuthoritiesCategories**
 
 _expression_ A variable that represents a **[Document](Word.Document.md)** object.
 

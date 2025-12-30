@@ -18,7 +18,7 @@ Returns or sets a **[Range](Word.Range.md)** object that includes the formatted 
 
 ## Syntax
 
-_expression_. `FormattedText`
+_expression_.**FormattedText**
 
 _expression_ A variable that represents a **[Selection](Word.Selection.md)** object.
 

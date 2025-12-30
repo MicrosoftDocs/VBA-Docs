@@ -18,7 +18,7 @@ Removes paragraph formatting that has been applied manually (using the buttons o
 
 ## Syntax
 
-_expression_. `ClearParagraphDirectFormatting`
+_expression_.**ClearParagraphDirectFormatting**
 
  _expression_ An expression that returns a **[Selection](Word.Selection.md)** object.
 

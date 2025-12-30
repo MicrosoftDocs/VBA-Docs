@@ -24,7 +24,7 @@ ms.localizationpriority: medium
 
 ## Syntax
 
-_expression_. `MatchFuzzyZJ`
+_expression_.**MatchFuzzyZJ**
 
  _expression_ An expression that returns an **[Options](Word.Options.md)** object.
 

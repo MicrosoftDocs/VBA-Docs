@@ -18,7 +18,7 @@ Returns or sets an **[OlMailingAddress](Outlook.OlMailingAddress.md)** constant 
 
 ## Syntax
 
-_expression_. `SelectedMailingAddress`
+_expression_.**SelectedMailingAddress**
 
 _expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 

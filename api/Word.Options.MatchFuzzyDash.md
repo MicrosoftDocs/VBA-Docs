@@ -18,7 +18,7 @@ ms.localizationpriority: medium
 
 ## Syntax
 
-_expression_. `MatchFuzzyDash`
+_expression_.**MatchFuzzyDash**
 
  _expression_ An expression that returns an **[Options](Word.Options.md)** object.
 

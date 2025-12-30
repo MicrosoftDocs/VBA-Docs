@@ -18,7 +18,7 @@ ms.localizationpriority: medium
 
 ## Syntax
 
-_expression_. `SingleList`
+_expression_.**SingleList**
 
  _expression_ An expression that returns a '[ListFormat](Word.ListFormat.md)' object.
 

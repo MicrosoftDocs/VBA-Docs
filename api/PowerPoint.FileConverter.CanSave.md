@@ -18,7 +18,7 @@ ms.localizationpriority: medium
 
 ## Syntax
 
-_expression_. `CanSave`
+_expression_.**CanSave**
 
 _expression_ A variable that represents a '[FileConverter](PowerPoint.FileConverter.md)' object.
 

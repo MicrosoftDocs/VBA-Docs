@@ -18,7 +18,7 @@ Returns or sets the space (in points) between the right edge of the text and the
 
 ## Syntax
 
-_expression_. `DistanceFromRight`
+_expression_.**DistanceFromRight**
 
 _expression_ A variable that represents a '[Borders](Word.borders.md)' object.
 

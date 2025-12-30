@@ -16,7 +16,7 @@ Gets or sets a Start local custom field for the assignment. Read/write **Variant
 
 ## Syntax
 
-_expression_. `Start8`
+_expression_.**Start8**
 
 _expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
 

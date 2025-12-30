@@ -18,7 +18,7 @@ ms.localizationpriority: medium
 
 ## Syntax
 
-_expression_. `MouseAvailable`
+_expression_.**MouseAvailable**
 
  _expression_ An expression that returns an **[Application](Word.Application.md)** object. 
 

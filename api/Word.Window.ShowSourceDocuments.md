@@ -18,7 +18,7 @@ Returns or sets a **[WdShowSourceDocuments](Word.WdShowSourceDocuments.md)** con
 
 ## Syntax
 
-_expression_. `ShowSourceDocuments`
+_expression_.**ShowSourceDocuments**
 
  _expression_ An expression that returns a **[Window](Word.Window.md)** object.
 

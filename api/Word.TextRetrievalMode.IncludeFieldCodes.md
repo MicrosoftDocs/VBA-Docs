@@ -18,7 +18,7 @@ ms.localizationpriority: medium
 
 ## Syntax
 
-_expression_. `IncludeFieldCodes`
+_expression_.**IncludeFieldCodes**
 
  _expression_ An expression that returns a '[TextRetrievalMode](Word.TextRetrievalMode.md)' object.
 

@@ -17,7 +17,7 @@ Returns or sets a **String** for the text that appears on the **To** command but
 
 ## Syntax
 
-_expression_. `ToLabel`
+_expression_.**ToLabel**
 
 _expression_ A variable that represents a [SelectNamesDialog](Outlook.SelectNamesDialog.md) object.
 

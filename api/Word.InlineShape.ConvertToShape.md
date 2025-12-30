@@ -18,7 +18,7 @@ Converts an inline shape to a free-floating shape. Returns a **[Shape](Word.Shap
 
 ## Syntax
 
-_expression_. `ConvertToShape`
+_expression_.**ConvertToShape**
 
 _expression_ Required. A variable that represents an '[InlineShape](Word.InlineShape.md)' object.
 

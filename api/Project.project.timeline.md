@@ -14,7 +14,7 @@ Returns the root object for all Timeline properties. Read/write **object**. Intr
 
 ## Syntax
 
-_expression_. `Timeline`
+_expression_.**Timeline**
 
 _expression_ A variable that represents a **[Project](project.project.md)** object.
 

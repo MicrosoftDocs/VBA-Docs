@@ -18,7 +18,7 @@ Returns a **[ListParagraphs](Word.listparagraphs.md)** collection that represent
 
 ## Syntax
 
-_expression_. `ListParagraphs`
+_expression_.**ListParagraphs**
 
 _expression_ A variable that represents a '[List](Word.List.md)' object.
 

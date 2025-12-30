@@ -16,7 +16,7 @@ Returns the **SensitivityLabelPolicy** object.
 
 ## Syntax
 
-_expression_. `SensitivityLabelPolicy`
+_expression_.**SensitivityLabelPolicy**
 
 _expression_ A variable that represents an **[Application](PowerPoint.Application.md)** object.
 

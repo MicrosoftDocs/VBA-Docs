@@ -18,7 +18,7 @@ Indicates whether a toolbar item is hierarchical; that is, whether it contains a
 
 ## Syntax
 
-_expression_. `IsHierarchical`
+_expression_.**IsHierarchical**
 
 _expression_ A variable that represents a **[ToolbarItem](Visio.ToolbarItem.md)** object.
 

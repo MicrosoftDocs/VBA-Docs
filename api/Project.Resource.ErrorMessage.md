@@ -16,7 +16,7 @@ Gets errors reported by the **Import Resources Wizard** and by local resource er
 
 ## Syntax
 
-_expression_. `ErrorMessage`
+_expression_.**ErrorMessage**
 
 _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 

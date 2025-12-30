@@ -18,7 +18,7 @@ Returns or sets a **String** representing the state code portion for the selecte
 
 ## Syntax
 
-_expression_. `MailingAddressState`
+_expression_.**MailingAddressState**
 
 _expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 

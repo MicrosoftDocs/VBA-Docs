@@ -18,7 +18,7 @@ Returns a **[Store](Outlook.Store.md)** object representing the store that conta
 
 ## Syntax
 
-_expression_. `Store`
+_expression_.**Store**
 
 _expression_ A variable that represents a [Folder](Outlook.Folder.md) object.
 

@@ -18,7 +18,7 @@ Returns the direction taken by the extrusion's sweep path leading away from the 
 
 ## Syntax
 
-_expression_. `PresetExtrusionDirection`
+_expression_.**PresetExtrusionDirection**
 
 _expression_ Required. A variable that represents a '[ThreeDFormat](Word.ThreeDFormat.md)' object.
 

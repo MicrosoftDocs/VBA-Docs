@@ -19,7 +19,7 @@ Gets a value that indicates the file format for the specified project. Possible 
 
 ## Syntax
 
-_expression_. `FileFormatID`( `_Name_`, `_UserID_`, `_DatabasePassWord_` )
+_expression_.**FileFormatID**( `_Name_`, `_UserID_`, `_DatabasePassWord_` )
 
 _expression_ A variable that represents an **[Application](Project.Application.md)** object.
 

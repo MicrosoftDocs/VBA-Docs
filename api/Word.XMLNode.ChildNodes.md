@@ -18,7 +18,7 @@ Returns an **XMLNodes** collection that represents the child elements of a speci
 
 ## Syntax
 
-_expression_. `ChildNodes`
+_expression_.**ChildNodes**
 
 _expression_ Required. A variable that represents a '[XMLNode](Word.XMLNode.md)' object.
 

@@ -18,7 +18,7 @@ ms.localizationpriority: medium
 
 ## Syntax
 
-_expression_. `KeepEntryFormatting`
+_expression_.**KeepEntryFormatting**
 
  _expression_ An expression that returns a '[TableOfAuthorities](Word.TableOfAuthorities.md)' object.
 

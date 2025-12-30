@@ -18,7 +18,7 @@ Scrolls through the specified pane or window page by page.
 
 ## Syntax
 
-_expression_. `PageScroll`( `_Down_` , `_Up_` )
+_expression_.**PageScroll**( `_Down_` , `_Up_` )
 
 _expression_ Required. A variable that represents a **[Window](Word.Window.md)** object.
 

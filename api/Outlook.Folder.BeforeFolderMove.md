@@ -18,7 +18,7 @@ Occurs when a folder is about to be moved or deleted, either as a result of user
 
 ## Syntax
 
-_expression_. `BeforeFolderMove`( `_MoveTo_` , `_Cancel_` )
+_expression_.**BeforeFolderMove**( `_MoveTo_` , `_Cancel_` )
 
 _expression_ A variable that represents a [Folder](Outlook.Folder.md) object.
 

@@ -19,7 +19,7 @@ Moves completed or incomplete parts of one or more selected tasks to the status 
 
 ## Syntax
 
-_expression_. `TaskMoveToStatusDate`( `_MoveCompleted_`, `_MoveIncomplete_` )
+_expression_.**TaskMoveToStatusDate**( `_MoveCompleted_`, `_MoveIncomplete_` )
 
  _expression_ An expression that returns an **[Application](Project.Application.md)** object.
 

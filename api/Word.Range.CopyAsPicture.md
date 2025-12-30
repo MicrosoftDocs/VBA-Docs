@@ -18,7 +18,7 @@ The **CopyAsPicture** method works the same way as the **Copy** method.
 
 ## Syntax
 
-_expression_. `CopyAsPicture`
+_expression_.**CopyAsPicture**
 
 _expression_ Required. A variable that represents a **[Range](Word.Range.md)** object.
 

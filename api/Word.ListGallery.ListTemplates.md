@@ -18,7 +18,7 @@ Returns a **ListTemplates** collection that represents all the list formats for 
 
 ## Syntax
 
-_expression_. `ListTemplates`
+_expression_.**ListTemplates**
 
 _expression_ A variable that represents a '[ListGallery](Word.ListGallery.md)' object.
 

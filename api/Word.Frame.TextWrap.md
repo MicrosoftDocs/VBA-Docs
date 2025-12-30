@@ -18,7 +18,7 @@ ms.localizationpriority: medium
 
 ## Syntax
 
-_expression_. `TextWrap`
+_expression_.**TextWrap**
 
  _expression_ An expression that returns a '[Frame](Word.Frame.md)' object.
 

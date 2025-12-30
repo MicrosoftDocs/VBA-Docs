@@ -19,7 +19,7 @@ Gets the identification number of the task or resource field in the active cell.
 
 ## Syntax
 
-_expression_. `FieldID`
+_expression_.**FieldID**
 
 _expression_ A variable that represents a [Cell](./Project.Cell.md) object.
 

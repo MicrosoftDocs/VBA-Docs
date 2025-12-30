@@ -19,7 +19,7 @@ Gets a **[Profiles](Project.Profile.md)** collection representing the log on pro
 
 ## Syntax
 
-_expression_. `Profiles`
+_expression_.**Profiles**
 
 _expression_ A variable that represents an **[Application](Project.Application.md)** object.
 

@@ -19,7 +19,7 @@ Gets the TCPI (to complete performance index) value for the task. Read-only **Do
 
 ## Syntax
 
-_expression_. `TCPI`
+_expression_.**TCPI**
 
 _expression_ A variable that represents a [Task](./Project.Task.md) object.
 

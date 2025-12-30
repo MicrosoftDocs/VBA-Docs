@@ -15,7 +15,7 @@ Aligns text at the bottom of the cell, for selected cells in a report table.
 
 ## Syntax
 
-_expression_. `AlignTableCellBottom`
+_expression_.**AlignTableCellBottom**
 
 _expression_ A variable that represents an **[Application](Project.Application.md)** object.
 

@@ -18,7 +18,7 @@ ms.localizationpriority: medium
 
 ## Syntax
 
-_expression_. `JoinBorders`
+_expression_.**JoinBorders**
 
  _expression_ An expression that returns a '[Borders](Word.borders.md)' object.
 

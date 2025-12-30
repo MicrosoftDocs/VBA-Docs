@@ -18,7 +18,7 @@ Determines whether the specified custom layout is preserved from changes. Read/w
 
 ## Syntax
 
-_expression_. `Preserved`
+_expression_.**Preserved**
 
 _expression_ A variable that represents a [CustomLayout](PowerPoint.CustomLayout.md) object.
 

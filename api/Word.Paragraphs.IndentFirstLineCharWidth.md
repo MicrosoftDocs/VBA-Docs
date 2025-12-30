@@ -18,7 +18,7 @@ Indents the first line of one or more paragraphs by a specified number of charac
 
 ## Syntax
 
-_expression_. `IndentFirstLineCharWidth`( `_Count_` )
+_expression_.**IndentFirstLineCharWidth**( `_Count_` )
 
 _expression_ Required. A variable that represents a '[Paragraphs](Word.paragraphs.md)' collection.
 

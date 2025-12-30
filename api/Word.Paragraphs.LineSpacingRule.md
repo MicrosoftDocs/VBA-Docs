@@ -18,7 +18,7 @@ Returns or sets the line spacing for the specified paragraphs. Read/write **WdLi
 
 ## Syntax
 
-_expression_. `LineSpacingRule`
+_expression_.**LineSpacingRule**
 
 _expression_ Required. A variable that represents a '[Paragraphs](Word.paragraphs.md)' collection.
 

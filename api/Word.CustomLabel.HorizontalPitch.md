@@ -18,7 +18,7 @@ Returns or sets the horizontal distance (in points) between the left edge of one
 
 ## Syntax
 
-_expression_. `HorizontalPitch`
+_expression_.**HorizontalPitch**
 
 _expression_ A variable that represents a '[CustomLabel](Word.CustomLabel.md)' object.
 

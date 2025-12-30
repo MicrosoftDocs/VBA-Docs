@@ -18,7 +18,7 @@ Returns a **[TextRuleCondition](Outlook.TextRuleCondition.md)** object with a **
 
 ## Syntax
 
-_expression_. `MessageHeader`
+_expression_.**MessageHeader**
 
 _expression_ A variable that represents a [RuleConditions](Outlook.RuleConditions.md) object.
 

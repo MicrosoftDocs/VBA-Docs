@@ -18,7 +18,7 @@ Returns or sets a **Boolean** that represents whether to keep bullets and number
 
 ## Syntax
 
-_expression_. `PasteOptionKeepBulletsAndNumbers`
+_expression_.**PasteOptionKeepBulletsAndNumbers**
 
  _expression_ An expression that returns an [Options](./Word.Options.md) object.
 

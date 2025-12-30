@@ -18,7 +18,7 @@ Returns a **Paths** collection that reports the coordinates of a shape's paths i
 
 ## Syntax
 
-_expression_. `Paths`
+_expression_.**Paths**
 
 _expression_ A variable that represents a **[Shape](Visio.Shape.md)** object.
 

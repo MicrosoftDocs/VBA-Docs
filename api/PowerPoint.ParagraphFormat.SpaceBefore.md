@@ -18,7 +18,7 @@ Returns or sets the amount of space before the first line in each paragraph of t
 
 ## Syntax
 
-_expression_. `SpaceBefore`
+_expression_.**SpaceBefore**
 
 _expression_ A variable that represents a [ParagraphFormat](PowerPoint.ParagraphFormat.md) object.
 

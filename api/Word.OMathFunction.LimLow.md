@@ -18,7 +18,7 @@ Returns an **[OMathLimLow](Word.OMathLimLow.md)** object that represents the low
 
 ## Syntax
 
-_expression_. `LimLow`
+_expression_.**LimLow**
 
  _expression_ An expression that returns an '[OMathFunction](Word.OMathFunction.md)' object.
 

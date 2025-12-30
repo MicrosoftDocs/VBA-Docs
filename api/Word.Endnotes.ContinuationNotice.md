@@ -18,7 +18,7 @@ Returns a **Range** object that represents the endnote continuation notice. Read
 
 ## Syntax
 
-_expression_. `ContinuationNotice`
+_expression_.**ContinuationNotice**
 
 _expression_ A variable that represents an '[Endnotes](Word.endnotes.md)' collection.
 

@@ -16,7 +16,7 @@ Resets the **Month** item of a resource calendar to the value in the correspondi
 
 ## Syntax
 
-_expression_. `Default`
+_expression_.**Default**
 
 _expression_ A variable that represents a [Month](./Project.Month.md) object.
 

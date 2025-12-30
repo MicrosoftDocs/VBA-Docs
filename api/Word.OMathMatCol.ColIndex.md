@@ -18,7 +18,7 @@ Returns a **Long** that represents the ordinal position of a column within the c
 
 ## Syntax
 
-_expression_. `ColIndex`
+_expression_.**ColIndex**
 
  _expression_ An expression that returns an '[OMathMatCol](Word.OMathMatCol.md)' object.
 

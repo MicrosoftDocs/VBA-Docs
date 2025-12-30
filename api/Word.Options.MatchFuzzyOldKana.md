@@ -18,7 +18,7 @@ ms.localizationpriority: medium
 
 ## Syntax
 
-_expression_. `MatchFuzzyOldKana`
+_expression_.**MatchFuzzyOldKana**
 
  _expression_ An expression that returns an **[Options](Word.Options.md)** object.
 

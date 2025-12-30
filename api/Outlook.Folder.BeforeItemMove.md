@@ -18,7 +18,7 @@ Occurs when an item is about to be moved or deleted from a folder, either as a r
 
 ## Syntax
 
-_expression_. `BeforeItemMove`( `_Item_` , `_MoveTo_` , `_Cancel_` )
+_expression_.**BeforeItemMove**( `_Item_` , `_MoveTo_` , `_Cancel_` )
 
 _expression_ A variable that represents a [Folder](Outlook.Folder.md) object.
 

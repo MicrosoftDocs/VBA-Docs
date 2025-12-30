@@ -18,7 +18,7 @@ Returns the **Window** object that is the parent of another **Window** object. R
 
 ## Syntax
 
-_expression_. `ParentWindow`
+_expression_.**ParentWindow**
 
 _expression_ A variable that represents a **[Window](Visio.Window.md)** object.
 

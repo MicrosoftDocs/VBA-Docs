@@ -18,7 +18,7 @@ Returns an **[OMathScrSup](Word.OMathScrSup.md)** object that represents the mat
 
 ## Syntax
 
-_expression_. `ScrSup`
+_expression_.**ScrSup**
 
  _expression_ An expression that returns an '[OMathFunction](Word.OMathFunction.md)' object.
 

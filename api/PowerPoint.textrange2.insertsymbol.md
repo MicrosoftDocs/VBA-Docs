@@ -13,7 +13,7 @@ Inserts a symbol from the specified font set into the range of text represented 
 
 ## Syntax
 
-_expression_. `InsertSymbol`( `_FontName_`, `_CharNumber_`, `_Unicode_` )
+_expression_.**InsertSymbol**( `_FontName_`, `_CharNumber_`, `_Unicode_` )
 
  _expression_ An expression that returns a 'TextRange2' object.
 

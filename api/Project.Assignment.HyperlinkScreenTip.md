@@ -16,7 +16,7 @@ Gets or sets a ScreenTip for the hyperlink. Read/write **String**.
 
 ## Syntax
 
-_expression_. `HyperlinkScreenTip`
+_expression_.**HyperlinkScreenTip**
 
 _expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
 

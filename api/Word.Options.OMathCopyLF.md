@@ -18,7 +18,7 @@ Returns or sets a **Boolean** that represents how equations are represented in p
 
 ## Syntax
 
-_expression_. `OMathCopyLF`
+_expression_.**OMathCopyLF**
 
  _expression_ An expression that returns an **[Options](Word.Options.md)** object.
 

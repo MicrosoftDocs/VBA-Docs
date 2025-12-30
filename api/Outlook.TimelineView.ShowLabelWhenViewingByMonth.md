@@ -18,7 +18,7 @@ Returns or sets a **Boolean** value that determines if labels for Outlook items 
 
 ## Syntax
 
-_expression_. `ShowLabelWhenViewingByMonth`
+_expression_.**ShowLabelWhenViewingByMonth**
 
 _expression_ A variable that represents a [TimelineView](Outlook.TimelineView.md) object.
 

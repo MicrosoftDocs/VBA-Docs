@@ -18,7 +18,7 @@ Sets the reading order and alignment of the specified paragraphs to right-to-lef
 
 ## Syntax
 
-_expression_. `RtlPara`
+_expression_.**RtlPara**
 
 _expression_ Required. A variable that represents a **[Selection](Word.Selection.md)** object.
 

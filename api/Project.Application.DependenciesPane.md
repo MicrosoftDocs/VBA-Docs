@@ -19,7 +19,7 @@ Displays the project **Dependency** pane when connected to Project Server. Avail
 
 ## Syntax
 
-_expression_. `DependenciesPane`
+_expression_.**DependenciesPane**
 
 _expression_ A variable that represents an **[Application](Project.Application.md)** object.
 

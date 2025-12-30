@@ -18,7 +18,7 @@ Converts a measurement from points to centimeters (1 centimeter = 28.35 points).
 
 ## Syntax
 
-_expression_. `PointsToCentimeters`( `_Points_` )
+_expression_.**PointsToCentimeters**( `_Points_` )
 
 _expression_ A variable that represents a '[Global](Word.Global.md)' object. Optional.
 

@@ -18,7 +18,7 @@ Returns or sets a **[WdOMathSpacingRule](Word.WdOMathSpacingRule.md)** that repr
 
 ## Syntax
 
-_expression_. `RowSpacingRule`
+_expression_.**RowSpacingRule**
 
  _expression_ An expression that returns an '[OMathEqArray](Word.OMathEqArray.md)' object.
 

@@ -18,7 +18,7 @@ Returns the ID of the page that contains the section. Read-only. .
 
 ## Syntax
 
-_expression_. `ContainingPageID`
+_expression_.**ContainingPageID**
 
 _expression_ A variable that represents a **[Section](Visio.Section.md)** object.
 

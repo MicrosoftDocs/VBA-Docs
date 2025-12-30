@@ -18,7 +18,7 @@ Returns a **Boolean** that indicates **True** if the sender would like a respons
 
 ## Syntax
 
-_expression_. `ResponseRequested`
+_expression_.**ResponseRequested**
 
 _expression_ A variable that represents an [AppointmentItem](Outlook.AppointmentItem.md) object.
 

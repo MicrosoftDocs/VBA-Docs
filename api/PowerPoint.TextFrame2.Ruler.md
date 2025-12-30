@@ -18,7 +18,7 @@ Returns a **Ruler2** object that represents the ruler for the specified text. Re
 
 ## Syntax
 
-_expression_. `Ruler`
+_expression_.**Ruler**
 
  _expression_ An expression that returns a **[TextFrame2](PowerPoint.TextFrame2.md)** object.
 

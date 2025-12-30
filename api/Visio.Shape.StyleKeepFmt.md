@@ -18,7 +18,7 @@ Applies a style to an object while preserving local formatting. Read/write.
 
 ## Syntax
 
-_expression_. `StyleKeepFmt`
+_expression_.**StyleKeepFmt**
 
 _expression_ A variable that represents a **[Shape](Visio.Shape.md)** object.
 

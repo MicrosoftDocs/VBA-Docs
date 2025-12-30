@@ -16,7 +16,7 @@ Begins playback for the specified media.
 
 ## Syntax
 
-_expression_. `Play`
+_expression_.**Play**
 
 _expression_ A variable that represents a [Player](PowerPoint.Player.md) object.
 

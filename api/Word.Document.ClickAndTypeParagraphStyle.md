@@ -18,7 +18,7 @@ Returns or sets the default paragraph style applied to text by the Click and Typ
 
 ## Syntax
 
-_expression_. `ClickAndTypeParagraphStyle`
+_expression_.**ClickAndTypeParagraphStyle**
 
  _expression_ An expression that returns a **[Document](Word.Document.md)** object.
 

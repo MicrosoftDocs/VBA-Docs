@@ -19,7 +19,7 @@ Selects all cells in the active table.
 
 ## Syntax
 
-_expression_. `SelectSheet`
+_expression_.**SelectSheet**
 
 _expression_ A variable that represents an **[Application](Project.Application.md)** object.
 

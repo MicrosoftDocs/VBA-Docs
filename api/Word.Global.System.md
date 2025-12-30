@@ -18,7 +18,7 @@ Returns a **System** object, which can be used to return system-related informat
 
 ## Syntax
 
-_expression_. `System`
+_expression_.**System**
 
 _expression_ Required. A variable that represents a '[Global](Word.Global.md)' object.
 

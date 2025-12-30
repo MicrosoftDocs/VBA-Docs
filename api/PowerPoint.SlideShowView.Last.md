@@ -18,7 +18,7 @@ Sets the specified slide show view to display the last slide in the presentation
 
 ## Syntax
 
-_expression_. `Last`
+_expression_.**Last**
 
 _expression_ A variable that represents a [SlideShowView](PowerPoint.SlideShowView.md) object.
 

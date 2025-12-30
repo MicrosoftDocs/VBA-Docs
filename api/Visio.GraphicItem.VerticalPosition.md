@@ -21,7 +21,7 @@ Gets or sets the vertical position of the **GraphicItem** object relative to the
 
 ## Syntax
 
-_expression_. `VerticalPosition`
+_expression_.**VerticalPosition**
 
  _expression_ An expression that returns a **[GraphicItem](Visio.GraphicItem.md)** object.
 

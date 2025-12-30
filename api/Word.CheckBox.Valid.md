@@ -17,7 +17,7 @@ ms.localizationpriority: medium
 
 ## Syntax
 
-_expression_. `Valid`
+_expression_.**Valid**
 
 _expression_ A variable that represents a '[CheckBox](Word.CheckBox.md)' object.
 

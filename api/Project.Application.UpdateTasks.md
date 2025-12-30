@@ -19,7 +19,7 @@ Updates the selected tasks.
 
 ## Syntax
 
-_expression_. `UpdateTasks`( `_PercentComplete_`, `_ActualDuration_`, `_RemainingDuration_`, `_ActualStart_`, `_ActualFinish_`, `_Notes_` )
+_expression_.**UpdateTasks**( `_PercentComplete_`, `_ActualDuration_`, `_RemainingDuration_`, `_ActualStart_`, `_ActualFinish_`, `_Notes_` )
 
 _expression_ A variable that represents an **[Application](Project.Application.md)** object.
 

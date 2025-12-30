@@ -18,7 +18,7 @@ Returns a [SmartArtQuickStyles](Office.SmartArtQuickStyles.md) object that repre
 
 ## Syntax
 
-_expression_. `SmartArtQuickStyles`
+_expression_.**SmartArtQuickStyles**
 
  _expression_ An expression that returns a '[Application](Word.Application.md)' object.
 

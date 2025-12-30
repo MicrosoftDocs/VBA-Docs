@@ -18,7 +18,7 @@ Returns the x-coordinate of the location in the Microsoft Visio window where a *
 
 ## Syntax
 
-_expression_. `x`
+_expression_.**x**
 
 _expression_ A variable that represents a **[MouseEvent](Visio.MouseEvent.md)** object.
 

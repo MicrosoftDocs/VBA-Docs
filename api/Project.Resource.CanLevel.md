@@ -16,7 +16,7 @@ ms.localizationpriority: medium
 
 ## Syntax
 
-_expression_. `CanLevel`
+_expression_.**CanLevel**
 
  _expression_ An expression that returns a [Resource](./Project.Resource.md) object.
 

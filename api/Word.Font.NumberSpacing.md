@@ -18,7 +18,7 @@ Returns or sets the number spacing setting for a font. Read/write [WdNumberSpaci
 
 ## Syntax
 
-_expression_. `NumberSpacing`
+_expression_.**NumberSpacing**
 
  _expression_ An expression that returns a **[Font](Word.Font.md)** object.
 

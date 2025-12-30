@@ -18,7 +18,7 @@ Returns a **Variant** that represents the style used to format a table. Read-onl
 
 ## Syntax
 
-_expression_. `TableStyle`
+_expression_.**TableStyle**
 
  _expression_ An expression that returns a **[Range](Word.Range.md)** object.
 

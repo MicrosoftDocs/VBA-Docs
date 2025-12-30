@@ -15,7 +15,7 @@ Pastes a copy of a report or a shape, where the copy maintains the formatting of
 
 ## Syntax
 
-_expression_. `PasteSourceFormatting`
+_expression_.**PasteSourceFormatting**
 
 _expression_ A variable that represents an **[Application](Project.Application.md)** object.
 

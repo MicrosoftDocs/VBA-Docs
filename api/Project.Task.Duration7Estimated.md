@@ -16,7 +16,7 @@ ms.localizationpriority: medium
 
 ## Syntax
 
-_expression_. `Duration7Estimated`
+_expression_.**Duration7Estimated**
 
 _expression_ A variable that represents a [Task](./Project.Task.md) object.
 

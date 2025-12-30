@@ -18,7 +18,7 @@ Returns a **Boolean** value that indicates if the **[SharingItem](Outlook.Sharin
 
 ## Syntax
 
-_expression_. `Sent`
+_expression_.**Sent**
 
 _expression_ A variable that represents a [SharingItem](Outlook.SharingItem.md) object.
 

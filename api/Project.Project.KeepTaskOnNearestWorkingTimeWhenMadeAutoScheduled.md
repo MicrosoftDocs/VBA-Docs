@@ -19,7 +19,7 @@ ms.localizationpriority: medium
 
 ## Syntax
 
-_expression_. `KeepTaskOnNearestWorkingTimeWhenMadeAutoScheduled`
+_expression_.**KeepTaskOnNearestWorkingTimeWhenMadeAutoScheduled**
 
  _expression_ An expression that returns a **[Project](project.project.md)** object.
 

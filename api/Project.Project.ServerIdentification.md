@@ -16,7 +16,7 @@ Gets or sets the way Project Professional users are identified to Project Server
 
 ## Syntax
 
-_expression_. `ServerIdentification`
+_expression_.**ServerIdentification**
 
 _expression_ A variable that represents a **[Project](project.project.md)** object.
 

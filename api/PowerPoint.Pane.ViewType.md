@@ -18,7 +18,7 @@ Returns the type of view for the specified pane. Read-only.
 
 ## Syntax
 
-_expression_. `ViewType`
+_expression_.**ViewType**
 
 _expression_ A variable that represents a [Pane](PowerPoint.Pane.md) object.
 

@@ -18,7 +18,7 @@ Returns an **[AutoCorrect](Word.AutoCorrect.md)** object that contains the curre
 
 ## Syntax
 
-_expression_. `AutoCorrect`
+_expression_.**AutoCorrect**
 
 _expression_ A variable that represents an **[Application](Word.Application.md)** object. 
 

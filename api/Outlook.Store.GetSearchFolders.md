@@ -18,7 +18,7 @@ Returns a **[Folders](Outlook.Folders.md)** collection object that represents th
 
 ## Syntax
 
-_expression_. `GetSearchFolders`
+_expression_.**GetSearchFolders**
 
 _expression_ A variable that represents a [Store](Outlook.Store.md) object.
 

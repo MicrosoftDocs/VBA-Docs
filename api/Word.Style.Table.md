@@ -18,7 +18,7 @@ Returns a **[TableStyle](Word.tableStyle.md)** object representing properties th
 
 ## Syntax
 
-_expression_. `Table`
+_expression_.**Table**
 
  _expression_ An expression that returns a '[Style](Word.Style.md)' object.
 

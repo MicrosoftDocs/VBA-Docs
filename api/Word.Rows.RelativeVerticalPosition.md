@@ -18,7 +18,7 @@ Specifies the relative vertical position of a group of rows. Read/write **[WdRel
 
 ## Syntax
 
-_expression_. `RelativeVerticalPosition`
+_expression_.**RelativeVerticalPosition**
 
  _expression_ An expression that represents a '[Rows](Word.rows.md)' object.
 

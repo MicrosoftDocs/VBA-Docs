@@ -18,7 +18,7 @@ Returns or sets a **String** indicating the validation formula for the user prop
 
 ## Syntax
 
-_expression_. `ValidationFormula`
+_expression_.**ValidationFormula**
 
 _expression_ A variable that represents a [UserProperty](Outlook.UserProperty.md) object.
 

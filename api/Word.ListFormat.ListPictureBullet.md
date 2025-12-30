@@ -18,7 +18,7 @@ Returns the **[InlineShape](Word.InlineShape.md)** object that represents the pi
 
 ## Syntax
 
-_expression_. `ListPictureBullet`
+_expression_.**ListPictureBullet**
 
  _expression_ An expression that returns a '[ListFormat](Word.ListFormat.md)' object.
 

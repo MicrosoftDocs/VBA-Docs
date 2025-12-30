@@ -18,7 +18,7 @@ Returns or sets the slide height, in points. Read/write.
 
 ## Syntax
 
-_expression_. `SlideHeight`
+_expression_.**SlideHeight**
 
 _expression_ A variable that represents a [PageSetup](PowerPoint.PageSetup.md) object.
 

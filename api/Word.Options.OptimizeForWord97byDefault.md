@@ -18,7 +18,7 @@ ms.localizationpriority: medium
 
 ## Syntax
 
-_expression_. `OptimizeForWord97byDefault`
+_expression_.**OptimizeForWord97byDefault**
 
 _expression_ A variable that represents a '[Options](Word.Options.md)' object.
 

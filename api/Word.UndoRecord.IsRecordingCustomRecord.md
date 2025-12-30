@@ -18,7 +18,7 @@ Returns a **Boolean** that specifies whether a custom undo action is being recor
 
 ## Syntax
 
-_expression_. `IsRecordingCustomRecord`
+_expression_.**IsRecordingCustomRecord**
 
 _expression_ A variable that represents an **[UndoRecord](Word.UndoRecord.md)** object.
 

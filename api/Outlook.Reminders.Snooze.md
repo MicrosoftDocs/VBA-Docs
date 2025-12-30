@@ -18,7 +18,7 @@ Occurs when a reminder is dismissed using the **Snooze** button.
 
 ## Syntax
 
-_expression_. `Snooze`( `_ReminderObject_` )
+_expression_.**Snooze**( `_ReminderObject_` )
 
  _expression_ An expression that returns a [Reminders](Outlook.Reminders.md) object.
 

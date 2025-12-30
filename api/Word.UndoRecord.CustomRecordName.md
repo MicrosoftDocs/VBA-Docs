@@ -18,7 +18,7 @@ Returns a **String** that specifies the entry that appears on the undo stack whe
 
 ## Syntax
 
-_expression_. `CustomRecordName`
+_expression_.**CustomRecordName**
 
 _expression_ A variable that represents an **[UndoRecord](Word.UndoRecord.md)** object.
 

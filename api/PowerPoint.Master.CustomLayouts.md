@@ -18,7 +18,7 @@ Returns a **[CustomLayouts](PowerPoint.CustomLayouts.md)** object that represent
 
 ## Syntax
 
-_expression_. `CustomLayouts`
+_expression_.**CustomLayouts**
 
 _expression_ A variable that represents a [Master](PowerPoint.Master.md) object.
 

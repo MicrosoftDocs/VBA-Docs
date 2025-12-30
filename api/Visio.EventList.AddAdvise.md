@@ -16,7 +16,7 @@ Adds an **Event** object to the **EventList** collection of the source object wh
 
 ## Syntax
 
-_expression_. `AddAdvise`( `_EventCode_` , `_SinkIUnkOrIDisp_` , `_IIDSink_` , `_TargetArgs_` )
+_expression_.**AddAdvise**( `_EventCode_` , `_SinkIUnkOrIDisp_` , `_IIDSink_` , `_TargetArgs_` )
 
 _expression_ A variable that represents an **[EventList](Visio.EventList.md)** object.
 

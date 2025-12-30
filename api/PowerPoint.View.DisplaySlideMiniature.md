@@ -18,7 +18,7 @@ Determines if and when the slide miniature window is displayed automatically. Re
 
 ## Syntax
 
-_expression_. `DisplaySlideMiniature`
+_expression_.**DisplaySlideMiniature**
 
 _expression_ A variable that represents a [View](PowerPoint.View.md) object.
 

@@ -18,7 +18,7 @@ Returns a **[Recipients](Outlook.Recipients.md)** collection that represents all
 
 ## Syntax
 
-_expression_. `Recipients`
+_expression_.**Recipients**
 
 _expression_ A variable that represents a [TaskItem](Outlook.TaskItem.md) object.
 

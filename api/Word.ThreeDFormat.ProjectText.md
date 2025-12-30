@@ -18,7 +18,7 @@ Returns or sets an **[MsoTriState](office.msotristate.md)** constant that repres
 
 ## Syntax
 
-_expression_. `ProjectText`
+_expression_.**ProjectText**
 
  _expression_ An expression that returns a '[ThreeDFormat](Word.ThreeDFormat.md)' object.
 

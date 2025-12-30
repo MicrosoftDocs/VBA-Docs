@@ -16,7 +16,7 @@ Gets a **[Resource](Project.Resource.md)** object from its containing collection
 
 ## Syntax
 
-_expression_. `UniqueID` (_Index_)
+_expression_.**UniqueID** (_Index_)
 
 _expression_ A variable that represents a 'Resources' object.
 

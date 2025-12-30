@@ -16,7 +16,7 @@ ms.localizationpriority: medium
 
 ## Syntax
 
-_expression_. `UpdateNeeded`
+_expression_.**UpdateNeeded**
 
 _expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
 

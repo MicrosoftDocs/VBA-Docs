@@ -18,7 +18,7 @@ Adds a copy of an existing **[ValidationRuleSet](Visio.ValidationRuleSet.md)** o
 
 ## Syntax
 
-_expression_. `AddCopy`( `_RuleSet_` , `_NameU_` )
+_expression_.**AddCopy**( `_RuleSet_` , `_NameU_` )
 
 _expression_ A variable that represents a **[ValidationRuleSets](Visio.ValidationRuleSets.md)** object.
 

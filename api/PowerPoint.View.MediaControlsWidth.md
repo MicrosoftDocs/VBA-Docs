@@ -18,7 +18,7 @@ Returns the width, in [points](../language/glossary/vbe-glossary.md#point), of t
 
 ## Syntax
 
-_expression_. `MediaControlsWidth`
+_expression_.**MediaControlsWidth**
 
 _expression_ A variable that represents a [View](PowerPoint.View.md) object.
 

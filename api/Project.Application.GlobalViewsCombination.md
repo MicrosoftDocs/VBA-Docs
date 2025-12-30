@@ -19,7 +19,7 @@ Gets or sets a **[ViewsCombination](Project.ViewCombination.md)** collection rep
 
 ## Syntax
 
-_expression_. `GlobalViewsCombination`
+_expression_.**GlobalViewsCombination**
 
 _expression_ A variable that represents an **[Application](Project.Application.md)** object.
 

@@ -18,7 +18,7 @@ Returns a **Boolean** value that indicates whether the **[IconView](Outlook.Icon
 
 ## Syntax
 
-_expression_. `Standard`
+_expression_.**Standard**
 
 _expression_ A variable that represents an [IconView](Outlook.IconView.md) object.
 

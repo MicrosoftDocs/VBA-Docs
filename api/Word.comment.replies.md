@@ -16,7 +16,7 @@ Returns a [Comments](Word.comments.md) collection of **Comment** objects that ar
 
 ## Syntax
 
-_expression_. `Replies`
+_expression_.**Replies**
 
 _expression_ A variable that represents a [Comment](./Word.Comment.md) object.
 

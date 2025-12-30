@@ -15,7 +15,7 @@ ms.localizationpriority: medium
 
 ## Syntax
 
-_expression_. `IncludeInLayout`
+_expression_.**IncludeInLayout**
 
  _expression_ An expression that returns a '[ChartTitle](PowerPoint.ChartTitle.md)' object.
 

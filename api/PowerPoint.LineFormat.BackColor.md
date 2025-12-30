@@ -18,7 +18,7 @@ Returns or sets a **[ColorFormat](PowerPoint.ColorFormat.md)** object that repre
 
 ## Syntax
 
-_expression_. `BackColor`
+_expression_.**BackColor**
 
 _expression_ A variable that represents a [LineFormat](PowerPoint.LineFormat.md) object.
 

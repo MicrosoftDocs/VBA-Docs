@@ -18,7 +18,7 @@ Returns an **XMLNode** object that represents the last child node of an XML elem
 
 ## Syntax
 
-_expression_. `LastChild`
+_expression_.**LastChild**
 
  _expression_ An expression that returns an '[XMLNode](Word.XMLNode.md)' object.
 

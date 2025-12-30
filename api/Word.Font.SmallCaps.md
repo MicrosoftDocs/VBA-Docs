@@ -18,7 +18,7 @@ ms.localizationpriority: medium
 
 ## Syntax
 
-_expression_. `SmallCaps`
+_expression_.**SmallCaps**
 
  _expression_ An expression that returns a **[Font](Word.Font.md)** object.
 

@@ -16,7 +16,7 @@ Occurs before a project is closed.
 
 ## Syntax
 
-_expression_. `BeforeClose`( `_pj_` )
+_expression_.**BeforeClose**( `_pj_` )
 
  _expression_ An expression that returns a **[Project](project.project.md)** object.
 

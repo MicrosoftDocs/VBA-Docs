@@ -16,7 +16,7 @@ Gets the overtime work for a resource. Read-only **Variant**.
 
 ## Syntax
 
-_expression_. `OvertimeWork`
+_expression_.**OvertimeWork**
 
 _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 

@@ -18,7 +18,7 @@ Returns or sets the way line numbering runs — that is, whether it starts over 
 
 ## Syntax
 
-_expression_. `RestartMode`
+_expression_.**RestartMode**
 
 _expression_ Required. A variable that represents a '[LineNumbering](Word.LineNumbering.md)' object.
 

@@ -18,7 +18,7 @@ Determines whether the specified slide displays the background objects on the sl
 
 ## Syntax
 
-_expression_. `DisplayMasterShapes`
+_expression_.**DisplayMasterShapes**
 
 _expression_ A variable that represents a [Slide](PowerPoint.Slide.md) object.
 

@@ -18,7 +18,7 @@ Returns or sets an array of **String** elements that represents the categories e
 
 ## Syntax
 
-_expression_. `Categories`
+_expression_.**Categories**
 
 _expression_ A variable that represents a [CategoryRuleCondition](Outlook.CategoryRuleCondition.md) object.
 

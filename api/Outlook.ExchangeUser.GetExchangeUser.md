@@ -18,7 +18,7 @@ Returns the **[ExchangeUser](Outlook.ExchangeUser.md)** object.
 
 ## Syntax
 
-_expression_. `GetExchangeUser`
+_expression_.**GetExchangeUser**
 
 _expression_ A variable that represents an [ExchangeUser](Outlook.ExchangeUser.md) object.
 

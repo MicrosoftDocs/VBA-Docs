@@ -18,7 +18,7 @@ ms.localizationpriority: medium
 
 ## Syntax
 
-_expression_. `DisplayRightRuler`
+_expression_.**DisplayRightRuler**
 
  _expression_ An expression that returns a **[Window](Word.Window.md)** object.
 

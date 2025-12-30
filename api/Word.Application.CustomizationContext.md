@@ -18,7 +18,7 @@ Returns or sets a **[Template](Word.Template.md)** or **[Document](Word.Document
 
 ## Syntax
 
-_expression_. `CustomizationContext`
+_expression_.**CustomizationContext**
 
 _expression_ A variable that represents an **[Application](Word.Application.md)** object. 
 

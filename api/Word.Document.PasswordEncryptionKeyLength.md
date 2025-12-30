@@ -18,7 +18,7 @@ Returns a **Long** indicating the key length of the algorithm Microsoft Word use
 
 ## Syntax
 
-_expression_. `PasswordEncryptionKeyLength`
+_expression_.**PasswordEncryptionKeyLength**
 
 _expression_ A variable that represents a **[Document](Word.Document.md)** object.
 

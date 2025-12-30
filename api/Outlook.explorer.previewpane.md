@@ -16,7 +16,7 @@ The [PreviewPane](Outlook.previewpane.md) object displays content in a "single p
 
 ## Syntax
 
-_expression_. `PreviewPane`
+_expression_.**PreviewPane**
 
 _expression_ A variable that represents an **[Explorer](Outlook.Explorer.md)** object.
 

@@ -18,7 +18,7 @@ Shrinks the selection to the next smaller unit of text.
 
 ## Syntax
 
-_expression_. `Shrink`
+_expression_.**Shrink**
 
 _expression_ A variable that represents a **[Selection](Word.Selection.md)** object.
 

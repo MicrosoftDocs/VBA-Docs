@@ -18,7 +18,7 @@ Returns or sets an East Asian language for the specified object. Read/write **Wd
 
 ## Syntax
 
-_expression_. `LanguageIDFarEast`
+_expression_.**LanguageIDFarEast**
 
 _expression_ Required. A variable that represents a '[Template](Word.Template.md)' object.
 

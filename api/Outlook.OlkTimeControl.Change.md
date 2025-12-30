@@ -18,7 +18,7 @@ Occurs when the **[Value](Outlook.OlkTimeControl.Value.md)** property changes.
 
 ## Syntax
 
-_expression_. `Change`
+_expression_.**Change**
 
 _expression_ A variable that represents an [OlkTimeControl](Outlook.OlkTimeControl.md) object.
 

@@ -18,7 +18,7 @@ Returns a **[PropertyAccessor](Outlook.PropertyAccessor.md)** object that suppor
 
 ## Syntax
 
-_expression_. `PropertyAccessor`
+_expression_.**PropertyAccessor**
 
 _expression_ A variable that represents a [TaskRequestAcceptItem](Outlook.TaskRequestAcceptItem.md) object.
 

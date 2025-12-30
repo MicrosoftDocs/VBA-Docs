@@ -18,7 +18,7 @@ ms.localizationpriority: medium
 
 ## Syntax
 
-_expression_. `DisableLineHeightGrid`
+_expression_.**DisableLineHeightGrid**
 
 _expression_ A variable that represents a '[Paragraph](Word.Paragraph.md)' object.
 

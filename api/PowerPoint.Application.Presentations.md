@@ -18,7 +18,7 @@ Returns a **[Presentations](PowerPoint.Presentations.md)** collection that repre
 
 ## Syntax
 
-_expression_. `Presentations`
+_expression_.**Presentations**
 
 _expression_ A variable that represents an **[Application](PowerPoint.Application.md)** object.
 

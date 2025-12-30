@@ -18,7 +18,7 @@ ms.localizationpriority: medium
 
 ## Syntax
 
-_expression_. `CanOpen`
+_expression_.**CanOpen**
 
 _expression_ A variable that represents a '[FileConverter](Word.FileConverter.md)' object.
 

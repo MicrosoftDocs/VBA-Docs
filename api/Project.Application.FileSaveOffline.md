@@ -19,7 +19,7 @@ Saves the file for viewing offline.
 
 ## Syntax
 
-_expression_. `FileSaveOffline`( `_Save_` )
+_expression_.**FileSaveOffline**( `_Save_` )
 
 _expression_ A variable that represents an **[Application](Project.Application.md)** object.
 

@@ -18,7 +18,7 @@ Returns or sets the ending heading level for a table of figures. Read/write **Lo
 
 ## Syntax
 
-_expression_. `LowerHeadingLevel`
+_expression_.**LowerHeadingLevel**
 
 _expression_ Required. A variable that represents a '[TableOfFigures](Word.TableOfFigures.md)' collection.
 

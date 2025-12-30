@@ -18,7 +18,7 @@ Returns or sets a **String** representing the billing information associated wit
 
 ## Syntax
 
-_expression_. `BillingInformation`
+_expression_.**BillingInformation**
 
 _expression_ A variable that represents a [DistListItem](Outlook.DistListItem.md) object.
 

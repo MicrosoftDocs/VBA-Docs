@@ -19,7 +19,7 @@ ms.localizationpriority: medium
 
 ## Syntax
 
-_expression_. `Manual`
+_expression_.**Manual**
 
  _expression_ An expression that returns a [Task](./Project.Task.md) object.
 

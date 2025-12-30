@@ -17,7 +17,7 @@ Returns the proposed start date for the engagement. Read-only **DateType**. Intr
 
 ## Syntax
 
-_expression_. `EngagementProposedStart`
+_expression_.**EngagementProposedStart**
 
 _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 

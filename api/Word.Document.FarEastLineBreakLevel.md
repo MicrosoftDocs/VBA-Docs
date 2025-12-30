@@ -18,7 +18,7 @@ Returns or sets a **WdFarEastLineBreakLevel** that represents the line break con
 
 ## Syntax
 
-_expression_. `FarEastLineBreakLevel`
+_expression_.**FarEastLineBreakLevel**
 
 _expression_ Required. A variable that represents a **[Document](Word.Document.md)** object.
 

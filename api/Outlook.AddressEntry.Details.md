@@ -18,7 +18,7 @@ Displays a modeless dialog box that provides detailed information about an **[Ad
 
 ## Syntax
 
-_expression_. `Details`( `_HWnd_` )
+_expression_.**Details**( `_HWnd_` )
 
  _expression_ An expression that returns a [AddressEntry](Outlook.AddressEntry.md) object.
 

@@ -16,7 +16,7 @@ Gets the name of the active view for a project. Read-only **String**.
 
 ## Syntax
 
-_expression_. `CurrentView`
+_expression_.**CurrentView**
 
 _expression_ A variable that represents a **[Project](project.project.md)** object.
 

@@ -18,7 +18,7 @@ Resizes the page, or the master's page, to fit tightly around the shapes or mast
 
 ## Syntax
 
-_expression_. `ResizeToFitContents`
+_expression_.**ResizeToFitContents**
 
 _expression_ A variable that represents a **[Page](Visio.Page.md)** object.
 

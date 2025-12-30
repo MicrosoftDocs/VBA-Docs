@@ -19,7 +19,7 @@ Gets a **[ViewsCombination](Project.ViewCombination.md)** collection representin
 
 ## Syntax
 
-_expression_. `ViewsCombination`
+_expression_.**ViewsCombination**
 
 _expression_ A variable that represents a **[Project](project.project.md)** object.
 

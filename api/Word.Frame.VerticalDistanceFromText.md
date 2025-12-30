@@ -18,7 +18,7 @@ Returns or sets the vertical distance (in points) between a frame and the surrou
 
 ## Syntax
 
-_expression_. `VerticalDistanceFromText`
+_expression_.**VerticalDistanceFromText**
 
  _expression_ An expression that returns a '[Frame](Word.Frame.md)' object.
 

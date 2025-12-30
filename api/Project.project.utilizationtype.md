@@ -14,7 +14,7 @@ If the [Project.UtilizationType property (Project)](Project.project.utilizationt
 
 ## Syntax
 
-_expression_. `UtilizationType`
+_expression_.**UtilizationType**
 
 _expression_ A variable that represents a **[Project](project.project.md)** object.
 

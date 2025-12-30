@@ -18,7 +18,7 @@ Returns or sets an **[OlImportance](Outlook.OlImportance.md)** constant indicati
 
 ## Syntax
 
-_expression_. `Importance`
+_expression_.**Importance**
 
 _expression_ A variable that represents a [TaskRequestUpdateItem](Outlook.TaskRequestUpdateItem.md) object.
 

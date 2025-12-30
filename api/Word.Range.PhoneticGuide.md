@@ -18,7 +18,7 @@ Adds phonetic guides to the specified range.
 
 ## Syntax
 
-_expression_. `PhoneticGuide`( `_Text_` , `_Alignment_` , `_Raise_` , `_FontSize_` , `_FontName_` )
+_expression_.**PhoneticGuide**( `_Text_` , `_Alignment_` , `_Raise_` , `_FontSize_` , `_FontName_` )
 
 _expression_ Required. A variable that represents a **[Range](Word.Range.md)** object.
 

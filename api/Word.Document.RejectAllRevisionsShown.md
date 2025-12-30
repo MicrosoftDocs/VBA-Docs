@@ -18,7 +18,7 @@ Rejects all revisions in a document that are displayed on the screen.
 
 ## Syntax
 
-_expression_. `RejectAllRevisionsShown`
+_expression_.**RejectAllRevisionsShown**
 
 _expression_ Required. A variable that represents a **[Document](Word.Document.md)** object.
 

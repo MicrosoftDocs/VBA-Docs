@@ -16,7 +16,7 @@ ms.localizationpriority: medium
 
 ## Syntax
 
-_expression_. `HonorConstraints`
+_expression_.**HonorConstraints**
 
 _expression_ A variable that represents a **[Project](project.project.md)** object.
 

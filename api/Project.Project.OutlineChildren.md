@@ -16,7 +16,7 @@ Gets a **[Tasks](Project.Task.md)** collection representing the children of a ta
 
 ## Syntax
 
-_expression_. `OutlineChildren`
+_expression_.**OutlineChildren**
 
 _expression_ A variable that represents a **[Project](project.project.md)** object.
 

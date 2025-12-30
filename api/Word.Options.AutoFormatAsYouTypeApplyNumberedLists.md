@@ -18,7 +18,7 @@ ms.localizationpriority: medium
 
 ## Syntax
 
-_expression_. `AutoFormatAsYouTypeApplyNumberedLists`
+_expression_.**AutoFormatAsYouTypeApplyNumberedLists**
 
 _expression_ A variable that represents an **[Options](Word.Options.md)** object.
 

@@ -14,7 +14,7 @@ Indicates the number of bars in a **Timeline** view. Introduced in Office 2016.
 
 ## Syntax
 
-_expression_. `BarCount`
+_expression_.**BarCount**
 
 _expression_ A variable that represents a 'Timeline' object.
 

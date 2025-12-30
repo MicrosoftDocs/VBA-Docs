@@ -18,7 +18,7 @@ Returns or sets the extent to which the colors in the specified object follow th
 
 ## Syntax
 
-_expression_. `FollowColors`
+_expression_.**FollowColors**
 
 _expression_ A variable that represents a [OLEFormat](PowerPoint.OLEFormat.md) object.
 

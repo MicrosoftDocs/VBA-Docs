@@ -19,7 +19,7 @@ Arranges all of the open windows in Project.
 
 ## Syntax
 
-_expression_. `WindowArrangeAll`
+_expression_.**WindowArrangeAll**
 
 _expression_ A variable that represents an **[Application](Project.Application.md)** object.
 

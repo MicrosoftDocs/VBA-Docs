@@ -18,7 +18,7 @@ Returns an **[OlBusinessCardType](Outlook.OlBusinessCardType.md)** constant that
 
 ## Syntax
 
-_expression_. `BusinessCardType`
+_expression_.**BusinessCardType**
 
 _expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 

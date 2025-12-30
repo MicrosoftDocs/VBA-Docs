@@ -18,7 +18,7 @@ Returns the title of the specified chart. Read-only **[ChartTitle](Word.ChartTit
 
 ## Syntax
 
-_expression_. `ChartTitle`
+_expression_.**ChartTitle**
 
 _expression_ A variable that represents a **[Chart](Word.Chart.md)** object.
 

@@ -16,7 +16,7 @@ Gets the **[Profile](Project.Profile.md)** object of the current account. Read-o
 
 ## Syntax
 
-_expression_. `ActiveProfile`
+_expression_.**ActiveProfile**
 
 _expression_ A variable that represents a 'Profiles' object.
 

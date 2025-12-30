@@ -18,7 +18,7 @@ Returns the Microsoft Office **[DocumentInspectors](Office.DocumentInspectors.md
 
 ## Syntax
 
-_expression_. `DocumentInspectors`
+_expression_.**DocumentInspectors**
 
  _expression_ An expression that returns a [Presentation](PowerPoint.Presentation.md) object.
 

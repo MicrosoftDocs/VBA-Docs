@@ -18,7 +18,7 @@ Returns or sets a **[WdOMathJc](Word.WdOMathJc.md)** constant that represents th
 
 ## Syntax
 
-_expression_. `OMathJc`
+_expression_.**OMathJc**
 
  _expression_ An expression that returns a **[Document](Word.Document.md)** object.
 

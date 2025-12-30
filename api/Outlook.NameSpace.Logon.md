@@ -18,7 +18,7 @@ Logs the user on to MAPI, obtaining a MAPI session.
 
 ## Syntax
 
-_expression_. `Logon`( `_Profile_` , `_Password_` , `_ShowDialog_` , `_NewSession_` )
+_expression_.**Logon**( `_Profile_` , `_Password_` , `_ShowDialog_` , `_NewSession_` )
 
 _expression_ A variable that represents a [NameSpace](Outlook.NameSpace.md) object.
 

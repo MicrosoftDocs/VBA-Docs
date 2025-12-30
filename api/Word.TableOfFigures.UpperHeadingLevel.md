@@ -18,7 +18,7 @@ Returns or sets the starting heading level for a table of figures. Read/write **
 
 ## Syntax
 
-_expression_. `UpperHeadingLevel`
+_expression_.**UpperHeadingLevel**
 
 _expression_ Required. A variable that represents a '[TableOfFigures](Word.TableOfFigures.md)' collection.
 

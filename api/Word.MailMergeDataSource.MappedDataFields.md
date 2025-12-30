@@ -18,7 +18,7 @@ Returns a **[MappedDataFields](Word.MappedDataFields.md)** collection that repre
 
 ## Syntax
 
-_expression_. `MappedDataFields`
+_expression_.**MappedDataFields**
 
  _expression_ An expression that returns a '[MailMergeDataSource](Word.MailMergeDataSource.md)' object.
 

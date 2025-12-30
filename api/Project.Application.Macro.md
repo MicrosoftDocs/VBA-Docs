@@ -19,7 +19,7 @@ Runs a macro.
 
 ## Syntax
 
-_expression_. `Macro`( `_Name_` )
+_expression_.**Macro**( `_Name_` )
 
 _expression_ A variable that represents an **[Application](Project.Application.md)** object.
 

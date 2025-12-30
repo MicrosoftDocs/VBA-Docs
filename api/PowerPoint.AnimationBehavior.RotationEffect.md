@@ -18,7 +18,7 @@ Returns a **[RotationEffect](PowerPoint.RotationEffect.md)** object for an anima
 
 ## Syntax
 
-_expression_. `RotationEffect`
+_expression_.**RotationEffect**
 
 _expression_ A variable that represents an [AnimationBehavior](PowerPoint.AnimationBehavior.md) object.
 

@@ -18,7 +18,7 @@ Returns a list of antonyms for the word or phrase. The list is returned as an ar
 
 ## Syntax
 
-_expression_. `AntonymList`
+_expression_.**AntonymList**
 
  _expression_ An expression that returns a '[SynonymInfo](Word.SynonymInfo.md)' object.
 

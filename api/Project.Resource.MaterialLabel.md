@@ -16,7 +16,7 @@ Gets or sets the label for a material resource. Read/write **String**.
 
 ## Syntax
 
-_expression_. `MaterialLabel`
+_expression_.**MaterialLabel**
 
 _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 

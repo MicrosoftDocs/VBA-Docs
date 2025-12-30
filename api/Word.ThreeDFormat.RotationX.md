@@ -18,7 +18,7 @@ Returns or sets the rotation of the extruded shape around the x-axis in degrees.
 
 ## Syntax
 
-_expression_. `RotationX`
+_expression_.**RotationX**
 
  _expression_ An expression that returns a '[ThreeDFormat](Word.ThreeDFormat.md)' object.
 

@@ -18,7 +18,7 @@ Returns a **Boolean** that represents whether a comment is a handwritten comment
 
 ## Syntax
 
-_expression_. `IsInk`
+_expression_.**IsInk**
 
  _expression_ An expression that returns a '[Comment](Word.Comment.md)' object.
 

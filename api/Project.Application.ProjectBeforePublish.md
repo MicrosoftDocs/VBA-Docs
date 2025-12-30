@@ -16,7 +16,7 @@ Occurs before a **Publish** operation is placed on the server queue. The **Proje
 
 ## Syntax
 
-_expression_. `ProjectBeforePublish`( `_pj_`, `_Cancel_` )
+_expression_.**ProjectBeforePublish**( `_pj_`, `_Cancel_` )
 
 _expression_ A variable that represents an **[Application](Project.Application.md)** object.
 

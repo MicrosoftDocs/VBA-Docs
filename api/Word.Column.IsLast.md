@@ -18,7 +18,7 @@ ms.localizationpriority: medium
 
 ## Syntax
 
-_expression_. `IsLast`
+_expression_.**IsLast**
 
 _expression_ Required. A variable that represents a '[Column](Word.Column.md)' object.
 

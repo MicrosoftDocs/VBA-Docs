@@ -18,7 +18,7 @@ Returns or sets a **String** representing the HTML body of the specified item. R
 
 ## Syntax
 
-_expression_. `HTMLBody`
+_expression_.**HTMLBody**
 
 _expression_ A variable that represents a [PostItem](Outlook.PostItem.md) object.
 

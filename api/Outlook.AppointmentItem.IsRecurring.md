@@ -18,7 +18,7 @@ Returns a **Boolean** value that is **True** if the appointment is a recurring a
 
 ## Syntax
 
-_expression_. `IsRecurring`
+_expression_.**IsRecurring**
 
 _expression_ A variable that represents an [AppointmentItem](Outlook.AppointmentItem.md) object.
 

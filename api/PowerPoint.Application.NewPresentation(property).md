@@ -18,7 +18,7 @@ Returns a **NewFile** object that represents a presentation listed on the **New 
 
 ## Syntax
 
-_expression_. `NewPresentation`
+_expression_.**NewPresentation**
 
 _expression_ A variable that represents an **[Application](PowerPoint.Application.md)** object.
 

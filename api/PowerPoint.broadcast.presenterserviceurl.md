@@ -16,7 +16,7 @@ If a broadcast is in progress, returns a **String** that represents the URL of t
 
 ## Syntax
 
-_expression_. `PresenterServiceUrl`
+_expression_.**PresenterServiceUrl**
 
 _expression_ A variable that represents a [Broadcast](PowerPoint.Broadcast.md) object.
 

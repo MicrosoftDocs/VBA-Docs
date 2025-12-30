@@ -19,7 +19,7 @@ Minimizes the main window.
 
 ## Syntax
 
-_expression_. `AppMinimize`
+_expression_.**AppMinimize**
 
 _expression_ A variable that represents an **[Application](Project.Application.md)** object.
 

@@ -18,7 +18,7 @@ ms.localizationpriority: medium
 
 ## Syntax
 
-_expression_. `StrikeThrough`
+_expression_.**StrikeThrough**
 
 _expression_ A variable that represents a '[ChartFont](Word.ChartFont.md)' object.
 

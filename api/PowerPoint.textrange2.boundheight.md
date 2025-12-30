@@ -13,7 +13,7 @@ Gets the height, in [points](../language/glossary/vbe-glossary.md#point), of the
 
 ## Syntax
 
-_expression_. `BoundHeight`
+_expression_.**BoundHeight**
 
  _expression_ An expression that returns a 'TextRange2' object.
 

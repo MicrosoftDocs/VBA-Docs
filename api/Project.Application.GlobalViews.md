@@ -16,7 +16,7 @@ Gets or sets a **[Views](Project.View.md)** collection representing the views in
 
 ## Syntax
 
-_expression_. `GlobalViews`
+_expression_.**GlobalViews**
 
 _expression_ A variable that represents an **[Application](Project.Application.md)** object.
 

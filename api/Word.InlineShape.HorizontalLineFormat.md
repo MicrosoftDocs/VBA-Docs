@@ -18,7 +18,7 @@ Returns a **[HorizontalLineFormat](Word.HorizontalLineFormat.md)** object that c
 
 ## Syntax
 
-_expression_. `HorizontalLineFormat`
+_expression_.**HorizontalLineFormat**
 
 _expression_ A variable that represents a '[InlineShape](Word.InlineShape.md)' object.
 

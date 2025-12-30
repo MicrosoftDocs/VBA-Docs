@@ -18,7 +18,7 @@ Returns or sets a **Boolean** variable that indicates whether the **[NavigationF
 
 ## Syntax
 
-_expression_. `IsSelected`
+_expression_.**IsSelected**
 
 _expression_ A variable that represents a [NavigationFolder](Outlook.NavigationFolder.md) object.
 

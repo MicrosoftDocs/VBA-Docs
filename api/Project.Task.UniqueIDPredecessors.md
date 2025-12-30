@@ -19,7 +19,7 @@ Gets or sets the unique identification (**UniqueID**) numbers of the predecessor
 
 ## Syntax
 
-_expression_. `UniqueIDPredecessors`
+_expression_.**UniqueIDPredecessors**
 
 _expression_ A variable that represents a [Task](./Project.Task.md) object.
 

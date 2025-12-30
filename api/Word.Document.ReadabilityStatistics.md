@@ -18,7 +18,7 @@ Returns a **ReadabilityStatistics** collection that represents the readability s
 
 ## Syntax
 
-_expression_. `ReadabilityStatistics`
+_expression_.**ReadabilityStatistics**
 
 _expression_ A variable that represents a **[Document](Word.Document.md)** object.
 

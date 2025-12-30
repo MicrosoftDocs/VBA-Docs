@@ -18,7 +18,7 @@ Returns a string that's used to identify the portion of the source file that's b
 
 ## Syntax
 
-_expression_. `Label`
+_expression_.**Label**
 
  _expression_ An expression that returns an '[OLEFormat](Word.OLEFormat.md)' object.
 

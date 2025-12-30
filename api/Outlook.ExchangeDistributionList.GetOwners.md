@@ -18,7 +18,7 @@ Returns an **[AddressEntries](Outlook.AddressEntries.md)** collection object tha
 
 ## Syntax
 
-_expression_. `GetOwners`
+_expression_.**GetOwners**
 
 _expression_ A variable that represents an [ExchangeDistributionList](Outlook.ExchangeDistributionList.md) object.
 

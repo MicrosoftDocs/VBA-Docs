@@ -18,7 +18,7 @@ Cancels the current selection.
 
 ## Syntax
 
-_expression_. `Unselect`
+_expression_.**Unselect**
 
 _expression_ A variable that represents an [Selection](PowerPoint.Selection.md) object.
 

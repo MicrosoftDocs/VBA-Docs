@@ -18,7 +18,7 @@ Returns or sets the distance (in points) between the footer and the bottom of th
 
 ## Syntax
 
-_expression_. `FooterDistance`
+_expression_.**FooterDistance**
 
 _expression_ A variable that represents a **[PageSetup](Word.PageSetup.md)** object.
 

@@ -18,7 +18,7 @@ Returns or sets a **String** representing the initials for the contact. Read/wri
 
 ## Syntax
 
-_expression_. `Initials`
+_expression_.**Initials**
 
 _expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 

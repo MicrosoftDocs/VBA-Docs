@@ -18,7 +18,7 @@ ms.localizationpriority: medium
 
 ## Syntax
 
-_expression_. `Subtype`
+_expression_.**Subtype**
 
 _expression_ A variable that represents a [FilterEffect](PowerPoint.FilterEffect.md) object.
 

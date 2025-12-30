@@ -18,7 +18,7 @@ ms.localizationpriority: medium
 
 ## Syntax
 
-_expression_. `NameIsAuto`
+_expression_.**NameIsAuto**
 
 _expression_ A variable that represents a '[Trendline](PowerPoint.Trendline.md)' object.
 

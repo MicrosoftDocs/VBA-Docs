@@ -18,7 +18,7 @@ Returns or sets a **Boolean** that represents the positioning of n-ary limits in
 
 ## Syntax
 
-_expression_. `SubSupLim`
+_expression_.**SubSupLim**
 
  _expression_ An expression that returns an '[OMathNary](Word.OMathNary.md)' object.
 

@@ -18,7 +18,7 @@ Returns the width (in points) of the text bounding box for the specified text fr
 
 ## Syntax
 
-_expression_. `BoundWidth`
+_expression_.**BoundWidth**
 
 _expression_ A variable that represents a [TextRange](PowerPoint.TextRange.md) object.
 

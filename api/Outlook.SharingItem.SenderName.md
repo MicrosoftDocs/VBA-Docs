@@ -18,7 +18,7 @@ Returns a **String** indicating the display name of the sender for the **[Sharin
 
 ## Syntax
 
-_expression_. `SenderName`
+_expression_.**SenderName**
 
 _expression_ A variable that represents a [SharingItem](Outlook.SharingItem.md) object.
 

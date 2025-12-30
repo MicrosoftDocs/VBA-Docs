@@ -18,7 +18,7 @@ Sends an email message to the author of a document that has been sent out for re
 
 ## Syntax
 
-_expression_. `ReplyWithChanges`( `_ShowMessage_` )
+_expression_.**ReplyWithChanges**( `_ShowMessage_` )
 
 _expression_ Required. A variable that represents a **[Document](Word.Document.md)** object.
 

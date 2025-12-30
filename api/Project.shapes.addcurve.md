@@ -12,7 +12,7 @@ Adds a Bézier curve to a report, and returns a **Shape** object that represents
 
 ## Syntax
 
-_expression_. `AddCurve` _(SafeArrayOfPoints)_
+_expression_.**AddCurve** _(SafeArrayOfPoints)_
 
 _expression_ A variable that represents a **[Shapes](Project.Shapes.md)** object.
 

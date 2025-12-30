@@ -18,7 +18,7 @@ Returns a **[MailMerge](Word.MailMerge.md)** object that represents the mail mer
 
 ## Syntax
 
-_expression_. `MailMerge`
+_expression_.**MailMerge**
 
 _expression_ A variable that represents a **[Document](Word.Document.md)** object.
 

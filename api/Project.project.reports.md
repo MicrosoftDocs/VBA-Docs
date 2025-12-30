@@ -12,7 +12,7 @@ Gets the collection of custom reports in the project. Read-only **Reports**.
 
 ## Syntax
 
-_expression_. `Reports`
+_expression_.**Reports**
 
 _expression_ A variable that represents a **[Project](project.project.md)** object.
 

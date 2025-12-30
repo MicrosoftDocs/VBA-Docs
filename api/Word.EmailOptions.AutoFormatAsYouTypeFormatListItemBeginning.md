@@ -18,7 +18,7 @@ ms.localizationpriority: medium
 
 ## Syntax
 
-_expression_. `AutoFormatAsYouTypeFormatListItemBeginning`
+_expression_.**AutoFormatAsYouTypeFormatListItemBeginning**
 
 _expression_ A variable that represents an '[EmailOptions](Word.EmailOptions.md)' collection.
 

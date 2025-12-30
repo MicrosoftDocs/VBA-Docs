@@ -18,7 +18,7 @@ Returns a constant in the **[OlRuleConditionType](Outlook.OlRuleConditionType.md
 
 ## Syntax
 
-_expression_. `ConditionType`
+_expression_.**ConditionType**
 
 _expression_ A variable that represents a [RuleCondition](Outlook.RuleCondition.md) object.
 

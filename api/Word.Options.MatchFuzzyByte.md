@@ -18,7 +18,7 @@ ms.localizationpriority: medium
 
 ## Syntax
 
-_expression_. `MatchFuzzyByte`
+_expression_.**MatchFuzzyByte**
 
  _expression_ An expression that returns an **[Options](Word.Options.md)** object.
 

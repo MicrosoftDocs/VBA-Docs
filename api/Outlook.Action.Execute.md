@@ -18,7 +18,7 @@ Executes the action for the specified item.
 
 ## Syntax
 
-_expression_. `Execute`
+_expression_.**Execute**
 
  _expression_ An expression that returns a [Action](Outlook.Action.md) object.
 

@@ -16,7 +16,7 @@ Gets the variance between the baseline work and the work for the task. Read-only
 
 ## Syntax
 
-_expression_. `WorkVariance`
+_expression_.**WorkVariance**
 
 _expression_ A variable that represents a [Task](./Project.Task.md) object.
 

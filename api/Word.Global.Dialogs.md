@@ -18,7 +18,7 @@ Returns a **[Dialogs](Word.dialogs.md)** collection that represents all the buil
 
 ## Syntax
 
-_expression_. `Dialogs`
+_expression_.**Dialogs**
 
 _expression_ A variable that represents a '[Global](Word.Global.md)' object.
 

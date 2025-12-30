@@ -19,7 +19,7 @@ Resets the active table to the default table definition.
 
 ## Syntax
 
-_expression_. `TableReset`
+_expression_.**TableReset**
 
  _expression_ An expression that returns an **[Application](Project.Application.md)** object.
 

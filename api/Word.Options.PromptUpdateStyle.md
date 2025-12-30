@@ -18,7 +18,7 @@ ms.localizationpriority: medium
 
 ## Syntax
 
-_expression_. `PromptUpdateStyle`
+_expression_.**PromptUpdateStyle**
 
 _expression_ A variable that represents a '[Options](Word.Options.md)' object.
 

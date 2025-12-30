@@ -18,7 +18,7 @@ Gets or sets the line style on which a **Style** object is based. Read/write.
 
 ## Syntax
 
-_expression_. `LineBasedOn`
+_expression_.**LineBasedOn**
 
 _expression_ A variable that represents a **[Style](Visio.Style.md)** object.
 

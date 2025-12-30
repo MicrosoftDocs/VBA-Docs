@@ -16,7 +16,7 @@ ms.localizationpriority: medium
 
 ## Syntax
 
-_expression_. `ManuallyScheduledTasksAutoRespectLinks`
+_expression_.**ManuallyScheduledTasksAutoRespectLinks**
 
  _expression_ An expression that returns a **[Project](project.project.md)** object.
 

@@ -16,7 +16,7 @@ Gets or sets the default task type. Read/write **PjTaskFixedType**.
 
 ## Syntax
 
-_expression_. `DefaultTaskType`
+_expression_.**DefaultTaskType**
 
 _expression_ A variable that represents a **[Project](project.project.md)** object.
 

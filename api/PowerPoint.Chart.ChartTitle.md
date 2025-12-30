@@ -18,7 +18,7 @@ Returns the title of the specified chart. Read-only **[ChartTitle](PowerPoint.Ch
 
 ## Syntax
 
-_expression_. `ChartTitle`
+_expression_.**ChartTitle**
 
 _expression_ A variable that represents a **[Chart](PowerPoint.Chart.md)** object.
 

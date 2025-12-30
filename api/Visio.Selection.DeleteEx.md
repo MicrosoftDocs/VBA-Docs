@@ -18,7 +18,7 @@ Deletes additional shapes associated with the selection, such as connectors and 
 
 ## Syntax
 
-_expression_. `DeleteEx`( `_DelFlags_` )
+_expression_.**DeleteEx**( `_DelFlags_` )
 
 _expression_ A variable that represents a **[Selection](Visio.Selection.md)** object.
 

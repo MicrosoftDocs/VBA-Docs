@@ -16,7 +16,7 @@ Gets or sets whether drawing guides are displayed in the application.
 
 ## Syntax
 
-_expression_. `DisplayGuides`
+_expression_.**DisplayGuides**
 
 _expression_ A variable that represents an **[Application](PowerPoint.Application.md)** object.
 

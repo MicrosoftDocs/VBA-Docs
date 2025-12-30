@@ -18,7 +18,7 @@ Sends a status report to all Cc recipients (recipients returned by the **[Status
 
 ## Syntax
 
-_expression_. `StatusReport`
+_expression_.**StatusReport**
 
 _expression_ A variable that represents a [TaskItem](Outlook.TaskItem.md) object.
 

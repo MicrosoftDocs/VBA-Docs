@@ -16,7 +16,7 @@ Sets the leveling range to include the entire project.
 
 ## Syntax
 
-_expression_. `LevelClearDates`
+_expression_.**LevelClearDates**
 
 _expression_ A variable that represents a **[Project](project.project.md)** object.
 

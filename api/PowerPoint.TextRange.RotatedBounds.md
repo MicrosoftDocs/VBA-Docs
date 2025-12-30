@@ -18,7 +18,7 @@ Returns the coordinates of the vertices of the text bounding box for the specifi
 
 ## Syntax
 
-_expression_. `RotatedBounds`( `_X1_`, `_Y1_`, `_X2_`, `_Y2_`, `_X3_`, `_Y3_`, `_X4_`, `_Y4_` )
+_expression_.**RotatedBounds**( `_X1_`, `_Y1_`, `_X2_`, `_Y2_`, `_X3_`, `_Y3_`, `_X4_`, `_Y4_` )
 
 _expression_ A variable that represents a [TextRange](PowerPoint.TextRange.md) object.
 

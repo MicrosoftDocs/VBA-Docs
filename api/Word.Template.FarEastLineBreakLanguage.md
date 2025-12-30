@@ -18,7 +18,7 @@ Returns or sets the East Asian language to use when breaking lines of text in th
 
 ## Syntax
 
-_expression_. `FarEastLineBreakLanguage`
+_expression_.**FarEastLineBreakLanguage**
 
 _expression_ Required. A variable that represents a '[Template](Word.Template.md)' object.
 

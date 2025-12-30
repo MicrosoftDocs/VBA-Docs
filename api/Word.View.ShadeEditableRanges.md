@@ -18,7 +18,7 @@ Returns or sets a **Long** that represents whether shading is applied to the ran
 
 ## Syntax
 
-_expression_. `ShadeEditableRanges`
+_expression_.**ShadeEditableRanges**
 
  _expression_ An expression that returns a '[View](Word.View.md)' object.
 

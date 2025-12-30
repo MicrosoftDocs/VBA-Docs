@@ -18,7 +18,7 @@ Returns a **String** that represents the author as for a specified **[Comment](P
 
 ## Syntax
 
-_expression_. `Author`
+_expression_.**Author**
 
 _expression_ A variable that represents an [Comment](PowerPoint.Comment.md) object.
 

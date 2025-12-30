@@ -18,7 +18,7 @@ ms.localizationpriority: medium
 
 ## Syntax
 
-_expression_. `HasChart`
+_expression_.**HasChart**
 
  _expression_ An expression that returns a [Shape](./Word.Shape.md) object.
 

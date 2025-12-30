@@ -18,7 +18,7 @@ Gets and sets the path and file name of a Microsoft Visio document (usually a st
 
 ## Syntax
 
-_expression_. `TargetDocumentName`
+_expression_.**TargetDocumentName**
 
 _expression_ A variable that represents a **[MasterShortcut](Visio.MasterShortcut.md)** object.
 

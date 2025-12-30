@@ -18,7 +18,7 @@ Returns a **[WdXMLNodeLevel](overview/Word.md)** constant that represents whethe
 
 ## Syntax
 
-_expression_. `Level`
+_expression_.**Level**
 
  _expression_ An expression that returns an '[XMLNode](Word.XMLNode.md)' object.
 

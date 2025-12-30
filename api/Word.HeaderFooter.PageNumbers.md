@@ -18,7 +18,7 @@ Returns a **[PageNumbers](Word.pagenumbers.md)** collection that represents all 
 
 ## Syntax
 
-_expression_. `PageNumbers`
+_expression_.**PageNumbers**
 
  _expression_ An expression that returns a '[HeaderFooter](Word.HeaderFooter.md)' object.
 

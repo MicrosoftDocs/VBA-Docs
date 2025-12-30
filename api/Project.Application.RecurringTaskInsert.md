@@ -19,7 +19,7 @@ Displays the **Recurring Task Information** dialog box, which prompts the user t
 
 ## Syntax
 
-_expression_. `RecurringTaskInsert`
+_expression_.**RecurringTaskInsert**
 
 _expression_ A variable that represents an **[Application](Project.Application.md)** object.
 

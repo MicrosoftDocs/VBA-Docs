@@ -18,7 +18,7 @@ ms.localizationpriority: medium
 
 ## Syntax
 
-_expression_. `SpellingChecked`
+_expression_.**SpellingChecked**
 
 _expression_ A variable that represents a **[Range](Word.Range.md)** object.
 

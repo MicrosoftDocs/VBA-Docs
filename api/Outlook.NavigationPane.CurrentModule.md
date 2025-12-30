@@ -18,7 +18,7 @@ Returns or sets a **[NavigationModule](Outlook.NavigationModule.md)** object tha
 
 ## Syntax
 
-_expression_. `CurrentModule`
+_expression_.**CurrentModule**
 
 _expression_ A variable that represents a [NavigationPane](Outlook.NavigationPane.md) object.
 

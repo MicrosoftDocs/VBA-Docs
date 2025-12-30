@@ -18,7 +18,7 @@ Converts all footnotes in a document to endnotes and vice versa.To convert a ran
 
 ## Syntax
 
-_expression_. `SwapWithEndnotes`
+_expression_.**SwapWithEndnotes**
 
 _expression_ Required. A variable that represents a '[Footnotes](Word.footnotes.md)' collection.
 

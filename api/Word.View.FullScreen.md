@@ -18,7 +18,7 @@ ms.localizationpriority: medium
 
 ## Syntax
 
-_expression_. `FullScreen`
+_expression_.**FullScreen**
 
 _expression_ A variable that represents a '[View](Word.View.md)' object.
 

@@ -18,7 +18,7 @@ Sets or returns a **Variant** that represents the value or ending value of the *
 
 ## Syntax
 
-_expression_. `To`
+_expression_.**To**
 
 _expression_ A variable that represents a [SetEffect](PowerPoint.SetEffect.md) object.
 

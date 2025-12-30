@@ -18,7 +18,7 @@ Returns or sets the number of enclosures for a letter created by the Letter Wiza
 
 ## Syntax
 
-_expression_. `EnclosureNumber`
+_expression_.**EnclosureNumber**
 
 _expression_ A variable that represents a '[LetterContent](Word.LetterContent.md)' object.
 

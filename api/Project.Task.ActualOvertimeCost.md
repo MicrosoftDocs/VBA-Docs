@@ -16,7 +16,7 @@ Gets the actual overtime cost for a task. Read-only **Variant**.
 
 ## Syntax
 
-_expression_. `ActualOvertimeCost`
+_expression_.**ActualOvertimeCost**
 
 _expression_ A variable that represents a [Task](./Project.Task.md) object.
 

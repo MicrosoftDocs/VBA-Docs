@@ -18,7 +18,7 @@ Returns a semicolon-delimited **String** list of reply recipients for the **[Sha
 
 ## Syntax
 
-_expression_. `ReplyRecipientNames`
+_expression_.**ReplyRecipientNames**
 
 _expression_ A variable that represents a [SharingItem](Outlook.SharingItem.md) object.
 

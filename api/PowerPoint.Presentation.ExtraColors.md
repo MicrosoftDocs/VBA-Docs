@@ -18,7 +18,7 @@ Returns an **[ExtraColors](PowerPoint.ExtraColors.md)** object that represents t
 
 ## Syntax
 
-_expression_. `ExtraColors`
+_expression_.**ExtraColors**
 
 _expression_ A variable that represents an [Presentation](PowerPoint.Presentation.md) object.
 

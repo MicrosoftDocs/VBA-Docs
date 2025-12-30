@@ -18,7 +18,7 @@ Returns a **Long** that represents the nesting level for an **OMath** object. Re
 
 ## Syntax
 
-_expression_. `NestingLevel`
+_expression_.**NestingLevel**
 
  _expression_ An expression that returns an '[OMath](Word.OMath.md)' object.
 

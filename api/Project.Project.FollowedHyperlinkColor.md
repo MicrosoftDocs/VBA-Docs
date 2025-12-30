@@ -19,7 +19,7 @@ Gets or sets the color used to denote followed hyperlinks. Read/write **PjColor*
 
 ## Syntax
 
-_expression_. `FollowedHyperlinkColor`
+_expression_.**FollowedHyperlinkColor**
 
 _expression_ A variable that represents a **[Project](project.project.md)** object.
 

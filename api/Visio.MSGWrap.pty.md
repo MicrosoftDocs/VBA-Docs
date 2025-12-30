@@ -18,7 +18,7 @@ Gets or sets the **pt.y** member of the **MSG** structure being wrapped. Read/wr
 
 ## Syntax
 
-_expression_. `pty`
+_expression_.**pty**
 
 _expression_ A variable that represents an **[MSGWrap](Visio.MSGWrap.md)** object.
 

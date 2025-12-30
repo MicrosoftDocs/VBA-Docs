@@ -18,7 +18,7 @@ Gets or sets the value of the **Data1** field for a **Shape** object. Read/write
 
 ## Syntax
 
-_expression_. `Data1`
+_expression_.**Data1**
 
 _expression_ A variable that represents a **[Shape](Visio.Shape.md)** object.
 

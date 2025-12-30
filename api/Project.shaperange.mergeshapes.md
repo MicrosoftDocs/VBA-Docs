@@ -12,7 +12,7 @@ The **MergeShapes** method is not implemented in Project.
 
 ## Syntax
 
-_expression_. `MergeShapes` _(MergeCmd,_ _PrimaryShape)_
+_expression_.**MergeShapes** _(MergeCmd,_ _PrimaryShape)_
 
 _expression_ A variable that represents a 'ShapeRange' object.
 

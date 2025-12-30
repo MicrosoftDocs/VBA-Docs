@@ -18,7 +18,7 @@ Returns a **[StyleSheets](Word.StyleSheets.md)** collection that represents the 
 
 ## Syntax
 
-_expression_. `StyleSheets`
+_expression_.**StyleSheets**
 
  _expression_ An variable that represents a **[Document](Word.Document.md)** object.
 

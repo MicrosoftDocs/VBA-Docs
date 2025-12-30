@@ -16,7 +16,7 @@ Gets a **[ResourceGroups2](Project.resourcegroups2(object).md)** collection that
 
 ## Syntax
 
-_expression_. `ResourceGroups2`
+_expression_.**ResourceGroups2**
 
  _expression_ An expression that returns a **[Project](project.project.md)** object.
 

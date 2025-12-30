@@ -18,7 +18,7 @@ Returns or sets the icon that is used when the **[DisplayAsIcon](Word.OLEFormat.
 
 ## Syntax
 
-_expression_. `IconIndex`
+_expression_.**IconIndex**
 
  _expression_ An expression that returns an '[OLEFormat](Word.OLEFormat.md)' object.
 

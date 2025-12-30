@@ -18,7 +18,7 @@ Returns or sets a **WdCellColor** constant that represents the color for an inse
 
 ## Syntax
 
-_expression_. `InsertedCellColor`
+_expression_.**InsertedCellColor**
 
  _expression_ An expression that returns a '[Options](Word.Options.md)' object.
 

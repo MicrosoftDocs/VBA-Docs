@@ -18,7 +18,7 @@ ms.localizationpriority: medium
 
 ## Syntax
 
-_expression_. `IncludeHeaderFooter`
+_expression_.**IncludeHeaderFooter**
 
  _expression_ An expression that returns '[LetterContent](Word.LetterContent.md)' object.
 

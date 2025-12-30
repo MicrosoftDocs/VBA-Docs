@@ -18,7 +18,7 @@ Occurs after an existing presentation is opened, as it is added to the **[Presen
 
 ## Syntax
 
-_expression_. `PresentationOpen`( `_Pres_` )
+_expression_.**PresentationOpen**( `_Pres_` )
 
  _expression_ An expression that returns an **[Application](PowerPoint.Application.md)** object.
 

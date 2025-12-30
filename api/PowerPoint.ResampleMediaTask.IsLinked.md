@@ -18,7 +18,7 @@ Returns whether the sample is linked. Read-only.
 
 ## Syntax
 
-_expression_. `IsLinked`
+_expression_.**IsLinked**
 
 _expression_ A variable that represents a [ResampleMediaTask](PowerPoint.ResampleMediaTask.md) object.
 

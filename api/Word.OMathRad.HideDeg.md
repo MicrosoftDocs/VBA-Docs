@@ -18,7 +18,7 @@ Returns or sets a **Boolean** that represents whether to hide the degree for a r
 
 ## Syntax
 
-_expression_. `HideDeg`
+_expression_.**HideDeg**
 
  _expression_ An expression that returns an '[OMathRad](Word.OMathRad.md)' object.
 

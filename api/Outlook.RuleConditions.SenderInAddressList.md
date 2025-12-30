@@ -18,7 +18,7 @@ Returns a **[SenderInAddressListRuleCondition](Outlook.SenderInAddressListRuleCo
 
 ## Syntax
 
-_expression_. `SenderInAddressList`
+_expression_.**SenderInAddressList**
 
 _expression_ A variable that represents a [RuleConditions](Outlook.RuleConditions.md) object.
 

@@ -18,7 +18,7 @@ Returns or sets a **Single** that represents the left indent value (in points) f
 
 ## Syntax
 
-_expression_. `LeftIndent`
+_expression_.**LeftIndent**
 
 _expression_ A variable that represents an '[HTMLDivision](Word.HTMLDivision.md)' object.
 

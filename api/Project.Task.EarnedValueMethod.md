@@ -19,7 +19,7 @@ Gets or sets the method for calculating earned value for a task. Read/write **Pj
 
 ## Syntax
 
-_expression_. `EarnedValueMethod`
+_expression_.**EarnedValueMethod**
 
 _expression_ A variable that represents a [Task](./Project.Task.md) object.
 

@@ -18,7 +18,7 @@ Returns or sets an **[OlRemoteStatus](Outlook.OlRemoteStatus.md)** constant spec
 
 ## Syntax
 
-_expression_. `RemoteStatus`
+_expression_.**RemoteStatus**
 
 _expression_ A variable that represents a [SharingItem](Outlook.SharingItem.md) object.
 

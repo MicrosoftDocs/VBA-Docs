@@ -19,7 +19,7 @@ ms.localizationpriority: medium
 
 ## Syntax
 
-_expression_. `AutoWrap`
+_expression_.**AutoWrap**
 
 _expression_ A variable that represents a [TableField](./Project.TableField.md) object.
 

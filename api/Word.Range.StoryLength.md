@@ -18,7 +18,7 @@ Returns the number of characters in the story that contains the specified range.
 
 ## Syntax
 
-_expression_. `StoryLength`
+_expression_.**StoryLength**
 
 _expression_ A variable that represents a **[Range](Word.Range.md)** object.
 

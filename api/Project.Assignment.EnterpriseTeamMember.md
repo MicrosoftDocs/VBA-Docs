@@ -16,7 +16,7 @@ Indicates whether the specified assignment belongs to the project. **True** if t
 
 ## Syntax
 
-_expression_. `EnterpriseTeamMember`( `_Project_` )
+_expression_.**EnterpriseTeamMember**( `_Project_` )
 
 _expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
 

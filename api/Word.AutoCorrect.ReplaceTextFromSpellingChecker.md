@@ -18,7 +18,7 @@ ms.localizationpriority: medium
 
 ## Syntax
 
-_expression_. `ReplaceTextFromSpellingChecker`
+_expression_.**ReplaceTextFromSpellingChecker**
 
  _expression_ An expression that returns an '[AutoCorrect](Word.AutoCorrect.md)' object.
 

@@ -18,7 +18,7 @@ Returns or sets a **String** value that represents the accelerator or hot key fo
 
 ## Syntax
 
-_expression_. `Accelerator`
+_expression_.**Accelerator**
 
 _expression_ A variable that represents an [OlkCheckBox](Outlook.OlkCheckBox.md) object.
 

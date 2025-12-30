@@ -19,7 +19,7 @@ Gets a **[Tables](Project.tables.md)** collection that contains the resource tab
 
 ## Syntax
 
-_expression_. `ResourceTables`
+_expression_.**ResourceTables**
 
 _expression_ A variable that represents a **[Project](project.project.md)** object.
 

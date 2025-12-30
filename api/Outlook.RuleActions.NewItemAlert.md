@@ -18,7 +18,7 @@ Returns a **[NewItemAlertRuleAction](Outlook.NewItemAlertRuleAction.md)** object
 
 ## Syntax
 
-_expression_. `NewItemAlert`
+_expression_.**NewItemAlert**
 
 _expression_ A variable that represents a [RuleActions](Outlook.RuleActions.md) object.
 

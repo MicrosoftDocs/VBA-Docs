@@ -12,7 +12,7 @@ Gets an **Office.IMsoChartTitle** object that represents the title of the specif
 
 ## Syntax
 
-_expression_. `ChartTitle`
+_expression_.**ChartTitle**
 
 _expression_ A variable that represents a **[Chart](Project.Chart.md)** object.
 

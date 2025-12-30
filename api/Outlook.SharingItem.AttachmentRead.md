@@ -15,7 +15,7 @@ Occurs when an attachment in an instance of the parent object has been opened fo
 
 ## Syntax
 
-_expression_. `AttachmentRead`( `_Attachment_` )
+_expression_.**AttachmentRead**( `_Attachment_` )
 
  _expression_ An expression that returns a [SharingItem](Outlook.SharingItem.md) object.
 

@@ -18,7 +18,7 @@ Occurs before a presentation is printed.
 
 ## Syntax
 
-_expression_. `PresentationPrint`( `_Pres_` )
+_expression_.**PresentationPrint**( `_Pres_` )
 
 _expression_ A variable that represents an **[Application](PowerPoint.Application.md)** object.
 

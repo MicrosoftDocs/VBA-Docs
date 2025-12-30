@@ -14,7 +14,7 @@ The Message property for the EngagementComment object. Introduced in Office 2016
 
 ## Syntax
 
-_expression_. `Message`
+_expression_.**Message**
 
 _expression_ A variable that represents a 'EngagementComment' object.
 

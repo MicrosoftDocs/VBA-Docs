@@ -18,7 +18,7 @@ Returns a **Boolean** that represents whether a source has been cited in a docum
 
 ## Syntax
 
-_expression_. `Cited`
+_expression_.**Cited**
 
  _expression_ An expression that returns a '[Source](Word.Source.md)' object.
 

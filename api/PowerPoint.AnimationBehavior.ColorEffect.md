@@ -18,7 +18,7 @@ Returns a **[ColorEffect](PowerPoint.ColorEffect.md)** object that represents th
 
 ## Syntax
 
-_expression_. `ColorEffect`
+_expression_.**ColorEffect**
 
 _expression_ A variable that represents an [AnimationBehavior](PowerPoint.AnimationBehavior.md) object.
 

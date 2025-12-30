@@ -18,7 +18,7 @@ Gets or sets the validation issue that is selected in the **Issues** window. Rea
 
 ## Syntax
 
-_expression_. `SelectedValidationIssue`
+_expression_.**SelectedValidationIssue**
 
 _expression_ A variable that represents a **[Window](Visio.Window.md)** object.
 

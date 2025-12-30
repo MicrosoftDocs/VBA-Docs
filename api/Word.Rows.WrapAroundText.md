@@ -18,7 +18,7 @@ Returns or sets whether text should wrap around the specified rows. Read/write *
 
 ## Syntax
 
-_expression_. `WrapAroundText`
+_expression_.**WrapAroundText**
 
  _expression_ An expression that returns a 'Rows' object.
 

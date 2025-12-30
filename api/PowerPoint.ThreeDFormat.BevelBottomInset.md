@@ -18,7 +18,7 @@ Returns or sets the bottom bevel inset for the specified **ThreeDFormat** object
 
 ## Syntax
 
-_expression_. `BevelBottomInset`
+_expression_.**BevelBottomInset**
 
 _expression_ A variable that represents a [ThreeDFormat](PowerPoint.ThreeDFormat.md) object.
 

@@ -18,7 +18,7 @@ Returns a **Boolean** that indicates **True** if the recipient has been validate
 
 ## Syntax
 
-_expression_. `Resolved`
+_expression_.**Resolved**
 
 _expression_ A variable that represents a '[Recipient](Outlook.Recipient.md)' object.
 

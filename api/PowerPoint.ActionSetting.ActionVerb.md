@@ -18,7 +18,7 @@ Returns or sets a string that contains the OLE verb that will be run when the us
 
 ## Syntax
 
-_expression_. `ActionVerb`
+_expression_.**ActionVerb**
 
 _expression_ A variable that represents an **[ActionSetting](PowerPoint.ActionSetting.md)** object.
 

@@ -16,7 +16,7 @@ Occurs after a project has been saved.
 
 ## Syntax
 
-_expression_. `ProjectAfterSave`
+_expression_.**ProjectAfterSave**
 
 _expression_ A variable that represents an **[Application](Project.Application.md)** object.
 

@@ -19,7 +19,7 @@ Clears the baseline data from the baseline fields or clears the data from a **St
 
 ## Syntax
 
-_expression_. `BaselineClear`( `_All_`, `_From_` )
+_expression_.**BaselineClear**( `_All_`, `_From_` )
 
 _expression_ A variable that represents an **[Application](Project.Application.md)** object.
 

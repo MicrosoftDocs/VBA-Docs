@@ -18,7 +18,7 @@ Returns the **[FormDescription](Outlook.FormDescription.md)** object that repres
 
 ## Syntax
 
-_expression_. `FormDescription`
+_expression_.**FormDescription**
 
 _expression_ A variable that represents a [JournalItem](Outlook.JournalItem.md) object.
 

@@ -19,7 +19,7 @@ Displays a specific tab of the **Trust Center** dialog box in Project.
 
 ## Syntax
 
-_expression_. `OptionsSecurityTab`( `_DefaultTab_` )
+_expression_.**OptionsSecurityTab**( `_DefaultTab_` )
 
  _expression_ An expression that returns an **[Application](Project.Application.md)** object.
 

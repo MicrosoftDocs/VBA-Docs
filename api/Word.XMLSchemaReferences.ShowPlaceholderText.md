@@ -18,7 +18,7 @@ Returns or sets a **Boolean** that represents whether automatic placeholder text
 
 ## Syntax
 
-_expression_. `ShowPlaceholderText`
+_expression_.**ShowPlaceholderText**
 
  _expression_ An expression that returns an '[XMLSchemaReferences](Word.XMLSchemaReferences.md)' collection.
 

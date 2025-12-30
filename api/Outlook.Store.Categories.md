@@ -18,7 +18,7 @@ Returns a **[Categories](Outlook.Categories.md)** collection that represents all
 
 ## Syntax
 
-_expression_. `Categories`
+_expression_.**Categories**
 
 _expression_ A variable that represents a [Store](Outlook.Store.md) object.
 

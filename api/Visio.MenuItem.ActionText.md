@@ -18,7 +18,7 @@ Gets or sets the action text for a menu item. Read/write.
 
 ## Syntax
 
-_expression_. `ActionText`
+_expression_.**ActionText**
 
 _expression_ A variable that represents a **[MenuItem](Visio.MenuItem.md)** object.
 
