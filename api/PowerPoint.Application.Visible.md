@@ -13,8 +13,7 @@ ms.localizationpriority: medium
 
 # Application.Visible property (PowerPoint)
 
-Returns or sets the visibility of the specified object or the formatting applied to the specified object. Read/write.
-
+Returns or sets a **MsoTriState** value that determines whether the object is visible. Read/write.
 
 ## Syntax
 
