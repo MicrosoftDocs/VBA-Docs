@@ -1,5 +1,7 @@
 ---
 title: OptionButton.Locked Property (Outlook Forms Script)
+api_name:
+- Outlook.optionbutton.locked
 ms.assetid: 1138d45e-4f6f-ce01-4f73-db212d880443
 ms.date: 06/08/2017
 ms.localizationpriority: medium

@@ -3,6 +3,8 @@ title: LineFormat.PresetGradientType property (Publisher)
 keywords: vbapb10.chm3408153
 f1_keywords:
 - vbapb10.chm3408153
+api_name:
+- Publisher.lineformat.presetgradienttype
 ms.assetid: 09f5dd53-a77f-5104-2370-4eaefccba921
 ms.date: 06/08/2019
 ms.localizationpriority: medium

@@ -3,6 +3,8 @@ title: Resource.EngagementProposedFinish property (Project)
 keywords: vbapj.chm131804
 f1_keywords:
 - vbapj.chm131804
+api_name:
+- Project.resource.engagementproposedfinish
 ms.assetid: ab8917ef-edb5-592b-f87f-8db9aefc85ff
 ms.date: 06/08/2017
 ms.service: project-server

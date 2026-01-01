@@ -1,5 +1,7 @@
 ---
 title: CoauthMergeEvent.WorkingDocument property (Visio)
+api_name:
+- Visio.coauthmergeevent.workingdocument
 ms.assetid: 0f3c4358-0d63-df7f-12fe-7f378bacca86
 ms.date: 06/08/2017
 ms.localizationpriority: medium

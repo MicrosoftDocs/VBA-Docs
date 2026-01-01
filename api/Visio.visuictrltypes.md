@@ -3,6 +3,8 @@ title: VisUICtrlTypes enumeration (Visio)
 keywords: vis_sdr.chm70180
 f1_keywords:
 - vis_sdr.chm70180
+api_name:
+- Visio.visuictrltypes
 ms.assetid: acc20b0d-cd3b-0268-61cd-c17a628a4fdb
 ms.date: 06/08/2017
 ms.localizationpriority: medium

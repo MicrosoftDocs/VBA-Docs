@@ -1,5 +1,7 @@
 ---
 title: XlPieSliceLocation enumeration (PowerPoint)
+api_name:
+- PowerPoint.xlpieslicelocation
 ms.assetid: 3960e8bf-e26a-10b6-cd02-4c4f0a2c5202
 ms.date: 06/08/2017
 ms.localizationpriority: medium

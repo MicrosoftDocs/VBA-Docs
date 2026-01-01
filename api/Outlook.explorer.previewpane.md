@@ -3,6 +3,8 @@ title: Explorer.PreviewPane property (Outlook)
 keywords: vbaol11.chm3639
 f1_keywords:
 - vbaol11.chm3639
+api_name:
+- Outlook.explorer.previewpane
 ms.assetid: 5f3edb49-b9f6-db03-8f83-3fe27f0aaf08
 ms.date: 06/08/2017
 ms.localizationpriority: medium

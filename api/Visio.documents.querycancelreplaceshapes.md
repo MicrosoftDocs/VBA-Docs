@@ -1,5 +1,7 @@
 ---
 title: Documents.QueryCancelReplaceShapes event (Visio)
+api_name:
+- Visio.documents.querycancelreplaceshapes
 ms.assetid: d613730e-04c8-d17f-0ad1-19e976aa107d
 ms.date: 06/08/2017
 ms.localizationpriority: medium

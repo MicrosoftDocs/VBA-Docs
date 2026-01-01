@@ -3,6 +3,8 @@ title: PivotValueCell.Creator property (Excel)
 keywords: vbaxl10.chm917074
 f1_keywords:
 - vbaxl10.chm917074
+api_name:
+- Excel.pivotvaluecell.creator
 ms.assetid: 85b4c0bf-3654-af39-413e-8c22c00626f3
 ms.date: 05/07/2019
 ms.localizationpriority: medium

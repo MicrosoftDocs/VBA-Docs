@@ -1,5 +1,7 @@
 ---
 title: ReplaceShapesEvent.Application property (Visio)
+api_name:
+- Visio.replaceshapesevent.application
 ms.assetid: 0013ed13-7912-ecaf-7962-73c5145a3dd5
 ms.date: 06/08/2017
 ms.localizationpriority: medium

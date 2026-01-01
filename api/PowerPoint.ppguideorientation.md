@@ -1,5 +1,7 @@
 ---
 title: PpGuideOrientation enumeration (PowerPoint)
+api_name:
+- PowerPoint.ppguideorientation
 ms.assetid: e5c39435-5aae-5367-61de-0dd9ce1cf63b
 ms.date: 06/08/2017
 ms.localizationpriority: medium

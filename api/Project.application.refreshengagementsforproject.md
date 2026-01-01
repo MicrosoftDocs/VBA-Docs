@@ -3,6 +3,8 @@ title: Application.RefreshEngagementsForProject method (Project)
 keywords: vbapj.chm155
 f1_keywords:
 - vbapj.chm155
+api_name:
+- Project.application.refreshengagementsforproject
 ms.assetid: f0530b2b-18de-70b8-d27d-a51ded376fe3
 ms.date: 06/08/2017
 ms.service: project-server

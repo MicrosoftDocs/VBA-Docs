@@ -1,5 +1,7 @@
 ---
 title: ListBox.Enabled Property (Outlook Forms Script)
+api_name:
+- Outlook.listbox.enabled
 ms.assetid: e1c27c6c-147a-08ab-9d63-cfb6655e6386
 ms.date: 06/08/2017
 ms.localizationpriority: medium

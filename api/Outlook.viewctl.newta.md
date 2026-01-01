@@ -1,5 +1,7 @@
 ---
 title: ViewCtl.NewTask Method (Outlook View Control)
+api_name:
+- Outlook.viewctl.newta
 ms.assetid: c997fd53-87fe-11b4-5966-a644bb812332
 ms.date: 06/08/2017
 ms.localizationpriority: medium

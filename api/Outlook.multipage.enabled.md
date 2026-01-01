@@ -1,5 +1,7 @@
 ---
 title: MultiPage.Enabled Property (Outlook Forms Script)
+api_name:
+- Outlook.multipage.enabled
 ms.assetid: 365a1ae2-97b4-8200-c8cd-2ad2bd915a30
 ms.date: 06/08/2017
 ms.localizationpriority: medium

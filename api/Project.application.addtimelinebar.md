@@ -3,6 +3,8 @@ title: Application.AddTimelineBar method (Project)
 keywords: vbapj.chm157
 f1_keywords:
 - vbapj.chm157
+api_name:
+- Project.application.addtimelinebar
 ms.assetid: 2cb9d639-3363-79e3-ced6-73b0a574986a
 ms.date: 06/08/2017
 ms.service: project-server

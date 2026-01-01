@@ -3,6 +3,8 @@ title: TableObject.Parent property (Excel)
 keywords: vbaxl10.chm915075
 f1_keywords:
 - vbaxl10.chm915075
+api_name:
+- Excel.tableobject.parent
 ms.assetid: d4ed98bf-f41c-d3b9-0770-d3fe93c0d382
 ms.date: 04/19/2019
 ms.localizationpriority: medium

@@ -1,5 +1,7 @@
 ---
 title: Shape.ConnectorFormat property (Project)
+api_name:
+- Project.shape.connectorformat
 ms.service: project-server
 ms.assetid: 8bcbe86a-164e-038f-c41a-2d951e549aef
 ms.date: 06/08/2017

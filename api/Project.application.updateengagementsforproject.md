@@ -3,6 +3,8 @@ title: Application.UpdateEngagementsForProject method (Project)
 keywords: vbapj.chm156
 f1_keywords:
 - vbapj.chm156
+api_name:
+- Project.application.updateengagementsforproject
 ms.assetid: cda633ec-2143-0f6e-80eb-2d9751d8782f
 ms.date: 06/08/2017
 ms.service: project-server

@@ -1,5 +1,7 @@
 ---
 title: Comment.Document property (Visio)
+api_name:
+- Visio.comment.document
 ms.assetid: d57b1377-b895-1fe1-2f98-ef000fdd9c39
 ms.date: 06/08/2017
 ms.localizationpriority: medium

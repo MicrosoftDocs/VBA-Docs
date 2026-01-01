@@ -1,5 +1,7 @@
 ---
 title: ViewCtl.GroupBy Method (Outlook View Control)
+api_name:
+- Outlook.viewctl.group
 ms.assetid: 19daa0ac-f8b0-4c08-a8fd-d2f63797818f
 ms.date: 06/08/2017
 ms.localizationpriority: medium

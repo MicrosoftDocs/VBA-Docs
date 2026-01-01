@@ -1,5 +1,7 @@
 ---
 title: XlDisplayBlanksAs enumeration (Word)
+api_name:
+- Word.xldisplayblanksas
 ms.assetid: 58ff67ef-2ec3-a599-cb8f-1393215cb07a
 ms.date: 06/08/2017
 ms.localizationpriority: medium

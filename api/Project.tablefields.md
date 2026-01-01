@@ -1,5 +1,7 @@
 ---
 title: TableFields object (Project)
+api_name:
+- Project.tablefields
 ms.service: project-server
 ms.assetid: 1698bb53-f618-cd1a-a191-702f174ff279
 ms.date: 06/08/2017

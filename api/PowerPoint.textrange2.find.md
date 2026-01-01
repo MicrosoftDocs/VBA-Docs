@@ -1,5 +1,7 @@
 ---
 title: TextRange2.Find method (PowerPoint)
+api_name:
+- PowerPoint.textrange2.find
 ms.assetid: 6d7d1ef8-8a61-4fbd-b157-22f64e6f8a6f
 ms.date: 06/08/2017
 ms.localizationpriority: medium

@@ -1,5 +1,7 @@
 ---
 title: Font.Strikethrough Property (Outlook Forms Script)
+api_name:
+- Outlook.font.strikethrough
 ms.assetid: a64a3ee7-717e-c988-e2e4-200e8dfc3b38
 ms.date: 06/08/2017
 ms.localizationpriority: medium

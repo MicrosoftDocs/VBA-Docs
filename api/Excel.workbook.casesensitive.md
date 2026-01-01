@@ -3,6 +3,8 @@ title: Workbook.CaseSensitive property (Excel)
 keywords: vbaxl10.chm199272
 f1_keywords:
 - vbaxl10.chm199272
+api_name:
+- Excel.workbook.casesensitive
 ms.assetid: 6053b576-9ede-f9d8-e2bf-c012653b60a2
 ms.date: 05/29/2019
 ms.localizationpriority: medium

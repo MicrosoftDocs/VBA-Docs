@@ -3,6 +3,8 @@ title: ModelFormatWholeNumber.UseThousandSeparator property (Excel)
 keywords: vbaxl10.chm988073
 f1_keywords:
 - vbaxl10.chm988073
+api_name:
+- Excel.modelformatwholenumber.usethousandseparator
 ms.assetid: 7378fadd-cd13-c0f7-525a-7e30eb59d4bb
 ms.date: 05/01/2019
 ms.localizationpriority: medium

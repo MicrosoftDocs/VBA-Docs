@@ -1,5 +1,7 @@
 ---
 title: Frame.CanPaste Property (Outlook Forms Script)
+api_name:
+- Outlook.frame.canpaste
 ms.assetid: 520b845a-289f-9ed0-5af1-b5435462e027
 ms.date: 06/08/2017
 ms.localizationpriority: medium

@@ -3,6 +3,8 @@ title: Application.ShowReportDataPane method (Project)
 keywords: vbapj.chm152
 f1_keywords:
 - vbapj.chm152
+api_name:
+- Project.application.showreportdatapane
 ms.service: project-server
 ms.assetid: 7f0e991a-df7c-9534-45de-50d3839fbac7
 ms.date: 06/08/2017

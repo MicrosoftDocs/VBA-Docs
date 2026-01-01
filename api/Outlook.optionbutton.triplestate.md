@@ -1,5 +1,7 @@
 ---
 title: OptionButton.TripleState Property (Outlook Forms Script)
+api_name:
+- Outlook.optionbutton.triplestate
 ms.assetid: 7643b4e7-1743-befd-9894-bee351296b79
 ms.date: 06/08/2017
 ms.localizationpriority: medium

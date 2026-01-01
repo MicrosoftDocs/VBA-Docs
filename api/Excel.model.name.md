@@ -1,5 +1,7 @@
 ---
 title: Model.Name property (Excel)
+api_name:
+- Excel.model.name
 ms.assetid: 300b1d6c-3420-f719-9a2c-72a5ab4fe3ac
 ms.date: 04/30/2019
 ms.localizationpriority: medium

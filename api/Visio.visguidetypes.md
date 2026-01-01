@@ -3,6 +3,8 @@ title: VisGuideTypes enumeration (Visio)
 keywords: vis_sdr.chm70110
 f1_keywords:
 - vis_sdr.chm70110
+api_name:
+- Visio.visguidetypes
 ms.assetid: b33865f4-6994-1140-e43d-645206ead0e9
 ms.date: 06/08/2017
 ms.localizationpriority: medium

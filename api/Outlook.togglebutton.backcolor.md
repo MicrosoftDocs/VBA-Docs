@@ -1,5 +1,7 @@
 ---
 title: ToggleButton.BackColor Property (Outlook Forms Script)
+api_name:
+- Outlook.togglebutton.backcolor
 ms.assetid: 5c3ff165-c5b6-43f2-1f62-398ad5219a43
 ms.date: 06/08/2017
 ms.localizationpriority: medium

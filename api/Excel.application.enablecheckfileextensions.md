@@ -3,6 +3,8 @@ title: Application.EnableCheckFileExtensions property (Excel)
 keywords: vbaxl10.chm133344
 f1_keywords:
 - vbaxl10.chm133344
+api_name:
+- Excel.application.enablecheckfileextensions
 ms.assetid: e518aec5-a261-47ba-a3fd-1da480c82612
 ms.date: 04/04/2019
 ms.localizationpriority: medium

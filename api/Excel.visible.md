@@ -3,6 +3,8 @@ title: Visible property (Excel Graph)
 keywords: vbagr10.chm66094
 f1_keywords:
 - vbagr10.chm66094
+api_name:
+- Excel.visible
 ms.assetid: 8a2b1b7a-b880-0e43-ca9f-c5d2207f7cfd
 ms.date: 04/12/2019
 ms.localizationpriority: medium

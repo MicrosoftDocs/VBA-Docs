@@ -1,5 +1,7 @@
 ---
 title: ListEntries object (Word)
+api_name:
+- Word.listentries
 ms.assetid: cfd3c706-5b69-338f-b104-e12526b89f47
 ms.date: 06/08/2017
 ms.localizationpriority: medium

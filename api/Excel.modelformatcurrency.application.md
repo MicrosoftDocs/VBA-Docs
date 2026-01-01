@@ -3,6 +3,8 @@ title: ModelFormatCurrency.Application property (Excel)
 keywords: vbaxl10.chm993073
 f1_keywords:
 - vbaxl10.chm993073
+api_name:
+- Excel.modelformatcurrency.application
 ms.assetid: 62fb4288-dc98-4831-a039-b2b81f407159
 ms.date: 05/01/2019
 ms.localizationpriority: medium

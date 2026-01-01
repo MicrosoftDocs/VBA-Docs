@@ -3,6 +3,8 @@ title: Workbook.SheetLensGalleryRenderComplete event (Excel)
 keywords: vbaxl10.chm503109
 f1_keywords:
 - vbaxl10.chm503109
+api_name:
+- Excel.workbook.sheetlensgalleryrendercomplete
 ms.assetid: 8ac48e9f-7a15-c674-6d96-e9c1466473bc
 ms.date: 05/29/2019
 ms.localizationpriority: medium

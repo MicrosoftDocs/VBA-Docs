@@ -3,6 +3,8 @@ title: PreviewPane.WordEditor property (Outlook)
 keywords: vbaol11.chm3640
 f1_keywords:
 - vbaol11.chm3640
+api_name:
+- Outlook.previewpane.wordeditor
 ms.assetid: 8c50e511-99ed-a691-352e-ae8f0942dbe5
 ms.date: 06/08/2017
 ms.localizationpriority: medium

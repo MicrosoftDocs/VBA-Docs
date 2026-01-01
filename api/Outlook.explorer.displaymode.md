@@ -3,6 +3,8 @@ title: Explorer.DisplayMode property (Outlook)
 keywords: vbaol11.chm3600
 f1_keywords:
 - vbaol11.chm3600
+api_name:
+- Outlook.explorer.displaymode
 ms.assetid: 8e6bcc0d-5a37-2c8f-d059-28706b638dee
 ms.date: 06/08/2017
 ms.localizationpriority: medium

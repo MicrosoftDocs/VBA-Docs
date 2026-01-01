@@ -3,6 +3,8 @@ title: ModelFormatCurrency.DecimalPlaces property (Excel)
 keywords: vbaxl10.chm994074
 f1_keywords:
 - vbaxl10.chm994074
+api_name:
+- Excel.modelformatcurrency.decimalplaces
 ms.assetid: 99cd87a8-4aff-f507-05e3-59a28f676828
 ms.date: 05/01/2019
 ms.localizationpriority: medium

@@ -1,5 +1,7 @@
 ---
 title: SpinButton.Enabled Property (Outlook Forms Script)
+api_name:
+- Outlook.spinbutton.enabled
 ms.assetid: d9460bfc-aec4-10b6-fac0-ea9a5977d56c
 ms.date: 06/08/2017
 ms.localizationpriority: medium

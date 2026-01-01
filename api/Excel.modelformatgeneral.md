@@ -3,6 +3,8 @@ title: ModelFormatGeneral object (Excel)
 keywords: vbaxl10.chm981072
 f1_keywords:
 - vbaxl10.chm981072
+api_name:
+- Excel.modelformatgeneral
 ms.assetid: 4fc68fb0-37aa-da83-f303-40ff96efb4a7
 ms.date: 03/30/2019
 ms.localizationpriority: medium

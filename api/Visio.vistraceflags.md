@@ -3,6 +3,8 @@ title: VisTraceFlags enumeration (Visio)
 keywords: vis_sdr.chm70220
 f1_keywords:
 - vis_sdr.chm70220
+api_name:
+- Visio.vistraceflags
 ms.assetid: 0d03ca2e-6e05-f910-15f9-d142ad7e70f8
 ms.date: 06/08/2017
 ms.localizationpriority: medium

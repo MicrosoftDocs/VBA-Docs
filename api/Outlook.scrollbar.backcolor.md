@@ -1,5 +1,7 @@
 ---
 title: ScrollBar.BackColor Property (Outlook Forms Script)
+api_name:
+- Outlook.scrollbar.backcolor
 ms.assetid: b87d125a-f568-99c4-6018-2d60639a943b
 ms.date: 06/08/2017
 ms.localizationpriority: medium

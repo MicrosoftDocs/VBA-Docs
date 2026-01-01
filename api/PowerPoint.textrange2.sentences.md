@@ -1,5 +1,7 @@
 ---
 title: TextRange2.Sentences property (PowerPoint)
+api_name:
+- PowerPoint.textrange2.sentences
 ms.assetid: 99dd9dd8-7d2b-4189-897e-1728f6ded6b4
 ms.date: 06/08/2017
 ms.localizationpriority: medium

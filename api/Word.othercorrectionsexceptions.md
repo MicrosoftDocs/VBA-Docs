@@ -1,5 +1,7 @@
 ---
 title: OtherCorrectionsExceptions object (Word)
+api_name:
+- Word.othercorrectionsexceptions
 ms.assetid: f72135be-9a82-2c45-1835-8cabb18869de
 ms.date: 06/08/2017
 ms.localizationpriority: medium

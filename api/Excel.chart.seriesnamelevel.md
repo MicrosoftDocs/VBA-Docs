@@ -3,6 +3,8 @@ title: Chart.SeriesNameLevel property (Excel)
 keywords: vbaxl10.chm149196
 f1_keywords:
 - vbaxl10.chm149196
+api_name:
+- Excel.chart.seriesnamelevel
 ms.assetid: 17ada484-943e-502f-a499-077d1e53e6c1
 ms.date: 04/16/2019
 ms.localizationpriority: medium

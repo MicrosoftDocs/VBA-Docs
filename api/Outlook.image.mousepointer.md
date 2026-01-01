@@ -1,5 +1,7 @@
 ---
 title: Image.MousePointer Property (Outlook Forms Script)
+api_name:
+- Outlook.image.mousepointer
 ms.assetid: 490ad422-6b13-82b8-47db-09fc4ca8f53e
 ms.date: 06/08/2017
 ms.localizationpriority: medium

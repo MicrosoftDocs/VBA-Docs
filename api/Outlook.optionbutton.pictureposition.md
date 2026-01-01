@@ -1,5 +1,7 @@
 ---
 title: OptionButton.PicturePosition Property (Outlook Forms Script)
+api_name:
+- Outlook.optionbutton.pictureposition
 ms.assetid: e159fe5c-99fa-979b-570b-2984839aed19
 ms.date: 06/08/2017
 ms.localizationpriority: medium

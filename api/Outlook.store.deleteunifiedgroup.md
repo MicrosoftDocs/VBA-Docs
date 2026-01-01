@@ -3,6 +3,8 @@ title: Store.DeleteUnifiedGroup method (Outlook)
 keywords: vbaol11.chm3632
 f1_keywords:
 - vbaol11.chm3632
+api_name:
+- Outlook.store.deleteunifiedgroup
 ms.assetid: 53c15736-f88a-33ad-2b21-29a2c9c6d402
 ms.date: 06/08/2021
 ms.localizationpriority: medium

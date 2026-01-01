@@ -1,5 +1,7 @@
 ---
 title: TextBox.EnterFieldBehavior Property (Outlook Forms Script)
+api_name:
+- Outlook.textbox.enterfieldbehavior
 ms.assetid: b160b411-80b6-8731-3ee8-ac7ab889daf0
 ms.date: 06/08/2017
 ms.localizationpriority: medium

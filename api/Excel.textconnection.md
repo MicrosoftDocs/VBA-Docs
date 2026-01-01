@@ -3,6 +3,8 @@ title: TextConnection object (Excel)
 keywords: vbaxl10.chm925072
 f1_keywords:
 - vbaxl10.chm925072
+api_name:
+- Excel.textconnection
 ms.assetid: 21d04d46-3940-642b-a0fb-8e7c3fafc749
 ms.date: 04/02/2019
 ms.localizationpriority: medium

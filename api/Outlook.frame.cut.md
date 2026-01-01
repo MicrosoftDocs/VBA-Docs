@@ -1,5 +1,7 @@
 ---
 title: Frame.Cut Method (Outlook Forms Script)
+api_name:
+- Outlook.frame.cut
 ms.assetid: 58c11fc9-c5a1-250d-6fd3-7d6c8fbb5594
 ms.date: 06/08/2017
 ms.localizationpriority: medium

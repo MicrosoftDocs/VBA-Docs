@@ -3,6 +3,8 @@ title: ModelFormatDecimalNumber.DecimalPlaces property (Excel)
 keywords: vbaxl10.chm986074
 f1_keywords:
 - vbaxl10.chm986074
+api_name:
+- Excel.modelformatdecimalnumber.decimalplaces
 ms.assetid: 74b0f4ba-a44d-8ca0-be24-11caecbc1fdd
 ms.date: 05/01/2019
 ms.localizationpriority: medium

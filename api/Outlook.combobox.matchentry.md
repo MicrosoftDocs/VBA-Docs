@@ -3,6 +3,8 @@ title: ComboBox.MatchEntry Property (Outlook Forms Script)
 keywords: olfm10.chm2001480
 f1_keywords:
 - olfm10.chm2001480
+api_name:
+- Outlook.combobox.matchentry
 ms.assetid: 781eab91-22b6-8ee3-a591-d6d016194e15
 ms.date: 06/08/2017
 ms.localizationpriority: medium

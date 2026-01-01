@@ -3,6 +3,8 @@ title: ScrollBar.SmallChange Property (Outlook Forms Script)
 keywords: olfm10.chm2001940
 f1_keywords:
 - olfm10.chm2001940
+api_name:
+- Outlook.scrollbar.smallchange
 ms.assetid: cd8b6b7f-118a-1cda-00af-11ab74f6617a
 ms.date: 06/08/2017
 ms.localizationpriority: medium

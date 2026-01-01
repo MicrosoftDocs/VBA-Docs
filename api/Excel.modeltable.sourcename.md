@@ -3,6 +3,8 @@ title: ModelTable.SourceName property (Excel)
 keywords: vbaxl10.chm934074
 f1_keywords:
 - vbaxl10.chm934074
+api_name:
+- Excel.modeltable.sourcename
 ms.assetid: 96993c18-598d-6270-8582-d6c7aa69f8b9
 ms.date: 05/01/2019
 ms.localizationpriority: medium

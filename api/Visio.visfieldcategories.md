@@ -3,6 +3,8 @@ title: VisFieldCategories enumeration (Visio)
 keywords: vis_sdr.chm70135
 f1_keywords:
 - vis_sdr.chm70135
+api_name:
+- Visio.visfieldcategories
 ms.assetid: f10df918-5be3-e883-1da5-2a932fd1074f
 ms.date: 06/08/2017
 ms.localizationpriority: medium

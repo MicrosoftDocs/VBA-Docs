@@ -1,5 +1,7 @@
 ---
 title: TabStrip Members (Outlook Forms Script)
+api_name:
+- Outlook.tabstrip
 ms.assetid: d102c521-da63-4c8a-bfd6-83b3d2e2d9d3
 ms.date: 06/08/2021
 ms.localizationpriority: medium

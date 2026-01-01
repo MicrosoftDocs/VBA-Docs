@@ -3,6 +3,8 @@ title: PbPresetWordArt enumeration (Publisher)
 keywords: vbapb10.chm65648
 f1_keywords:
 - vbapb10.chm65648
+api_name:
+- Publisher.pbpresetwordart
 ms.assetid: b2c73df7-31f9-4886-92a3-e8ab236b554c
 ms.date: 06/08/2017
 ms.localizationpriority: medium

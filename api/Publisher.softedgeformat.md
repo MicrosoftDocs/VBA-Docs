@@ -3,6 +3,8 @@ title: SoftEdgeFormat object (Publisher)
 keywords: vbapb10.chm9633791
 f1_keywords:
 - vbapb10.chm9633791
+api_name:
+- Publisher.softedgeformat
 ms.assetid: c14a02e0-8af2-55c3-1e22-78d60e1213f0
 ms.date: 05/31/2019
 ms.localizationpriority: medium

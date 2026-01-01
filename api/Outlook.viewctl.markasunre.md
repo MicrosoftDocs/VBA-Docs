@@ -1,5 +1,7 @@
 ---
 title: ViewCtl.MarkAsUnread Method (Outlook View Control)
+api_name:
+- Outlook.viewctl.markasunre
 ms.assetid: 7a9d3f0f-5a32-ac70-cef3-578c538a4ff1
 ms.date: 06/08/2017
 ms.localizationpriority: medium

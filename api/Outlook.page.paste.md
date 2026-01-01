@@ -1,5 +1,7 @@
 ---
 title: Page.Paste Method (Outlook Forms Script)
+api_name:
+- Outlook.page.paste
 ms.assetid: 62f9a5dd-be8d-dc4b-69bb-cbdd3a830125
 ms.date: 06/08/2017
 ms.localizationpriority: medium

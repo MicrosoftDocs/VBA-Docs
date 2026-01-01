@@ -1,5 +1,7 @@
 ---
 title: ToggleButton.ForeColor Property (Outlook Forms Script)
+api_name:
+- Outlook.togglebutton.forecolor
 ms.assetid: f7f8c083-f8df-b9c3-adc8-04d0152d2040
 ms.date: 06/08/2017
 ms.localizationpriority: medium

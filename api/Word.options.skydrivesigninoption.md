@@ -3,6 +3,8 @@ title: Options.SkyDriveSignInOption property (Word)
 keywords: vbawd10.chm162988545
 f1_keywords:
 - vbawd10.chm162988545
+api_name:
+- Word.options.skydrivesigninoption
 ms.assetid: fa023c97-13b3-6a93-6f32-4e1f907fabc8
 ms.date: 06/08/2017
 ms.localizationpriority: medium

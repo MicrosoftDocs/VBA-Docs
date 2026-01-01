@@ -3,6 +3,8 @@ title: WorkbookQuery.Formula property (Excel)
 keywords: vbaxl10.chm974074
 f1_keywords:
 - vbaxl10.chm974074
+api_name:
+- Excel.workbookquery.formula
 ms.assetid: 62c5fcfa-8359-5fab-1a5d-fdbb2793bf53
 ms.date: 05/18/2019
 ms.localizationpriority: medium

@@ -1,5 +1,7 @@
 ---
 title: Shapes.AddTextbox method (Project)
+api_name:
+- Project.shapes.addtextbox
 ms.service: project-server
 ms.assetid: ee8c619f-8b35-6f94-e680-86dbeedd6d19
 ms.date: 06/08/2017

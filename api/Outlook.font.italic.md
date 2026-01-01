@@ -1,5 +1,7 @@
 ---
 title: Font.Italic Property (Outlook Forms Script)
+api_name:
+- Outlook.font.italic
 ms.assetid: 6039a14a-0d45-c170-e03c-1fc5dbe640a0
 ms.date: 06/08/2017
 ms.localizationpriority: medium

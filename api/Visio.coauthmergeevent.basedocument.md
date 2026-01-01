@@ -1,5 +1,7 @@
 ---
 title: CoauthMergeEvent.BaseDocument property (Visio)
+api_name:
+- Visio.coauthmergeevent.basedocument
 ms.assetid: 7ec09a85-6f51-685b-0c87-4b9eb3266773
 ms.date: 06/08/2017
 ms.localizationpriority: medium

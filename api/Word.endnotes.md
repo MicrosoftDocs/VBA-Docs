@@ -1,5 +1,7 @@
 ---
 title: Endnotes object (Word)
+api_name:
+- Word.endnotes
 ms.assetid: 32676579-dd41-e83d-a305-fcc2b7cb4f64
 ms.date: 06/08/2017
 ms.localizationpriority: medium

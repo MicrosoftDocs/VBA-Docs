@@ -1,5 +1,7 @@
 ---
 title: Page.ActiveControl Property (Outlook Forms Script)
+api_name:
+- Outlook.page.activecontrol
 ms.assetid: 1ce6c138-e87d-bd6b-6bfd-edd43f9206fc
 ms.date: 06/08/2017
 ms.localizationpriority: medium

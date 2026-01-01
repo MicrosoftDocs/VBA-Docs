@@ -1,5 +1,7 @@
 ---
 title: CommandButton.Enabled Property (Outlook Forms Script)
+api_name:
+- Outlook.commandbutton.enabled
 ms.assetid: 51520f48-79c6-2bfe-7c21-ba41baf46f22
 ms.date: 06/08/2017
 ms.localizationpriority: medium

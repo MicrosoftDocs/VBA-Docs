@@ -3,6 +3,8 @@ title: ReflectionFormat.Transparency property (Publisher)
 keywords: vbapb10.chm9699330
 f1_keywords:
 - vbapb10.chm9699330
+api_name:
+- Publisher.reflectionformat.transparency
 ms.assetid: 3c115d2c-4004-5fd4-de10-3593c8f1a38e
 ms.date: 06/13/2019
 ms.localizationpriority: medium

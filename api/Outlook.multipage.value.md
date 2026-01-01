@@ -1,5 +1,7 @@
 ---
 title: MultiPage.Value Property (Outlook Forms Script)
+api_name:
+- Outlook.multipage.value
 ms.assetid: 0d4320c3-4d9b-4b4a-b7ec-3402af49c495
 ms.date: 06/08/2017
 ms.localizationpriority: medium

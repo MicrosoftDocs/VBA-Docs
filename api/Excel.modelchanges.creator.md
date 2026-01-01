@@ -3,6 +3,8 @@ title: ModelChanges.Creator property (Excel)
 keywords: vbaxl10.chm959074
 f1_keywords:
 - vbaxl10.chm959074
+api_name:
+- Excel.modelchanges.creator
 ms.assetid: 937eb401-ab1b-15fe-df9c-350ef13406f6
 ms.date: 05/01/2019
 ms.localizationpriority: medium

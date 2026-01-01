@@ -1,5 +1,7 @@
 ---
 title: Shape.VisualBoundingBox method (Visio)
+api_name:
+- Visio.shape.visualboundingbox
 ms.assetid: 6a7d4622-8ba5-c598-4aaa-c6297cb4c008
 ms.date: 06/08/2017
 ms.localizationpriority: medium

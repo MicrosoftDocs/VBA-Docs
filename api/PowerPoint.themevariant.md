@@ -3,6 +3,8 @@ title: ThemeVariant object (PowerPoint)
 keywords: vbapp10.chm738000
 f1_keywords:
 - vbapp10.chm738000
+api_name:
+- PowerPoint.themevariant
 ms.assetid: de00374f-05fd-4cae-08f8-ef417cd944b5
 ms.date: 06/08/2017
 ms.localizationpriority: medium

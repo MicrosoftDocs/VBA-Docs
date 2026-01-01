@@ -1,5 +1,7 @@
 ---
 title: TextRange2.InsertChartField method (Office)
+api_name:
+- Office.TextRange2.InsertChartField
 ms.assetid: 3ced5d2c-b3a4-6bf3-3d3c-b1145e7b9eab
 ms.date: 01/25/2019
 ms.localizationpriority: medium

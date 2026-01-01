@@ -3,6 +3,8 @@ title: ChartGroup.BinsOverflowValue property (Excel)
 keywords: vbaxl10.chm568107
 f1_keywords:
 - vbaxl10.chm568107
+api_name:
+- Excel.chartgroup.binsoverflowvalue
 ms.assetid: 411856a7-ac17-e9eb-35bd-c851c0cfdfdc
 ms.date: 04/20/2019
 ms.localizationpriority: medium

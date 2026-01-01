@@ -1,5 +1,7 @@
 ---
 title: Frame.Picture Property (Outlook Forms Script)
+api_name:
+- Outlook.frame.picture
 ms.assetid: 61abe92d-9939-3a07-e6e4-233c4290b15d
 ms.date: 06/08/2017
 ms.localizationpriority: medium

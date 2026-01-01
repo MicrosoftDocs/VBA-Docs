@@ -1,5 +1,7 @@
 ---
 title: WdRevisionsMarkup enumeration (Word)
+api_name:
+- Word.wdrevisionsmarkup
 ms.assetid: 034785ce-5dc5-1f99-3d4d-cd41fc486c31
 ms.date: 06/08/2017
 ms.localizationpriority: medium

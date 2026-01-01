@@ -1,5 +1,7 @@
 ---
 title: ViewCtl.CustomizeView Method (Outlook View Control)
+api_name:
+- Outlook.viewctl.customizevi
 ms.assetid: b312bd33-acae-2206-70c1-b3776a5cdf00
 ms.date: 06/08/2017
 ms.localizationpriority: medium

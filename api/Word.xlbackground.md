@@ -1,5 +1,7 @@
 ---
 title: XlBackground enumeration (Word)
+api_name:
+- Word.xlbackground
 ms.assetid: f2754210-2e22-c46d-0147-7371a74fdde9
 ms.date: 06/08/2017
 ms.localizationpriority: medium

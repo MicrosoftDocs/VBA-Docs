@@ -3,6 +3,8 @@ title: Chart.ChartColor property (Excel)
 keywords: vbaxl10.chm149199
 f1_keywords:
 - vbaxl10.chm149199
+api_name:
+- Excel.chart.chartcolor
 ms.assetid: a2bd828b-cf03-2927-8fe6-70414dafd46a
 ms.date: 04/16/2019
 ms.localizationpriority: medium

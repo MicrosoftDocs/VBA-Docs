@@ -1,5 +1,7 @@
 ---
 title: ListBox.RemoveItem Method (Outlook Forms Script)
+api_name:
+- Outlook.listbox.removeitem
 ms.assetid: 4788abab-0798-f22e-5098-b76bb223f6c3
 ms.date: 06/08/2017
 ms.localizationpriority: medium

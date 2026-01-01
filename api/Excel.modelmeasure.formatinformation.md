@@ -3,6 +3,8 @@ title: ModelMeasure.FormatInformation property (Excel)
 keywords: vbaxl10.chm978076
 f1_keywords:
 - vbaxl10.chm978076
+api_name:
+- Excel.modelmeasure.formatinformation
 ms.assetid: 26ad6641-c4fe-ae9d-b8dd-d429f5806790
 ms.date: 05/01/2019
 ms.localizationpriority: medium

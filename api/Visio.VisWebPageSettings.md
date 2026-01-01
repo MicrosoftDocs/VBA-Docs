@@ -1,5 +1,7 @@
 ---
 title: VisWebPageSettings object (Visio Save As Web)
+api_name:
+- Visio.VisWebPageSettings
 ms.assetid: 1f286540-2c46-4a2a-b133-2bfd6168db36
 ms.date: 06/21/2019
 ms.localizationpriority: medium

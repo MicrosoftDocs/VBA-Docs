@@ -1,5 +1,7 @@
 ---
 title: ThemeVariants.Item method (PowerPoint)
+api_name:
+- PowerPoint.themevariants.item
 ms.assetid: acc0bc46-94d0-827a-7c38-a8f7a149ff30
 ms.date: 06/08/2017
 ms.localizationpriority: medium

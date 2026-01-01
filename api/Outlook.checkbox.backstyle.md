@@ -3,6 +3,8 @@ title: CheckBox.BackStyle Property (Outlook Forms Script)
 keywords: olfm10.chm2000780
 f1_keywords:
 - olfm10.chm2000780
+api_name:
+- Outlook.checkbox.backstyle
 ms.assetid: a28550ae-e017-712f-cd13-36d281e90453
 ms.date: 06/08/2017
 ms.localizationpriority: medium

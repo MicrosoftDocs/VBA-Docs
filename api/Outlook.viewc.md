@@ -1,5 +1,7 @@
 ---
 title: ViewCtl Object (Outlook View Control)
+api_name:
+- Outlook.viewc
 ms.assetid: e5737688-6196-bc0a-767c-7b1fe7071fce
 ms.date: 06/08/2017
 ms.localizationpriority: medium

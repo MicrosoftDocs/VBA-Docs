@@ -3,6 +3,8 @@ title: Application.RemoveHighlight method (Project)
 keywords: vbapj.chm151
 f1_keywords:
 - vbapj.chm151
+api_name:
+- Project.application.removehighlight
 ms.service: project-server
 ms.assetid: 334f33a1-8c96-9876-0e71-495336fc947b
 ms.date: 06/08/2017

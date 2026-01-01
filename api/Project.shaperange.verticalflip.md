@@ -1,5 +1,7 @@
 ---
 title: ShapeRange.VerticalFlip property (Project)
+api_name:
+- Project.shaperange.verticalflip
 ms.service: project-server
 ms.assetid: ce162eda-0bc5-b13a-fcf3-a2da0165c3da
 ms.date: 06/08/2017

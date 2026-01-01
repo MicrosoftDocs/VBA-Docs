@@ -1,5 +1,7 @@
 ---
 title: CoauthMergeEvent.Application property (Visio)
+api_name:
+- Visio.coauthmergeevent.application
 ms.assetid: 8e8c8a31-aa25-b605-c1a7-56221bf29dbb
 ms.date: 06/08/2017
 ms.localizationpriority: medium

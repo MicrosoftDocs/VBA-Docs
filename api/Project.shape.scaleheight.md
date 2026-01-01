@@ -1,5 +1,7 @@
 ---
 title: Shape.ScaleHeight method (Project)
+api_name:
+- Project.shape.scaleheight
 ms.service: project-server
 ms.assetid: 9dd7a3ee-9149-4aa2-c4ad-5fc0ca45ee21
 ms.date: 06/08/2017

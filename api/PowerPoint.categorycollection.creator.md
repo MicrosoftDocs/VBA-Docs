@@ -3,6 +3,8 @@ title: CategoryCollection.Creator property (PowerPoint)
 keywords: vbapp10.chm737005
 f1_keywords:
 - vbapp10.chm737005
+api_name:
+- PowerPoint.categorycollection.creator
 ms.assetid: 79a34381-f75d-12d8-91a0-02c2db0f3b34
 ms.date: 06/08/2017
 ms.localizationpriority: medium

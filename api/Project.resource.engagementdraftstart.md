@@ -3,6 +3,8 @@ title: Resource.EngagementDraftStart property (Project)
 keywords: vbapj.chm131802
 f1_keywords:
 - vbapj.chm131802
+api_name:
+- Project.resource.engagementdraftstart
 ms.assetid: 54f5399f-e7df-0a5a-6008-054423d30be8
 ms.date: 06/08/2017
 ms.service: project-server

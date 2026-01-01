@@ -1,5 +1,7 @@
 ---
 title: Image.BackStyle Property (Outlook Forms Script)
+api_name:
+- Outlook.image.backstyle
 ms.assetid: 1058cd2e-936e-17d5-9276-2a7130ebc3ef
 ms.date: 06/08/2017
 ms.localizationpriority: medium

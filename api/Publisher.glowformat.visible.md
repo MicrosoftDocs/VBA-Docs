@@ -3,6 +3,8 @@ title: GlowFormat.Visible property (Publisher)
 keywords: vbapb10.chm9633796
 f1_keywords:
 - vbapb10.chm9633796
+api_name:
+- Publisher.glowformat.visible
 ms.assetid: f069a9fe-c855-ea3f-9dbc-3daef7f9fbb4
 ms.date: 06/08/2019
 ms.localizationpriority: medium

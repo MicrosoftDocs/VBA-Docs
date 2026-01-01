@@ -1,5 +1,7 @@
 ---
 title: Page Properties (Outlook Forms Script)
+api_name:
+- Outlook.page
 ms.assetid: aeaf2aae-5429-4431-b094-d3db9215bdbc
 ms.date: 06/08/2017
 ms.localizationpriority: medium

@@ -3,6 +3,8 @@ title: VisDefaultColors enumeration (Visio)
 keywords: vis_sdr.chm70040
 f1_keywords:
 - vis_sdr.chm70040
+api_name:
+- Visio.visdefaultcolors
 ms.assetid: 44065b28-304a-67bb-dbbc-5306fae8af2f
 ms.date: 06/08/2017
 ms.localizationpriority: medium

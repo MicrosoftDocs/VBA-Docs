@@ -1,5 +1,7 @@
 ---
 title: ShapeRange.TextEffect property (Project)
+api_name:
+- Project.shaperange.texteffect
 ms.service: project-server
 ms.assetid: 83c2ca99-7ae1-0a93-41f1-2e53379b54ec
 ms.date: 06/08/2017

@@ -3,6 +3,8 @@ title: Options.CloudSignInOption property (Word)
 keywords: vbawd10.chm162988548
 f1_keywords:
 - vbawd10.chm162988548
+api_name:
+- Word.options.cloudsigninoption
 ms.assetid: ea75d46c-ee8b-41b5-8964-b31433c9f599
 ms.date: 06/08/2017
 ms.localizationpriority: medium

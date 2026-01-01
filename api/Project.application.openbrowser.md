@@ -3,6 +3,8 @@ title: Application.OpenBrowser method (Project)
 keywords: vbapj.chm144
 f1_keywords:
 - vbapj.chm144
+api_name:
+- Project.application.openbrowser
 ms.service: project-server
 ms.assetid: 92691162-1c5f-43b6-57f2-8d56fa3f7bb6
 ms.date: 06/08/2017

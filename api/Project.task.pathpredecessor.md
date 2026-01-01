@@ -3,6 +3,8 @@ title: Task.PathPredecessor property (Project)
 keywords: vbapj.chm132490
 f1_keywords:
 - vbapj.chm132490
+api_name:
+- Project.task.pathpredecessor
 ms.service: project-server
 ms.assetid: f0662677-cab5-10e2-e18c-fc291bfca28b
 ms.date: 06/08/2017

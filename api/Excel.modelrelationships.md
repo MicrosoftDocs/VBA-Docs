@@ -3,6 +3,8 @@ title: ModelRelationships object (Excel)
 keywords: vbaxl10.chm939072
 f1_keywords:
 - vbaxl10.chm939072
+api_name:
+- Excel.modelrelationships
 ms.assetid: cd671af2-7fbc-4494-a3d0-07e9ad3e83bf
 ms.date: 03/30/2019
 ms.localizationpriority: medium

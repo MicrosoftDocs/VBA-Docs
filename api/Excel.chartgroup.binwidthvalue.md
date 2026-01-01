@@ -3,6 +3,8 @@ title: ChartGroup.BinWidthValue property (Excel)
 keywords: vbaxl10.chm568104
 f1_keywords:
 - vbaxl10.chm568104
+api_name:
+- Excel.chartgroup.binwidthvalue
 ms.assetid: 1b67cbda-6982-d16d-e039-6455cf7a845e
 ms.date: 04/20/2019
 ms.localizationpriority: medium

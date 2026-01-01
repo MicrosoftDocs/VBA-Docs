@@ -1,5 +1,7 @@
 ---
 title: Page Methods (Outlook Forms Script)
+api_name:
+- Outlook.page
 ms.assetid: f0f6d0c8-3ee8-4f04-a611-795739c881aa
 ms.date: 06/08/2017
 ms.localizationpriority: medium

@@ -3,6 +3,8 @@ title: LegendEntries collection (Excel Graph)
 keywords: vbagr10.chm5207606
 f1_keywords:
 - vbagr10.chm5207606
+api_name:
+- Excel.legendentries
 ms.assetid: 98f5f860-7648-e3a6-f2af-985b383fed24
 ms.date: 04/06/2019
 ms.localizationpriority: medium

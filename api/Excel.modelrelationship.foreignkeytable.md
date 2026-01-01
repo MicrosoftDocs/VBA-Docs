@@ -3,6 +3,8 @@ title: ModelRelationship.ForeignKeyTable property (Excel)
 keywords: vbaxl10.chm938073
 f1_keywords:
 - vbaxl10.chm938073
+api_name:
+- Excel.modelrelationship.foreignkeytable
 ms.assetid: d22a2ba4-fd2a-193e-937d-a4081150e2e2
 ms.date: 04/20/2019
 ms.localizationpriority: medium

@@ -3,6 +3,8 @@ title: ChartCategory.Creator property (Excel)
 keywords: vbaxl10.chm945074
 f1_keywords:
 - vbaxl10.chm945074
+api_name:
+- Excel.chartcategory.creator
 ms.assetid: 2e9f59f5-bfd2-9518-f34a-705216b85c3f
 ms.date: 04/20/2019
 ms.localizationpriority: medium

@@ -3,6 +3,8 @@ title: CheckBox.MouseIcon Property (Outlook Forms Script)
 keywords: olfm10.chm2001540
 f1_keywords:
 - olfm10.chm2001540
+api_name:
+- Outlook.checkbox.mouseicon
 ms.assetid: 6d3e1fe9-a23e-44d3-e569-9c0969ebcf6e
 ms.date: 06/08/2017
 ms.localizationpriority: medium

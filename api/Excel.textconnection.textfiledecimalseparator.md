@@ -3,6 +3,8 @@ title: TextConnection.TextFileDecimalSeparator property (Excel)
 keywords: vbaxl10.chm926078
 f1_keywords:
 - vbaxl10.chm926078
+api_name:
+- Excel.textconnection.textfiledecimalseparator
 ms.assetid: d8bdd53f-4892-4e13-4726-1a5bb0e2c3f4
 ms.date: 05/17/2019
 ms.localizationpriority: medium

@@ -1,5 +1,7 @@
 ---
 title: Dictionaries object (Word)
+api_name:
+- Word.dictionaries
 ms.assetid: 41f31292-4b3e-0d7b-c857-f6b9a0662e9a
 ms.date: 06/08/2017
 ms.localizationpriority: medium

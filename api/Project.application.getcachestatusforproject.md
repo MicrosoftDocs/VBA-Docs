@@ -1,5 +1,7 @@
 ---
 title: Application.GetCacheStatusForProject property (Project)
+api_name:
+- Project.application.getcachestatusforproject
 ms.service: project-server
 ms.assetid: 71ab8ee0-83fc-c80f-3583-ce66b167d044
 ms.date: 06/08/2017

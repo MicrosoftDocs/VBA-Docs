@@ -1,5 +1,7 @@
 ---
 title: Label.Enabled Property (Outlook Forms Script)
+api_name:
+- Outlook.label.enabled
 ms.assetid: 5674182d-96eb-b004-7158-b6a089d3255b
 ms.date: 06/08/2017
 ms.localizationpriority: medium

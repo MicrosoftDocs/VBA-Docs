@@ -1,5 +1,7 @@
 ---
 title: Task.IsStartValid property (Project)
+api_name:
+- Project.task.isstartvalid
 ms.service: project-server
 ms.assetid: 6e5c90ab-7d7c-1f08-370c-8091d1a55aa6
 ms.date: 06/08/2017

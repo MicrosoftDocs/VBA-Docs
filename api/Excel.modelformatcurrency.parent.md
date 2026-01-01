@@ -3,6 +3,8 @@ title: ModelFormatCurrency.Parent property (Excel)
 keywords: vbaxl10.chm993075
 f1_keywords:
 - vbaxl10.chm993075
+api_name:
+- Excel.modelformatcurrency.parent
 ms.assetid: ed21cd7a-ce59-2f39-c342-3292af63c079
 ms.date: 05/01/2019
 ms.localizationpriority: medium

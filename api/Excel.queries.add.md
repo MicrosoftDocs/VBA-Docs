@@ -3,6 +3,8 @@ title: Queries.Add method (Excel)
 keywords: vbaxl10.chm976074
 f1_keywords:
 - vbaxl10.chm976074
+api_name:
+- Excel.queries.add
 ms.assetid: 184711c0-2ce4-ba6e-df56-1f7fdd60ab2c
 ms.date: 05/09/2019
 ms.localizationpriority: medium

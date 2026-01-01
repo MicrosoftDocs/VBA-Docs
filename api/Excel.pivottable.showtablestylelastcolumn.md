@@ -1,5 +1,7 @@
 ---
 title: PivotTable.ShowTableStyleLastColumn property (Excel)
+api_name:
+- Excel.pivottable.showtablestylelastcolumn
 ms.assetid: 4e266260-dae7-46af-bdb7-0972b186b382
 ms.date: 05/09/2019
 ms.localizationpriority: medium

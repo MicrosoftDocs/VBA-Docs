@@ -3,6 +3,8 @@ title: QuickAnalysis.Parent property (Excel)
 keywords: vbaxl10.chm919075
 f1_keywords:
 - vbaxl10.chm919075
+api_name:
+- Excel.quickanalysis.parent
 ms.assetid: 2b743f1d-711e-81c5-dc02-f840e43338fa
 ms.date: 05/10/2019
 ms.localizationpriority: medium

@@ -3,6 +3,8 @@ title: Application.AlignTableCellTop method (Project)
 keywords: vbapj.chm1521
 f1_keywords:
 - vbapj.chm1521
+api_name:
+- Project.application.aligntablecelltop
 ms.service: project-server
 ms.assetid: 51eca157-64c4-f114-243e-895d97adf45a
 ms.date: 06/08/2017

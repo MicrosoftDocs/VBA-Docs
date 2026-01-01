@@ -3,6 +3,8 @@ title: VisFromParts enumeration (Visio)
 keywords: vis_sdr.chm70160
 f1_keywords:
 - vis_sdr.chm70160
+api_name:
+- Visio.visfromparts
 ms.assetid: 243245c8-8683-1d7b-17cc-95691310537a
 ms.date: 06/08/2017
 ms.localizationpriority: medium

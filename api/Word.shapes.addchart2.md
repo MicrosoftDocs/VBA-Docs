@@ -3,6 +3,8 @@ title: Shapes.AddChart2 method (Word)
 keywords: vbawd10.chm161415273
 f1_keywords:
 - vbawd10.chm161415273
+api_name:
+- Word.shapes.addchart2
 ms.assetid: 54b1e65b-57ad-4824-2acf-2e1e0a22f085
 ms.date: 06/08/2017
 ms.localizationpriority: medium

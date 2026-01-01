@@ -3,6 +3,8 @@ title: WorksheetFunction.Combina method (Excel)
 keywords: vbaxl10.chm137441
 f1_keywords:
 - vbaxl10.chm137441
+api_name:
+- Excel.worksheetfunction.combina
 ms.assetid: 3ce9d70e-c407-886d-6bf3-7fcf6b33ae8d
 ms.date: 05/22/2019
 ms.localizationpriority: medium

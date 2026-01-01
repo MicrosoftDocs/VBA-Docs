@@ -1,5 +1,7 @@
 ---
 title: ToggleButton.Picture Property (Outlook Forms Script)
+api_name:
+- Outlook.togglebutton.picture
 ms.assetid: 18094fda-7951-726b-c952-1bb5d6b8fcb8
 ms.date: 06/08/2017
 ms.localizationpriority: medium

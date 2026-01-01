@@ -1,5 +1,7 @@
 ---
 title: EngagementComment.AuthorResGuid property (Project)
+api_name:
+- Project.engagementcomment.authorresguid
 ms.assetid: 551e1ae2-346a-aac5-7fca-ac92f6983cc6
 ms.date: 06/08/2017
 ms.service: project-server

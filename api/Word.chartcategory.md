@@ -3,6 +3,8 @@ title: ChartCategory object (Word)
 keywords: vbawd10.chm2188
 f1_keywords:
 - vbawd10.chm2188
+api_name:
+- Word.chartcategory
 ms.assetid: 0dd75147-6542-054f-4f19-c7ff4d424b8a
 ms.date: 06/08/2017
 ms.localizationpriority: medium

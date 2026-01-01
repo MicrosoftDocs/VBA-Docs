@@ -3,6 +3,8 @@ title: VisUIButtonStyle enumeration (Visio)
 keywords: vis_sdr.chm70300
 f1_keywords:
 - vis_sdr.chm70300
+api_name:
+- Visio.visuibuttonstyle
 ms.assetid: 72f5bb15-2b33-885d-a73c-6d13e4bfee39
 ms.date: 06/08/2017
 ms.localizationpriority: medium

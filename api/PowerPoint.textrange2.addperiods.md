@@ -1,5 +1,7 @@
 ---
 title: TextRange2.AddPeriods method (PowerPoint)
+api_name:
+- PowerPoint.textrange2.addperiods
 ms.assetid: 07894fbc-2d3b-42b5-a240-8cdcce661562
 ms.date: 06/08/2017
 ms.localizationpriority: medium

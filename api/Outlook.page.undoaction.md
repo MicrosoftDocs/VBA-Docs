@@ -1,5 +1,7 @@
 ---
 title: Page.UndoAction Method (Outlook Forms Script)
+api_name:
+- Outlook.page.undoaction
 ms.assetid: 2a8ff967-0f29-d986-312c-82cbd815b7e7
 ms.date: 06/08/2017
 ms.localizationpriority: medium

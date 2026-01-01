@@ -3,6 +3,8 @@ title: Guides.Add method (PowerPoint)
 keywords: vbapp10.chm742004
 f1_keywords:
 - vbapp10.chm742004
+api_name:
+- PowerPoint.guides.add
 ms.assetid: 225ed31f-897e-a2bf-fecd-a915f8e1865f
 ms.date: 06/08/2017
 ms.localizationpriority: medium

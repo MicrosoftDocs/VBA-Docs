@@ -3,6 +3,8 @@ title: Sections object (Word)
 keywords: vbawd10.chm2394
 f1_keywords:
 - vbawd10.chm2394
+api_name:
+- Word.sections
 ms.assetid: cf6f77ba-9eee-5614-e697-bc031c4c6dcd
 ms.date: 06/08/2017
 ms.localizationpriority: medium

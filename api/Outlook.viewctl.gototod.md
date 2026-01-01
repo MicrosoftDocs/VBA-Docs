@@ -1,5 +1,7 @@
 ---
 title: ViewCtl.GoToToday Method (Outlook View Control)
+api_name:
+- Outlook.viewctl.gototod
 ms.assetid: f5b050d2-4687-8ef7-e72b-196701c2c72c
 ms.date: 06/08/2017
 ms.localizationpriority: medium

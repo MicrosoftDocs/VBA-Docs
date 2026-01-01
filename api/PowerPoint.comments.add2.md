@@ -3,6 +3,8 @@ title: Comments.Add2 method (PowerPoint)
 keywords: vbapp10.chm641005
 f1_keywords:
 - vbapp10.chm641005
+api_name:
+- PowerPoint.comments.add2
 ms.assetid: 4add4727-0193-061b-da71-793a4d6b3aa9
 ms.date: 07/14/2020
 ms.localizationpriority: medium

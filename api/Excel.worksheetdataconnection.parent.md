@@ -3,6 +3,8 @@ title: WorksheetDataConnection.Parent property (Excel)
 keywords: vbaxl10.chm923075
 f1_keywords:
 - vbaxl10.chm923075
+api_name:
+- Excel.worksheetdataconnection.parent
 ms.assetid: 927da93a-e63a-7cda-24c2-c34a39eaffcb
 ms.date: 05/18/2019
 ms.localizationpriority: medium

@@ -3,6 +3,8 @@ title: ModelTableNames.Item method (Excel)
 keywords: vbaxl10.chm954074
 f1_keywords:
 - vbaxl10.chm954074
+api_name:
+- Excel.modeltablenames.item
 ms.assetid: 78d20878-4599-71f0-8717-8fd01253d270
 ms.date: 05/01/2019
 ms.localizationpriority: medium

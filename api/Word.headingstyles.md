@@ -1,5 +1,7 @@
 ---
 title: HeadingStyles object (Word)
+api_name:
+- Word.headingstyles
 ms.assetid: be882a12-1264-8f7e-415b-b8bcbf28e703
 ms.date: 06/08/2017
 ms.localizationpriority: medium

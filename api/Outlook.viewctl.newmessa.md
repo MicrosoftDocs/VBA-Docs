@@ -1,5 +1,7 @@
 ---
 title: ViewCtl.NewMessage Method (Outlook View Control)
+api_name:
+- Outlook.viewctl.newmessa
 ms.assetid: 2aaf9f35-ad03-54cc-0b08-07678b212728
 ms.date: 06/08/2017
 ms.localizationpriority: medium

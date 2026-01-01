@@ -1,5 +1,7 @@
 ---
 title: ViewCtl.ViewXML Property (Outlook View Control)
+api_name:
+- Outlook.viewctl.viewx
 ms.assetid: 5ffe2e8a-1831-3dea-549a-a45147582c15
 ms.date: 06/08/2017
 ms.localizationpriority: medium

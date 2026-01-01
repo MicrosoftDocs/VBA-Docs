@@ -1,5 +1,7 @@
 ---
 title: TextRange2.Copy method (PowerPoint)
+api_name:
+- PowerPoint.textrange2.copy
 ms.assetid: dc4538cc-d5b7-4216-907b-2bfb5cf64f5b
 ms.date: 06/08/2017
 ms.localizationpriority: medium

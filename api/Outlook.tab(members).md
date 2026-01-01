@@ -1,5 +1,7 @@
 ---
 title: Tab Members (Outlook Forms Script)
+api_name:
+- Outlook.tab
 ms.assetid: cc15db10-38d7-4b6a-bb90-71af5aad78ce
 ms.date: 06/08/2019
 ms.localizationpriority: medium

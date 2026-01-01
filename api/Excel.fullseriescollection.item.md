@@ -3,6 +3,8 @@ title: FullSeriesCollection.Item method (Excel)
 keywords: vbaxl10.chm944075
 f1_keywords:
 - vbaxl10.chm944075
+api_name:
+- Excel.fullseriescollection.item
 ms.assetid: a9d511cd-5b76-e560-527f-e0af6ab68c3b
 ms.date: 04/26/2019
 ms.localizationpriority: medium

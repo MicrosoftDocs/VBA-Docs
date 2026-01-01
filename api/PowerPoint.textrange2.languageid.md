@@ -1,5 +1,7 @@
 ---
 title: TextRange2.LanguageID property (PowerPoint)
+api_name:
+- PowerPoint.textrange2.languageid
 ms.assetid: 792278d7-b412-491f-b4a7-cb4b9a8ef3ba
 ms.date: 06/08/2017
 ms.localizationpriority: medium

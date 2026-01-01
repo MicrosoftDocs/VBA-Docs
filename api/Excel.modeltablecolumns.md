@@ -3,6 +3,8 @@ title: ModelTableColumns object (Excel)
 keywords: vbaxl10.chm931072
 f1_keywords:
 - vbaxl10.chm931072
+api_name:
+- Excel.modeltablecolumns
 ms.assetid: 6f7a0fcd-7e78-8c90-a3a1-058c803b2ee0
 ms.date: 03/30/2019
 ms.localizationpriority: medium

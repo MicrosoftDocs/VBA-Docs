@@ -1,5 +1,7 @@
 ---
 title: Engagement.ResourceGuid property (Project)
+api_name:
+- Project.engagement.resourceguid
 ms.assetid: 9b92c2a6-891d-c7d0-97a8-aee2deee7277
 ms.date: 06/08/2017
 ms.service: project-server

@@ -1,5 +1,7 @@
 ---
 title: CheckBox Members (Outlook Forms Script)
+api_name:
+- Outlook.checkbox
 ms.assetid: 0f81427d-e1b3-41aa-94ae-208d6cd16439
 ms.date: 06/08/2019
 ms.localizationpriority: medium

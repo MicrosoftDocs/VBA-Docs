@@ -3,6 +3,8 @@ title: Workbook.SheetTableUpdate event (Excel)
 keywords: vbaxl10.chm503110
 f1_keywords:
 - vbaxl10.chm503110
+api_name:
+- Excel.workbook.sheettableupdate
 ms.assetid: 609d331e-45b9-885b-a395-d80ccf4c19a5
 ms.date: 05/29/2019
 ms.localizationpriority: medium

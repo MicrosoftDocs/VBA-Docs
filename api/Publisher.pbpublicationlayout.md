@@ -3,6 +3,8 @@ title: PbPublicationLayout enumeration (Publisher)
 keywords: vbapb10.chm65617
 f1_keywords:
 - vbapb10.chm65617
+api_name:
+- Publisher.pbpublicationlayout
 ms.assetid: 8f43c884-d4cb-b2e2-ec24-804281d99107
 ms.date: 06/08/2017
 ms.localizationpriority: medium

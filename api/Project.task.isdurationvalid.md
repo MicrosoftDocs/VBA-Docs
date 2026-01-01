@@ -1,5 +1,7 @@
 ---
 title: Task.IsDurationValid property (Project)
+api_name:
+- Project.task.isdurationvalid
 ms.service: project-server
 ms.assetid: 303c5cab-b83a-37b6-c1da-207e91c45a86
 ms.date: 06/08/2017

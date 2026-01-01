@@ -3,6 +3,8 @@ title: DataFeedConnection.CommandType property (Excel)
 keywords: vbaxl10.chm928075
 f1_keywords:
 - vbaxl10.chm928075
+api_name:
+- Excel.datafeedconnection.commandtype
 ms.assetid: 275d01bf-2f5d-b7b8-2e2a-2d35bb822ba0
 ms.date: 03/28/2019
 ms.localizationpriority: medium

@@ -3,6 +3,8 @@ title: WorksheetFunction.Days method (Excel)
 keywords: vbaxl10.chm137446
 f1_keywords:
 - vbaxl10.chm137446
+api_name:
+- Excel.worksheetfunction.days
 ms.assetid: b4372e6a-7d9e-0425-a99a-87b0f3967cc7
 ms.date: 05/22/2019
 ms.localizationpriority: medium

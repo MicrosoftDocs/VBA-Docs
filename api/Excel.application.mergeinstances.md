@@ -3,6 +3,8 @@ title: Application.MergeInstances property (Excel)
 keywords: vbaxl10.chm133343
 f1_keywords:
 - vbaxl10.chm133343
+api_name:
+- Excel.application.mergeinstances
 ms.assetid: f406f2b2-802e-421c-9a80-f6f96a7b7c28
 ms.date: 04/05/2019
 ms.localizationpriority: medium

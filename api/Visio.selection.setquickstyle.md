@@ -1,5 +1,7 @@
 ---
 title: Selection.SetQuickStyle method (Visio)
+api_name:
+- Visio.selection.setquickstyle
 ms.assetid: 39b810b5-0738-daed-0103-8a2df07559c6
 ms.date: 06/08/2017
 ms.localizationpriority: medium

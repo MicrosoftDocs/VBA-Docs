@@ -1,5 +1,7 @@
 ---
 title: TextBox.Paste Method (Outlook Forms Script)
+api_name:
+- Outlook.textbox.paste
 ms.assetid: 76187602-a0c1-4864-d800-1c95fc359cd0
 ms.date: 06/08/2017
 ms.localizationpriority: medium

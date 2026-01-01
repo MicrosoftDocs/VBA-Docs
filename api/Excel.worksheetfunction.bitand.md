@@ -3,6 +3,8 @@ title: WorksheetFunction.Bitand method (Excel)
 keywords: vbaxl10.chm137435
 f1_keywords:
 - vbaxl10.chm137435
+api_name:
+- Excel.worksheetfunction.bitand
 ms.assetid: 6bd0c1e0-43c4-b6cb-ede2-234fe45bb378
 ms.date: 05/22/2019
 ms.localizationpriority: medium

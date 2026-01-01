@@ -1,5 +1,7 @@
 ---
 title: Tabs object (Outlook Forms Script)
+api_name:
+- Outlook.tabs
 ms.assetid: 0b209e50-60c7-e991-f0fb-627dd17cb7ec
 ms.date: 06/08/2017
 ms.localizationpriority: medium

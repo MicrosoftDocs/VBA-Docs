@@ -3,6 +3,8 @@ title: ChartCategory object (Excel)
 keywords: vbaxl10.chm945072
 f1_keywords:
 - vbaxl10.chm945072
+api_name:
+- Excel.chartcategory
 ms.assetid: 2060fdef-8da0-b549-462d-129cf093a3da
 ms.date: 03/29/2019
 ms.localizationpriority: medium

@@ -3,6 +3,8 @@ title: PivotValueCell.PivotCell property (Excel)
 keywords: vbaxl10.chm918073
 f1_keywords:
 - vbaxl10.chm918073
+api_name:
+- Excel.pivotvaluecell.pivotcell
 ms.assetid: 18fa81bd-3169-9f08-9418-93ea5443efb2
 ms.date: 05/07/2019
 ms.localizationpriority: medium

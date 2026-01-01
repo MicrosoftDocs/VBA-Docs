@@ -3,6 +3,8 @@ title: Range.FlashFill method (Excel)
 keywords: vbaxl10.chm144255
 f1_keywords:
 - vbaxl10.chm144255
+api_name:
+- Excel.range.flashfill
 ms.assetid: 3ca4a73f-712a-fe69-684d-a959351e5855
 ms.date: 05/10/2019
 ms.localizationpriority: medium

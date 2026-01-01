@@ -1,5 +1,7 @@
 ---
 title: Page.SetDefaultTabOrder Method (Outlook Forms Script)
+api_name:
+- Outlook.page.setdefaulttaborder
 ms.assetid: e681b4e9-3a0e-7fcc-9dde-d29f6558a788
 ms.date: 06/08/2017
 ms.localizationpriority: medium

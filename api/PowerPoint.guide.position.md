@@ -3,6 +3,8 @@ title: Guide.Position property (PowerPoint)
 keywords: vbapp10.chm743005
 f1_keywords:
 - vbapp10.chm743005
+api_name:
+- PowerPoint.guide.position
 ms.assetid: 32d8f48b-f9e4-0fc0-b1dc-ddcb2f677dd8
 ms.date: 06/08/2017
 ms.localizationpriority: medium

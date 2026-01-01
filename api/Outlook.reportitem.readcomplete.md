@@ -1,5 +1,7 @@
 ---
 title: ReportItem.ReadComplete event (Outlook)
+api_name:
+- Outlook.reportitem.readcomplete
 ms.assetid: f73cb164-0c88-f439-6474-a4502b6731ea
 ms.date: 06/08/2017
 ms.localizationpriority: medium

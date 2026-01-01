@@ -3,6 +3,8 @@ title: Application.AddEngagement method (Project)
 keywords: vbapj.chm169
 f1_keywords:
 - vbapj.chm169
+api_name:
+- Project.application.addengagement
 ms.assetid: 61fbd902-1fa1-d591-5618-697e5dc9338d
 ms.date: 06/08/2017
 ms.service: project-server

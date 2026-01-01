@@ -3,6 +3,8 @@ title: Shape.SaveAsBuildingBlock method (Publisher)
 keywords: vbapb10.chm2228378
 f1_keywords:
 - vbapb10.chm2228378
+api_name:
+- Publisher.shape.saveasbuildingblock
 ms.assetid: 5dd51d12-9bb2-4dd5-9b4c-20f755beef12
 ms.date: 06/13/2019
 ms.localizationpriority: medium

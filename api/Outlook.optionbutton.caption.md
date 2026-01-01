@@ -1,5 +1,7 @@
 ---
 title: OptionButton.Caption Property (Outlook Forms Script)
+api_name:
+- Outlook.optionbutton.caption
 ms.assetid: 8e6a50b2-fe72-099a-cf2c-3e415d1a9059
 ms.date: 06/08/2017
 ms.localizationpriority: medium

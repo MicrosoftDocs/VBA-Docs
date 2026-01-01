@@ -3,6 +3,8 @@ title: Windows object (Project)
 keywords: vbapj.chm131357
 f1_keywords:
 - vbapj.chm131357
+api_name:
+- Project.windows
 ms.service: project-server
 ms.assetid: 6fc70ece-0257-5565-907b-e0e7a6770980
 ms.date: 06/08/2017

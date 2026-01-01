@@ -1,5 +1,7 @@
 ---
 title: Tab.Name Property (Outlook Forms Script)
+api_name:
+- Outlook.tab.name
 ms.assetid: 270b9d06-fdba-44a4-ba4c-b6b1a57a80d1
 ms.date: 06/08/2017
 ms.localizationpriority: medium

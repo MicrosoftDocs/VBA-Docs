@@ -3,6 +3,8 @@ title: ModelTableColumn.Application property (Excel)
 keywords: vbaxl10.chm929073
 f1_keywords:
 - vbaxl10.chm929073
+api_name:
+- Excel.modeltablecolumn.application
 ms.assetid: 69540e35-6a9a-0fd9-23b1-31457b33ba68
 ms.date: 05/01/2019
 ms.localizationpriority: medium

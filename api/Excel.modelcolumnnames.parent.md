@@ -3,6 +3,8 @@ title: ModelColumnNames.Parent property (Excel)
 keywords: vbaxl10.chm963075
 f1_keywords:
 - vbaxl10.chm963075
+api_name:
+- Excel.modelcolumnnames.parent
 ms.assetid: 5e9b23fc-892d-b457-95f7-9cc2fedd1cd3
 ms.date: 05/01/2019
 ms.localizationpriority: medium

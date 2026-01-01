@@ -3,6 +3,8 @@ title: ChartFormat.AutoShapeType property (Excel)
 keywords: vbaxl10.chm861082
 f1_keywords:
 - vbaxl10.chm861082
+api_name:
+- Excel.chartformat.autoshapetype
 ms.assetid: eacb0a50-0c7a-8693-5ca0-4c92fa2831ed
 ms.date: 04/20/2019
 ms.localizationpriority: medium

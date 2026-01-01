@@ -1,5 +1,7 @@
 ---
 title: XlDataLabelsType enumeration (Word)
+api_name:
+- Word.xldatalabelstype
 ms.assetid: 66b0b21f-7f33-0fbd-6d24-db722109d330
 ms.date: 06/08/2017
 ms.localizationpriority: medium

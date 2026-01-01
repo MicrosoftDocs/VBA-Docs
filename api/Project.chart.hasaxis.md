@@ -1,5 +1,7 @@
 ---
 title: Chart.HasAxis property (Project)
+api_name:
+- Project.chart.hasaxis
 ms.service: project-server
 ms.assetid: f1059a7e-01ac-cd41-78d6-dc88f52943f2
 ms.date: 06/08/2017

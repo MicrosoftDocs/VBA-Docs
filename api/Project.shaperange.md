@@ -1,5 +1,7 @@
 ---
 title: ShapeRange object (Project)
+api_name:
+- Project.shaperange
 ms.service: project-server
 ms.assetid: 315031aa-4b8c-424b-26e7-ce15897beb05
 ms.date: 06/08/2017

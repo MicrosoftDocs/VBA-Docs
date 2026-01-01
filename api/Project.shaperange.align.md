@@ -1,5 +1,7 @@
 ---
 title: ShapeRange.Align method (Project)
+api_name:
+- Project.shaperange.align
 ms.service: project-server
 ms.assetid: 6e8e3a02-efd8-995c-be1a-a89d7709bd08
 ms.date: 06/08/2017

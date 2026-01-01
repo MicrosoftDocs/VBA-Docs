@@ -1,5 +1,7 @@
 ---
 title: XlChartPicturePlacement enumeration (Word)
+api_name:
+- Word.xlchartpictureplacement
 ms.assetid: 2759ceb8-3a36-d7fd-016b-8b7f75586010
 ms.date: 06/08/2017
 ms.localizationpriority: medium

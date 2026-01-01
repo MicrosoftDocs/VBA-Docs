@@ -3,6 +3,8 @@ title: ContactItem.ShowCheckFullNameDialog method (Outlook)
 keywords: vbaol11.chm3593
 f1_keywords:
 - vbaol11.chm3593
+api_name:
+- Outlook.contactitem.showcheckfullnamedialog
 ms.assetid: d42632e3-6f50-cce7-80c6-cf846be1f925
 ms.date: 06/08/2017
 ms.localizationpriority: medium

@@ -1,5 +1,7 @@
 ---
 title: VisQuickStyleMatrixIndices enumeration (Visio)
+api_name:
+- Visio.visquickstylematrixindices
 ms.assetid: 0fb0b448-85ba-4fc4-d933-21d574cefa2a
 ms.date: 06/08/2017
 ms.localizationpriority: medium

@@ -3,6 +3,8 @@ title: VisDataColumnProperties enumeration (Visio)
 keywords: vis_sdr.chm70500
 f1_keywords:
 - vis_sdr.chm70500
+api_name:
+- Visio.visdatacolumnproperties
 ms.assetid: b2cf84b8-fa84-7084-520c-3c01b9ef6cf9
 ms.date: 06/08/2017
 ms.localizationpriority: medium

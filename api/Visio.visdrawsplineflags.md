@@ -3,6 +3,8 @@ title: VisDrawSplineFlags enumeration (Visio)
 keywords: vis_sdr.chm70105
 f1_keywords:
 - vis_sdr.chm70105
+api_name:
+- Visio.visdrawsplineflags
 ms.assetid: d5bd35db-4fbd-f1dd-01fc-9e45eb8c4c59
 ms.date: 06/08/2017
 ms.localizationpriority: medium

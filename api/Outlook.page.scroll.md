@@ -1,5 +1,7 @@
 ---
 title: Page.Scroll Method (Outlook Forms Script)
+api_name:
+- Outlook.page.scroll
 ms.assetid: 19810ddc-70f9-aa60-0c8a-f2c9ab9ff51f
 ms.date: 06/08/2017
 ms.localizationpriority: medium

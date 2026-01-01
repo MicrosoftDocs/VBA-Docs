@@ -3,6 +3,8 @@ title: WorksheetFunction.ImCsch method (Excel)
 keywords: vbaxl10.chm137432
 f1_keywords:
 - vbaxl10.chm137432
+api_name:
+- Excel.worksheetfunction.imcsch
 ms.assetid: 0e42cbdf-b8cd-8d46-1d6f-4fe152558fdb
 ms.date: 05/23/2019
 ms.localizationpriority: medium

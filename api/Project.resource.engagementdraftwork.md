@@ -3,6 +3,8 @@ title: Resource.EngagementDraftWork property (Project)
 keywords: vbapj.chm131803
 f1_keywords:
 - vbapj.chm131803
+api_name:
+- Project.resource.engagementdraftwork
 ms.assetid: 577433e5-7d23-5ce8-f3e8-18d0da9e67ac
 ms.date: 06/08/2017
 ms.service: project-server

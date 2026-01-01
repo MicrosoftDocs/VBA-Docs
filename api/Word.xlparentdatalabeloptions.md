@@ -1,5 +1,7 @@
 ---
 title: XlParentDataLabelOptions enumeration (Word)
+api_name:
+- Word.xlparentdatalabeloptions
 ms.assetid: c83fe64d-5a14-74b5-5847-62cba83805b0
 ms.date: 06/08/2017
 ms.localizationpriority: medium

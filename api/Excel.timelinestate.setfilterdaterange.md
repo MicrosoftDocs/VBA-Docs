@@ -3,6 +3,8 @@ title: TimelineState.SetFilterDateRange method (Excel)
 keywords: vbaxl10.chm950079
 f1_keywords:
 - vbaxl10.chm950079
+api_name:
+- Excel.timelinestate.setfilterdaterange
 ms.assetid: c0ceea5c-9aa2-39a2-ce58-e37befeb0175
 ms.date: 05/18/2019
 ms.localizationpriority: medium

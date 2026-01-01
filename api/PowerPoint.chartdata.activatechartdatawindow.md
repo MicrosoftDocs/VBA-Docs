@@ -3,6 +3,8 @@ title: ChartData.ActivateChartDataWindow method (PowerPoint)
 keywords: vbapp10.chm689005
 f1_keywords:
 - vbapp10.chm689005
+api_name:
+- PowerPoint.chartdata.activatechartdatawindow
 ms.assetid: 3364ab9c-ed34-5970-6318-95a694a55354
 ms.date: 06/08/2017
 ms.localizationpriority: medium

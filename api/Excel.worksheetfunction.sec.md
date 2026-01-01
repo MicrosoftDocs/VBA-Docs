@@ -3,6 +3,8 @@ title: WorksheetFunction.Sec method (Excel)
 keywords: vbaxl10.chm137427
 f1_keywords:
 - vbaxl10.chm137427
+api_name:
+- Excel.worksheetfunction.sec
 ms.assetid: f8a1019f-01c0-73fc-5f1d-5962f9f4e703
 ms.date: 05/25/2019
 ms.localizationpriority: medium

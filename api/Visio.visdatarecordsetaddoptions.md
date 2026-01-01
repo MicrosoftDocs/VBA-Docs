@@ -3,6 +3,8 @@ title: VisDataRecordsetAddOptions enumeration (Visio)
 keywords: vis_sdr.chm70495
 f1_keywords:
 - vis_sdr.chm70495
+api_name:
+- Visio.visdatarecordsetaddoptions
 ms.assetid: 240726a5-48cb-3034-99cf-a42967a95daf
 ms.date: 06/08/2017
 ms.localizationpriority: medium

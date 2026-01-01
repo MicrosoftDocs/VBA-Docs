@@ -3,6 +3,8 @@ title: VisGraphicPositionHorizontal enumeration (Visio)
 keywords: vis_sdr.chm70510
 f1_keywords:
 - vis_sdr.chm70510
+api_name:
+- Visio.visgraphicpositionhorizontal
 ms.assetid: a86d0039-d54c-d23b-7c89-82343666898e
 ms.date: 06/08/2017
 ms.localizationpriority: medium

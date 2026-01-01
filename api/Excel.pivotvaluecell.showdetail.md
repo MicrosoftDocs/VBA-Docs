@@ -3,6 +3,8 @@ title: PivotValueCell.ShowDetail method (Excel)
 keywords: vbaxl10.chm918075
 f1_keywords:
 - vbaxl10.chm918075
+api_name:
+- Excel.pivotvaluecell.showdetail
 ms.assetid: 1611f445-4808-7709-9a4e-c3148d8e9fba
 ms.date: 05/07/2019
 ms.localizationpriority: medium

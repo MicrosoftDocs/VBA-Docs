@@ -3,6 +3,8 @@ title: Broadcast.Capabilities property (Word)
 keywords: vbawd10.chm36438019
 f1_keywords:
 - vbawd10.chm36438019
+api_name:
+- Word.broadcast.capabilities
 ms.assetid: 86388adc-95c3-3c06-dbfe-a0455e93c90f
 ms.date: 06/08/2017
 ms.localizationpriority: medium

@@ -3,6 +3,8 @@ title: Font.Glow property (Publisher)
 keywords: vbapb10.chm5374020
 f1_keywords:
 - vbapb10.chm5374020
+api_name:
+- Publisher.font.glow
 ms.assetid: 72fb3acb-e405-a03a-1e12-88b775551f7f
 ms.date: 06/08/2019
 ms.localizationpriority: medium

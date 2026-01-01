@@ -3,6 +3,8 @@ title: IVisEventProc object (Visio)
 keywords: vis_sdr.chm60150
 f1_keywords:
 - vis_sdr.chm60150
+api_name:
+- Visio.iviseventproc
 ms.assetid: 332ec60d-c70a-9d7f-15ad-bb797f60b3a5
 ms.date: 06/19/2019
 ms.localizationpriority: medium

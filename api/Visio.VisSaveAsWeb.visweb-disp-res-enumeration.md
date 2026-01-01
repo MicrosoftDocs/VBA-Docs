@@ -1,5 +1,7 @@
 ---
 title: VISWEB_DISP_RES enumeration (Visio Save as Web)
+api_name:
+- Visio.VisSaveAsWeb.visweb-disp-res-enumeration
 ms.assetid: b1de6074-da6b-9930-af03-890d1d9ac59a
 ms.date: 06/21/2019
 ms.localizationpriority: medium

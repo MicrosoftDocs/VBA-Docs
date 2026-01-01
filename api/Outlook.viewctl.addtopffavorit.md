@@ -1,5 +1,7 @@
 ---
 title: ViewCtl.AddToPFFavorites Method (Outlook View Control)
+api_name:
+- Outlook.viewctl.addtopffavorit
 ms.assetid: 583df413-4914-f108-dc67-f3bcb1a5873d
 ms.date: 06/08/2017
 ms.localizationpriority: medium

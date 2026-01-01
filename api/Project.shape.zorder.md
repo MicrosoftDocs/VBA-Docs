@@ -1,5 +1,7 @@
 ---
 title: Shape.ZOrder method (Project)
+api_name:
+- Project.shape.zorder
 ms.service: project-server
 ms.assetid: e8badff9-fbe5-b6b8-8c33-68cfde3bef38
 ms.date: 06/08/2017

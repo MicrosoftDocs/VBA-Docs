@@ -3,6 +3,8 @@ title: PreviewPane.Application property (Outlook)
 keywords: vbaol11.chm3634
 f1_keywords:
 - vbaol11.chm3634
+api_name:
+- Outlook.previewpane.application
 ms.assetid: 19fc11bc-a777-349e-f708-3cfa9f24ecbd
 ms.date: 06/08/2017
 ms.localizationpriority: medium

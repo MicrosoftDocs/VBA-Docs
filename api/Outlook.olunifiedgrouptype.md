@@ -3,6 +3,8 @@ title: OlUnifiedGroupType enumeration (Outlook)
 keywords: vbaol11.chm3627
 f1_keywords:
 - vbaol11.chm3627
+api_name:
+- Outlook.olunifiedgrouptype
 ms.assetid: e750a22a-4e76-9458-fccd-7f2babcf9485
 ms.date: 07/04/2019
 ms.localizationpriority: medium

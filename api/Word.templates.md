@@ -3,6 +3,8 @@ title: Templates object (Word)
 keywords: vbawd10.chm2466
 f1_keywords:
 - vbawd10.chm2466
+api_name:
+- Word.templates
 ms.assetid: de62f768-011a-7446-48c3-1c4512da5f7c
 ms.date: 06/08/2017
 ms.localizationpriority: medium

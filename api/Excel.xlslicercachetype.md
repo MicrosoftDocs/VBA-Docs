@@ -1,5 +1,7 @@
 ---
 title: XlSlicerCacheType enumeration (Excel)
+api_name:
+- Excel.xlslicercachetype
 ms.assetid: a9328ef0-b77b-c159-bb6c-b518f6145028
 ms.date: 06/08/2017
 ms.localizationpriority: medium

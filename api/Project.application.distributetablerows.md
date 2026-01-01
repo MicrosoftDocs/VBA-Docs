@@ -3,6 +3,8 @@ title: Application.DistributeTableRows method (Project)
 keywords: vbapj.chm1517
 f1_keywords:
 - vbapj.chm1517
+api_name:
+- Project.application.distributetablerows
 ms.service: project-server
 ms.assetid: 6a8b9fcf-4922-52ae-d4f9-306d22692224
 ms.date: 06/08/2017

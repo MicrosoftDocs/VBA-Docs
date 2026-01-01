@@ -1,5 +1,7 @@
 ---
 title: ViewCtl.Filter Property (Outlook View Control)
+api_name:
+- Outlook.viewctl.filt
 ms.assetid: 4074d1d3-e3b5-810f-3ba9-3cf5bd1507ab
 ms.date: 06/08/2017
 ms.localizationpriority: medium

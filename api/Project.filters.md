@@ -1,5 +1,7 @@
 ---
 title: Filters object (Project)
+api_name:
+- Project.filters
 ms.service: project-server
 ms.assetid: 13b58540-decc-17c5-6de6-bbb8e05eb6d2
 ms.date: 06/08/2017

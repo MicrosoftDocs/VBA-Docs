@@ -1,5 +1,7 @@
 ---
 title: Comments.Item property (Visio)
+api_name:
+- Visio.comments.item
 ms.assetid: fed2a079-de87-d5ce-1d74-0bfa5a328441
 ms.date: 06/08/2017
 ms.localizationpriority: medium

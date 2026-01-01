@@ -1,5 +1,7 @@
 ---
 title: Tab.Visible Property (Outlook Forms Script)
+api_name:
+- Outlook.tab.visible
 ms.assetid: 559ec217-e55f-698e-6779-a7e9e15529e1
 ms.date: 06/08/2017
 ms.localizationpriority: medium

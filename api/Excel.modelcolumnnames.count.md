@@ -3,6 +3,8 @@ title: ModelColumnNames.Count property (Excel)
 keywords: vbaxl10.chm964073
 f1_keywords:
 - vbaxl10.chm964073
+api_name:
+- Excel.modelcolumnnames.count
 ms.assetid: 05cb425d-5981-d630-b849-132a9c957aed
 ms.date: 05/01/2019
 ms.localizationpriority: medium

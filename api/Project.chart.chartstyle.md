@@ -1,5 +1,7 @@
 ---
 title: Chart.ChartStyle property (Project)
+api_name:
+- Project.chart.chartstyle
 ms.service: project-server
 ms.assetid: e90f17dd-b9a8-4da1-d66a-2940e47953b5
 ms.date: 06/08/2017

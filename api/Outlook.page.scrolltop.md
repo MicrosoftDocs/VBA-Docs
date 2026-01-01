@@ -1,5 +1,7 @@
 ---
 title: Page.ScrollTop Property (Outlook Forms Script)
+api_name:
+- Outlook.page.scrolltop
 ms.assetid: 5952139e-4fda-1aa9-b38b-b403c06d5930
 ms.date: 06/08/2017
 ms.localizationpriority: medium

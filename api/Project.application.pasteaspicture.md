@@ -3,6 +3,8 @@ title: Application.PasteAsPicture method (Project)
 keywords: vbapj.chm138
 f1_keywords:
 - vbapj.chm138
+api_name:
+- Project.application.pasteaspicture
 ms.service: project-server
 ms.assetid: 06b85596-281a-b77d-56d1-8c4283a4dba7
 ms.date: 06/08/2017

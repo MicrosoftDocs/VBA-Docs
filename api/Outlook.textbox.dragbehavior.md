@@ -1,5 +1,7 @@
 ---
 title: TextBox.DragBehavior Property (Outlook Forms Script)
+api_name:
+- Outlook.textbox.dragbehavior
 ms.assetid: 625ff366-65d5-0b50-bd73-420df5324fd2
 ms.date: 06/08/2017
 ms.localizationpriority: medium

@@ -1,5 +1,7 @@
 ---
 title: ComboBox.AutoSize Property (Outlook Forms Script)
+api_name:
+- Outlook.combobox.autosize
 ms.assetid: 352cc408-0bef-43ae-c35b-38bea170507f
 ms.date: 06/08/2017
 ms.localizationpriority: medium

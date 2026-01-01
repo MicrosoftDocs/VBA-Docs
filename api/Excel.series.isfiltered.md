@@ -3,6 +3,8 @@ title: Series.IsFiltered property (Excel)
 keywords: vbaxl10.chm578128
 f1_keywords:
 - vbaxl10.chm578128
+api_name:
+- Excel.series.isfiltered
 ms.assetid: 90c1564c-439c-de1f-8082-0de3372c0566
 ms.date: 05/11/2019
 ms.localizationpriority: medium

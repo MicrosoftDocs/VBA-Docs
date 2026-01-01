@@ -3,6 +3,8 @@ title: ModelColumnChanges.Creator property (Excel)
 keywords: vbaxl10.chm967074
 f1_keywords:
 - vbaxl10.chm967074
+api_name:
+- Excel.modelcolumnchanges.creator
 ms.assetid: 19baf46f-b517-0bf6-aaaa-ab3794296e97
 ms.date: 05/01/2019
 ms.localizationpriority: medium

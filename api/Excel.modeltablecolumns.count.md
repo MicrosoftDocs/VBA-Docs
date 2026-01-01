@@ -3,6 +3,8 @@ title: ModelTableColumns.Count property (Excel)
 keywords: vbaxl10.chm932073
 f1_keywords:
 - vbaxl10.chm932073
+api_name:
+- Excel.modeltablecolumns.count
 ms.assetid: fdbcd2ab-fe11-01c1-88ae-a9c9c766fb65
 ms.date: 05/01/2019
 ms.localizationpriority: medium

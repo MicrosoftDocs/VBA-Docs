@@ -1,5 +1,7 @@
 ---
 title: Label.BorderColor Property (Outlook Forms Script)
+api_name:
+- Outlook.label.bordercolor
 ms.assetid: c32a24cb-8cb9-509f-4cb5-8cd753d60f07
 ms.date: 06/08/2017
 ms.localizationpriority: medium

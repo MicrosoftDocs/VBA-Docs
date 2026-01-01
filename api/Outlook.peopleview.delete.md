@@ -3,6 +3,8 @@ title: PeopleView.Delete method (Outlook)
 keywords: vbaol11.chm3575
 f1_keywords:
 - vbaol11.chm3575
+api_name:
+- Outlook.peopleview.delete
 ms.assetid: 1acbfeb6-672c-899f-c02c-c7fa818af8a4
 ms.date: 06/08/2017
 ms.localizationpriority: medium

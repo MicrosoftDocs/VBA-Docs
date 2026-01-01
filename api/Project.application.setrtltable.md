@@ -3,6 +3,8 @@ title: Application.SetRTLTable method (Project)
 keywords: vbapj.chm1519
 f1_keywords:
 - vbapj.chm1519
+api_name:
+- Project.application.setrtltable
 ms.service: project-server
 ms.assetid: 92dc18e3-fa84-a4b2-d032-aa32a4e3957d
 ms.date: 06/08/2017

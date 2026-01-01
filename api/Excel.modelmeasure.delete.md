@@ -3,6 +3,8 @@ title: ModelMeasure.Delete method (Excel)
 keywords: vbaxl10.chm978078
 f1_keywords:
 - vbaxl10.chm978078
+api_name:
+- Excel.modelmeasure.delete
 ms.assetid: 19ec1efa-5c1e-8130-3845-7e3f55017041
 ms.date: 05/01/2019
 ms.localizationpriority: medium

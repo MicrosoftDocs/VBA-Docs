@@ -1,5 +1,7 @@
 ---
 title: Page.Cut Method (Outlook Forms Script)
+api_name:
+- Outlook.page.cut
 ms.assetid: 9b2d18c2-2007-d689-5645-d4a6f6306862
 ms.date: 06/08/2017
 ms.localizationpriority: medium

@@ -1,5 +1,7 @@
 ---
 title: ListBox Members (Outlook Forms Script)
+api_name:
+- Outlook.listbox
 ms.assetid: 29209459-9b73-4fc4-8866-23ac28ea8e9b
 ms.date: 06/08/2019
 ms.localizationpriority: medium

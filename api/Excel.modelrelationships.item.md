@@ -3,6 +3,8 @@ title: ModelRelationships.Item method (Excel)
 keywords: vbaxl10.chm940074
 f1_keywords:
 - vbaxl10.chm940074
+api_name:
+- Excel.modelrelationships.item
 ms.assetid: e23b5281-50e9-3a6a-4f0c-02e677d40cf4
 ms.date: 04/20/2019
 ms.localizationpriority: medium

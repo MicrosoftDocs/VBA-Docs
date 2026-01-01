@@ -3,6 +3,8 @@ title: ReflectionFormat.Offset property (Publisher)
 keywords: vbapb10.chm9699332
 f1_keywords:
 - vbapb10.chm9699332
+api_name:
+- Publisher.reflectionformat.offset
 ms.assetid: e9e5c3a8-1f0a-0f72-8c0f-93094a3dd56a
 ms.date: 06/13/2019
 ms.localizationpriority: medium

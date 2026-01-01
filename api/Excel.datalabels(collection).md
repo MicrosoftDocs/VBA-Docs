@@ -3,6 +3,8 @@ title: DataLabels collection (Excel Graph)
 keywords: vbagr10.chm131187
 f1_keywords:
 - vbagr10.chm131187
+api_name:
+- Excel.datalabels
 ms.assetid: 597c7269-71ed-5dcc-af6b-34dc908e9d58
 ms.date: 04/06/2019
 ms.localizationpriority: medium

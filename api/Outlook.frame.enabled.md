@@ -1,5 +1,7 @@
 ---
 title: Frame.Enabled Property (Outlook Forms Script)
+api_name:
+- Outlook.frame.enabled
 ms.assetid: 422240cf-8a8f-83ab-8cab-1a0699467282
 ms.date: 06/08/2017
 ms.localizationpriority: medium

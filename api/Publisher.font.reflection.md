@@ -3,6 +3,8 @@ title: Font.Reflection property (Publisher)
 keywords: vbapb10.chm5374021
 f1_keywords:
 - vbapb10.chm5374021
+api_name:
+- Publisher.font.reflection
 ms.assetid: e426d097-4839-6949-147c-f84b230bdfb7
 ms.date: 06/08/2019
 ms.localizationpriority: medium

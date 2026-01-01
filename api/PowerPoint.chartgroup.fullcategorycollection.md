@@ -3,6 +3,8 @@ title: ChartGroup.FullCategoryCollection method (PowerPoint)
 keywords: vbapp10.chm692019
 f1_keywords:
 - vbapp10.chm692019
+api_name:
+- PowerPoint.chartgroup.fullcategorycollection
 ms.assetid: a22cdaac-19a6-d901-92bc-da0c9edb91ef
 ms.date: 06/08/2017
 ms.localizationpriority: medium

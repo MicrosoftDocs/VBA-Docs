@@ -1,5 +1,7 @@
 ---
 title: Page.Copy Method (Outlook Forms Script)
+api_name:
+- Outlook.page.copy
 ms.assetid: 6013fe1e-eb1c-dcca-b5eb-d99cc84f22fa
 ms.date: 06/08/2017
 ms.localizationpriority: medium

@@ -3,6 +3,8 @@ title: Application.TimelineBarDateRange method (Project)
 keywords: vbapj.chm154
 f1_keywords:
 - vbapj.chm154
+api_name:
+- Project.application.timelinebardaterange
 ms.assetid: a1d257f3-92b7-6719-4ce5-5b959823e702
 ms.date: 06/08/2017
 ms.service: project-server

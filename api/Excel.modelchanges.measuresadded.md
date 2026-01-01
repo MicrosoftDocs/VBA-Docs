@@ -3,6 +3,8 @@ title: ModelChanges.MeasuresAdded property (Excel)
 keywords: vbaxl10.chm960081
 f1_keywords:
 - vbaxl10.chm960081
+api_name:
+- Excel.modelchanges.measuresadded
 ms.assetid: f6421f60-8d38-885c-6f02-6aad1b808e34
 ms.date: 05/01/2019
 ms.localizationpriority: medium

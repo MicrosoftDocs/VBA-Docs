@@ -1,5 +1,7 @@
 ---
 title: ViewCtl.SelectedDate Property (Outlook View Control)
+api_name:
+- Outlook.viewctl.selectedda
 ms.assetid: 15bed273-7b86-7ce8-f3ed-911ab20772c7
 ms.date: 06/08/2017
 ms.localizationpriority: medium

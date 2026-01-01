@@ -3,6 +3,8 @@ title: Chart.ClearToMatchColorStyle method (Project)
 keywords: vbapj.chm131615
 f1_keywords:
 - vbapj.chm131615
+api_name:
+- Project.chart.cleartomatchcolorstyle
 ms.service: project-server
 ms.assetid: b2592ff4-8410-fa5c-a270-d03d47156607
 ms.date: 06/08/2017

@@ -3,6 +3,8 @@ title: ExchangeDistributionList.IsUnifiedGroup method (Outlook)
 keywords: vbaol11.chm3628
 f1_keywords:
 - vbaol11.chm3628
+api_name:
+- Outlook.exchangedistributionlist.isunifiedgroup
 ms.assetid: 9ee27465-3ea5-7316-feec-2f255ff08f6b
 ms.date: 06/08/2017
 ms.localizationpriority: medium

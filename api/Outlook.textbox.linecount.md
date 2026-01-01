@@ -1,5 +1,7 @@
 ---
 title: TextBox.LineCount Property (Outlook Forms Script)
+api_name:
+- Outlook.textbox.linecount
 ms.assetid: ac954fb1-a53c-85c4-5f62-3fe25544f41c
 ms.date: 06/08/2017
 ms.localizationpriority: medium

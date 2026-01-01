@@ -3,6 +3,8 @@ title: NavigationButton.QuickStyleMask property (Access)
 keywords: vbaac10.chm14647
 f1_keywords:
 - vbaac10.chm14647
+api_name:
+- Access.navigationbutton.quickstylemask
 ms.assetid: d7a5e454-399b-090c-46d9-add8ad13ff0f
 ms.date: 03/05/2019
 ms.localizationpriority: medium

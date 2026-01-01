@@ -1,5 +1,7 @@
 ---
 title: TextBox.BackStyle Property (Outlook Forms Script)
+api_name:
+- Outlook.textbox.backstyle
 ms.assetid: b0366cbc-b44b-a5c0-f49f-4b690c8cbc2f
 ms.date: 06/08/2017
 ms.localizationpriority: medium

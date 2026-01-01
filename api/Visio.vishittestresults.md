@@ -3,6 +3,8 @@ title: VisHitTestResults enumeration (Visio)
 keywords: vis_sdr.chm70065
 f1_keywords:
 - vis_sdr.chm70065
+api_name:
+- Visio.vishittestresults
 ms.assetid: 1e882661-872b-0a53-93aa-0fc8467475af
 ms.date: 06/26/2019
 ms.localizationpriority: medium

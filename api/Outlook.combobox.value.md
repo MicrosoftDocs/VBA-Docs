@@ -1,5 +1,7 @@
 ---
 title: ComboBox.Value Property (Outlook Forms Script)
+api_name:
+- Outlook.combobox.value
 ms.assetid: a81934d0-50b5-aa2d-f45b-ea8b826bcea9
 ms.date: 06/08/2017
 ms.localizationpriority: medium

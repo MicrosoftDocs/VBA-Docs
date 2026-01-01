@@ -1,5 +1,7 @@
 ---
 title: ListBox.MatchEntry Property (Outlook Forms Script)
+api_name:
+- Outlook.listbox.matchentry
 ms.assetid: 8a4b99c5-2c22-a02a-e79b-6d1af40f7bfc
 ms.date: 06/08/2017
 ms.localizationpriority: medium

@@ -1,5 +1,7 @@
 ---
 title: VisRecordsetFieldStatus enumeration (Visio)
+api_name:
+- Visio.VisRecordsetFieldStatus
 TOCTitle: VisRecordsetFieldStatus
 ms:assetid: 532bc905-1227-eca4-ec7b-d87f7dfb8bb6
 ms:mtpsurl: https://msdn.microsoft.com/library/Mt576716(v=office.15)

@@ -1,5 +1,7 @@
 ---
 title: Date/Time data type (Format property)
+api_name:
+- Access.format.propertydate.time
 ms.assetid: d043c816-aefe-4881-90bd-59dcbb3b28da
 ms.date: 11/29/2018
 ms.localizationpriority: medium

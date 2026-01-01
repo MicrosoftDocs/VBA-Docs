@@ -1,5 +1,7 @@
 ---
 title: TextRange2.Runs property (PowerPoint)
+api_name:
+- PowerPoint.textrange2.runs
 ms.assetid: 1799ac12-3ebb-4790-a433-9b1f27ecdb38
 ms.date: 06/08/2017
 ms.localizationpriority: medium

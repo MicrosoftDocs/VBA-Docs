@@ -3,6 +3,8 @@ title: VisAutoLinkBehaviors enumeration (Visio)
 keywords: vis_sdr.chm70535
 f1_keywords:
 - vis_sdr.chm70535
+api_name:
+- Visio.visautolinkbehaviors
 ms.assetid: a1aae16f-0855-6f31-3450-f67f2e9cd681
 ms.date: 06/08/2017
 ms.localizationpriority: medium

@@ -3,6 +3,8 @@ title: Application.RemoveTimelineBar method (Project)
 keywords: vbapj.chm158
 f1_keywords:
 - vbapj.chm158
+api_name:
+- Project.application.removetimelinebar
 ms.assetid: 8385d889-b81e-5422-a032-c7073fa7c65d
 ms.date: 06/08/2017
 ms.service: project-server

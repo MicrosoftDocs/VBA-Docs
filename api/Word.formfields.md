@@ -1,5 +1,7 @@
 ---
 title: FormFields object (Word)
+api_name:
+- Word.formfields
 ms.assetid: a44a0f57-123b-cade-e306-ba6dc179b619
 ms.date: 06/08/2017
 ms.localizationpriority: medium

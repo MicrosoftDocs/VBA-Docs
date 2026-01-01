@@ -1,5 +1,7 @@
 ---
 title: Comment.Collapsed property (Visio)
+api_name:
+- Visio.comment.collapsed
 ms.assetid: 9552e379-e351-78d7-e0ed-4f524c3273a1
 ms.date: 06/08/2017
 ms.localizationpriority: medium

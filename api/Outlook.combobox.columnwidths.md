@@ -3,6 +3,8 @@ title: ComboBox.ColumnWidths Property (Outlook Forms Script)
 keywords: olfm10.chm2000960
 f1_keywords:
 - olfm10.chm2000960
+api_name:
+- Outlook.combobox.columnwidths
 ms.assetid: 434b2e52-fe2c-78ff-2fc6-1c0b9b858ebc
 ms.date: 06/08/2017
 ms.localizationpriority: medium

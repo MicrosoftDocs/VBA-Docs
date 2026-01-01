@@ -3,6 +3,8 @@ title: QuickAnalysis.Application property (Excel)
 keywords: vbaxl10.chm919073
 f1_keywords:
 - vbaxl10.chm919073
+api_name:
+- Excel.quickanalysis.application
 ms.assetid: ad51f454-62a0-7eb7-b629-b72bd000e0e9
 ms.date: 05/10/2019
 ms.localizationpriority: medium

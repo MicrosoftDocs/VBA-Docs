@@ -1,5 +1,7 @@
 ---
 title: CommandButton.Accelerator Property (Outlook Forms Script)
+api_name:
+- Outlook.commandbutton.accelerator
 ms.assetid: 896f426a-6bc7-c6cc-96a0-eb0106b027f1
 ms.date: 06/08/2017
 ms.localizationpriority: medium

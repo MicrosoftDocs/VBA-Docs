@@ -1,5 +1,7 @@
 ---
 title: ListBox.Text Property (Outlook Forms Script)
+api_name:
+- Outlook.listbox.text
 ms.assetid: 8001cbd2-b00c-7a91-9ee6-d367ff94868b
 ms.date: 06/08/2017
 ms.localizationpriority: medium

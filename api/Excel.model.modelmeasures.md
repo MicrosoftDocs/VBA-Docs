@@ -1,5 +1,7 @@
 ---
 title: Model.ModelMeasures property (Excel)
+api_name:
+- Excel.model.modelmeasures
 ms.assetid: b92f52fc-7c11-accc-bf3a-ba62c87daf71
 ms.date: 04/30/2019
 ms.localizationpriority: medium

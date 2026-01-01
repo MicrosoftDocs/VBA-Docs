@@ -1,5 +1,7 @@
 ---
 title: Project.ServerURL property (Project)
+api_name:
+- Project.project.serverurl
 ms.service: project-server
 ms.assetid: 444dd91d-a449-db8c-3863-d85bc6e77ca1
 ms.date: 06/08/2017

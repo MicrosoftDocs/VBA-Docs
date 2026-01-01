@@ -1,5 +1,7 @@
 ---
 title: Image.PictureTiling Property (Outlook Forms Script)
+api_name:
+- Outlook.image.picturetiling
 ms.assetid: ab553a24-3606-b2f6-0619-9c5e3050553d
 ms.date: 06/08/2017
 ms.localizationpriority: medium

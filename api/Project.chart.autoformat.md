@@ -1,5 +1,7 @@
 ---
 title: Chart.AutoFormat method (Project)
+api_name:
+- Project.chart.autoformat
 ms.service: project-server
 ms.assetid: 1f560c0e-aed8-c989-9721-8e30595ae56e
 ms.date: 06/08/2017

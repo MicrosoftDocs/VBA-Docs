@@ -3,6 +3,8 @@ title: WorksheetFunction.IsoWeekNum method (Excel)
 keywords: vbaxl10.chm137457
 f1_keywords:
 - vbaxl10.chm137457
+api_name:
+- Excel.worksheetfunction.isoweeknum
 ms.assetid: 8b643312-d9b9-c509-ca9f-c3d960ba012c
 ms.date: 05/23/2019
 ms.localizationpriority: medium

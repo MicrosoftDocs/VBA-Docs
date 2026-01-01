@@ -1,5 +1,7 @@
 ---
 title: EngagementComments.Count property (Project)
+api_name:
+- Project.engagementcomments.count
 ms.assetid: 8767e8f8-7e89-5644-a53a-5d28e34dc75d
 ms.date: 06/08/2017
 ms.service: project-server

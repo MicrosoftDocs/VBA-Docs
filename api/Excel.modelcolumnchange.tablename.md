@@ -3,6 +3,8 @@ title: ModelColumnChange.TableName property (Excel)
 keywords: vbaxl10.chm966073
 f1_keywords:
 - vbaxl10.chm966073
+api_name:
+- Excel.modelcolumnchange.tablename
 ms.assetid: 56aacaeb-52aa-1dee-9f29-6bf867287c53
 ms.date: 05/01/2019
 ms.localizationpriority: medium

@@ -3,6 +3,8 @@ title: ModelTableColumns.Item method (Excel)
 keywords: vbaxl10.chm932074
 f1_keywords:
 - vbaxl10.chm932074
+api_name:
+- Excel.modeltablecolumns.item
 ms.assetid: 7ffd2dcd-5eb3-abd3-b1b8-414fb8828e31
 ms.date: 05/01/2019
 ms.localizationpriority: medium

@@ -3,6 +3,8 @@ title: ModelTable.Refresh method (Excel)
 keywords: vbaxl10.chm934078
 f1_keywords:
 - vbaxl10.chm934078
+api_name:
+- Excel.modeltable.refresh
 ms.assetid: 341e82f4-a885-6c95-850d-21703bb27995
 ms.date: 05/01/2019
 ms.localizationpriority: medium

@@ -3,6 +3,8 @@ title: VisZoomBehavior enumeration (Visio)
 keywords: vis_sdr.chm70315
 f1_keywords:
 - vis_sdr.chm70315
+api_name:
+- Visio.viszoombehavior
 ms.assetid: f04892b0-5fd4-ba3d-0c5d-a2718ca4b6c8
 ms.date: 06/25/2019
 ms.localizationpriority: medium

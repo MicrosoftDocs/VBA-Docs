@@ -1,5 +1,7 @@
 ---
 title: Frame Events (Outlook Forms Script)
+api_name:
+- Outlook.frame
 ms.assetid: 48e9bac9-3047-47dc-b394-ad92a7f3d9ad
 ms.date: 06/08/2017
 ms.localizationpriority: medium

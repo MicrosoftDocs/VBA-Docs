@@ -3,6 +3,8 @@ title: Point.IsTotal property (Excel)
 keywords: vbaxl10.chm576110
 f1_keywords:
 - vbaxl10.chm576110
+api_name:
+- Excel.point.istotal
 ms.assetid: 65269b0f-cb65-eb9c-b2d3-0b73d7677801
 ms.date: 05/09/2019
 ms.localizationpriority: medium

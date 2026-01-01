@@ -1,5 +1,7 @@
 ---
 title: TextRange2.Item method (PowerPoint)
+api_name:
+- PowerPoint.textrange2.item
 ms.assetid: 6454ca4a-b12d-4deb-9a4b-62d3331541bd
 ms.date: 06/08/2017
 ms.localizationpriority: medium

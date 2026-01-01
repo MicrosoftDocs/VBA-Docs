@@ -1,5 +1,7 @@
 ---
 title: Project.IsCheckoutMsgBarVisible property (Project)
+api_name:
+- Project.project.ischeckoutmsgbarvisible
 ms.service: project-server
 ms.assetid: 7d3ef8b3-36c1-d1f1-6c10-ad82573f9d08
 ms.date: 06/08/2017

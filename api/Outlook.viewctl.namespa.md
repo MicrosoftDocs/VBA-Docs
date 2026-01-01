@@ -1,5 +1,7 @@
 ---
 title: ViewCtl.Namespace Property (Outlook View Control)
+api_name:
+- Outlook.viewctl.namespa
 ms.assetid: 97cb1ea1-2e27-afc9-7756-b609dc9cc69e
 ms.date: 06/08/2017
 ms.localizationpriority: medium

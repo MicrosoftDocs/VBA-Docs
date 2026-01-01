@@ -3,6 +3,8 @@ title: FullSeriesCollection.Creator property (Word)
 keywords: vbawd10.chm73990293
 f1_keywords:
 - vbawd10.chm73990293
+api_name:
+- Word.fullseriescollection.creator
 ms.assetid: 08f11857-ebfd-60d6-ade5-93ca1ad590c5
 ms.date: 06/08/2017
 ms.localizationpriority: medium

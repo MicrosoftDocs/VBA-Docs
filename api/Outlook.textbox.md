@@ -3,6 +3,8 @@ title: TextBox object (Outlook Forms Script)
 keywords: olfm10.chm2000670
 f1_keywords:
 - olfm10.chm2000670
+api_name:
+- Outlook.textbox
 ms.assetid: 4a0e4a3d-beca-9f94-7e27-469c4bafe250
 ms.date: 06/08/2017
 ms.localizationpriority: medium

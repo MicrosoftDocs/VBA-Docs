@@ -3,6 +3,8 @@ title: VisCharsBias enumeration (Visio)
 keywords: vis_sdr.chm70100
 f1_keywords:
 - vis_sdr.chm70100
+api_name:
+- Visio.vischarsbias
 ms.assetid: b7c3e0b9-4ce7-bd82-db1c-ee7ca066e037
 ms.date: 06/08/2017
 ms.localizationpriority: medium

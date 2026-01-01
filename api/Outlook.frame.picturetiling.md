@@ -3,6 +3,8 @@ title: Frame.PictureTiling Property (Outlook Forms Script)
 keywords: olfm10.chm2001740
 f1_keywords:
 - olfm10.chm2001740
+api_name:
+- Outlook.frame.picturetiling
 ms.assetid: 2fa9e5c9-a7dd-45e9-79f4-5302a943d314
 ms.date: 06/08/2017
 ms.localizationpriority: medium

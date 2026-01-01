@@ -1,5 +1,7 @@
 ---
 title: FullSeriesCollection.Item method (PowerPoint)
+api_name:
+- PowerPoint.fullseriescollection.item
 ms.assetid: fda36191-71f4-1f75-fa27-e09a38385e68
 ms.date: 06/08/2017
 ms.localizationpriority: medium

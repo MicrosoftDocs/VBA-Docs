@@ -1,5 +1,7 @@
 ---
 title: ModelConnection.CalculatedMembers property (Excel)
+api_name:
+- Excel.modelconnection.calculatedmembers
 ms.assetid: 2969824d-b7a2-fb88-1066-cf5d36d8e9bb
 ms.date: 05/01/2019
 ms.localizationpriority: medium

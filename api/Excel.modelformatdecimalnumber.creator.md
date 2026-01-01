@@ -3,6 +3,8 @@ title: ModelFormatDecimalNumber.Creator property (Excel)
 keywords: vbaxl10.chm985074
 f1_keywords:
 - vbaxl10.chm985074
+api_name:
+- Excel.modelformatdecimalnumber.creator
 ms.assetid: 106db87c-9b52-1e74-e899-3da9de73bd3e
 ms.date: 05/01/2019
 ms.localizationpriority: medium

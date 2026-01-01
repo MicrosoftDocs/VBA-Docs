@@ -1,5 +1,7 @@
 ---
 title: Project.IsCheckoutOSVisible property (Project)
+api_name:
+- Project.project.ischeckoutosvisible
 ms.service: project-server
 ms.assetid: 1b240231-dfa1-2cd3-310e-11c8c58791eb
 ms.date: 06/08/2017

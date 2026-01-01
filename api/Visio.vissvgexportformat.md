@@ -1,5 +1,7 @@
 ---
 title: VisSVGExportFormat enumeration (Visio)
+api_name:
+- Visio.vissvgexportformat
 ms.assetid: d8ca8c3f-41d9-4e9d-8f6d-f5567361b14e
 ms.date: 06/08/2017
 ms.localizationpriority: medium

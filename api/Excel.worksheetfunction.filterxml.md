@@ -3,6 +3,8 @@ title: WorksheetFunction.FilterXML method (Excel)
 keywords: vbaxl10.chm137465
 f1_keywords:
 - vbaxl10.chm137465
+api_name:
+- Excel.worksheetfunction.filterxml
 ms.assetid: bcaa41a9-a122-ee87-29ca-cabb224358a1
 ms.date: 01/18/2022
 ms.localizationpriority: medium

@@ -1,5 +1,7 @@
 ---
 title: XlLegendPosition enumeration (Word)
+api_name:
+- Word.xllegendposition
 ms.assetid: 02581a70-ef8e-7bb7-f8f4-f741c459ac85
 ms.date: 06/08/2017
 ms.localizationpriority: medium

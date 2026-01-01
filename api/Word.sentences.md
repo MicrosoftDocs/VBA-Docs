@@ -1,5 +1,7 @@
 ---
 title: Sentences object (Word)
+api_name:
+- Word.sentences
 ms.assetid: bcb9653d-bada-8e51-f47d-58f17dae19fe
 ms.date: 06/08/2017
 ms.localizationpriority: medium

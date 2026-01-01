@@ -3,6 +3,8 @@ title: PivotTable.DrillUp method (Excel)
 keywords: vbaxl10.chm235207
 f1_keywords:
 - vbaxl10.chm235207
+api_name:
+- Excel.pivottable.drillup
 ms.assetid: 18933878-53c5-ef64-afe7-919b0a1564f8
 ms.date: 05/08/2019
 ms.localizationpriority: medium

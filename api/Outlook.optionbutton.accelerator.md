@@ -1,5 +1,7 @@
 ---
 title: OptionButton.Accelerator Property (Outlook Forms Script)
+api_name:
+- Outlook.optionbutton.accelerator
 ms.assetid: bb256067-248c-a4a3-f6d8-603724dee363
 ms.date: 06/08/2017
 ms.localizationpriority: medium

@@ -1,5 +1,7 @@
 ---
 title: ListBox.TextAlign Property (Outlook Forms Script)
+api_name:
+- Outlook.listbox.textalign
 ms.assetid: b6c7232c-feef-d43b-ca4f-d8521ddd50ff
 ms.date: 06/08/2017
 ms.localizationpriority: medium

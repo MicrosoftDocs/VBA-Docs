@@ -1,5 +1,7 @@
 ---
 title: OptionButton.TextAlign Property (Outlook Forms Script)
+api_name:
+- Outlook.optionbutton.textalign
 ms.assetid: 462a3612-fae0-ce47-4d9f-24523cd88369
 ms.date: 06/08/2017
 ms.localizationpriority: medium

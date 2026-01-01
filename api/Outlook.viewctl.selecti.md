@@ -1,5 +1,7 @@
 ---
 title: ViewCtl.Selection Property (Outlook View Control)
+api_name:
+- Outlook.viewctl.selecti
 ms.assetid: 2f4549bb-a480-bcbb-0fde-90a50460aa92
 ms.date: 06/08/2017
 ms.localizationpriority: medium

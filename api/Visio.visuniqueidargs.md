@@ -3,6 +3,8 @@ title: VisUniqueIDArgs enumeration (Visio)
 keywords: vis_sdr.chm70075
 f1_keywords:
 - vis_sdr.chm70075
+api_name:
+- Visio.visuniqueidargs
 ms.assetid: 7268c074-3de9-72c8-d20e-1f6008aff347
 ms.date: 06/08/2017
 ms.localizationpriority: medium

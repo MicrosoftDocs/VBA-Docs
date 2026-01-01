@@ -1,5 +1,7 @@
 ---
 title: Shape object (Project)
+api_name:
+- Project.shape
 ms.service: project-server
 ms.assetid: d2b32bcd-5595-a4a7-9772-feb25fd0103a
 ms.date: 06/08/2017

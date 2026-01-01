@@ -3,6 +3,8 @@ title: Resource.EngagementProposedMaxUnits property (Project)
 keywords: vbapj.chm131805
 f1_keywords:
 - vbapj.chm131805
+api_name:
+- Project.resource.engagementproposedmaxunits
 ms.assetid: 635dd13d-7b4f-0325-638b-af0a1baf505d
 ms.date: 06/08/2017
 ms.service: project-server

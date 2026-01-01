@@ -1,5 +1,7 @@
 ---
 title: TextBox.Copy Method (Outlook Forms Script)
+api_name:
+- Outlook.textbox.copy
 ms.assetid: ffcb9cb8-0735-3f54-8302-d15ef14b2c27
 ms.date: 06/08/2017
 ms.localizationpriority: medium

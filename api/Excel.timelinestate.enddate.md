@@ -3,6 +3,8 @@ title: TimelineState.EndDate property (Excel)
 keywords: vbaxl10.chm950074
 f1_keywords:
 - vbaxl10.chm950074
+api_name:
+- Excel.timelinestate.enddate
 ms.assetid: 1d33ce70-32ed-a439-eb34-7305fd9557f2
 ms.date: 05/18/2019
 ms.localizationpriority: medium

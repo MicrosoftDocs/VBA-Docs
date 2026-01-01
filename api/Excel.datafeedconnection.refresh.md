@@ -3,6 +3,8 @@ title: DataFeedConnection.Refresh method (Excel)
 keywords: vbaxl10.chm928087
 f1_keywords:
 - vbaxl10.chm928087
+api_name:
+- Excel.datafeedconnection.refresh
 ms.assetid: 2df66a1c-cf77-30ed-be54-d9b7d6e58e8f
 ms.date: 03/28/2019
 ms.localizationpriority: medium

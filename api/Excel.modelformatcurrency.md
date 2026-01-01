@@ -3,6 +3,8 @@ title: ModelFormatCurrency object (Excel)
 keywords: vbaxl10.chm993072
 f1_keywords:
 - vbaxl10.chm993072
+api_name:
+- Excel.modelformatcurrency
 ms.assetid: acb863b6-c188-5ed3-afe4-5e1ab6bb20bf
 ms.date: 03/30/2019
 ms.localizationpriority: medium

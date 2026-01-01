@@ -3,6 +3,8 @@ title: Series.QuartileCalculationInclusiveMedian property (Excel)
 keywords: vbaxl10.chm578130
 f1_keywords:
 - vbaxl10.chm578130
+api_name:
+- Excel.series.quartilecalculationinclusivemedian
 ms.assetid: eda57981-1903-d1a8-1c53-80272191e077
 ms.date: 05/11/2019
 ms.localizationpriority: medium

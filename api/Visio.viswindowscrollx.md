@@ -3,6 +3,8 @@ title: VisWindowScrollX enumeration (Visio)
 keywords: vis_sdr.chm70265
 f1_keywords:
 - vis_sdr.chm70265
+api_name:
+- Visio.viswindowscrollx
 ms.assetid: e07bb89b-48d8-d4fc-c756-1514c80095a5
 ms.date: 06/08/2017
 ms.localizationpriority: medium

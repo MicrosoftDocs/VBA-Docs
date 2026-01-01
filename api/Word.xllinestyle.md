@@ -1,5 +1,7 @@
 ---
 title: XlLineStyle enumeration (Word)
+api_name:
+- Word.xllinestyle
 ms.assetid: b2d00c5f-f769-deab-be78-545e7f8f1fab
 ms.date: 06/08/2017
 ms.localizationpriority: medium

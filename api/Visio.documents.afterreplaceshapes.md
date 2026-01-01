@@ -1,5 +1,7 @@
 ---
 title: Documents.AfterReplaceShapes event (Visio)
+api_name:
+- Visio.documents.afterreplaceshapes
 ms.assetid: e01c069e-440b-7b8b-8d7d-cdb664f6e2d6
 ms.date: 06/08/2017
 ms.localizationpriority: medium

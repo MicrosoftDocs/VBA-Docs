@@ -1,5 +1,7 @@
 ---
 title: Comments.Add method (Visio)
+api_name:
+- Visio.comments.add
 ms.assetid: da02de49-8057-7e5c-6b59-0a013e56256d
 ms.date: 06/08/2017
 ms.localizationpriority: medium

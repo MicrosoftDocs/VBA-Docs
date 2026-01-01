@@ -1,5 +1,7 @@
 ---
 title: MultiPage Properties (Outlook Forms Script)
+api_name:
+- Outlook.multipage
 ms.assetid: 82aae556-cf00-4378-b57e-35e3b53c7669
 ms.date: 06/08/2017
 ms.localizationpriority: medium

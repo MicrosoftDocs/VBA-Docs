@@ -1,5 +1,7 @@
 ---
 title: Bookmarks object (Word)
+api_name:
+- Word.bookmarks
 ms.assetid: 827bed64-3034-0eb4-401d-f117cdb98898
 ms.date: 06/08/2017
 ms.localizationpriority: medium

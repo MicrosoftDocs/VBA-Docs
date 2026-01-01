@@ -1,5 +1,7 @@
 ---
 title: Shape.Glow property (Project)
+api_name:
+- Project.shape.glow
 ms.service: project-server
 ms.assetid: 4bd06373-53b8-d790-1500-9e77312ab52b
 ms.date: 06/08/2017

@@ -1,5 +1,7 @@
 ---
 title: Chart.ClearToMatchColorStyle method (PowerPoint)
+api_name:
+- PowerPoint.chart.cleartomatchcolorstyle
 ms.assetid: 014d2148-c359-f11c-e5bf-012a769aced5
 ms.date: 06/08/2017
 ms.localizationpriority: medium

@@ -1,5 +1,7 @@
 ---
 title: Shape.Reflection property (Publisher)
+api_name:
+- Publisher.shape.reflection
 ms.assetid: a9a12d07-8edc-2f1b-9f7d-4aeae43b1335
 ms.date: 06/13/2019
 ms.localizationpriority: medium

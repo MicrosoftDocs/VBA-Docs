@@ -3,6 +3,8 @@ title: WorksheetFunction.Base method (Excel)
 keywords: vbaxl10.chm137444
 f1_keywords:
 - vbaxl10.chm137444
+api_name:
+- Excel.worksheetfunction.base
 ms.assetid: df7544ca-e793-4fa8-a9a3-4f421b080723
 ms.date: 05/22/2019
 ms.localizationpriority: medium

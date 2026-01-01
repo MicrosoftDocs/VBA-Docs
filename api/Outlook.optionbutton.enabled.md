@@ -1,5 +1,7 @@
 ---
 title: OptionButton.Enabled Property (Outlook Forms Script)
+api_name:
+- Outlook.optionbutton.enabled
 ms.assetid: 3e10fee4-057d-40f7-015b-8d3e1138c1af
 ms.date: 06/08/2017
 ms.localizationpriority: medium

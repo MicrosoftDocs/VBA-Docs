@@ -3,6 +3,8 @@ title: PeopleView.Filter property (Outlook)
 keywords: vbaol11.chm3586
 f1_keywords:
 - vbaol11.chm3586
+api_name:
+- Outlook.peopleview.filter
 ms.assetid: 2a704054-1a71-d819-2ce2-a7c9d1df47bf
 ms.date: 06/08/2017
 ms.localizationpriority: medium

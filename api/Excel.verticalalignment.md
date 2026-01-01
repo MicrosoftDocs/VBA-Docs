@@ -3,6 +3,8 @@ title: VerticalAlignment property (Excel Graph)
 keywords: vbagr10.chm65673
 f1_keywords:
 - vbagr10.chm65673
+api_name:
+- Excel.verticalalignment
 ms.assetid: 0021576c-89c5-79ea-bfad-2e29ee9425ae
 ms.date: 04/12/2019
 ms.localizationpriority: medium

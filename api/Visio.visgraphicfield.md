@@ -3,6 +3,8 @@ title: VisGraphicField enumeration (Visio)
 keywords: vis_sdr.chm70470
 f1_keywords:
 - vis_sdr.chm70470
+api_name:
+- Visio.visgraphicfield
 ms.assetid: 64186a31-92b1-8440-6127-e60aa00c6dfe
 ms.date: 06/08/2017
 ms.localizationpriority: medium

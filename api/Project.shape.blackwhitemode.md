@@ -1,5 +1,7 @@
 ---
 title: Shape.BlackWhiteMode property (Project)
+api_name:
+- Project.shape.blackwhitemode
 ms.service: project-server
 ms.assetid: eaa9367b-3a68-6c55-328f-766dd79ff274
 ms.date: 06/08/2017

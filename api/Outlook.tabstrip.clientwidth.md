@@ -3,6 +3,8 @@ title: TabStrip.ClientWidth Property (Outlook Forms Script)
 keywords: olfm10.chm2000920
 f1_keywords:
 - olfm10.chm2000920
+api_name:
+- Outlook.tabstrip.clientwidth
 ms.assetid: f59ccbe8-8f45-38d4-15f0-23fa8d52b50f
 ms.date: 06/08/2017
 ms.localizationpriority: medium

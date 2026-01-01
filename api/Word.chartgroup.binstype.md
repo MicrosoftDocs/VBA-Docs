@@ -3,6 +3,8 @@ title: ChartGroup.BinsType property (Word)
 keywords: vbawd10.chm263457611
 f1_keywords:
 - vbawd10.chm263457611
+api_name:
+- Word.chartgroup.binstype
 ms.assetid: a403cac5-a397-e202-1dda-5b31e3815ef0
 ms.date: 06/08/2017
 ms.localizationpriority: medium

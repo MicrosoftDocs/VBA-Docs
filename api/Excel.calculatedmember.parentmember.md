@@ -3,6 +3,8 @@ title: CalculatedMember.ParentMember property (Excel)
 keywords: vbaxl10.chm686087
 f1_keywords:
 - vbaxl10.chm686087
+api_name:
+- Excel.calculatedmember.parentmember
 ms.assetid: 72711256-a4e4-0aa1-64d5-a4342a9ad4a6
 ms.date: 04/13/2019
 ms.localizationpriority: medium

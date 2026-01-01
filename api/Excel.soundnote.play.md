@@ -3,6 +3,8 @@ title: SoundNote.Play method (Excel)
 keywords: vbaxl10.chm258075
 f1_keywords:
 - vbaxl10.chm258075
+api_name:
+- Excel.soundnote.play
 ms.assetid: c7a78257-75d3-d131-2d46-d01bf4598de5
 ms.date: 05/16/2019
 ms.localizationpriority: medium

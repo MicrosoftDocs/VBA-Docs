@@ -3,6 +3,8 @@ title: VisUIObjSets enumeration (Visio)
 keywords: vis_sdr.chm70170
 f1_keywords:
 - vis_sdr.chm70170
+api_name:
+- Visio.visuiobjsets
 ms.assetid: b5638672-73ba-aeb2-6660-bb44107f7ac8
 ms.date: 06/08/2017
 ms.localizationpriority: medium

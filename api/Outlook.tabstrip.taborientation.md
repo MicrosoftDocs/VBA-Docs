@@ -1,5 +1,7 @@
 ---
 title: TabStrip.TabOrientation Property (Outlook Forms Script)
+api_name:
+- Outlook.tabstrip.taborientation
 ms.assetid: 360ea7af-7433-d1c9-f5bc-a60ddc1e1851
 ms.date: 06/08/2017
 ms.localizationpriority: medium

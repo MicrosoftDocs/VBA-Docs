@@ -1,5 +1,7 @@
 ---
 title: EngagementComment.CreatedDate property (Project)
+api_name:
+- Project.engagementcomment.createddate
 ms.assetid: 1d963d79-e219-9c91-2332-6c977dd346fa
 ms.date: 06/08/2017
 ms.service: project-server

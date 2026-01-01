@@ -3,6 +3,8 @@ title: Slicer.SlicerCacheType property (Excel)
 keywords: vbaxl10.chm905094
 f1_keywords:
 - vbaxl10.chm905094
+api_name:
+- Excel.slicer.slicercachetype
 ms.assetid: d314b745-f2e2-554e-b60a-01ed26e8a197
 ms.date: 05/16/2019
 ms.localizationpriority: medium

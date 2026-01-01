@@ -1,5 +1,7 @@
 ---
 title: ComboBox.Click Event (Outlook Forms Script)
+api_name:
+- Outlook.combobox.click
 ms.assetid: 43286138-766d-ffe3-9de3-fcea3808f8cd
 ms.date: 06/08/2017
 ms.localizationpriority: medium

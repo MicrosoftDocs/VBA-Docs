@@ -3,6 +3,8 @@ title: VisRefreshSettings enumeration (Visio)
 keywords: vis_sdr.chm70490
 f1_keywords:
 - vis_sdr.chm70490
+api_name:
+- Visio.visrefreshsettings
 ms.assetid: 3c545175-e83b-dd03-b305-d704881c8965
 ms.date: 06/08/2017
 ms.localizationpriority: medium

@@ -3,6 +3,8 @@ title: ChartGroup.BinsUnderflowEnabled property (Excel)
 keywords: vbaxl10.chm568108
 f1_keywords:
 - vbaxl10.chm568108
+api_name:
+- Excel.chartgroup.binsunderflowenabled
 ms.assetid: 719d315a-c3ed-77e9-3b42-0f6300b6bf8d
 ms.date: 04/20/2019
 ms.localizationpriority: medium

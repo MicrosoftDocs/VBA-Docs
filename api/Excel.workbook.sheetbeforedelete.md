@@ -3,6 +3,8 @@ title: Workbook.SheetBeforeDelete event (Excel)
 keywords: vbaxl10.chm503112
 f1_keywords:
 - vbaxl10.chm503112
+api_name:
+- Excel.workbook.sheetbeforedelete
 ms.assetid: 42406738-0fcd-4ef7-9bd6-abcc05f5e922
 ms.date: 05/29/2019
 ms.localizationpriority: medium

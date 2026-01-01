@@ -1,5 +1,7 @@
 ---
 title: GroupCriteria object (Project)
+api_name:
+- Project.groupcriteria
 ms.service: project-server
 ms.assetid: b19beefb-bfe2-54ba-0835-11624e92bafc
 ms.date: 06/08/2017

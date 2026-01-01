@@ -3,6 +3,8 @@ title: TimelineState.FilterValue1 property (Excel)
 keywords: vbaxl10.chm950076
 f1_keywords:
 - vbaxl10.chm950076
+api_name:
+- Excel.timelinestate.filtervalue1
 ms.assetid: 6e10c4c3-465c-e097-8b3d-a76f8e2594e0
 ms.date: 05/18/2019
 ms.localizationpriority: medium

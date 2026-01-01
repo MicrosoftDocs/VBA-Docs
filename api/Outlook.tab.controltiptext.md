@@ -1,5 +1,7 @@
 ---
 title: Tab.ControlTipText Property (Outlook Forms Script)
+api_name:
+- Outlook.tab.controltiptext
 ms.assetid: 13403824-7899-0494-3836-3a09d1804fad
 ms.date: 06/08/2017
 ms.localizationpriority: medium

@@ -3,6 +3,8 @@ title: Engagement.ModifiedByName property (Project)
 keywords: vbapj.chm132412
 f1_keywords:
 - vbapj.chm132412
+api_name:
+- Project.engagement.modifiedbyname
 ms.assetid: 97a04489-324b-454b-66a8-3a5915bfd5cb
 ms.date: 06/08/2017
 ms.service: project-server

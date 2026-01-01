@@ -1,5 +1,7 @@
 ---
 title: Chart.ApplyChartTemplate method (Project)
+api_name:
+- Project.chart.applycharttemplate
 ms.service: project-server
 ms.assetid: ed449d73-6cae-6d54-de97-617612cd9129
 ms.date: 06/08/2017

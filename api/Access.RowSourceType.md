@@ -3,6 +3,8 @@ title: RowSourceType property (user-defined function) code argument values
 keywords: vbaac10.chm5187987
 f1_keywords:
 - vbaac10.chm5187987
+api_name:
+- Access.RowSourceType
 ms.assetid: 1c39d168-e020-2a98-f902-29c00de137ad
 ms.date: 03/02/2019
 ms.localizationpriority: medium

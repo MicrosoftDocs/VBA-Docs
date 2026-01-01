@@ -3,6 +3,8 @@ title: Presentation.ExportAsFixedFormat2 method (PowerPoint)
 keywords: vbapp10.chm583126
 f1_keywords:
 - vbapp10.chm583126
+api_name:
+- PowerPoint.presentation.exportasfixedformat2
 ms.assetid: b1101e58-e6a8-9dd4-7071-1325ba71edb1
 ms.date: 08/02/2022
 ms.localizationpriority: medium

@@ -1,5 +1,7 @@
 ---
 title: VisSaveAsWeb object (Visio Save As Web)
+api_name:
+- Visio.VisSaveAsWeb
 ms.assetid: 48e19e11-9b41-42ec-84e9-c4aab7f08784
 ms.date: 06/21/2019
 ms.localizationpriority: medium

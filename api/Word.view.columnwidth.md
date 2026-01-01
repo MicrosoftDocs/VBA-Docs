@@ -3,6 +3,8 @@ title: View.ColumnWidth property (Word)
 keywords: vbawd10.chm161808448
 f1_keywords:
 - vbawd10.chm161808448
+api_name:
+- Word.view.columnwidth
 ms.assetid: 8b080cb3-e096-a2bf-71f8-a4419f462bc6
 ms.date: 06/08/2017
 ms.localizationpriority: medium

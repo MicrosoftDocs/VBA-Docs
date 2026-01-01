@@ -1,5 +1,7 @@
 ---
 title: Page.Accelerator Property (Outlook Forms Script)
+api_name:
+- Outlook.page.accelerator
 ms.assetid: d47e88cb-ea7d-2af9-9ae3-d75d1cde1346
 ms.date: 06/08/2017
 ms.localizationpriority: medium

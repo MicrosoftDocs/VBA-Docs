@@ -1,5 +1,7 @@
 ---
 title: PjEngagementViolationType enumeration (Project)
+api_name:
+- Project.pjengagementviolationtype
 ms.assetid: e65cf9c5-e122-a4ef-f8c1-efb27899e27b
 ms.date: 06/08/2017
 ms.service: project-server

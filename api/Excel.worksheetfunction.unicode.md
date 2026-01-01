@@ -3,6 +3,8 @@ title: WorksheetFunction.Unicode method (Excel)
 keywords: vbaxl10.chm137454
 f1_keywords:
 - vbaxl10.chm137454
+api_name:
+- Excel.worksheetfunction.unicode
 ms.assetid: 7a590cba-cc17-6acb-96ce-24b4e317f622
 ms.date: 05/25/2019
 ms.localizationpriority: medium

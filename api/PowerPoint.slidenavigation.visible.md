@@ -3,6 +3,8 @@ title: SlideNavigation.Visible property (PowerPoint)
 keywords: vbapp10.chm741002
 f1_keywords:
 - vbapp10.chm741002
+api_name:
+- PowerPoint.slidenavigation.visible
 ms.assetid: 76b526a1-2720-e6e6-9b94-07abed30e7ef
 ms.date: 06/08/2017
 ms.localizationpriority: medium

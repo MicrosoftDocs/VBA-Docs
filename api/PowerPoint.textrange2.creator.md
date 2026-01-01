@@ -1,5 +1,7 @@
 ---
 title: TextRange2.Creator property (PowerPoint)
+api_name:
+- PowerPoint.textrange2.creator
 ms.assetid: fe646c57-3620-462d-b91f-93eb90a49b30
 ms.date: 06/08/2017
 ms.localizationpriority: medium

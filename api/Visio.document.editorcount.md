@@ -1,5 +1,7 @@
 ---
 title: Document.EditorCount property (Visio)
+api_name:
+- Visio.document.editorcount
 ms.assetid: 36e90125-e217-4818-ad9c-58a52c88dd8a
 ms.date: 06/08/2017
 ms.localizationpriority: medium

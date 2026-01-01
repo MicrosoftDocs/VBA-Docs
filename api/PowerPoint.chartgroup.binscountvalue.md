@@ -3,6 +3,8 @@ title: ChartGroup.BinsCountValue property (PowerPoint)
 keywords: vbapp10.chm692022
 f1_keywords:
 - vbapp10.chm692022
+api_name:
+- PowerPoint.chartgroup.binscountvalue
 ms.assetid: 7af8e5a7-ec62-f447-275c-b694b7ed37b7
 ms.date: 06/08/2017
 ms.localizationpriority: medium

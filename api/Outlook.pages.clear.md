@@ -1,5 +1,7 @@
 ---
 title: Pages.Clear Method (Outlook Forms Script)
+api_name:
+- Outlook.pages.clear
 ms.assetid: 48f28487-197a-c938-7051-b21f1ca17a72
 ms.date: 06/08/2017
 ms.localizationpriority: medium

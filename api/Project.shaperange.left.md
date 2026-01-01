@@ -1,5 +1,7 @@
 ---
 title: ShapeRange.Left property (Project)
+api_name:
+- Project.shaperange.left
 ms.service: project-server
 ms.assetid: 136e2b4d-be5d-cdf4-035c-a5fab490b191
 ms.date: 06/08/2017

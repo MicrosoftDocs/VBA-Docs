@@ -3,6 +3,8 @@ title: SoftEdgeFormat.Visible property (Publisher)
 keywords: vbapb10.chm9568259
 f1_keywords:
 - vbapb10.chm9568259
+api_name:
+- Publisher.softedgeformat.visible
 ms.assetid: e95a9764-4e36-5757-3d78-ae0344bf3562
 ms.date: 06/14/2019
 ms.localizationpriority: medium

@@ -3,6 +3,8 @@ title: VisThemeTypes enumeration (Visio)
 keywords: vis_sdr.chm70520
 f1_keywords:
 - vis_sdr.chm70520
+api_name:
+- Visio.visthemetypes
 ms.assetid: 8e0d9430-d7a2-30b6-feea-2a9e3cd48b70
 ms.date: 06/08/2017
 ms.localizationpriority: medium

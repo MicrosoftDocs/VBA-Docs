@@ -3,6 +3,8 @@ title: ComboBox.EnterFieldBehavior Property (Outlook Forms Script)
 keywords: olfm10.chm2001125
 f1_keywords:
 - olfm10.chm2001125
+api_name:
+- Outlook.combobox.enterfieldbehavior
 ms.assetid: dffb2409-fc12-7632-58e4-118f331072a7
 ms.date: 06/08/2017
 ms.localizationpriority: medium

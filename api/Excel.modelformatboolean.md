@@ -3,6 +3,8 @@ title: ModelFormatBoolean object (Excel)
 keywords: vbaxl10.chm995072
 f1_keywords:
 - vbaxl10.chm995072
+api_name:
+- Excel.modelformatboolean
 ms.assetid: b6a43c30-1dd9-39e0-86dc-fd229bb51c87
 ms.date: 03/30/2019
 ms.localizationpriority: medium

@@ -1,5 +1,7 @@
 ---
 title: Engagement.ResourceName property (Project)
+api_name:
+- Project.engagement.resourcename
 ms.assetid: 0fd48448-b63c-207c-6aa3-eae693ea47e8
 ms.date: 06/08/2017
 ms.service: project-server

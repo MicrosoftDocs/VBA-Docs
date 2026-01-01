@@ -3,6 +3,8 @@ title: ModelTables.Creator property (Excel)
 keywords: vbaxl10.chm935074
 f1_keywords:
 - vbaxl10.chm935074
+api_name:
+- Excel.modeltables.creator
 ms.assetid: c555bfd4-0696-eda1-9e9f-19012b9f6233
 ms.date: 05/01/2019
 ms.localizationpriority: medium

@@ -3,6 +3,8 @@ title: Tasks object (Word)
 keywords: vbawd10.chm2435
 f1_keywords:
 - vbawd10.chm2435
+api_name:
+- Word.tasks
 ms.assetid: ff521e20-8a25-f9f6-dccf-effea9debeb7
 ms.date: 06/08/2017
 ms.localizationpriority: medium

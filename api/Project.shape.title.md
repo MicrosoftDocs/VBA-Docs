@@ -1,5 +1,7 @@
 ---
 title: Shape.Title property (Project)
+api_name:
+- Project.shape.title
 ms.service: project-server
 ms.assetid: 09cfd863-e682-d64d-bb33-b8dffc30011e
 ms.date: 06/08/2017

@@ -1,5 +1,7 @@
 ---
 title: PredecessorDrivers object (Project)
+api_name:
+- Project.predecessordrivers
 ms.service: project-server
 ms.assetid: a55a655c-3f43-77db-a861-dba8059e3a21
 ms.date: 06/08/2017

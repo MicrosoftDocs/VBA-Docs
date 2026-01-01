@@ -3,6 +3,8 @@ title: SlicerCache.ClearManualFilter method (Excel)
 keywords: vbaxl10.chm897089
 f1_keywords:
 - vbaxl10.chm897089
+api_name:
+- Excel.slicercache.clearmanualfilter
 ms.assetid: 694a6838-44ab-1a91-009f-7d054bd4fc84
 ms.date: 05/16/2019
 ms.localizationpriority: medium

@@ -3,6 +3,8 @@ title: WorkbookConnection.DataFeedConnection property (Excel)
 keywords: vbaxl10.chm774086
 f1_keywords:
 - vbaxl10.chm774086
+api_name:
+- Excel.workbookconnection.datafeedconnection
 ms.assetid: 0286c210-c035-8ff7-7b6b-cead08505f81
 ms.date: 05/18/2019
 ms.localizationpriority: medium

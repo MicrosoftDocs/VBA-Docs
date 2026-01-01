@@ -1,5 +1,7 @@
 ---
 title: Engagements.Add method (Project)
+api_name:
+- Project.engagements.add
 ms.assetid: c3871f6a-ce2f-d0ae-ed91-658afaae25dd
 ms.date: 06/08/2017
 ms.service: project-server

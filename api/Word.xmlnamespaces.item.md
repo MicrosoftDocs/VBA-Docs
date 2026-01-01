@@ -3,6 +3,8 @@ title: XMLNamespaces.Item method (Word)
 keywords: vbawd10.chm248971264
 f1_keywords:
 - vbawd10.chm248971264
+api_name:
+- Word.xmlnamespaces.item
 ms.assetid: 9f75a160-c267-3a99-103e-011cfac0343e
 ms.date: 06/08/2017
 ms.localizationpriority: medium

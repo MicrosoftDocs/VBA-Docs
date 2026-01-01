@@ -3,6 +3,8 @@ title: Pages object (Word)
 keywords: vbawd10.chm1026
 f1_keywords:
 - vbawd10.chm1026
+api_name:
+- Word.pages
 ms.assetid: d51e5c61-5719-c70f-b244-99507889f2dc
 ms.date: 06/08/2017
 ms.localizationpriority: medium

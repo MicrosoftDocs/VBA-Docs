@@ -3,6 +3,8 @@ title: ModelFormatCurrency.Creator property (Excel)
 keywords: vbaxl10.chm993074
 f1_keywords:
 - vbaxl10.chm993074
+api_name:
+- Excel.modelformatcurrency.creator
 ms.assetid: 069eb7ee-2168-0820-1018-61c1498c7929
 ms.date: 05/01/2019
 ms.localizationpriority: medium

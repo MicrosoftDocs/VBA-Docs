@@ -3,6 +3,8 @@ title: ListObject.TableObject property (Excel)
 keywords: vbaxl10.chm734110
 f1_keywords:
 - vbaxl10.chm734110
+api_name:
+- Excel.listobject.tableobject
 ms.assetid: 9304029d-f23e-fb15-7a08-cda5cda92269
 ms.date: 04/30/2019
 ms.localizationpriority: medium

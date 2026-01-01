@@ -1,5 +1,7 @@
 ---
 title: Tab.Index Property (Outlook Forms Script)
+api_name:
+- Outlook.tab.index
 ms.assetid: 2cacd35e-edd4-6733-e932-a05114134754
 ms.date: 06/08/2017
 ms.localizationpriority: medium

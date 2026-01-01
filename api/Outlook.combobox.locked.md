@@ -1,5 +1,7 @@
 ---
 title: ComboBox.Locked Property (Outlook Forms Script)
+api_name:
+- Outlook.combobox.locked
 ms.assetid: 979e5626-e384-4162-e6cb-ae12736ed656
 ms.date: 06/08/2017
 ms.localizationpriority: medium

@@ -3,6 +3,8 @@ title: Frame.InsideHeight Property (Outlook Forms Script)
 keywords: olfm10.chm2001300
 f1_keywords:
 - olfm10.chm2001300
+api_name:
+- Outlook.frame.insideheight
 ms.assetid: 553e85e6-3e6d-d453-5110-741a62c32061
 ms.date: 06/08/2017
 ms.localizationpriority: medium

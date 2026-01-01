@@ -1,5 +1,7 @@
 ---
 title: TaskRequestDeclineItem.ReadComplete event (Outlook)
+api_name:
+- Outlook.taskrequestdeclineitem.readcomplete
 ms.assetid: 7f161f3d-c915-8355-977b-03b1d15ac8b5
 ms.date: 06/08/2017
 ms.localizationpriority: medium

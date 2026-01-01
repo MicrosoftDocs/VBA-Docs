@@ -1,5 +1,7 @@
 ---
 title: Shapes.AddTable method (Project)
+api_name:
+- Project.shapes.addtable
 ms.service: project-server
 ms.assetid: d4f9942b-ebd5-20e6-c8d4-f7107d1e1eab
 ms.date: 06/08/2017

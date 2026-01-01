@@ -1,5 +1,7 @@
 ---
 title: Shape.RerouteConnections method (Project)
+api_name:
+- Project.shape.rerouteconnections
 ms.service: project-server
 ms.assetid: 97a7a245-641f-3d69-59ff-f3177ac3e84d
 ms.date: 06/08/2017

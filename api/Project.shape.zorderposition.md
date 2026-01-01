@@ -1,5 +1,7 @@
 ---
 title: Shape.ZOrderPosition property (Project)
+api_name:
+- Project.shape.zorderposition
 ms.service: project-server
 ms.assetid: ebbd573a-4cf0-a3af-7dff-de67d321d9d2
 ms.date: 06/08/2017

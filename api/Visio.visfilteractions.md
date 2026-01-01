@@ -1,5 +1,7 @@
 ---
 title: VisFilterActions enumeration (Visio)
+api_name:
+- Visio.visfilteractions
 ms.assetid: 1b96bdba-e5e8-0e24-697d-3791c059fa15
 ms.date: 06/08/2017
 ms.localizationpriority: medium

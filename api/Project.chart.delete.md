@@ -3,6 +3,8 @@ title: Chart.Delete method (Project)
 keywords: vbapj.chm131614
 f1_keywords:
 - vbapj.chm131614
+api_name:
+- Project.chart.delete
 ms.service: project-server
 ms.assetid: 46312c6b-db7b-7562-d97a-d1fc8ba2acb7
 ms.date: 06/08/2017

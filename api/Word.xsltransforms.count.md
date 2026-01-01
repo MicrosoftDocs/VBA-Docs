@@ -3,6 +3,8 @@ title: XSLTransforms.Count property (Word)
 keywords: vbawd10.chm99221506
 f1_keywords:
 - vbawd10.chm99221506
+api_name:
+- Word.xsltransforms.count
 ms.assetid: 334e8017-eaa7-775f-45d8-bcbf514bbedb
 ms.date: 06/08/2017
 ms.localizationpriority: medium

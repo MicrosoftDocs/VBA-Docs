@@ -3,6 +3,8 @@ title: Chart.ApplyLayout method (Project)
 keywords: vbapj.chm131609
 f1_keywords:
 - vbapj.chm131609
+api_name:
+- Project.chart.applylayout
 ms.service: project-server
 ms.assetid: 943ca7d6-aa2e-9058-f33b-4efd4138b497
 ms.date: 06/08/2017

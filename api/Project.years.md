@@ -1,5 +1,7 @@
 ---
 title: Years object (Project)
+api_name:
+- Project.years
 ms.service: project-server
 ms.assetid: 3aa139cf-2fc2-7039-5659-8e2d833b5a4f
 ms.date: 06/08/2017

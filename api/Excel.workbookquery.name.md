@@ -3,6 +3,8 @@ title: WorkbookQuery.Name property (Excel)
 keywords: vbaxl10.chm974073
 f1_keywords:
 - vbaxl10.chm974073
+api_name:
+- Excel.workbookquery.name
 ms.assetid: afc6c679-8dda-08f9-c896-775b395b5e92
 ms.date: 05/18/2019
 ms.localizationpriority: medium

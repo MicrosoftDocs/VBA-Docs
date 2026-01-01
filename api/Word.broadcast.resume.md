@@ -3,6 +3,8 @@ title: Broadcast.Resume method (Word)
 keywords: vbawd10.chm36438119
 f1_keywords:
 - vbawd10.chm36438119
+api_name:
+- Word.broadcast.resume
 ms.assetid: 7808f9fa-c307-9381-9067-e37c249f3010
 ms.date: 06/08/2017
 ms.localizationpriority: medium

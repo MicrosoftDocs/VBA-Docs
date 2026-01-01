@@ -1,5 +1,7 @@
 ---
 title: Chart.ShowAxisFieldButtons property (Project)
+api_name:
+- Project.chart.showaxisfieldbuttons
 ms.service: project-server
 ms.assetid: ac66ccc8-2e64-7734-c976-f0a50fc00e1f
 ms.date: 06/08/2017

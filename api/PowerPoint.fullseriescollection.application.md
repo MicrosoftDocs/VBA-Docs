@@ -3,6 +3,8 @@ title: FullSeriesCollection.Application property (PowerPoint)
 keywords: vbapp10.chm735004
 f1_keywords:
 - vbapp10.chm735004
+api_name:
+- PowerPoint.fullseriescollection.application
 ms.assetid: c1977c86-70f2-8bca-b0b0-c83a87638659
 ms.date: 06/08/2017
 ms.localizationpriority: medium

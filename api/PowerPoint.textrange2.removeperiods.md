@@ -1,5 +1,7 @@
 ---
 title: TextRange2.RemovePeriods method (PowerPoint)
+api_name:
+- PowerPoint.textrange2.removeperiods
 ms.assetid: 8734cf36-1a15-4288-b027-dc738cc7a422
 ms.date: 06/08/2017
 ms.localizationpriority: medium

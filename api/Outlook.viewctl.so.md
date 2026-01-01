@@ -1,5 +1,7 @@
 ---
 title: ViewCtl.Sort Method (Outlook View Control)
+api_name:
+- Outlook.viewctl.so
 ms.assetid: 2906877d-ea52-7b9d-09f9-58607217a2de
 ms.date: 06/08/2017
 ms.localizationpriority: medium

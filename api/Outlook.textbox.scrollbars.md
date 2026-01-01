@@ -1,5 +1,7 @@
 ---
 title: TextBox.ScrollBars Property (Outlook Forms Script)
+api_name:
+- Outlook.textbox.scrollbars
 ms.assetid: ef258f24-df52-bdf5-6c1e-04b8b41d4c7f
 ms.date: 06/08/2017
 ms.localizationpriority: medium

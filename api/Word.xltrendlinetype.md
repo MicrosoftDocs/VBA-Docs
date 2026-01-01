@@ -1,5 +1,7 @@
 ---
 title: XlTrendlineType enumeration (Word)
+api_name:
+- Word.xltrendlinetype
 ms.assetid: 9ace4a00-2f01-ed25-0250-3a0ae2f4b6d7
 ms.date: 06/08/2017
 ms.localizationpriority: medium

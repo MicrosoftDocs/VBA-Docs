@@ -1,5 +1,7 @@
 ---
 title: Documents.AfterDocumentMerge event (Visio)
+api_name:
+- Visio.documents.afterdocumentmerge
 ms.assetid: cac0544d-77b9-b722-cfdb-e42475ce2558
 ms.date: 06/08/2017
 ms.localizationpriority: medium

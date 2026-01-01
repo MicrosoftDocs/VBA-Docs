@@ -3,6 +3,8 @@ title: FullSeriesCollection.Creator property (Excel)
 keywords: vbaxl10.chm943074
 f1_keywords:
 - vbaxl10.chm943074
+api_name:
+- Excel.fullseriescollection.creator
 ms.assetid: 2a4a9549-0288-3b80-5bcb-f6c15416fb87
 ms.date: 04/26/2019
 ms.localizationpriority: medium

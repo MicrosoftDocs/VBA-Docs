@@ -3,6 +3,8 @@ title: TextConnection.TextFileTrailingMinusNumbers property (Excel)
 keywords: vbaxl10.chm926090
 f1_keywords:
 - vbaxl10.chm926090
+api_name:
+- Excel.textconnection.textfiletrailingminusnumbers
 ms.assetid: 89341648-4dd6-775d-1ec3-f6eedc768264
 ms.date: 05/17/2019
 ms.localizationpriority: medium

@@ -3,6 +3,8 @@ title: WorksheetDataConnection object (Excel)
 keywords: vbaxl10.chm923072
 f1_keywords:
 - vbaxl10.chm923072
+api_name:
+- Excel.worksheetdataconnection
 ms.assetid: 05b67daa-ed68-f0f9-9228-86d6e53ef6e3
 ms.date: 04/03/2019
 ms.localizationpriority: medium

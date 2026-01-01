@@ -3,6 +3,8 @@ title: WorksheetFunction.Forecast_ETS_STAT method (Excel)
 keywords: vbaxl10.chm137472
 f1_keywords:
 - vbaxl10.chm137472
+api_name:
+- Excel.worksheetfunction.forecast_ets_stat
 ms.assetid: 6b1c0256-3146-4dc5-3f8a-27e61a982fee
 ms.date: 05/22/2019
 ms.localizationpriority: medium

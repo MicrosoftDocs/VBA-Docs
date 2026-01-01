@@ -3,6 +3,8 @@ title: OlUnifiedGroupFolderType enumeration (Outlook)
 keywords: vbaol11.chm3626
 f1_keywords:
 - vbaol11.chm3626
+api_name:
+- Outlook.olunifiedgroupfoldertype
 ms.assetid: 7ee0ae00-17e4-320b-8e52-f759193f6232
 ms.date: 07/04/2019
 ms.localizationpriority: medium

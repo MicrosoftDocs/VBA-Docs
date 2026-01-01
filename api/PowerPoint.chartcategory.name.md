@@ -3,6 +3,8 @@ title: ChartCategory.Name property (PowerPoint)
 keywords: vbapp10.chm736002
 f1_keywords:
 - vbapp10.chm736002
+api_name:
+- PowerPoint.chartcategory.name
 ms.assetid: be3803c3-8d48-a2e6-a1d5-effb87d68615
 ms.date: 06/08/2017
 ms.localizationpriority: medium

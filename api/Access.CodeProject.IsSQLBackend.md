@@ -3,6 +3,8 @@ title: CodeProject.IsSQLBackend property (Access)
 keywords: vbaac10.chm14747
 f1_keywords:
 - vbaac10.chm14747
+api_name:
+- Access.CodeProject.IsSQLBackend
 ms.assetid: c0b0f9bb-5ad4-69c1-9553-2caf420870f1
 ms.date: 06/08/2019
 ms.localizationpriority: medium

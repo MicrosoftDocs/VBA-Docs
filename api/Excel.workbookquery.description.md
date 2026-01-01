@@ -3,6 +3,8 @@ title: WorkbookQuery.Description property (Excel)
 keywords: vbaxl10.chm974075
 f1_keywords:
 - vbaxl10.chm974075
+api_name:
+- Excel.workbookquery.description
 ms.assetid: 1175e1df-0788-99aa-2bb3-9dfa545125f3
 ms.date: 05/18/2019
 ms.localizationpriority: medium

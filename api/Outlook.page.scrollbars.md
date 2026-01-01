@@ -1,5 +1,7 @@
 ---
 title: Page.ScrollBars Property (Outlook Forms Script)
+api_name:
+- Outlook.page.scrollbars
 ms.assetid: 2a4c0132-9d91-c1cb-3e95-061e12012c81
 ms.date: 06/08/2017
 ms.localizationpriority: medium

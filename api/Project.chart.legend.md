@@ -3,6 +3,8 @@ title: Chart.Legend property (Project)
 keywords: vbapj.chm131629
 f1_keywords:
 - vbapj.chm131629
+api_name:
+- Project.chart.legend
 ms.service: project-server
 ms.assetid: 38c3332c-6087-4f7b-5c02-31cba5c6933f
 ms.date: 06/08/2017

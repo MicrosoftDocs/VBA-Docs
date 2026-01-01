@@ -1,5 +1,7 @@
 ---
 title: ShapeRange.GroupItems property (Project)
+api_name:
+- Project.shaperange.groupitems
 ms.service: project-server
 ms.assetid: fd8a48bd-dfe1-1adc-5871-0fbe18af352f
 ms.date: 06/08/2017

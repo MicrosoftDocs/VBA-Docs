@@ -1,5 +1,7 @@
 ---
 title: ComboBox.TextAlign Property (Outlook Forms Script)
+api_name:
+- Outlook.combobox.textalign
 ms.assetid: e80b00a9-2020-3769-0d0d-84e66273a1ce
 ms.date: 06/08/2017
 ms.localizationpriority: medium

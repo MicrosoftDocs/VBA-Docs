@@ -3,6 +3,8 @@ title: Chart.CategoryLabelLevel property (Word)
 keywords: vbawd10.chm79364333
 f1_keywords:
 - vbawd10.chm79364333
+api_name:
+- Word.chart.categorylabellevel
 ms.assetid: 74f01367-c625-94a8-4a0f-6bbc42dade3c
 ms.date: 06/08/2017
 ms.localizationpriority: medium

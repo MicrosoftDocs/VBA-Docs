@@ -1,5 +1,7 @@
 ---
 title: Label.Picture Property (Outlook Forms Script)
+api_name:
+- Outlook.label.picture
 ms.assetid: 31d2f254-abce-fe6a-b6f1-a625606e5893
 ms.date: 06/08/2017
 ms.localizationpriority: medium
