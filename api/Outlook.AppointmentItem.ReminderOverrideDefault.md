@@ -18,7 +18,7 @@ Returns or sets a **Boolean** value that is **True** if the reminder overrides t
 
 ## Syntax
 
-_expression_. `ReminderOverrideDefault`
+_expression_.**ReminderOverrideDefault**
 
 _expression_ A variable that represents an [AppointmentItem](Outlook.AppointmentItem.md) object.
 

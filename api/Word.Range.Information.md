@@ -17,7 +17,7 @@ Returns information about the specified range. Read-only **Variant**.
 
 ## Syntax
 
-_expression_. `Information`( _Type_ )
+_expression_.**Information**( _Type_ )
 
 _expression_ Required. A variable that represents a [Range](Word.Range.md) object.
 

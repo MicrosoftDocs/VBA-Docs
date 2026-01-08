@@ -18,7 +18,7 @@ Indicates whether a master has changed since it was opened. Read-only.
 
 ## Syntax
 
-_expression_. `IsChanged`
+_expression_.**IsChanged**
 
 _expression_ A variable that represents a **[Master](Visio.Master.md)** object.
 

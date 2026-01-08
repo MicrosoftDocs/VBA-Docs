@@ -18,7 +18,7 @@ Returns an array of cell ranges and a **True** or **False** value indicating whe
 
 ## Syntax
 
-_expression_. `GetFilterSRC`
+_expression_.**GetFilterSRC**
 
 _expression_ A variable that represents an **[Event](Visio.Event.md)** object.
 

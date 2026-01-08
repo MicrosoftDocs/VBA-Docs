@@ -18,7 +18,7 @@ Returns or sets a **Boolean** value that determines whether Outlook items are sh
 
 ## Syntax
 
-_expression_. `ShowItemsInGroups`
+_expression_.**ShowItemsInGroups**
 
 _expression_ A variable that represents a [TableView](Outlook.TableView.md) object.
 

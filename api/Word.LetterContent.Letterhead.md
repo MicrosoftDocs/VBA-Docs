@@ -18,7 +18,7 @@ ms.localizationpriority: medium
 
 ## Syntax
 
-_expression_. `Letterhead`
+_expression_.**Letterhead**
 
  _expression_ An expression that returns a '[LetterContent](Word.LetterContent.md)' object.
 

@@ -16,7 +16,7 @@ Gets or sets the baseline5 budget work (in hours) for an **Assignment**. Read/wr
 
 ## Syntax
 
-_expression_. `Baseline5BudgetWork`
+_expression_.**Baseline5BudgetWork**
 
 _expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
 

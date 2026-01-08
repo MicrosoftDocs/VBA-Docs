@@ -18,7 +18,7 @@ Returns an automation object (WordBasic) that includes methods for all the WordB
 
 ## Syntax
 
-_expression_. `WordBasic`
+_expression_.**WordBasic**
 
 _expression_ A variable that represents an **[Application](Word.Application.md)** object. 
 

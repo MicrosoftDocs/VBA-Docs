@@ -18,7 +18,7 @@ ms.localizationpriority: medium
 
 ## Syntax
 
-_expression_. `ShowHidden`
+_expression_.**ShowHidden**
 
  _expression_ An expression that returns a '[Bookmarks](Word.bookmarks.md)' collection object.
 

@@ -18,7 +18,7 @@ Sets or returns a **WdRevisionsBalloonMargin** constant that specifies whether W
 
 ## Syntax
 
-_expression_. `RevisionsBalloonSide`
+_expression_.**RevisionsBalloonSide**
 
 _expression_ Required. A variable that represents a '[View](Word.View.md)' object.
 

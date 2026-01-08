@@ -18,7 +18,7 @@ Returns or sets a **Single** that represents the right margin for equations. Rea
 
 ## Syntax
 
-_expression_. `OMathRightMargin`
+_expression_.**OMathRightMargin**
 
  _expression_ An expression that returns a [Document](./Word.Document.md) object.
 

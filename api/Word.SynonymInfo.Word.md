@@ -18,7 +18,7 @@ Returns the word or phrase that was looked up by the thesaurus. Read-only **Stri
 
 ## Syntax
 
-_expression_. `Word`
+_expression_.**Word**
 
  _expression_ An expression that returns a '[SynonymInfo](Word.SynonymInfo.md)' object.
 

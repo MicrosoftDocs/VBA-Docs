@@ -18,7 +18,7 @@ Returns or sets the distance (in points) between the header and the top of the p
 
 ## Syntax
 
-_expression_. `HeaderDistance`
+_expression_.**HeaderDistance**
 
 _expression_ A variable that represents a **[PageSetup](Word.PageSetup.md)** object.
 

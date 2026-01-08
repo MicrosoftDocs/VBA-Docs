@@ -18,7 +18,7 @@ Returns or sets the high-ANSI text interpretation behavior. Read/write **WdHighA
 
 ## Syntax
 
-_expression_. `InterpretHighAnsi`
+_expression_.**InterpretHighAnsi**
 
 _expression_ Required. A variable that represents an **[Options](Word.Options.md)** object.
 

@@ -18,7 +18,7 @@ Determines whether to display special formatting for the last column of the spec
 
 ## Syntax
 
-_expression_. `LastCol`
+_expression_.**LastCol**
 
 _expression_ A variable that represents a [Table](PowerPoint.Table.md) object.
 

@@ -18,7 +18,7 @@ Returns an **[AutoCaptions](Word.autocaptions.md)** collection that represents t
 
 ## Syntax
 
-_expression_. `AutoCaptions`
+_expression_.**AutoCaptions**
 
 _expression_ A variable that represents a '[Global](Word.Global.md)' object.
 

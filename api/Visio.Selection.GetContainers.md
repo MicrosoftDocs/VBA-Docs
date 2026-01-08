@@ -18,7 +18,7 @@ Returns an array of shape identifiers (IDs) of the container shapes in the selec
 
 ## Syntax
 
-_expression_. `GetContainers`( `_NestedOptions_` )
+_expression_.**GetContainers**( `_NestedOptions_` )
 
 _expression_ A variable that represents a **[Selection](Visio.Selection.md)** object.
 

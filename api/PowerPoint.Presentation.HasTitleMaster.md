@@ -18,7 +18,7 @@ ms.localizationpriority: medium
 
 ## Syntax
 
-_expression_. `HasTitleMaster`
+_expression_.**HasTitleMaster**
 
 _expression_ A variable that represents a [Presentation](PowerPoint.Presentation.md) object.
 

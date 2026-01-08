@@ -18,7 +18,7 @@ Returns or sets a **[WdFrenchSpeller](Word.WdFrenchSpeller.md)** constant that r
 
 ## Syntax
 
-_expression_. `FrenchReform`
+_expression_.**FrenchReform**
 
  _expression_ An expression that returns a '[Options](Word.Options.md)' object.
 

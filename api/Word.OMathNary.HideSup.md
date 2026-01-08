@@ -18,7 +18,7 @@ Returns or sets a **Boolean** that represents whether to hide the upper limit of
 
 ## Syntax
 
-_expression_. `HideSup`
+_expression_.**HideSup**
 
  _expression_ An expression that returns an '[OMathNary](Word.OMathNary.md)' object.
 

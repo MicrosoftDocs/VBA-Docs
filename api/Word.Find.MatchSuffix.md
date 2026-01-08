@@ -18,7 +18,7 @@ ms.localizationpriority: medium
 
 ## Syntax
 
-_expression_. `MatchSuffix`
+_expression_.**MatchSuffix**
 
  _expression_ An expression that returns a [Find](./Word.Find.md) object.
 

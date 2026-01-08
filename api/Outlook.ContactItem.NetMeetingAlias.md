@@ -18,7 +18,7 @@ Returns or sets a **String** indicating the user's Microsoft NetMeeting ID, or a
 
 ## Syntax
 
-_expression_. `NetMeetingAlias`
+_expression_.**NetMeetingAlias**
 
 _expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 

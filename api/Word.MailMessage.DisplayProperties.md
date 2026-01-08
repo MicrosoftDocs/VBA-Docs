@@ -18,7 +18,7 @@ Displays the **Properties** dialog box for the active email message.
 
 ## Syntax
 
-_expression_. `DisplayProperties`
+_expression_.**DisplayProperties**
 
 _expression_ Required. A variable that represents a '[MailMessage](Word.MailMessage.md)' object.
 

@@ -18,7 +18,7 @@ Returns or sets a **[LineNumbering](Word.LineNumbering.md)** object that represe
 
 ## Syntax
 
-_expression_. `LineNumbering`
+_expression_.**LineNumbering**
 
  _expression_ An expression that returns a **[PageSetup](Word.PageSetup.md)** object.
 

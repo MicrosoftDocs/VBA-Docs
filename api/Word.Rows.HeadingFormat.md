@@ -18,7 +18,7 @@ ms.localizationpriority: medium
 
 ## Syntax
 
-_expression_. `HeadingFormat`
+_expression_.**HeadingFormat**
 
 _expression_ A variable that represents a **[Rows](Word.Rows.md)** object.
 

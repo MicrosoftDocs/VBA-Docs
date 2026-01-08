@@ -18,7 +18,7 @@ Indicates whether a menu item is hierarchical; that is, whether it contains a dr
 
 ## Syntax
 
-_expression_. `IsHierarchical`
+_expression_.**IsHierarchical**
 
 _expression_ A variable that represents a **[MenuItem](Visio.MenuItem.md)** object.
 

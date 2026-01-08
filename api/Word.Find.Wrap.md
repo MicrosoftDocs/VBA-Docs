@@ -18,7 +18,7 @@ Returns or sets what happens if the search begins at a point other than the begi
 
 ## Syntax
 
-_expression_. `Wrap`
+_expression_.**Wrap**
 
 _expression_ Required. A variable that represents a '[Find](Word.Find.md)' object.
 

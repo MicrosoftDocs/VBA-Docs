@@ -18,7 +18,7 @@ Returns a **Boolean** that determines if the item is in conflict. Read-only.
 
 ## Syntax
 
-_expression_. `IsConflict`
+_expression_.**IsConflict**
 
 _expression_ A variable that represents a [TaskRequestAcceptItem](Outlook.TaskRequestAcceptItem.md) object.
 

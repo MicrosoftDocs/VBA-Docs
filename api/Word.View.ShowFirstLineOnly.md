@@ -18,7 +18,7 @@ ms.localizationpriority: medium
 
 ## Syntax
 
-_expression_. `ShowFirstLineOnly`
+_expression_.**ShowFirstLineOnly**
 
  _expression_ An expression that returns a '[View](Word.View.md)' object.
 

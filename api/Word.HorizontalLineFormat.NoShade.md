@@ -18,7 +18,7 @@ ms.localizationpriority: medium
 
 ## Syntax
 
-_expression_. `NoShade`
+_expression_.**NoShade**
 
  _expression_ An expression that returns a '[HorizontalLineFormat](Word.HorizontalLineFormat.md)' object.
 

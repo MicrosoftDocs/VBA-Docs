@@ -20,7 +20,7 @@ Returns a **String** that specifies the local time zone adjustment for the conta
 
 ## Syntax
 
-_expression_. `TimeZoneBias`
+_expression_.**TimeZoneBias**
 
 _expression_ A variable that represents a [Comment](PowerPoint.Comment.md) object.
 

@@ -18,7 +18,7 @@ Obtains a two-dimensional array that contains a set of row and column values fro
 
 ## Syntax
 
-_expression_. `GetArray`( `_MaxRows_` )
+_expression_.**GetArray**( `_MaxRows_` )
 
 _expression_ A variable that represents a [Table](Outlook.Table.md) object.
 

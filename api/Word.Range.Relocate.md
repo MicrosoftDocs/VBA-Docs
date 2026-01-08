@@ -18,7 +18,7 @@ In outline view, moves the paragraphs within the specified range after the next 
 
 ## Syntax
 
-_expression_. `Relocate`( `_Direction_` )
+_expression_.**Relocate**( `_Direction_` )
 
 _expression_ Required. A variable that represents a **[Range](Word.Range.md)** object.
 

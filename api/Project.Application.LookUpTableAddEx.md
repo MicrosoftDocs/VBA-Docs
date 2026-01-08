@@ -19,7 +19,7 @@ Appends items to the lookup table of a custom outline code definition.
 
 ## Syntax
 
-_expression_. `LookUpTableAddEx`( `_FieldID_`, `_Level_`, `_Code_`, `_Description_`, `_Phonetic_` )
+_expression_.**LookUpTableAddEx**( `_FieldID_`, `_Level_`, `_Code_`, `_Description_`, `_Phonetic_` )
 
 _expression_ A variable that represents an **[Application](Project.Application.md)** object.
 

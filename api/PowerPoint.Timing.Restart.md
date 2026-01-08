@@ -18,7 +18,7 @@ Represents whether the animation effect restarts after the effect has started on
 
 ## Syntax
 
-_expression_. `Restart`
+_expression_.**Restart**
 
 _expression_ A variable that represents a [Timing](PowerPoint.Timing.md) object.
 

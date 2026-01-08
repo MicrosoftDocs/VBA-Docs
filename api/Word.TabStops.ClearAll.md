@@ -18,7 +18,7 @@ Clears all the custom tab stops from the specified paragraphs.
 
 ## Syntax
 
-_expression_. `ClearAll`
+_expression_.**ClearAll**
 
 _expression_ Required. A variable that represents a '[TabStops](Word.tabstops.md)' collection.
 

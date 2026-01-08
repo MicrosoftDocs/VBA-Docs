@@ -16,7 +16,7 @@ Occurs before the queue job is put on the server queue. Project Professional onl
 
 ## Syntax
 
-_expression_. `JobStart`( `_bstrName_`, `_bstrprojGuid_`, `_bstrjobGuid_`, `_jobType_`, `_lResult_` )
+_expression_.**JobStart**( `_bstrName_`, `_bstrprojGuid_`, `_bstrjobGuid_`, `_jobType_`, `_lResult_` )
 
 _expression_ A variable that represents an **[Application](Project.Application.md)** object.
 

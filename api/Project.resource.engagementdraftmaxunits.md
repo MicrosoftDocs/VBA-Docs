@@ -19,7 +19,7 @@ Returns the draft max units for the engagement. Read-only **Integer**. Introduce
 
 ## Syntax
 
-_expression_. `EngagementDraftMaxUnits`
+_expression_.**EngagementDraftMaxUnits**
 
 _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 

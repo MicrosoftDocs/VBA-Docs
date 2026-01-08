@@ -16,7 +16,7 @@ ms.localizationpriority: medium
 
 ## Syntax
 
-_expression_. `LevelFreeformTasks`
+_expression_.**LevelFreeformTasks**
 
  _expression_ An expression that returns an **[Application](Project.Application.md)** object.
 

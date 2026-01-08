@@ -18,7 +18,7 @@ Returns an **[OMathBox](Word.OMathBox.md)** object that represents an invisible 
 
 ## Syntax
 
-_expression_. `Box`
+_expression_.**Box**
 
  _expression_ An expression that returns an '[OMathFunction](Word.OMathFunction.md)' object.
 

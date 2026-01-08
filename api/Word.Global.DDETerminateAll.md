@@ -18,7 +18,7 @@ Closes all dynamic data exchange (DDE) channels opened by Microsoft Word. .
 
 ## Syntax
 
-_expression_. `DDETerminateAll`
+_expression_.**DDETerminateAll**
 
 _expression_ A variable that represents a '[Global](Word.Global.md)' object. Optional.
 

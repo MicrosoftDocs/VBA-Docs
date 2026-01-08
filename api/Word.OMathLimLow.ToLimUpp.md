@@ -18,7 +18,7 @@ Converts an equation from the lower limit to the upper limit. .
 
 ## Syntax
 
-_expression_. `ToLimUpp`
+_expression_.**ToLimUpp**
 
  _expression_ An expression that returns a [OMathLimLow](./Word.OMathLimLow.md) object.
 

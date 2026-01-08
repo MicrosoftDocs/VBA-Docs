@@ -19,7 +19,7 @@ Gets or sets the date format of the table. Read/write **PjDateFormat**.
 
 ## Syntax
 
-_expression_. `DateFormat`
+_expression_.**DateFormat**
 
 _expression_ A variable that represents a [Table](./Project.Table.md) object.
 

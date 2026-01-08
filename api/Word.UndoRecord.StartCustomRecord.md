@@ -18,7 +18,7 @@ Initiates the creation of a custom undo record.
 
 ## Syntax
 
-_expression_. `StartCustomRecord`( `_Name_` )
+_expression_.**StartCustomRecord**( `_Name_` )
 
 _expression_ A variable that represents an '[UndoRecord](Word.UndoRecord.md)' object.
 

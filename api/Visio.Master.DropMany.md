@@ -18,7 +18,7 @@ Creates one or more new **Shape** objects in a master. It returns an array of th
 
 ## Syntax
 
-_expression_. `DropMany`( `_ObjectsToInstance()_` , `_xyArray()_` , `_IDArray()_` )
+_expression_.**DropMany**( `_ObjectsToInstance()_` , `_xyArray()_` , `_IDArray()_` )
 
 _expression_ A variable that represents a **[Master](Visio.Master.md)** object.
 

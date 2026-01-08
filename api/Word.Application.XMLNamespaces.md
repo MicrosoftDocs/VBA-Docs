@@ -17,7 +17,7 @@ Returns an **XMLNamespaces** collection that represents the XML schemas in the S
 
 ## Syntax
 
-_expression_. `XMLNamespaces`
+_expression_.**XMLNamespaces**
 
  _expression_ An expression that returns an **[Application](Word.Application.md)** object.
 

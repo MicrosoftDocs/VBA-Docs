@@ -18,7 +18,7 @@ Returns or sets a **Boolean** that specifies whether charts use cell-reference d
 
 ## Syntax
 
-_expression_. `ChartDataPointTrack`
+_expression_.**ChartDataPointTrack**
 
 _expression_ A variable that represents a [Application](./Word.Application.md) object.
 

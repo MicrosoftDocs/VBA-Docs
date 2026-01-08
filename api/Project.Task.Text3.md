@@ -16,7 +16,7 @@ Gets or sets the value of a local Text custom field for the task. Read/write **S
 
 ## Syntax
 
-_expression_. `Text3`
+_expression_.**Text3**
 
 _expression_ A variable that represents a [Task](./Project.Task.md) object.
 

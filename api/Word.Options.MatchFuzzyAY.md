@@ -22,7 +22,7 @@ ms.localizationpriority: medium
 
 ## Syntax
 
-_expression_. `MatchFuzzyAY`
+_expression_.**MatchFuzzyAY**
 
  _expression_ An expression that returns an **[Options](Word.Options.md)** object.
 

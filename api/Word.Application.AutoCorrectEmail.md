@@ -18,7 +18,7 @@ Returns an **[AutoCorrect](Word.AutoCorrect.md)** object that represents automat
 
 ## Syntax
 
-_expression_. `AutoCorrectEmail`
+_expression_.**AutoCorrectEmail**
 
  _expression_ An expression that returns an **[Application](Word.Application.md)** object. 
 

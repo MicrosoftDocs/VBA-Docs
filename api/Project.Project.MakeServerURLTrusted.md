@@ -19,7 +19,7 @@ Adds the URL specified in the **[ServerURL](overview/Project.md)** property to t
 
 ## Syntax
 
-_expression_. `MakeServerURLTrusted`
+_expression_.**MakeServerURLTrusted**
 
 _expression_ A variable that represents a **[Project](project.project.md)** object.
 

@@ -18,7 +18,7 @@ Returns a **[Column](Word.Column.md)** object that represents the first item in 
 
 ## Syntax
 
-_expression_. `First`
+_expression_.**First**
 
 _expression_ Required. A variable that represents a '[Columns](Word.columns.md)' collection.
 

@@ -18,7 +18,7 @@ Returns a **[ShapeRange](Word.shaperange.md)** collection representing the child
 
 ## Syntax
 
-_expression_. `ChildShapeRange`
+_expression_.**ChildShapeRange**
 
  _expression_ An expression that returns a **[Selection](Word.Selection.md)** object.
 

@@ -18,7 +18,7 @@ Returns the length (perimeter) of the shape in internal units. Read-only.
 
 ## Syntax
 
-_expression_. `LengthIU`( `_fIncludeSubShapes_` )
+_expression_.**LengthIU**( `_fIncludeSubShapes_` )
 
 _expression_ A variable that represents a **[Shape](Visio.Shape.md)** object.
 

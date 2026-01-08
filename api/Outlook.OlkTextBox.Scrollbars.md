@@ -18,7 +18,7 @@ Returns or sets an **[olScrollBars](Outlook.OlScrollBars.md)** constant that spe
 
 ## Syntax
 
-_expression_. `Scrollbars`
+_expression_.**Scrollbars**
 
 _expression_ A variable that represents an [OlkTextBox](Outlook.OlkTextBox.md) object.
 

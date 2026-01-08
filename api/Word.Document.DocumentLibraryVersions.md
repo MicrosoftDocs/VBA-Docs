@@ -18,7 +18,7 @@ Returns a **DocumentLibraryVersions** collection that represents the collection 
 
 ## Syntax
 
-_expression_. `DocumentLibraryVersions`
+_expression_.**DocumentLibraryVersions**
 
  _expression_ An expression that returns a **[Document](Word.Document.md)** object.
 

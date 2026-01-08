@@ -16,7 +16,7 @@ The AuthorResName property for the EngagementComment object. Introduced in Offic
 
 ## Syntax
 
-_expression_. `AuthorResName`
+_expression_.**AuthorResName**
 
 _expression_ A variable that represents a 'EngagementComment' object.
 

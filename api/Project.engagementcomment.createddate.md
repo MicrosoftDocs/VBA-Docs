@@ -16,7 +16,7 @@ The CreatedDate property for the EngagementComment object. Introduced in Office 
 
 ## Syntax
 
-_expression_. `CreatedDate`
+_expression_.**CreatedDate**
 
 _expression_ A variable that represents a 'EngagementComment' object.
 

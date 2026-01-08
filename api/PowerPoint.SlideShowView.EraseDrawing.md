@@ -18,7 +18,7 @@ Removes lines drawn during a slide show by using either the **[DrawLine](PowerPo
 
 ## Syntax
 
-_expression_. `EraseDrawing`
+_expression_.**EraseDrawing**
 
 _expression_ A variable that represents a [SlideShowView](PowerPoint.SlideShowView.md) object.
 

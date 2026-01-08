@@ -19,7 +19,7 @@ Gets the name of the enterprise resource pool that a project uses in Project Pro
 
 ## Syntax
 
-_expression_. `ResourcePoolName`
+_expression_.**ResourcePoolName**
 
 _expression_ A variable that represents a **[Project](project.project.md)** object.
 

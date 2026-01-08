@@ -18,7 +18,7 @@ Returns or sets a **Long** that represents the spacing between columns in a matr
 
 ## Syntax
 
-_expression_. `ColGap`
+_expression_.**ColGap**
 
  _expression_ An expression that returns an '[OMathMat](Word.OMathMat.md)' object.
 

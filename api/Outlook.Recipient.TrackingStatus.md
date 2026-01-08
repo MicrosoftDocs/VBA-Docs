@@ -18,7 +18,7 @@ Returns or sets an **[OlTrackingStatus](Outlook.OlTrackingStatus.md)** constant 
 
 ## Syntax
 
-_expression_. `TrackingStatus`
+_expression_.**TrackingStatus**
 
 _expression_ A variable that represents a [Recipient](Outlook.Recipient.md) object.
 

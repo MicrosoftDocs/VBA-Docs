@@ -18,7 +18,7 @@ Returns a **CustomXMLNode** object that represents the custom XML node in the da
 
 ## Syntax
 
-_expression_. `CustomXMLNode`
+_expression_.**CustomXMLNode**
 
  _expression_ An expression that returns an '[XMLMapping](Word.XMLMapping.md)' object.
 

@@ -18,7 +18,7 @@ Creates a **[MailItem](Outlook.MailItem.md)** and attaches the contact informati
 
 ## Syntax
 
-_expression_. `ForwardAsVcard`
+_expression_.**ForwardAsVcard**
 
 _expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 

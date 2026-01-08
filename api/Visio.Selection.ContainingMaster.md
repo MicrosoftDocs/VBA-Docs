@@ -18,7 +18,7 @@ Returns the **Master** object that contains an object. Read-only.
 
 ## Syntax
 
-_expression_. `ContainingMaster`
+_expression_.**ContainingMaster**
 
 _expression_ A variable that represents a **[Selection](Visio.Selection.md)** object.
 

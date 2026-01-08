@@ -18,7 +18,7 @@ Creates a **[CalendarSharing](Outlook.CalendarSharing.md)** object for the speci
 
 ## Syntax
 
-_expression_. `GetCalendarExporter`
+_expression_.**GetCalendarExporter**
 
  _expression_ An expression that returns a [Folder](Outlook.Folder.md) object.
 

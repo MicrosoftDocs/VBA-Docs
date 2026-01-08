@@ -18,7 +18,7 @@ Returns or sets how Microsoft Word handles calls to methods and properties that 
 
 ## Syntax
 
-_expression_. `FeatureInstall`
+_expression_.**FeatureInstall**
 
 _expression_ Required. A variable that represents an **[Application](Word.Application.md)** object. 
 

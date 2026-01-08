@@ -22,7 +22,7 @@ Returns an array of all shapes on the active page linked to data in the specifie
 
 ## Syntax
 
-_expression_. `GetShapesLinkedToDataRow`( `_DataRecordsetID_` , `_DataRowID_` , `_ShapeIDs()_` )
+_expression_.**GetShapesLinkedToDataRow**( `_DataRecordsetID_` , `_DataRowID_` , `_ShapeIDs()_` )
 
  _expression_ An expression that returns a **[Page](Visio.Page.md)** object.
 

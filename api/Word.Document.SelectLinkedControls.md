@@ -18,7 +18,7 @@ Returns a **[ContentControls](Word.ContentControls.md)** collection that represe
 
 ## Syntax
 
-_expression_. `SelectLinkedControls`( `_Node_` )
+_expression_.**SelectLinkedControls**( `_Node_` )
 
  _expression_ An expression that returns a **[Document](Word.Document.md)** object.
 

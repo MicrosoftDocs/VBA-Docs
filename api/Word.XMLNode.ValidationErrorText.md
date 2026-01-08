@@ -18,7 +18,7 @@ Returns a **String** that represents the description for a validation error on a
 
 ## Syntax
 
-_expression_. `ValidationErrorText`( `_Advanced_` )
+_expression_.**ValidationErrorText**( `_Advanced_` )
 
 _expression_ A variable that represents a '[XMLNode](Word.XMLNode.md)' object.
 

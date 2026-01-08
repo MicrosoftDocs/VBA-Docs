@@ -18,7 +18,7 @@ Returns or sets a **Date** indicating the date and time at which the reminder sh
 
 ## Syntax
 
-_expression_. `ReminderTime`
+_expression_.**ReminderTime**
 
 _expression_ A variable that represents a [MailItem](Outlook.MailItem.md) object.
 

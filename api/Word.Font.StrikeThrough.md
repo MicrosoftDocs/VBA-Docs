@@ -18,7 +18,7 @@ ms.localizationpriority: medium
 
 ## Syntax
 
-_expression_. `StrikeThrough`
+_expression_.**StrikeThrough**
 
  _expression_ An expression that returns a **[Font](Word.Font.md)** object.
 

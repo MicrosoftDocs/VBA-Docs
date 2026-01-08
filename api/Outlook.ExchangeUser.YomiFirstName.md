@@ -18,7 +18,7 @@ Returns a **String** representing the Japanese phonetic rendering (yomigana) of 
 
 ## Syntax
 
-_expression_. `YomiFirstName`
+_expression_.**YomiFirstName**
 
 _expression_ A variable that represents an [ExchangeUser](Outlook.ExchangeUser.md) object.
 

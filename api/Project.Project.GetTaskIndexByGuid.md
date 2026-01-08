@@ -16,7 +16,7 @@ Returns the local task identification number (ID) for the specified task.
 
 ## Syntax
 
-_expression_. `GetTaskIndexByGuid`( `_TaskGuid_` )
+_expression_.**GetTaskIndexByGuid**( `_TaskGuid_` )
 
 _expression_ A variable that represents a **[Project](project.project.md)** object.
 

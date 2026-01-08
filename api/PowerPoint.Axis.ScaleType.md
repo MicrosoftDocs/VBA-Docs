@@ -18,7 +18,7 @@ Returns or sets the value axis scale type. Read/write **[XlScaleType](PowerPoint
 
 ## Syntax
 
-_expression_. `ScaleType`
+_expression_.**ScaleType**
 
 _expression_ A variable that represents an '[Axis](PowerPoint.Axis.md)' object.
 

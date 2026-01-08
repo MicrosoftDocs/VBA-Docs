@@ -19,7 +19,7 @@ Starts an application.
 
 ## Syntax
 
-_expression_. `AppExecute`( `_Window_`, `_Command_`, `_Minimize_`, `_Activate_` )
+_expression_.**AppExecute**( `_Window_`, `_Command_`, `_Minimize_`, `_Activate_` )
 
 _expression_ A variable that represents an **[Application](Project.Application.md)** object.
 

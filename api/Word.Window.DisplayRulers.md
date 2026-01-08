@@ -18,7 +18,7 @@ ms.localizationpriority: medium
 
 ## Syntax
 
-_expression_. `DisplayRulers`
+_expression_.**DisplayRulers**
 
 _expression_ A variable that represents a **[Window](Word.Window.md)** object.
 

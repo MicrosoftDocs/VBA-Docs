@@ -19,7 +19,7 @@ Gets or sets a string representation of the task finish date. Read/write **Strin
 
 ## Syntax
 
-_expression_. `FinishText`
+_expression_.**FinishText**
 
  _expression_ An expression that returns a [Task](./Project.Task.md) object.
 

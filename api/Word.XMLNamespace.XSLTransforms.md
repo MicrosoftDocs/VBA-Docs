@@ -18,7 +18,7 @@ Returns an XSLTransforms collection that represents the Extensible Stylesheet La
 
 ## Syntax
 
-_expression_. `XSLTransforms`
+_expression_.**XSLTransforms**
 
  _expression_ An expression that returns an '[XMLNamespace](Word.XMLNamespace.md)' object.
 

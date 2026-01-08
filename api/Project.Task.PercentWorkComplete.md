@@ -16,7 +16,7 @@ Gets or sets the percentage of work complete for a task. Read-only for summary t
 
 ## Syntax
 
-_expression_. `PercentWorkComplete`
+_expression_.**PercentWorkComplete**
 
 _expression_ A variable that represents a [Task](./Project.Task.md) object.
 

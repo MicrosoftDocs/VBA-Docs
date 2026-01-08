@@ -18,7 +18,7 @@ Returns or sets the bottom bevel height for the specified **ThreeDFormat** objec
 
 ## Syntax
 
-_expression_. `BevelBottomDepth`
+_expression_.**BevelBottomDepth**
 
 _expression_ A variable that represents a [ThreeDFormat](PowerPoint.ThreeDFormat.md) object.
 

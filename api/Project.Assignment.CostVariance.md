@@ -16,7 +16,7 @@ Gets the variance between the baseline cost and the cost of an **Assignment**. R
 
 ## Syntax
 
-_expression_. `CostVariance`
+_expression_.**CostVariance**
 
 _expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
 

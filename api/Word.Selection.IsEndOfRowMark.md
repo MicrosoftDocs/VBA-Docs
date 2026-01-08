@@ -18,7 +18,7 @@ ms.localizationpriority: medium
 
 ## Syntax
 
-_expression_. `IsEndOfRowMark`
+_expression_.**IsEndOfRowMark**
 
 _expression_ A variable that represents a **[Selection](Word.Selection.md)** object.
 

@@ -19,7 +19,7 @@ Gets a **[ViewsSingle](Project.ViewSingle.md)** collection representing the sing
 
 ## Syntax
 
-_expression_. `ViewsSingle`
+_expression_.**ViewsSingle**
 
 _expression_ A variable that represents a **[Project](project.project.md)** object.
 

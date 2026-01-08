@@ -19,7 +19,7 @@ Resets a resource calendar.
 
 ## Syntax
 
-_expression_. `ResourceCalendarReset`( `_ProjectName_`, `_ResourceName_`, `_BaseCalendar_` )
+_expression_.**ResourceCalendarReset**( `_ProjectName_`, `_ResourceName_`, `_BaseCalendar_` )
 
 _expression_ A variable that represents an **[Application](Project.Application.md)** object.
 

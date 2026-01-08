@@ -18,7 +18,7 @@ Returns a **[TextRange](PowerPoint.TextRange.md)** object that represents the sp
 
 ## Syntax
 
-_expression_. `Words`( `_Start_`, `_Length_` )
+_expression_.**Words**( `_Start_`, `_Length_` )
 
 _expression_ A variable that represents a [TextRange](PowerPoint.TextRange.md) object.
 

@@ -19,7 +19,7 @@ Changes Project Guide goal areas by triggering the **[WindowGoalAreaChange](Proj
 
 ## Syntax
 
-_expression_. `GoalAreaChange`( `_goalArea_` )
+_expression_.**GoalAreaChange**( `_goalArea_` )
 
 _expression_ A variable that represents an **[Application](Project.Application.md)** object.
 

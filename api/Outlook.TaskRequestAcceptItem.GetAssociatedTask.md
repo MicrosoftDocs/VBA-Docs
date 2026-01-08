@@ -18,7 +18,7 @@ Returns a **[TaskItem](Outlook.TaskItem.md)** object that represents the request
 
 ## Syntax
 
-_expression_. `GetAssociatedTask`( `_AddToTaskList_` )
+_expression_.**GetAssociatedTask**( `_AddToTaskList_` )
 
 _expression_ A variable that represents a [TaskRequestAcceptItem](Outlook.TaskRequestAcceptItem.md) object.
 

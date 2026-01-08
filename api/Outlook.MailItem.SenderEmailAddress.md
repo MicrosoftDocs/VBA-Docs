@@ -18,7 +18,7 @@ Returns a **String** that represents the email address of the sender of the Outl
 
 ## Syntax
 
-_expression_. `SenderEmailAddress`
+_expression_.**SenderEmailAddress**
 
 _expression_ A variable that represents a [MailItem](Outlook.MailItem.md) object.
 

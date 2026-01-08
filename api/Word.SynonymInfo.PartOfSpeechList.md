@@ -18,7 +18,7 @@ Returns a list of the parts of speech corresponding to the meanings found for th
 
 ## Syntax
 
-_expression_. `PartOfSpeechList`
+_expression_.**PartOfSpeechList**
 
  _expression_ An expression that returns a '[SynonymInfo](Word.SynonymInfo.md)' object.
 

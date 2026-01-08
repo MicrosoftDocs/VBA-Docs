@@ -16,7 +16,7 @@ Gets the latest date on which a task can finish. Read-only **Variant**.
 
 ## Syntax
 
-_expression_. `LateFinish`
+_expression_.**LateFinish**
 
 _expression_ A variable that represents a [Task](./Project.Task.md) object.
 

@@ -18,7 +18,7 @@ Moves the selection to the specified page, and drops a replacement shape on the 
 
 ## Syntax
 
-_expression_. `MoveToSubprocess`( `_Page_` , `_ObjectToDrop_` , `_NewShape_` )
+_expression_.**MoveToSubprocess**( `_Page_` , `_ObjectToDrop_` , `_NewShape_` )
 
 _expression_ A variable that represents a **[Selection](Visio.Selection.md)** object.
 

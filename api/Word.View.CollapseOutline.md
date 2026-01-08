@@ -18,7 +18,7 @@ Collapses the text under the selection or the specified range by one heading lev
 
 ## Syntax
 
-_expression_. `CollapseOutline`( `_Range_` )
+_expression_.**CollapseOutline**( `_Range_` )
 
 _expression_ Required. A variable that represents a '[View](Word.View.md)' object.
 

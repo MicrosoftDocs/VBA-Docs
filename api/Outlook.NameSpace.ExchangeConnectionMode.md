@@ -18,7 +18,7 @@ Returns an **[OlExchangeConnectionMode](Outlook.OlExchangeConnectionMode.md)** c
 
 ## Syntax
 
-_expression_. `ExchangeConnectionMode`
+_expression_.**ExchangeConnectionMode**
 
 _expression_ A variable that represents a '[NameSpace](Outlook.NameSpace.md)' object.
 

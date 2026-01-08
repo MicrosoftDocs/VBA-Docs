@@ -18,7 +18,7 @@ Returns or sets a **[WdFarEastLineBreakLanguageID](Word.WdFarEastLineBreakLangua
 
 ## Syntax
 
-_expression_. `reFarEastLineBakLanguage`
+_expression_.**reFarEastLineBakLanguage**
 
 _expression_ Required. A variable that represents a **[Document](Word.Document.md)** object.
 

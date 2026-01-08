@@ -18,7 +18,7 @@ Returns the collection of repeating section items in the specified repeating sec
 
 ## Syntax
 
-_expression_. `RepeatingSectionItems`
+_expression_.**RepeatingSectionItems**
 
 _expression_ A variable that represents a [ContentControl](./Word.ContentControl.md) object.
 

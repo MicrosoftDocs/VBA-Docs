@@ -18,7 +18,7 @@ ms.localizationpriority: medium
 
 ## Syntax
 
-_expression_. `EvenlySpaced`
+_expression_.**EvenlySpaced**
 
 _expression_ A variable that represents a '[TextColumns](Word(textcolumns).md)' object.
 

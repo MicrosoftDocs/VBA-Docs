@@ -19,7 +19,7 @@ Updates dynamic data exchange (DDE) links.
 
 ## Syntax
 
-_expression_. `DDELinksUpdate`
+_expression_.**DDELinksUpdate**
 
 _expression_ A variable that represents an **[Application](Project.Application.md)** object.
 

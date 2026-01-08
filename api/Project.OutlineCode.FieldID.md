@@ -15,7 +15,7 @@ Gets the identification number of the local outline code. Read-only **PjCustomFi
 
 ## Syntax
 
-_expression_. `FieldID`
+_expression_.**FieldID**
 
 _expression_ A variable that represents an [OutlineCode](./Project.OutlineCode.md) object.
 

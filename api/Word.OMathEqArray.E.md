@@ -18,7 +18,7 @@ Returns an **OMathArgs** object that represents the list of arguments for the sp
 
 ## Syntax
 
-_expression_. `E`
+_expression_.**E**
 
  _expression_ An expression that returns an [OMathEqArray](./Word.OMathEqArray.md) object.
 

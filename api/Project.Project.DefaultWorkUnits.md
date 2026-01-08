@@ -16,7 +16,7 @@ Gets or sets the default work units for the project. Read/write **PjUnit**.
 
 ## Syntax
 
-_expression_. `DefaultWorkUnits`
+_expression_.**DefaultWorkUnits**
 
 _expression_ A variable that represents a **[Project](project.project.md)** object.
 

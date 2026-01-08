@@ -18,7 +18,7 @@ ms.localizationpriority: medium
 
 ## Syntax
 
-_expression_. `CheckIfWordIsDefaultHTMLEditor`
+_expression_.**CheckIfWordIsDefaultHTMLEditor**
 
 _expression_ A variable that represents a **[DefaultWebOptions](Word.DefaultWebOptions.md)** object.
 

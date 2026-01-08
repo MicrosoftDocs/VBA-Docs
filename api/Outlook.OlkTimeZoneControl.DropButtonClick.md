@@ -18,7 +18,7 @@ Occurs when the user clicks the drop button to expand the drop-down list in the 
 
 ## Syntax
 
-_expression_. `DropButtonClick`
+_expression_.**DropButtonClick**
 
 _expression_ A variable that represents an [OlkTimeZoneControl](Outlook.OlkTimeZoneControl.md) object.
 

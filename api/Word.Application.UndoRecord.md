@@ -18,7 +18,7 @@ Returns an [UndoRecord](Word.UndoRecord.md) object that provides a custom entry 
 
 ## Syntax
 
-_expression_. `UndoRecord`
+_expression_.**UndoRecord**
 
 _expression_ A variable that represents an **[Application](Word.Application.md)** object. 
 

@@ -18,7 +18,7 @@ Returns an **[OlTaskOwnership](Outlook.OlTaskOwnership.md)** specifying the owne
 
 ## Syntax
 
-_expression_. `Ownership`
+_expression_.**Ownership**
 
 _expression_ A variable that represents a [TaskItem](Outlook.TaskItem.md) object.
 

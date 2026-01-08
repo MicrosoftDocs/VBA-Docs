@@ -18,7 +18,7 @@ Returns a **[CustomLayout](PowerPoint.CustomLayout.md)** object that represents 
 
 ## Syntax
 
-_expression_. `CustomLayout`
+_expression_.**CustomLayout**
 
 _expression_ A variable that represents a [Slide](PowerPoint.Slide.md) object.
 

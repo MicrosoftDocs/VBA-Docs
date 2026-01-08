@@ -18,7 +18,7 @@ If the **[InvalidAddress](Word.MailMergeDataSource.InvalidAddress.md)** property
 
 ## Syntax
 
-_expression_. `InvalidComments`
+_expression_.**InvalidComments**
 
 _expression_ A variable that represents a '[MailMergeDataSource](Word.MailMergeDataSource.md)' object.
 

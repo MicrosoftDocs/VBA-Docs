@@ -16,7 +16,7 @@ ms.localizationpriority: medium
 
 ## Syntax
 
-_expression_. `IsFinishValid`
+_expression_.**IsFinishValid**
 
  _expression_ An expression that returns a [Task](./Project.Task.md) object.
 

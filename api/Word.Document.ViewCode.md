@@ -18,7 +18,7 @@ Displays the code window for the selected Microsoft ActiveX control in the speci
 
 ## Syntax
 
-_expression_. `ViewCode`
+_expression_.**ViewCode**
 
 _expression_ Required. A variable that represents a **[Document](Word.Document.md)** object.
 

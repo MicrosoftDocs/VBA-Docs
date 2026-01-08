@@ -18,7 +18,7 @@ Creates a shortcut for a master.
 
 ## Syntax
 
-_expression_. `CreateShortcut`
+_expression_.**CreateShortcut**
 
 _expression_ A variable that represents a **[Master](Visio.Master.md)** object.
 

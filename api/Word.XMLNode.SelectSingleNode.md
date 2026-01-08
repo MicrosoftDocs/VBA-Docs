@@ -18,7 +18,7 @@ Returns an **XMLNode** object that represents the first child element that match
 
 ## Syntax
 
-_expression_. `SelectSingleNode`( `_XPath_` , `_PrefixMapping_` , `_FastSearchSkippingTextNodes_` )
+_expression_.**SelectSingleNode**( `_XPath_` , `_PrefixMapping_` , `_FastSearchSkippingTextNodes_` )
 
  _expression_ An expression that returns an '[XMLNode](Word.XMLNode.md)' object.
 

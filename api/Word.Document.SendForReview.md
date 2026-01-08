@@ -18,7 +18,7 @@ Sends a document in an email message for review by the specified recipients.
 
 ## Syntax
 
-_expression_. `SendForReview`( `_Recipients_` , `_Subject_` , `_ShowMessage_` , `_IncludeAttachment_` )
+_expression_.**SendForReview**( `_Recipients_` , `_Subject_` , `_ShowMessage_` , `_IncludeAttachment_` )
 
 _expression_ Required. A variable that represents a **[Document](Word.Document.md)** object.
 

@@ -18,7 +18,7 @@ Occurs before any open presentation is saved.
 
 ## Syntax
 
-_expression_. `PresentationSave`( `_Pres_` )
+_expression_.**PresentationSave**( `_Pres_` )
 
 _expression_ A variable that represents an **[Application](PowerPoint.Application.md)** object.
 

@@ -18,7 +18,7 @@ Resumes the specified broadcast.
 
 ## Syntax
 
-_expression_. `Resume`
+_expression_.**Resume**
 
 _expression_ A variable that represents a [Broadcast](PowerPoint.Broadcast.md) object.
 

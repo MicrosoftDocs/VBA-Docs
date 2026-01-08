@@ -18,7 +18,7 @@ Returns or sets a **[WdOMathBreakSub](Word.WdOMathBreakSub.md)** constant that r
 
 ## Syntax
 
-_expression_. `OMathBreakSub`
+_expression_.**OMathBreakSub**
 
  _expression_ An expression that returns a [Document](./Word.Document.md) object.
 

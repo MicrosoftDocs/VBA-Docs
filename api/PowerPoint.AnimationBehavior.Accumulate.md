@@ -18,7 +18,7 @@ Determines whether animation behaviors accumulate. Read/write.
 
 ## Syntax
 
-_expression_. `Accumulate`
+_expression_.**Accumulate**
 
 _expression_ A variable that represents an [AnimationBehavior](PowerPoint.AnimationBehavior.md) object.
 

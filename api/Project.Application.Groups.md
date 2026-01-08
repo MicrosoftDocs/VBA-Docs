@@ -19,7 +19,7 @@ Displays the **More Groups** dialog box, which prompts the user to apply a group
 
 ## Syntax
 
-_expression_. `Groups`
+_expression_.**Groups**
 
 _expression_ A variable that represents an **[Application](Project.Application.md)** object.
 

@@ -18,7 +18,7 @@ Displays the **Manage Fields** dialog box, which enables synchronizing built-in 
 
 ## Syntax
 
-_expression_. `ManageSiteColumns`
+_expression_.**ManageSiteColumns**
 
  _expression_ An expression that returns an **[Application](Project.Application.md)** object.
 

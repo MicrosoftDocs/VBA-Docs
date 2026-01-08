@@ -18,7 +18,7 @@ Returns a constant that belongs to the **[OlDownloadState](Outlook.OlDownloadSta
 
 ## Syntax
 
-_expression_. `DownloadState`
+_expression_.**DownloadState**
 
 _expression_ A variable that represents a [TaskRequestItem](Outlook.TaskRequestItem.md) object.
 

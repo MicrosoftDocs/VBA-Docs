@@ -18,7 +18,7 @@ Returns a **Boolean** that represents whether a document has an attached Microso
 
 ## Syntax
 
-_expression_. `HasVBProject`
+_expression_.**HasVBProject**
 
  _expression_ An expression that returns a [Document](./Word.Document.md) object.
 

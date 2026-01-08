@@ -19,7 +19,7 @@ Displays notes for the task or resource in the active details view.
 
 ## Syntax
 
-_expression_. `ViewShowNotes`
+_expression_.**ViewShowNotes**
 
 _expression_ A variable that represents an **[Application](Project.Application.md)** object.
 

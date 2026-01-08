@@ -18,7 +18,7 @@ ms.localizationpriority: medium
 
 ## Syntax
 
-_expression_. `ProtectedForForms`
+_expression_.**ProtectedForForms**
 
  _expression_ An expression that returns a '[Section](Word.Section.md)' object.
 

@@ -16,7 +16,7 @@ Gets or sets the type of grouping for a field used as a criterion in a group def
 
 ## Syntax
 
-_expression_. `GroupOn`
+_expression_.**GroupOn**
 
  _expression_ An expression that returns a [GroupCriterion2](./Project.GroupCriterion2.md) object.
 

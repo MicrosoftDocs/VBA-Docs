@@ -16,7 +16,7 @@ Gets the earliest date that a resource is available for work on the project, as 
 
 ## Syntax
 
-_expression_. `AvailableFrom`
+_expression_.**AvailableFrom**
 
 _expression_ A variable that represents an [Availability](./Project.Availability.md) object.
 

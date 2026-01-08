@@ -18,7 +18,7 @@ Returns the number of entries in the list of meanings found in the thesaurus for
 
 ## Syntax
 
-_expression_. `MeaningCount`
+_expression_.**MeaningCount**
 
  _expression_ An expression that returns a '[SynonymInfo](Word.SynonymInfo.md)' object.
 

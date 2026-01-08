@@ -18,7 +18,7 @@ ms.localizationpriority: medium
 
 ## Syntax
 
-_expression_. `PathFormat`
+_expression_.**PathFormat**
 
  _expression_ An expression that returns a **[TextFrame2](PowerPoint.TextFrame2.md)** object.
 

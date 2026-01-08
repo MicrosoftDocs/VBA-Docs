@@ -18,7 +18,7 @@ Returns or sets the distance the specified **ThreeDFormat** object is moved away
 
 ## Syntax
 
-_expression_. `Z`
+_expression_.**Z**
 
 _expression_ A variable that represents a [ThreeDFormat](PowerPoint.ThreeDFormat.md) object.
 

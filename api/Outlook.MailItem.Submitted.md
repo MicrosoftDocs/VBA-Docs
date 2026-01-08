@@ -18,7 +18,7 @@ Returns a **Boolean** value that is **True** if the item has been submitted. Rea
 
 ## Syntax
 
-_expression_. `Submitted`
+_expression_.**Submitted**
 
 _expression_ A variable that represents a [MailItem](Outlook.MailItem.md) object.
 

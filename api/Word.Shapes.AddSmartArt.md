@@ -18,7 +18,7 @@ Inserts the specified SmartArt graphic into the active document.
 
 ## Syntax
 
-_expression_. `AddSmartArt`( `_Layout_` , `_Left_` , `_Top_` , `_Width_` , `_Height_` , `_Anchor_` )
+_expression_.**AddSmartArt**( `_Layout_` , `_Left_` , `_Top_` , `_Width_` , `_Height_` , `_Anchor_` )
 
  _expression_ An expression that returns a '[Shapes](Word.shapes.md)' object.
 

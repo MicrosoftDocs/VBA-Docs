@@ -16,7 +16,7 @@ Gets the name of the active group for the active project. Read-only **String**.
 
 ## Syntax
 
-_expression_. `CurrentGroup`
+_expression_.**CurrentGroup**
 
 _expression_ A variable that represents a **[Project](project.project.md)** object.
 

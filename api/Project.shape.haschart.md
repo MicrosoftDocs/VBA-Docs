@@ -14,7 +14,7 @@ Gets a value that indicates whether the shape contains a chart. Read-only **[Mso
 
 ## Syntax
 
-_expression_. `HasChart`
+_expression_.**HasChart**
 
 _expression_ A variable that represents a **[Shape](Project.Shape.md)** object.
 

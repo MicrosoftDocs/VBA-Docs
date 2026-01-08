@@ -18,7 +18,7 @@ Clears the **[ContactItem](Outlook.ContactItem.md)** object as a task.
 
 ## Syntax
 
-_expression_. `ClearTaskFlag`
+_expression_.**ClearTaskFlag**
 
  _expression_ An expression that returns a [ContactItem](Outlook.ContactItem.md) object.
 

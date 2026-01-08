@@ -18,7 +18,7 @@ Indents one or more paragraphs by a specified number of characters.
 
 ## Syntax
 
-_expression_. `IndentCharWidth`( `_Count_` )
+_expression_.**IndentCharWidth**( `_Count_` )
 
 _expression_ Required. A variable that represents a '[ParagraphFormat](Word.ParagraphFormat.md)' object.
 

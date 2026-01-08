@@ -18,7 +18,7 @@ Runs the Letter Wizard on the specified document.
 
 ## Syntax
 
-_expression_. `RunLetterWizard`( `_LetterContent_` , `_WizardMode_` )
+_expression_.**RunLetterWizard**( `_LetterContent_` , `_WizardMode_` )
 
 _expression_ Required. A variable that represents a **[Document](Word.Document.md)** object.
 

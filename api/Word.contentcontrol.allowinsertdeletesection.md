@@ -18,7 +18,7 @@ Gets or sets whether users can add or remove sections from the specified repeati
 
 ## Syntax
 
-_expression_. `AllowInsertDeleteSection`
+_expression_.**AllowInsertDeleteSection**
 
 _expression_ A variable that represents a [ContentControl](./Word.ContentControl.md) object.
 

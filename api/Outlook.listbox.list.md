@@ -15,7 +15,7 @@ Returns or sets a **Variant** that represents the specified entry in a **[ListBo
 
 ## Syntax
 
-_expression_.**List**(**_pvargIndex_**, **_pvargColumn_**)
+_expression_.**List**(_pvargIndex_, _pvargColumn_)
 
 _expression_ A variable that represents a **ListBox** object.
 

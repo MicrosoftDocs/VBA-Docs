@@ -18,7 +18,7 @@ Returns a **String** that represents the Uniform Resource Identifier (URI) of th
 
 ## Syntax
 
-_expression_. `URI`
+_expression_.**URI**
 
  _expression_ An expression that returns an '[XMLNamespace](Word.XMLNamespace.md)' object.
 

@@ -18,7 +18,7 @@ Returns a read-only **[Fields](Word.fields.md)** collection that represents all 
 
 ## Syntax
 
-_expression_. `Fields`
+_expression_.**Fields**
 
 _expression_ Required. A variable that represents a **[Selection](Word.Selection.md)** object.
 

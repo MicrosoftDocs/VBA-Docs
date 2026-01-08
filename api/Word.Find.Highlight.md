@@ -18,7 +18,7 @@ ms.localizationpriority: medium
 
 ## Syntax
 
-_expression_. `Highlight`
+_expression_.**Highlight**
 
 _expression_ A variable that represents a '[Find](Word.Find.md)' object.
 

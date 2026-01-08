@@ -18,7 +18,7 @@ ms.localizationpriority: medium
 
 ## Syntax
 
-_expression_. `MathCoprocessorInstalled`
+_expression_.**MathCoprocessorInstalled**
 
  _expression_ An expression that returns a '[System](Word.System.md)' object.
 

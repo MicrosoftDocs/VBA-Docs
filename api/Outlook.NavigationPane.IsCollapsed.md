@@ -18,7 +18,7 @@ Returns or sets a **Boolean** value that determines whether the navigation pane 
 
 ## Syntax
 
-_expression_. `IsCollapsed`
+_expression_.**IsCollapsed**
 
 _expression_ A variable that represents a [NavigationPane](Outlook.NavigationPane.md) object.
 

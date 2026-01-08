@@ -18,7 +18,7 @@ Updates the page numbers for items in a table of figures.
 
 ## Syntax
 
-_expression_. `UpdatePageNumbers`
+_expression_.**UpdatePageNumbers**
 
 _expression_ Required. A variable that represents a '[TableOfFigures](Word.TableOfFigures.md)' collection.
 

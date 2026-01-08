@@ -18,7 +18,7 @@ Returns a **[HeaderFooter](PowerPoint.HeaderFooter.md)** object that represents 
 
 ## Syntax
 
-_expression_. `Header`
+_expression_.**Header**
 
 _expression_ A variable that represents a [HeadersFooters](PowerPoint.HeadersFooters.md) object.
 

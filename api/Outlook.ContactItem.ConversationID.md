@@ -18,7 +18,7 @@ Returns a **String** that uniquely identifies a **[Conversation](Outlook.Convers
 
 ## Syntax
 
-_expression_. `ConversationID`
+_expression_.**ConversationID**
 
 _expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 

@@ -18,7 +18,7 @@ Returns a **String** representing the full name and company of the contact by co
 
 ## Syntax
 
-_expression_. `FullNameAndCompany`
+_expression_.**FullNameAndCompany**
 
 _expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 

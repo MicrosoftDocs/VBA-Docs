@@ -18,7 +18,7 @@ Determines if and under what circumstances Microsoft PowerPoint returns to the i
 
 ## Syntax
 
-_expression_. `ShowAndReturn`
+_expression_.**ShowAndReturn**
 
 _expression_ A variable that represents a [Hyperlink](PowerPoint.Hyperlink.md) object.
 

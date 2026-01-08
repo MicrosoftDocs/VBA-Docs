@@ -18,7 +18,7 @@ Returns a **TextRange** object that represents the specified text minus any trai
 
 ## Syntax
 
-_expression_. `TrimText`
+_expression_.**TrimText**
 
 _expression_ A variable that represents a [TextRange](PowerPoint.TextRange.md) object.
 

@@ -18,7 +18,7 @@ Adds a title master to the specified presentation and returns a **[Master](Power
 
 ## Syntax
 
-_expression_. `AddTitleMaster`
+_expression_.**AddTitleMaster**
 
 _expression_ A variable that represents a [Presentation](PowerPoint.Presentation.md) object.
 

@@ -16,7 +16,7 @@ Returns the display name of an object.
 
 ## Syntax
 
-_expression_. `GetDisplayNameFromObjectMatchingID`( `_ObjectType_`, `_MatchingID_` )
+_expression_.**GetDisplayNameFromObjectMatchingID**( `_ObjectType_`, `_MatchingID_` )
 
 _expression_ A variable that represents a **[Project](project.project.md)** object.
 

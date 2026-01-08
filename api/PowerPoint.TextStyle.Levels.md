@@ -18,7 +18,7 @@ Returns a **[TextStyleLevels](PowerPoint.TextStyleLevels.md)** object that repre
 
 ## Syntax
 
-_expression_. `Levels`
+_expression_.**Levels**
 
 _expression_ A variable that represents a [TextStyle](PowerPoint.TextStyle.md) object.
 

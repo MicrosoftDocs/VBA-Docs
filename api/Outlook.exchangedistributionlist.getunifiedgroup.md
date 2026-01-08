@@ -18,7 +18,7 @@ Determines if the object is a unified group, by way of a call to [IsUnifiedGroup
 
 ## Syntax
 
-_expression_. `GetUnifiedGroup`
+_expression_.**GetUnifiedGroup**
 
 _expression_ A variable that represents a [ExchangeDistributionList](Outlook.ExchangeDistributionList.md) object.
 

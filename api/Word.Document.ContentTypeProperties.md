@@ -18,7 +18,7 @@ Returns a **MetaProperties** collection that represents the metadata stored in a
 
 ## Syntax
 
-_expression_. `ContentTypeProperties`
+_expression_.**ContentTypeProperties**
 
  _expression_ An expression that returns a **[Document](Word.Document.md)** object.
 

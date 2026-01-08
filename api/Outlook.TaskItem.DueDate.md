@@ -18,7 +18,7 @@ Returns or sets a **Date** indicating the due date for the task. Read/write.
 
 ## Syntax
 
-_expression_. `DueDate`
+_expression_.**DueDate**
 
 _expression_ A variable that represents a [TaskItem](Outlook.TaskItem.md) object.
 

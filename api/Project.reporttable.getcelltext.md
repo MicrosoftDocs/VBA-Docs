@@ -17,7 +17,7 @@ Returns the text value of the specified cell in a **ReportTable** object.
 
 ## Syntax
 
-_expression_. `GetCellText` _(Row,_ _Col)_
+_expression_.**GetCellText** _(Row,_ _Col)_
 
 _expression_ A variable that represents a 'ReportTable' object.
 

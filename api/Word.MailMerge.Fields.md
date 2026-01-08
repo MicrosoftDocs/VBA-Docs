@@ -18,7 +18,7 @@ Returns a read-only **MailMergeFields** collection that represents all the mail 
 
 ## Syntax
 
-_expression_. `Fields`
+_expression_.**Fields**
 
 _expression_ Required. A variable that represents a '[MailMerge](Word.MailMerge.md)' object.
 

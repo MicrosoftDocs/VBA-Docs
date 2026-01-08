@@ -18,7 +18,7 @@ Returns a **[Section](Word.Section.md)** collection that represents the sections
 
 ## Syntax
 
-_expression_. `Sections`
+_expression_.**Sections**
 
 _expression_ A variable that represents a **[Document](Word.Document.md)** object.
 

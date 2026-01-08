@@ -18,7 +18,7 @@ Expands the specified range or selection. Returns the number of characters added
 
 ## Syntax
 
-_expression_. `Expand`( `_Unit_` )
+_expression_.**Expand**( `_Unit_` )
 
 _expression_ Required. A variable that represents a **[Range](Word.Range.md)** object.
 

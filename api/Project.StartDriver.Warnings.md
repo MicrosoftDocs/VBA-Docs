@@ -16,7 +16,7 @@ Gets a combination of **[PjTaskWarnings](Project.PjTaskWarnings.md)** values tha
 
 ## Syntax
 
-_expression_. `Warnings`
+_expression_.**Warnings**
 
  _expression_ An expression that returns a [StartDriver](./Project.StartDriver.md) object.
 

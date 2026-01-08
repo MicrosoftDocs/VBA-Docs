@@ -18,7 +18,7 @@ Returns an **[ImportanceRuleCondition](Outlook.ImportanceRuleCondition.md)** obj
 
 ## Syntax
 
-_expression_. `Importance`
+_expression_.**Importance**
 
 _expression_ A variable that represents a [RuleConditions](Outlook.RuleConditions.md) object.
 

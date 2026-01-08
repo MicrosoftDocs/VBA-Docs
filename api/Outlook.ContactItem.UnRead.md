@@ -18,7 +18,7 @@ Returns or sets a **Boolean** value that is **True** if the Outlook item has not
 
 ## Syntax
 
-_expression_. `UnRead`
+_expression_.**UnRead**
 
 _expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 

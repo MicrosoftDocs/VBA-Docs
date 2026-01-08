@@ -18,7 +18,7 @@ Returns a **[TextRetrievalMode](Word.TextRetrievalMode.md)** object that control
 
 ## Syntax
 
-_expression_. `TextRetrievalMode`
+_expression_.**TextRetrievalMode**
 
 _expression_ A variable that represents a **[Range](Word.Range.md)** object.
 

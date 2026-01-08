@@ -18,7 +18,7 @@ Returns a **[ViewFont](Outlook.ViewFont.md)** object that represents the font us
 
 ## Syntax
 
-_expression_. `UpperScaleFont`
+_expression_.**UpperScaleFont**
 
 _expression_ A variable that represents a [TimelineView](Outlook.TimelineView.md) object.
 

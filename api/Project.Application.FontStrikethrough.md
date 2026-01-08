@@ -19,7 +19,7 @@ Applies or removes strikethrough formatting from the selected text.
 
 ## Syntax
 
-_expression_. `FontStrikethrough`( `_Set_` )
+_expression_.**FontStrikethrough**( `_Set_` )
 
  _expression_ An expression that returns an **[Application](Project.Application.md)** object.
 

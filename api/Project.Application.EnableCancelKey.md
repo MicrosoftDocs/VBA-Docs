@@ -19,7 +19,7 @@ Gets or sets a value that controls how the CTRL + BREAK key combination is handl
 
 ## Syntax
 
-_expression_. `EnableCancelKey`
+_expression_.**EnableCancelKey**
 
 _expression_ A variable that represents an **[Application](Project.Application.md)** object.
 

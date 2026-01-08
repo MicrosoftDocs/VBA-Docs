@@ -19,7 +19,7 @@ Creates a window.
 
 ## Syntax
 
-_expression_. `WindowNewWindow`( `_Projects_`, `_View_`, `_AllProjects_`, `_ShowDialog_` )
+_expression_.**WindowNewWindow**( `_Projects_`, `_View_`, `_AllProjects_`, `_ShowDialog_` )
 
 _expression_ A variable that represents an **[Application](Project.Application.md)** object.
 

@@ -18,7 +18,7 @@ Returns an **[AddressRuleCondition](Outlook.AddressRuleCondition.md)** object wi
 
 ## Syntax
 
-_expression_. `RecipientAddress`
+_expression_.**RecipientAddress**
 
 _expression_ A variable that represents a [RuleConditions](Outlook.RuleConditions.md) object.
 

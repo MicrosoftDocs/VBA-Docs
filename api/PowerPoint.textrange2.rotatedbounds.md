@@ -15,7 +15,7 @@ Gets the coordinates of the vertices of the text bounding box for the specified 
 
 ## Syntax
 
-_expression_. `RotatedBounds`( `_X1_`, `_Y1_`, `_X2_`, `_Y2_`, `_X3_`, `_Y3_`, `_x4_`, `_y4_` )
+_expression_.**RotatedBounds**( `_X1_`, `_Y1_`, `_X2_`, `_Y2_`, `_X3_`, `_Y3_`, `_x4_`, `_y4_` )
 
  _expression_ An expression that returns a 'TextRange2' object.
 

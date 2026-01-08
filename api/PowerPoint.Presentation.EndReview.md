@@ -20,7 +20,7 @@ Ends the review cycle.
 
 ## Syntax
 
-_expression_. `EndReview`
+_expression_.**EndReview**
 
 _expression_ A variable that represents a [Presentation](PowerPoint.Presentation.md) object.
 

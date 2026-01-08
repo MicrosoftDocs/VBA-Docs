@@ -18,7 +18,7 @@ Returns whether the media file is embedded. Read-only.
 
 ## Syntax
 
-_expression_. `IsEmbedded`
+_expression_.**IsEmbedded**
 
  _expression_ An expression that returns a [MediaFormat](PowerPoint.MediaFormat.md) object.
 

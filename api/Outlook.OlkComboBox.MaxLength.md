@@ -18,7 +18,7 @@ Returns or sets a **Long** that specifies the maximum number of characters for t
 
 ## Syntax
 
-_expression_. `MaxLength`
+_expression_.**MaxLength**
 
 _expression_ A variable that represents an [OlkComboBox](Outlook.OlkComboBox.md) object.
 

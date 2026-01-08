@@ -17,7 +17,7 @@ Sets or clears task driving predecessor highlighting for the task path feature.
 
 ## Syntax
 
-_expression_. `HighlightDrivingPredecessors` _(Set)_
+_expression_.**HighlightDrivingPredecessors** _(Set)_
 
 _expression_ A variable that represents an **[Application](Project.Application.md)** object.
 

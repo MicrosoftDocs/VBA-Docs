@@ -18,7 +18,7 @@ Returns or sets the active mail merge record. Can be either a valid record numbe
 
 ## Syntax
 
-_expression_. `ActiveRecord`
+_expression_.**ActiveRecord**
 
 _expression_ A variable that represents a '[MailMergeDataSource](Word.MailMergeDataSource.md)' object.
 

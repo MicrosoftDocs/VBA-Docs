@@ -19,7 +19,7 @@ Gets the type of resource for the assignment. Read-only **PjResourceTypes**.
 
 ## Syntax
 
-_expression_. `ResourceType`
+_expression_.**ResourceType**
 
 _expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
 

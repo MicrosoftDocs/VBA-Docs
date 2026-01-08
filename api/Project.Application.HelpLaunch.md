@@ -19,7 +19,7 @@ Starts a Help file.
 
 ## Syntax
 
-_expression_. `HelpLaunch`( `_FileName_`, `_ContextNumber_`, `_Search_`, `_SearchKey_` )
+_expression_.**HelpLaunch**( `_FileName_`, `_ContextNumber_`, `_Search_`, `_SearchKey_` )
 
 _expression_ A variable that represents an **[Application](Project.Application.md)** object.
 

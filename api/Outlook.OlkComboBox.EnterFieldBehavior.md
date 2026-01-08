@@ -18,7 +18,7 @@ Returns or sets an **[olEnterFieldBehavior](Outlook.OlEnterFieldBehavior.md)** c
 
 ## Syntax
 
-_expression_. `EnterFieldBehavior`
+_expression_.**EnterFieldBehavior**
 
 _expression_ A variable that represents an [OlkComboBox](Outlook.OlkComboBox.md) object.
 

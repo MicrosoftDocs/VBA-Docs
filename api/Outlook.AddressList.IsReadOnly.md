@@ -18,7 +18,7 @@ Returns a **Boolean** value that indicates that the **[AddressList](Outlook.Addr
 
 ## Syntax
 
-_expression_. `IsReadOnly`
+_expression_.**IsReadOnly**
 
 _expression_ A variable that represents an [AddressList](Outlook.AddressList.md) object.
 

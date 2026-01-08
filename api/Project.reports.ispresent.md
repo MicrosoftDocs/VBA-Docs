@@ -14,7 +14,7 @@ Indicates whether the specified custom report exists in the project.
 
 ## Syntax
 
-_expression_. `IsPresent` _(Name)_
+_expression_.**IsPresent** _(Name)_
 
 _expression_ A variable that represents a 'Reports' object.
 

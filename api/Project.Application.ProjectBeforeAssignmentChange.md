@@ -16,7 +16,7 @@ Occurs before the user changes the value of an assignment field.
 
 ## Syntax
 
-_expression_. `ProjectBeforeAssignmentChange`( `_asg_`, `_Field_`, `_NewVal_`, `_Cancel_` )
+_expression_.**ProjectBeforeAssignmentChange**( `_asg_`, `_Field_`, `_NewVal_`, `_Cancel_` )
 
 _expression_ A variable that represents an **[Application](Project.Application.md)** object.
 

@@ -17,7 +17,7 @@ Returns a **String** value that represents the availability of the individual us
 
 ## Syntax
 
-_expression_. `GetFreeBusy`( `_Start_` , `_MinPerChar_` , `_CompleteFormat_` )
+_expression_.**GetFreeBusy**( `_Start_` , `_MinPerChar_` , `_CompleteFormat_` )
 
  _expression_ An expression that returns an [AddressEntry](Outlook.AddressEntry.md) object.
 

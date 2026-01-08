@@ -18,7 +18,7 @@ Returns or sets an **Integer** that represents the character placed above or bel
 
 ## Syntax
 
-_expression_. `Char`
+_expression_.**Char**
 
  _expression_ An expression that returns an '[OMathGroupChar](Word.OMathGroupChar.md)' object.
 

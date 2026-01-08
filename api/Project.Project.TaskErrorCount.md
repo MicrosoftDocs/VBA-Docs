@@ -19,7 +19,7 @@ Gets or sets the number of task errors associated with a project. Read/write **L
 
 ## Syntax
 
-_expression_. `TaskErrorCount`
+_expression_.**TaskErrorCount**
 
 _expression_ A variable that represents a **[Project](project.project.md)** object.
 

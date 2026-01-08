@@ -16,7 +16,7 @@ ms.localizationpriority: medium
 
 ## Syntax
 
-_expression_. `Working`
+_expression_.**Working**
 
 _expression_ A variable that represents a [Month](./Project.Month.md) object.
 

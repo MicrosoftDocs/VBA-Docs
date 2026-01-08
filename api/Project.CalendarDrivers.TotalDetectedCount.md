@@ -16,7 +16,7 @@ Gets the total number of calendar drivers that affect the dates of a task. Read-
 
 ## Syntax
 
-_expression_. `TotalDetectedCount`
+_expression_.**TotalDetectedCount**
 
 _expression_ A variable that represents a 'CalendarDrivers' object.
 

@@ -18,7 +18,7 @@ Returns or sets the color in the applied legacy color scheme that's associated w
 
 ## Syntax
 
-_expression_. `SchemeColor`
+_expression_.**SchemeColor**
 
 _expression_ A variable that represents a [ColorFormat](PowerPoint.ColorFormat.md) object.
 

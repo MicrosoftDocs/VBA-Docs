@@ -18,7 +18,7 @@ Returns or sets a **Boolean** that represents that the box and its contents beha
 
 ## Syntax
 
-_expression_. `OpEmu`
+_expression_.**OpEmu**
 
  _expression_ An expression that returns an '[OMathBox](Word.OMathBox.md)' object.
 

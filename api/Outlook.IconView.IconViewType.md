@@ -18,7 +18,7 @@ Returns or sets an **[OlIconViewType](Outlook.OlIconViewType.md)** constant that
 
 ## Syntax
 
-_expression_. `IconViewType`
+_expression_.**IconViewType**
 
 _expression_ A variable that represents an [IconView](Outlook.IconView.md) object.
 

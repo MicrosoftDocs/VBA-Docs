@@ -18,7 +18,7 @@ Returns or sets a **String** indicating the display name for the intended sender
 
 ## Syntax
 
-_expression_. `SentOnBehalfOfName`
+_expression_.**SentOnBehalfOfName**
 
  _expression_ An expression that returns a [SharingItem](Outlook.SharingItem.md) object.
 

@@ -18,7 +18,7 @@ Returns a **[SlideShowWindow](PowerPoint.SlideShowWindow.md)** object that repre
 
 ## Syntax
 
-_expression_. `SlideShowWindow`
+_expression_.**SlideShowWindow**
 
 _expression_ A variable that represents a [Presentation](PowerPoint.Presentation.md) object.
 

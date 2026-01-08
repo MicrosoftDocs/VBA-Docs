@@ -18,7 +18,7 @@ Runs an auto macro that's stored in the specified document. If the specified aut
 
 ## Syntax
 
-_expression_. `RunAutoMacro`( `_Which_` )
+_expression_.**RunAutoMacro**( `_Which_` )
 
 _expression_ Required. A variable that represents a **[Document](Word.Document.md)** object.
 

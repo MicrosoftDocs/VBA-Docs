@@ -18,7 +18,7 @@ Returns an **[Email](Word.Email.md)** object that contains all the email-related
 
 ## Syntax
 
-_expression_. `Email`
+_expression_.**Email**
 
 _expression_ A variable that represents a **[Document](Word.Document.md)** object.
 

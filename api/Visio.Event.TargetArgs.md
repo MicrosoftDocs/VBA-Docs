@@ -18,7 +18,7 @@ Gets or sets the arguments to be sent to the target of an event. Read/write.
 
 ## Syntax
 
-_expression_. `TargetArgs`
+_expression_.**TargetArgs**
 
 _expression_ A variable that represents an **[Event](Visio.Event.md)** object.
 

@@ -18,7 +18,7 @@ Returns a **Permission** object that represents the permission settings in the s
 
 ## Syntax
 
-_expression_. `Permission`
+_expression_.**Permission**
 
  _expression_ An expression that returns a **[Document](Word.Document.md)** object.
 

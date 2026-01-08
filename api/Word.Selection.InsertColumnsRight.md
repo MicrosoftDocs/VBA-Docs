@@ -18,7 +18,7 @@ Inserts columns to the right of the current selection.
 
 ## Syntax
 
-_expression_. `InsertColumnsRight`
+_expression_.**InsertColumnsRight**
 
 _expression_ Required. A variable that represents a **[Selection](Word.Selection.md)** object.
 

@@ -18,7 +18,7 @@ ms.localizationpriority: medium
 
 ## Syntax
 
-_expression_. `AllowBreakAcrossPages`
+_expression_.**AllowBreakAcrossPages**
 
 _expression_ Required. A variable that represents a '[Row](Word.Row.md)' object.
 

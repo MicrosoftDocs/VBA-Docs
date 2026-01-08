@@ -18,7 +18,7 @@ Creates a Microsoft Word document that stores a header record that is used inste
 
 ## Syntax
 
-_expression_. `CreateHeaderSource`( `_Name_` , `_PasswordDocument_` , `_WritePasswordDocument_` , `_HeaderRecord_` )
+_expression_.**CreateHeaderSource**( `_Name_` , `_PasswordDocument_` , `_WritePasswordDocument_` , `_HeaderRecord_` )
 
 _expression_ Required. A variable that represents a '[MailMerge](Word.MailMerge.md)' object.
 

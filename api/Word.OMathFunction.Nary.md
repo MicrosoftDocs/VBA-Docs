@@ -18,7 +18,7 @@ Returns an **[OMathNary](Word.OMathNary.md)** object that represents the n-ary o
 
 ## Syntax
 
-_expression_. `Nary`
+_expression_.**Nary**
 
  _expression_ An expression that returns an '[OMathFunction](Word.OMathFunction.md)' object.
 

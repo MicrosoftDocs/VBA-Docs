@@ -18,7 +18,7 @@ Returns a **[ThemeVariants](PowerPoint.themevariant.md)** collection that repres
 
 ## Syntax
 
-_expression_. `ThemeVariants`
+_expression_.**ThemeVariants**
 
 _expression_ A variable that represents a 'Theme' object.
 

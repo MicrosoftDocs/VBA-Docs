@@ -18,7 +18,7 @@ Returns a **Range** object that represents a field's result. Read/write.
 
 ## Syntax
 
-_expression_. `Result`
+_expression_.**Result**
 
 _expression_ Required. A variable that represents a '[Field](Word.Field.md)' object.
 

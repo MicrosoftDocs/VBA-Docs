@@ -16,7 +16,7 @@ ms.localizationpriority: medium
 
 ## Syntax
 
-_expression_. `Flag1`
+_expression_.**Flag1**
 
 _expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
 

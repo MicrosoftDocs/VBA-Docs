@@ -18,7 +18,7 @@ Sets or returns an **MsoTargetBrowser** constant representing the target browser
 
 ## Syntax
 
-_expression_. `TargetBrowser`
+_expression_.**TargetBrowser**
 
 _expression_ Required. A variable that represents a **[WebOptions](Word.WebOptions.md)** collection.
 

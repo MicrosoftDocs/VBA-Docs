@@ -18,7 +18,7 @@ Initiates immediate delivery of all undelivered messages submitted in the curren
 
 ## Syntax
 
-_expression_. `SendAndReceive`( `_showProgressDialog_` )
+_expression_.**SendAndReceive**( `_showProgressDialog_` )
 
 _expression_ A variable that represents a [NameSpace](Outlook.NameSpace.md) object.
 

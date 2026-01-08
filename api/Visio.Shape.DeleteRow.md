@@ -18,7 +18,7 @@ Deletes a row from a section in a ShapeSheet spreadsheet.
 
 ## Syntax
 
-_expression_. `DeleteRow`( `_Section_` , `_Row_` )
+_expression_.**DeleteRow**( `_Section_` , `_Row_` )
 
 _expression_ A variable that represents a **[Shape](Visio.Shape.md)** object.
 

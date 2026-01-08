@@ -16,7 +16,7 @@ Gets a **[List](Project.List.md)** object representing the task groups in the ac
 
 ## Syntax
 
-_expression_. `TaskGroupList`
+_expression_.**TaskGroupList**
 
 _expression_ A variable that represents a **[Project](project.project.md)** object.
 

@@ -18,7 +18,7 @@ Returns a **[GroupShapes](Word.groupshapes.md)** collection that represents the 
 
 ## Syntax
 
-_expression_. `GroupItems`
+_expression_.**GroupItems**
 
  _expression_ An expression that returns an '[InlineShape](Word.InlineShape.md)' object.
 

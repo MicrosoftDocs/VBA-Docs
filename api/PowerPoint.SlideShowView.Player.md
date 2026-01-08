@@ -18,7 +18,7 @@ Allows access to playback controls for the associated view in the current window
 
 ## Syntax
 
-_expression_. `Player`( `_ShapeId_` )
+_expression_.**Player**( `_ShapeId_` )
 
 _expression_ A variable that represents a [SlideShowView](PowerPoint.SlideShowView.md) object.
 

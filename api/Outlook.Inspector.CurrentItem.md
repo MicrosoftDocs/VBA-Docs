@@ -18,7 +18,7 @@ Returns an **Object** representing the current item being displayed in the inspe
 
 ## Syntax
 
-_expression_. `CurrentItem`
+_expression_.**CurrentItem**
 
 _expression_ A variable that represents an [Inspector](Outlook.Inspector.md) object.
 

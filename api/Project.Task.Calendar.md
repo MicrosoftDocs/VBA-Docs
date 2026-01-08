@@ -16,7 +16,7 @@ Gets or sets the name of the calendar to be used when scheduling the task. Read/
 
 ## Syntax
 
-_expression_. `Calendar`
+_expression_.**Calendar**
 
 _expression_ A variable that represents a [Task](./Project.Task.md) object.
 

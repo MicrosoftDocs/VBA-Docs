@@ -18,7 +18,7 @@ Occurs when one or more new email messages are received in the **Inbox**.
 
 ## Syntax
 
-_expression_. `NewMail`
+_expression_.**NewMail**
 
 _expression_ A variable that represents an **[Application](Outlook.Application.md)** object.
 

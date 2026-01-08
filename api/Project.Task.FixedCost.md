@@ -19,7 +19,7 @@ Gets or sets a fixed cost for a task. Read/write **Variant**.
 
 ## Syntax
 
-_expression_. `FixedCost`
+_expression_.**FixedCost**
 
 _expression_ A variable that represents a [Task](./Project.Task.md) object.
 

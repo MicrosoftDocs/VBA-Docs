@@ -18,7 +18,7 @@ Returns or sets the distance (in points) between the document text and the top e
 
 ## Syntax
 
-_expression_. `DistanceTop`
+_expression_.**DistanceTop**
 
 _expression_ A variable that represents a '[WrapFormat](Word.WrapFormat.md)' object.
 

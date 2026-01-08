@@ -19,7 +19,7 @@ Sets the value of a resource field specified by the field identification number.
 
 ## Syntax
 
-_expression_. `SetResourceFieldByID`( `_FieldID_`, `_Value_`, `_AllSelectedResources_`, `_Create_`, `_ResourceID_`, `_ProjectName_` )
+_expression_.**SetResourceFieldByID**( `_FieldID_`, `_Value_`, `_AllSelectedResources_`, `_Create_`, `_ResourceID_`, `_ProjectName_` )
 
  _expression_ An expression that returns an **[Application](Project.Application.md)** object.
 

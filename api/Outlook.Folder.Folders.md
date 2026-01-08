@@ -18,7 +18,7 @@ Returns the **[Folders](Outlook.Folders.md)** collection that represents all the
 
 ## Syntax
 
-_expression_. `Folders`
+_expression_.**Folders**
 
 _expression_ A variable that represents a [Folder](Outlook.Folder.md) object.
 

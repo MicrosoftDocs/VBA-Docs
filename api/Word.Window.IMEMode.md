@@ -18,7 +18,7 @@ Returns or sets the default start-up mode for the Japanese Input Method Editor (
 
 ## Syntax
 
-_expression_. `IMEMode`
+_expression_.**IMEMode**
 
 _expression_ Required. A variable that represents a **[Window](Word.Window.md)** object.
 

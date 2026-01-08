@@ -14,7 +14,7 @@ Applies a custom chart type to a chart.
 
 ## Syntax
 
-_expression_. `ApplyCustomType` _(ChartType,_ _TypeName)_
+_expression_.**ApplyCustomType** _(ChartType,_ _TypeName)_
 
 _expression_ A variable that represents a **[Chart](Project.Chart.md)** object.
 

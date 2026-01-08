@@ -18,7 +18,7 @@ Determines whether an event can potentially persist within its document. Read-on
 
 ## Syntax
 
-_expression_. `Persistable`
+_expression_.**Persistable**
 
 _expression_ A variable that represents an **[Event](Visio.Event.md)** object.
 

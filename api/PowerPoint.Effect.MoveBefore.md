@@ -18,7 +18,7 @@ Moves one animation effect to before another animation effect.
 
 ## Syntax
 
-_expression_. `MoveBefore`( `_Effect_` )
+_expression_.**MoveBefore**( `_Effect_` )
 
 _expression_ A variable that represents an [Effect](PowerPoint.Effect.md) object.
 

@@ -18,7 +18,7 @@ Inserts a new page at the position of the Insertion Point.
 
 ## Syntax
 
-_expression_. `InsertNewPage`
+_expression_.**InsertNewPage**
 
  _expression_ An expression that returns a **[Selection](Word.Selection.md)** object.
 

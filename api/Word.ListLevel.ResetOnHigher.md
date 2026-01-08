@@ -18,7 +18,7 @@ Sets or returns the list level that must appear before the specified list level 
 
 ## Syntax
 
-_expression_. `ResetOnHigher`
+_expression_.**ResetOnHigher**
 
  _expression_ An expression that returns a '[ListLevel](Word.ListLevel.md)' object.
 

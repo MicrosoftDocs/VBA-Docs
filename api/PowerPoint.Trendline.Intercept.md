@@ -18,7 +18,7 @@ Returns or sets the point where the trendline crosses the value axis. Read/write
 
 ## Syntax
 
-_expression_. `Intercept`
+_expression_.**Intercept**
 
 _expression_ A variable that represents a '[Trendline](PowerPoint.Trendline.md)' object.
 

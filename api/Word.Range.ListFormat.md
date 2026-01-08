@@ -18,7 +18,7 @@ Returns a **[ListFormat](Word.ListFormat.md)** object that represents all the li
 
 ## Syntax
 
-_expression_. `ListFormat`
+_expression_.**ListFormat**
 
 _expression_ A variable that represents a **[Range](Word.Range.md)** object.
 

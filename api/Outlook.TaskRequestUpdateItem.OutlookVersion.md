@@ -18,7 +18,7 @@ Returns a **String** indicating the major and minor version number of the Outloo
 
 ## Syntax
 
-_expression_. `OutlookVersion`
+_expression_.**OutlookVersion**
 
 _expression_ A variable that represents a [TaskRequestUpdateItem](Outlook.TaskRequestUpdateItem.md) object.
 

@@ -18,7 +18,7 @@ Returns or sets a **Long** that represents the number of rows to include in the 
 
 ## Syntax
 
-_expression_. `RowStripe`
+_expression_.**RowStripe**
 
 _expression_ A variable that represents a '[TableStyle](Word.TableStyle.md)' object.
 

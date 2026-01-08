@@ -16,7 +16,7 @@ If the specified shape range does not contain a ink object more than one ink obj
 
 ## Syntax
 
-_expression_. `InkXML`
+_expression_.**InkXML**
 
 _expression_ A variable that represents a **[ShapeRange](PowerPoint.ShapeRange.md)** object.
 

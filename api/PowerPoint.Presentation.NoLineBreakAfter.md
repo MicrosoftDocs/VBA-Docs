@@ -18,7 +18,7 @@ Returns or sets the characters that cannot end a line. Read/write.
 
 ## Syntax
 
-_expression_. `NoLineBreakAfter`
+_expression_.**NoLineBreakAfter**
 
 _expression_ A variable that represents a [Presentation](PowerPoint.Presentation.md) object.
 

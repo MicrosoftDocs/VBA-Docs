@@ -18,7 +18,7 @@ Determines whether an animation should decelerate as it ends. Read/write.
 
 ## Syntax
 
-_expression_. `SmoothEnd`
+_expression_.**SmoothEnd**
 
 _expression_ A variable that represents a [Timing](PowerPoint.Timing.md) object.
 

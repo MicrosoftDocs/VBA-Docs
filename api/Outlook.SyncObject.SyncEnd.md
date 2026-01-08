@@ -18,7 +18,7 @@ Occurs immediately after Microsoft Outlook finishes synchronizing a user's folde
 
 ## Syntax
 
-_expression_. `SyncEnd`
+_expression_.**SyncEnd**
 
 _expression_ A variable that represents a [SyncObject](Outlook.SyncObject.md) object.
 

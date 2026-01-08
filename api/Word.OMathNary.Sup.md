@@ -18,7 +18,7 @@ Returns an **[OMath](Word.OMath.md)** object that represents the upper limit of 
 
 ## Syntax
 
-_expression_. `Sup`
+_expression_.**Sup**
 
  _expression_ An expression that returns an '[OMathNary](Word.OMathNary.md)' object.
 

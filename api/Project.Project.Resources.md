@@ -16,7 +16,7 @@ Gets a **[Resources](Project.resources(object).md)** collection representing the
 
 ## Syntax
 
-_expression_. `Resources`
+_expression_.**Resources**
 
 _expression_ A variable that represents a **[Project](project.project.md)** object.
 

@@ -18,7 +18,7 @@ Returns or sets the default line color for borders. Read/write **WdColorIndex**.
 
 ## Syntax
 
-_expression_. `DefaultBorderColorIndex`
+_expression_.**DefaultBorderColorIndex**
 
 _expression_ Required. A variable that represents an **[Options](Word.Options.md)** object.
 

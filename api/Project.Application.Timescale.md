@@ -19,7 +19,7 @@ Displays the **Timescale** dialog box, which prompts the user to set timescale o
 
 ## Syntax
 
-_expression_. `Timescale`
+_expression_.**Timescale**
 
 _expression_ A variable that represents an **[Application](Project.Application.md)** object.
 

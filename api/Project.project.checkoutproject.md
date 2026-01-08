@@ -18,7 +18,7 @@ Checks out an open project that is currently in read-only mode.
 
 ## Syntax
 
-_expression_. `CheckoutProject`
+_expression_.**CheckoutProject**
 
 _expression_ A variable that represents a **[Project](project.project.md)** object.
 

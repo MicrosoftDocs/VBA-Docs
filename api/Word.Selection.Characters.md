@@ -18,7 +18,7 @@ Returns a **[Characters](Word.characters.md)** collection that represents the ch
 
 ## Syntax
 
-_expression_. `Characters`
+_expression_.**Characters**
 
 _expression_ A variable that represents a **[Selection](Word.Selection.md)** object.
 

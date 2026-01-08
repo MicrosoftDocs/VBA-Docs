@@ -18,7 +18,7 @@ Returns a **[TablesOfContents](Word.tablesofcontents.md)** collection that repre
 
 ## Syntax
 
-_expression_. `TablesOfContents`
+_expression_.**TablesOfContents**
 
 _expression_ A variable that represents a **[Document](Word.Document.md)** object.
 

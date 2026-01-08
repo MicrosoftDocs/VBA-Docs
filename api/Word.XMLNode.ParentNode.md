@@ -18,7 +18,7 @@ Returns an **XMLNode** object that represents the parent element of the specifie
 
 ## Syntax
 
-_expression_. `ParentNode`
+_expression_.**ParentNode**
 
  _expression_ An expression that returns an '[XMLNode](Word.XMLNode.md)' object.
 

@@ -14,7 +14,7 @@ Creates a chart at the specified location on the active report. Returns a **Shap
 
 ## Syntax
 
-_expression_. `AddChart` _(Style,_ _Type,_ _Left,_ _Top,_ _Width,_ _Height,_ _NewLayout)_
+_expression_.**AddChart** _(Style,_ _Type,_ _Left,_ _Top,_ _Width,_ _Height,_ _NewLayout)_
 
 _expression_ A variable that represents a **[Shapes](Project.Shapes.md)** object.
 

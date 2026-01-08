@@ -16,7 +16,7 @@ Gets the starting slack time of a task in minutes. Read-only **Variant**.
 
 ## Syntax
 
-_expression_. `StartSlack`
+_expression_.**StartSlack**
 
 _expression_ A variable that represents a [Task](./Project.Task.md) object.
 

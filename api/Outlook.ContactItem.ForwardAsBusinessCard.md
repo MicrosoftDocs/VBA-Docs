@@ -18,7 +18,7 @@ Creates a new **[MailItem](Outlook.MailItem.md)** object containing contact info
 
 ## Syntax
 
-_expression_. `ForwardAsBusinessCard`
+_expression_.**ForwardAsBusinessCard**
 
  _expression_ An expression that returns a [ContactItem](Outlook.ContactItem.md) object.
 

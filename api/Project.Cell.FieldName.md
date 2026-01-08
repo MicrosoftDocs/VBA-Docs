@@ -19,7 +19,7 @@ Gets the column title of the field in the active cell. If the title does not exi
 
 ## Syntax
 
-_expression_. `FieldName`
+_expression_.**FieldName**
 
 _expression_ A variable that represents a [Cell](./Project.Cell.md) object.
 

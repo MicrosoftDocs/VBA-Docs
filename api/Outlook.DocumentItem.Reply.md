@@ -15,7 +15,7 @@ Occurs when the user selects the **Reply** action for an item (which is an insta
 
 ## Syntax
 
-_expression_. `Reply`( `_Response_` , `_Cancel_` )
+_expression_.**Reply**( `_Response_` , `_Cancel_` )
 
 _expression_ A variable that represents a [DocumentItem](Outlook.DocumentItem.md) object.
 

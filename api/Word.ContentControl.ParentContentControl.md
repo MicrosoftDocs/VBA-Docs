@@ -18,7 +18,7 @@ Returns a **ContentControl** that represents the parent content control for a co
 
 ## Syntax
 
-_expression_. `ParentContentControl`
+_expression_.**ParentContentControl**
 
  _expression_ An expression that returns a [ContentControl](./Word.ContentControl.md) object.
 

@@ -18,7 +18,7 @@ Occurs when a **[Reminder](Outlook.Reminder.md)** object has been removed from t
 
 ## Syntax
 
-_expression_. `ReminderRemove`
+_expression_.**ReminderRemove**
 
 _expression_ A variable that represents a [Reminders](Outlook.Reminders.md) object.
 

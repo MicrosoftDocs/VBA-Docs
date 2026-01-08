@@ -16,7 +16,7 @@ Gets or sets the local Finish custom field of the assignment. Read/write **Varia
 
 ## Syntax
 
-_expression_. `Finish9`
+_expression_.**Finish9**
 
 _expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
 

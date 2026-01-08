@@ -18,7 +18,7 @@ Creates a shape whose path is a polyline along a given set of points.
 
 ## Syntax
 
-_expression_. `DrawPolyline`( `_xyArray()_` , `_Flags_` )
+_expression_.**DrawPolyline**( `_xyArray()_` , `_Flags_` )
 
 _expression_ A variable that represents a **[Page](Visio.Page.md)** object.
 

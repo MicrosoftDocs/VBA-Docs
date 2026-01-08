@@ -18,7 +18,7 @@ Moves or extends the start position of the specified range or selection to the b
 
 ## Syntax
 
-_expression_. `StartOf`( `_Unit_` , `_Extend_` )
+_expression_.**StartOf**( `_Unit_` , `_Extend_` )
 
 _expression_ Required. A variable that represents a **[Range](Word.Range.md)** object.
 

@@ -18,7 +18,7 @@ Returns or sets a **String** specifying the name of the Microsoft NetMeeting ser
 
 ## Syntax
 
-_expression_. `NetMeetingServer`
+_expression_.**NetMeetingServer**
 
 _expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 

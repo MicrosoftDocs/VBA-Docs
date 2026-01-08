@@ -18,7 +18,7 @@ Attempts to resolve a **[Recipient](Outlook.Recipient.md)** object against the A
 
 ## Syntax
 
-_expression_. `Resolve`
+_expression_.**Resolve**
 
 _expression_ A variable that represents a [Recipient](Outlook.Recipient.md) object.
 

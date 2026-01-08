@@ -18,7 +18,7 @@ Returns the number of files queued up to be saved in the background. Read-only *
 
 ## Syntax
 
-_expression_. `BackgroundSavingStatus`
+_expression_.**BackgroundSavingStatus**
 
 _expression_ A variable that represents an **[Application](Word.Application.md)** object. 
 

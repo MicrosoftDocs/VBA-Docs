@@ -18,7 +18,7 @@ Applies the specified style but maintains any formatting that a user directly ap
 
 ## Syntax
 
-_expression_. `ApplyStyleDirectFormatting`( `_StyleName_` )
+_expression_.**ApplyStyleDirectFormatting**( `_StyleName_` )
 
  _expression_ An expression that returns a '[Table](Word.Table.md)' object.
 

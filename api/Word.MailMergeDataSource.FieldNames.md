@@ -18,7 +18,7 @@ Returns a **[MailMergeFieldNames](Word.MailMergeFieldNames.md)** collection that
 
 ## Syntax
 
-_expression_. `FieldNames`
+_expression_.**FieldNames**
 
 _expression_ A variable that represents a '[MailMergeDataSource](Word.MailMergeDataSource.md)' object.
 

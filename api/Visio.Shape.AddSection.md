@@ -18,7 +18,7 @@ Adds a new section to a ShapeSheet spreadsheet.
 
 ## Syntax
 
-_expression_. `AddSection`( `_Section_` )
+_expression_.**AddSection**( `_Section_` )
 
 _expression_ A variable that represents a **[Shape](Visio.Shape.md)** object.
 

@@ -16,7 +16,7 @@ ms.localizationpriority: medium
 
 ## Syntax
 
-_expression_. `ShowTaskSuggestions`
+_expression_.**ShowTaskSuggestions**
 
  _expression_ An expression that returns a **[Project](project.project.md)** object.
 

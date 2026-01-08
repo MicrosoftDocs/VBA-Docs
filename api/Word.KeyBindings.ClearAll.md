@@ -18,7 +18,7 @@ Clears all the customized key assignments and restores the original Microsoft Wo
 
 ## Syntax
 
-_expression_. `ClearAll`
+_expression_.**ClearAll**
 
 _expression_ A variable that represents a '[KeyBindings](Word.keybindings.md)' collection.
 

@@ -14,7 +14,7 @@ Gets a value that indicates whether the shape range contains a chart. Read-only 
 
 ## Syntax
 
-_expression_. `HasChart`
+_expression_.**HasChart**
 
 _expression_ A variable that represents a 'ShapeRange' object.
 

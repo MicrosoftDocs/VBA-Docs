@@ -18,7 +18,7 @@ Removes ephemeral locks from the document.
 
 ## Syntax
 
-_expression_. `RemoveEphemeralLocks`
+_expression_.**RemoveEphemeralLocks**
 
  _expression_ An expression that returns a '[CoAuthLocks](Word.CoAuthLocks.md)' object.
 

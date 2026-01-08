@@ -18,7 +18,7 @@ Loads a Microsoft Visio application **UIObject** object from a file.
 
 ## Syntax
 
-_expression_. `LoadFromFile`( `_FileName_` )
+_expression_.**LoadFromFile**( `_FileName_` )
 
 _expression_ A variable that represents a **[UIObject](Visio.UIObject.md)** object.
 

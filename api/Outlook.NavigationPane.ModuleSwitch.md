@@ -18,7 +18,7 @@ Occurs after the selection changes for a navigation module in the **[NavigationM
 
 ## Syntax
 
-_expression_. `ModuleSwitch`( `_CurrentModule_` )
+_expression_.**ModuleSwitch**( `_CurrentModule_` )
 
 _expression_ A variable that represents a [NavigationPane](Outlook.NavigationPane.md) object.
 

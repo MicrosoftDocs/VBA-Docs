@@ -18,7 +18,7 @@ Returns a **SectionProperties** object. Read-only.
 
 ## Syntax
 
-_expression_. `SectionProperties`
+_expression_.**SectionProperties**
 
  _expression_ An expression that returns a [Presentation](PowerPoint.Presentation.md) object.
 

@@ -18,7 +18,7 @@ Returns or sets the text that is displayed in the status bar when a form field h
 
 ## Syntax
 
-_expression_. `StatusText`
+_expression_.**StatusText**
 
 _expression_ A variable that represents a '[FormField](Word.FormField.md)' object.
 

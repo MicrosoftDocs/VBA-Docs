@@ -18,7 +18,7 @@ Returns the object that contains the specified embedded presentation. Read-only.
 
 ## Syntax
 
-_expression_. `Container`
+_expression_.**Container**
 
 _expression_ A variable that represents a [Presentation](PowerPoint.Presentation.md) object.
 

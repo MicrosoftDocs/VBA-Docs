@@ -19,7 +19,7 @@ Displays the **Gridlines** dialog box. This method is unavailable when the activ
 
 ## Syntax
 
-_expression_. `Gridlines`
+_expression_.**Gridlines**
 
 _expression_ A variable that represents an **[Application](Project.Application.md)** object.
 

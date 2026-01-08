@@ -18,7 +18,7 @@ Returns or sets a **Boolean** that specifies if a selection is displayed or hidd
 
 ## Syntax
 
-_expression_. `HideSelection`
+_expression_.**HideSelection**
 
 _expression_ A variable that represents an [OlkTextBox](Outlook.OlkTextBox.md) object.
 

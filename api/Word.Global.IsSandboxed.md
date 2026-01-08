@@ -18,7 +18,7 @@ ms.localizationpriority: medium
 
 ## Syntax
 
-_expression_. `IsSandboxed`
+_expression_.**IsSandboxed**
 
  _expression_ An expression that returns a '[Global](Word.Global.md)' object.
 

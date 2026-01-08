@@ -18,7 +18,7 @@ Returns or sets a **[WdLanguageID](Word.WdLanguageID.md)** constant that represe
 
 ## Syntax
 
-_expression_. `LanguageID`
+_expression_.**LanguageID**
 
  _expression_ An expression that represents a **[Range](Word.Range.md)** object.
 

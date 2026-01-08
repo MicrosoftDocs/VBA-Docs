@@ -16,7 +16,7 @@ Gets or sets the actual finish date of an assignment. Read/write **Variant**.
 
 ## Syntax
 
-_expression_. `ActualFinish`
+_expression_.**ActualFinish**
 
 _expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
 

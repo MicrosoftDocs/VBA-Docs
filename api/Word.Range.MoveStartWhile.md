@@ -18,7 +18,7 @@ Moves the start position of the specified range while any of the specified chara
 
 ## Syntax
 
-_expression_. `MoveStartWhile`( `_Cset_` , `_Count_` )
+_expression_.**MoveStartWhile**( `_Cset_` , `_Count_` )
 
 _expression_ Required. A variable that represents a **[Range](Word.Range.md)** object.
 

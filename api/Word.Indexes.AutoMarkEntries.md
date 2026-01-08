@@ -18,7 +18,7 @@ Automatically adds XE (Index Entry) fields to the specified document, using the 
 
 ## Syntax
 
-_expression_. `AutoMarkEntries`( `_ConcordanceFileName_` )
+_expression_.**AutoMarkEntries**( `_ConcordanceFileName_` )
 
 _expression_ Required. A variable that represents an '[Indexes](Word.indexes.md)' collection.
 

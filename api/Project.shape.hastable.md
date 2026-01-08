@@ -14,7 +14,7 @@ Gets a value that indicates whether the shape contains a table. Read-only **[Mso
 
 ## Syntax
 
-_expression_. `HasTable`
+_expression_.**HasTable**
 
 _expression_ A variable that represents a **[Shape](Project.Shape.md)** object.
 

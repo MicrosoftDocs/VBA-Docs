@@ -18,7 +18,7 @@ Returns or sets a **Boolean** value that is **True** to not age the Outlook item
 
 ## Syntax
 
-_expression_. `NoAging`
+_expression_.**NoAging**
 
 _expression_ A variable that represents a [MailItem](Outlook.MailItem.md) object.
 

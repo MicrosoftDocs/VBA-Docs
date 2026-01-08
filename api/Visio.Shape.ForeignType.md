@@ -18,7 +18,7 @@ Returns the subtype of a **Shape** object that represents a foreign object. Read
 
 ## Syntax
 
-_expression_. `ForeignType`
+_expression_.**ForeignType**
 
 _expression_ A variable that represents a **[Shape](Visio.Shape.md)** object.
 

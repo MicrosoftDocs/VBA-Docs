@@ -18,7 +18,7 @@ ms.localizationpriority: medium
 
 ## Syntax
 
-_expression_. `DefaultOmitReturnAddress`
+_expression_.**DefaultOmitReturnAddress**
 
 _expression_ A variable that represents a '[Envelope](Word.Envelope.md)' object.
 

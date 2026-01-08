@@ -18,7 +18,7 @@ Replaces the specified range with a new paragraph.
 
 ## Syntax
 
-_expression_. `InsertParagraph`
+_expression_.**InsertParagraph**
 
 _expression_ Required. A variable that represents a **[Range](Word.Range.md)** object.
 

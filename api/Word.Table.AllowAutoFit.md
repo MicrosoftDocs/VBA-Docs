@@ -18,7 +18,7 @@ Allows Microsoft Word to automatically resize cells in a table to fit their cont
 
 ## Syntax
 
-_expression_. `AllowAutoFit`
+_expression_.**AllowAutoFit**
 
 _expression_ A variable that represents a '[Table](Word.Table.md)' object.
 

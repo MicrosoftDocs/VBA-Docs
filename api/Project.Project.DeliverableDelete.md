@@ -16,7 +16,7 @@ Deletes the deliverable.
 
 ## Syntax
 
-_expression_. `DeliverableDelete`( `_DeliverableGuid_` )
+_expression_.**DeliverableDelete**( `_DeliverableGuid_` )
 
 _expression_ A variable that represents a **[Project](project.project.md)** object.
 

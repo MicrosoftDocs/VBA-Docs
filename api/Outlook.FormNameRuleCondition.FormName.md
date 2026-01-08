@@ -18,7 +18,7 @@ Returns or sets an **Object** that represents an array of form identifiers to be
 
 ## Syntax
 
-_expression_. `FormName`
+_expression_.**FormName**
 
 _expression_ A variable that represents a [FormNameRuleCondition](Outlook.FormNameRuleCondition.md) object.
 

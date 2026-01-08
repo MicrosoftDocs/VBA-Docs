@@ -19,7 +19,7 @@ The string length is limited to 255 characters.
 
 ## Syntax
 
-_expression_. `Default`
+_expression_.**Default**
 
 _expression_ Required. A variable that represents a '[TextInput](Word.TextInput.md)' object.
 

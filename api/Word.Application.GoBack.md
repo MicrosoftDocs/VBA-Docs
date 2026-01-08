@@ -18,7 +18,7 @@ Moves the insertion point among the last three locations where editing occurred 
 
 ## Syntax
 
-_expression_. `GoBack`
+_expression_.**GoBack**
 
 _expression_ Required. A variable that represents an **[Application](Word.Application.md)** object. 
 

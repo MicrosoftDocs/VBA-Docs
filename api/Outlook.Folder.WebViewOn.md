@@ -18,7 +18,7 @@ Returns or sets a **Boolean** indicating the Web view state for a folder. Read/w
 
 ## Syntax
 
-_expression_. `WebViewOn`
+_expression_.**WebViewOn**
 
 _expression_ A variable that represents a [Folder](Outlook.Folder.md) object.
 

@@ -18,7 +18,7 @@ ms.localizationpriority: medium
 
 ## Syntax
 
-_expression_. `ExportFragment`( `_FileName_` , `_Format_` )
+_expression_.**ExportFragment**( `_FileName_` , `_Format_` )
 
  _expression_ An expression that returns a **[Range](Word.Range.md)** object.
 

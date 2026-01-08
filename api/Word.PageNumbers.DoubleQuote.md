@@ -18,7 +18,7 @@ ms.localizationpriority: medium
 
 ## Syntax
 
-_expression_. `DoubleQuote`
+_expression_.**DoubleQuote**
 
  _expression_ An expression that returns a '[PageNumbers](Word.pagenumbers.md)' object.
 

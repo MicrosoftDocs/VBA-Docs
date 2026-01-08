@@ -18,7 +18,7 @@ ms.localizationpriority: medium
 
 ## Syntax
 
-_expression_. `WarnBeforeSavingPrintingSendingMarkup`
+_expression_.**WarnBeforeSavingPrintingSendingMarkup**
 
  _expression_ An expression that returns a '[Options](Word.Options.md)' object.
 

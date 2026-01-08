@@ -19,7 +19,7 @@ Sets the properties of an individual cell in a data template for a Network Diagr
 
 ## Syntax
 
-_expression_. `BoxCellEdit`( `_Name_`, `_Cell_`, `_FieldName_`, `_Font_`, `_FontSize_`, `_FontColor_`, `_Bold_`, `_Italic_`, `_Underline_`, `_HorizontalAlignment_`, `_VerticalAlignment_`, `_TextLineLimit_`, `_ShowLabel_`, `_Label_`, `_DateFormat_` )
+_expression_.**BoxCellEdit**( `_Name_`, `_Cell_`, `_FieldName_`, `_Font_`, `_FontSize_`, `_FontColor_`, `_Bold_`, `_Italic_`, `_Underline_`, `_HorizontalAlignment_`, `_VerticalAlignment_`, `_TextLineLimit_`, `_ShowLabel_`, `_Label_`, `_DateFormat_` )
 
 _expression_ A variable that represents an **[Application](Project.Application.md)** object.
 

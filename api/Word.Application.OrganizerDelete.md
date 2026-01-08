@@ -18,7 +18,7 @@ Deletes the specified style, AutoText entry, toolbar, or macro project item from
 
 ## Syntax
 
-_expression_. `OrganizerDelete`( `_Source_` , `_Name_` , `_Object_` )
+_expression_.**OrganizerDelete**( `_Source_` , `_Name_` , `_Object_` )
 
 _expression_ Required. A variable that represents an **[Application](Word.Application.md)** object. 
 

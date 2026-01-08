@@ -18,7 +18,7 @@ Sets or returns a **String** that represents the path and file name of the defau
 
 ## Syntax
 
-_expression_. `DefaultEPostageApp`
+_expression_.**DefaultEPostageApp**
 
 _expression_ A variable that represents a '[Options](Word.Options.md)' object.
 

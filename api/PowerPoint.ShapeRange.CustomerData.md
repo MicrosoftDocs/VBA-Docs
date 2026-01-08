@@ -18,7 +18,7 @@ Returns a **[CustomerData](PowerPoint.CustomerData.md)** object.
 
 ## Syntax
 
-_expression_. `CustomerData`
+_expression_.**CustomerData**
 
  _expression_ An expression that returns a **[ShapeRange](PowerPoint.ShapeRange.md)** object.
 

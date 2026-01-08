@@ -16,7 +16,7 @@ Gets or sets the remaining work (in minutes) for the task. Read-only for summary
 
 ## Syntax
 
-_expression_. `RemainingWork`
+_expression_.**RemainingWork**
 
 _expression_ A variable that represents a [Task](./Project.Task.md) object.
 

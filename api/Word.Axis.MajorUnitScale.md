@@ -18,7 +18,7 @@ Returns or sets the major unit scale value for the category axis when the **[Cat
 
 ## Syntax
 
-_expression_. `MajorUnitScale`
+_expression_.**MajorUnitScale**
 
 _expression_ A variable that represents an **[Axis](Word.Axis.md)** object.
 

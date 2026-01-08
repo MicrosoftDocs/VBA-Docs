@@ -18,7 +18,7 @@ Specifies whether the sound that's been set for the specified slide transition l
 
 ## Syntax
 
-_expression_. `LoopSoundUntilNext`
+_expression_.**LoopSoundUntilNext**
 
 _expression_ A variable that represents a [SlideShowTransition](PowerPoint.SlideShowTransition.md) object.
 

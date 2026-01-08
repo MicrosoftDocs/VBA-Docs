@@ -18,7 +18,7 @@ Returns a **Research** object that represents the research service for a documen
 
 ## Syntax
 
-_expression_. `Research`
+_expression_.**Research**
 
  _expression_ An expression that returns a **[Document](Word.Document.md)** object.
 

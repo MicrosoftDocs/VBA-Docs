@@ -18,7 +18,7 @@ ms.localizationpriority: medium
 
 ## Syntax
 
-_expression_. `FrameDisplayBorders`
+_expression_.**FrameDisplayBorders**
 
 _expression_ A variable that represents a '[Frameset](Word.Frameset.md)' object.
 

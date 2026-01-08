@@ -18,7 +18,7 @@ Collapses a selection to the starting or ending position. After a selection is c
 
 ## Syntax
 
-_expression_. `Collapse`( `_Direction_` )
+_expression_.**Collapse**( `_Direction_` )
 
 _expression_ Required. A variable that represents a **[Selection](Word.Selection.md)** object.
 

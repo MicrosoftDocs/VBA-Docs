@@ -18,7 +18,7 @@ Returns or sets a **Boolean** that represents whether a find operation should ig
 
 ## Syntax
 
-_expression_. `IgnorePunct`
+_expression_.**IgnorePunct**
 
  _expression_ An expression that returns a [Find](./Word.Find.md) object.
 

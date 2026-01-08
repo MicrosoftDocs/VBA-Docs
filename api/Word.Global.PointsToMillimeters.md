@@ -18,7 +18,7 @@ Converts a measurement from points to millimeters (1 millimeter = 2.835 points).
 
 ## Syntax
 
-_expression_. `PointsToMillimeters`( `_Points_` )
+_expression_.**PointsToMillimeters**( `_Points_` )
 
 _expression_ A variable that represents a '[Global](Word.Global.md)' object. Optional.
 

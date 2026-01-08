@@ -18,7 +18,7 @@ Returns or sets the number style for the endnotes. Read/write **WdNoteNumberStyl
 
 ## Syntax
 
-_expression_. `NumberStyle`
+_expression_.**NumberStyle**
 
 _expression_ Required. A variable that represents an '[EndnoteOptions](Word.EndnoteOptions.md)' collection.
 

@@ -18,7 +18,7 @@ Determines whether the specified slide show displays shapes with assigned animat
 
 ## Syntax
 
-_expression_. `ShowWithAnimation`
+_expression_.**ShowWithAnimation**
 
 _expression_ A variable that represents a [SlideShowSettings](PowerPoint.SlideShowSettings.md) object.
 

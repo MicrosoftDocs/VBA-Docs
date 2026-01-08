@@ -18,7 +18,7 @@ ms.localizationpriority: medium
 
 ## Syntax
 
-_expression_. `AutoInsert`
+_expression_.**AutoInsert**
 
 _expression_ A variable that represents an '[AutoCaption](Word.AutoCaption.md)' object.
 

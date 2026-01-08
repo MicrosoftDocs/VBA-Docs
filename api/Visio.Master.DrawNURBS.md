@@ -18,7 +18,7 @@ Creates a new shape whose path consists of a single NURBS (nonuniform rational B
 
 ## Syntax
 
-_expression_. `DrawNURBS`( `_degree_` , `_Flags_` , `_xyArray()_` , `_knots()_` , `_weights_` )
+_expression_.**DrawNURBS**( `_degree_` , `_Flags_` , `_xyArray()_` , `_knots()_` , `_weights_` )
 
 _expression_ A variable that represents a **[Master](Visio.Master.md)** object.
 

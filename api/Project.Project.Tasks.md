@@ -16,7 +16,7 @@ Gets a **[Tasks](Project.Task.md)** collection representing the tasks in the pro
 
 ## Syntax
 
-_expression_. `Tasks`
+_expression_.**Tasks**
 
 _expression_ A variable that represents a **[Project](project.project.md)** object.
 

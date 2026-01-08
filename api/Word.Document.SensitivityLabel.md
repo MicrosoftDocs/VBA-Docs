@@ -16,7 +16,7 @@ Returns the Microsoft Office **SensitivityLabel** object from the **Document**.
 
 ## Syntax
 
-_expression_. `SensitivityLabel`
+_expression_.**SensitivityLabel**
 
 _expression_ A variable that represents a **[Document](Word.Document.md)** object.
 

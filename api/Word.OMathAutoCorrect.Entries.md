@@ -18,7 +18,7 @@ Returns an **[OMathAutoCorrectEntries](Word.OMathAutoCorrectEntries.md)** collec
 
 ## Syntax
 
-_expression_. `Entries`
+_expression_.**Entries**
 
  _expression_ An expression that returns an '[OMathAutoCorrect](Word.OMathAutoCorrect.md)' object.
 

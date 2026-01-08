@@ -18,7 +18,7 @@ Represents the internal name of the specified custom layout. Read/write.
 
 ## Syntax
 
-_expression_. `MatchingName`
+_expression_.**MatchingName**
 
 _expression_ A variable that represents a [CustomLayout](PowerPoint.CustomLayout.md) object.
 

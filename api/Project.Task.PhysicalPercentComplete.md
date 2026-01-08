@@ -19,7 +19,7 @@ Gets or sets the physical percent complete of a task. Read/write **Variant**.
 
 ## Syntax
 
-_expression_. `PhysicalPercentComplete`
+_expression_.**PhysicalPercentComplete**
 
 _expression_ A variable that represents a [Task](./Project.Task.md) object.
 

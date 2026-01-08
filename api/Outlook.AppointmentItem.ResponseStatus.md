@@ -18,7 +18,7 @@ Returns an **[OlResponseStatus](Outlook.OlResponseStatus.md)** constant indicati
 
 ## Syntax
 
-_expression_. `ResponseStatus`
+_expression_.**ResponseStatus**
 
 _expression_ A variable that represents an [AppointmentItem](Outlook.AppointmentItem.md) object.
 

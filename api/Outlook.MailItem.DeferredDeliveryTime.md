@@ -18,7 +18,7 @@ Returns or sets a **Date** indicating the date and time the mail message is to b
 
 ## Syntax
 
-_expression_. `DeferredDeliveryTime`
+_expression_.**DeferredDeliveryTime**
 
 _expression_ A variable that represents a [MailItem](Outlook.MailItem.md) object.
 

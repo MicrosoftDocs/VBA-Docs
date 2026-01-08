@@ -18,7 +18,7 @@ ms.localizationpriority: medium
 
 ## Syntax
 
-_expression_. `Vertical`
+_expression_.**Vertical**
 
 _expression_ Required. A variable that represents a '[MailingLabel](Word.MailingLabel.md)' object.
 

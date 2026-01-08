@@ -18,7 +18,7 @@ Returns a **[Folder](Outlook.Folder.md)** object that represents the shared or l
 
 ## Syntax
 
-_expression_. `Folder`
+_expression_.**Folder**
 
 _expression_ A variable that represents a [NavigationFolder](Outlook.NavigationFolder.md) object.
 

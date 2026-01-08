@@ -18,7 +18,7 @@ ms.localizationpriority: medium
 
 ## Syntax
 
-_expression_. `IncludeChapterNumber`
+_expression_.**IncludeChapterNumber**
 
 _expression_ A variable that represents a '[PageNumbers](Word.pagenumbers.md)' object.
 

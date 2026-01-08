@@ -18,7 +18,7 @@ Returns or sets a **Boolean** that specifies whether page alignment guides are d
 
 ## Syntax
 
-_expression_. `PageAlignmentGuides`
+_expression_.**PageAlignmentGuides**
 
 _expression_ A variable that represents an [Options](./Word.Options.md) object.
 

@@ -18,7 +18,7 @@ Returns a **Range** object that represents an endnote reference mark.
 
 ## Syntax
 
-_expression_. `Reference`
+_expression_.**Reference**
 
 _expression_ Required. A variable that represents an '[Endnote](Word.Endnote.md)' object.
 

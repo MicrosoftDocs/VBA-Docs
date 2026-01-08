@@ -19,7 +19,7 @@ Gets the unique identification number of the **[LookupTableEntry](Project.Lookup
 
 ## Syntax
 
-_expression_. `UniqueID`
+_expression_.**UniqueID**
 
 _expression_ A variable that represents a [LookupTableEntry](./Project.LookupTableEntry.md) object.
 

@@ -18,7 +18,7 @@ Returns the legend key that is associated with the entry. Read-only **[LegendKey
 
 ## Syntax
 
-_expression_. `LegendKey`
+_expression_.**LegendKey**
 
 _expression_ A variable that represents a '[LegendEntry](Word.LegendEntry.md)' object.
 

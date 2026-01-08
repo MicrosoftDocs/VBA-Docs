@@ -18,7 +18,7 @@ Returns a **[PlaceholderFormat](PowerPoint.PlaceholderFormat.md)** object that c
 
 ## Syntax
 
-_expression_. `PlaceholderFormat`
+_expression_.**PlaceholderFormat**
 
 _expression_ A variable that represents a **[Shape](PowerPoint.Shape.md)** object.
 

@@ -18,7 +18,7 @@ Returns a **[Tasks](Word.tasks.md)** collection that represents all the applicat
 
 ## Syntax
 
-_expression_. `Tasks`
+_expression_.**Tasks**
 
  _expression_ An expression that returns an **[Application](Word.Application.md)** object. 
 

@@ -18,7 +18,7 @@ Returns or sets a **Boolean** that represents whether to hide the bottom border 
 
 ## Syntax
 
-_expression_. `HideBot`
+_expression_.**HideBot**
 
  _expression_ An expression that returns an '[OMathBorderBox](Word.OMathBorderBox.md)' object.
 

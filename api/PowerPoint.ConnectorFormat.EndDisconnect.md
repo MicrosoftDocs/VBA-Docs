@@ -18,7 +18,7 @@ Detaches the end of the specified connector from the shape it is attached to. Th
 
 ## Syntax
 
-_expression_. `EndDisconnect`
+_expression_.**EndDisconnect**
 
 _expression_ A variable that represents a [ConnectorFormat](PowerPoint.ConnectorFormat.md) object.
 

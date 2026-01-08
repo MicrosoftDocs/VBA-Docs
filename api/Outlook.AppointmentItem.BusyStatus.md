@@ -18,7 +18,7 @@ Returns or sets an **[OlBusyStatus](Outlook.OlBusyStatus.md)** constant indicati
 
 ## Syntax
 
-_expression_. `BusyStatus`
+_expression_.**BusyStatus**
 
 _expression_ A variable that represents an [AppointmentItem](Outlook.AppointmentItem.md) object.
 

@@ -18,7 +18,7 @@ Returns or sets a **Boolean** that represents whether the equations in an equati
 
 ## Syntax
 
-_expression_. `ObjDist`
+_expression_.**ObjDist**
 
  _expression_ An expression that returns an '[OMathEqArray](Word.OMathEqArray.md)' object.
 

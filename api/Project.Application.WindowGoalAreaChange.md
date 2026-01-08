@@ -16,7 +16,7 @@ Occurs after a user clicks a different goal area in the Project Guide.
 
 ## Syntax
 
-_expression_. `WindowGoalAreaChange`( `_Window_`, `_goalArea_` )
+_expression_.**WindowGoalAreaChange**( `_Window_`, `_goalArea_` )
 
 _expression_ A variable that represents an **[Application](Project.Application.md)** object.
 

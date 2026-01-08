@@ -18,7 +18,7 @@ Returns a **[GroupShapes](Word.groupshapes.md)** object that represents the indi
 
 ## Syntax
 
-_expression_. `GroupItems`
+_expression_.**GroupItems**
 
 _expression_ A variable that represents a **[ShapeRange](Word.shaperange.md)** object.
 

@@ -18,7 +18,7 @@ Converts a selection or an object from another application (a linked or embedded
 
 ## Syntax
 
-_expression_. `ConvertToGroup`
+_expression_.**ConvertToGroup**
 
 _expression_ A variable that represents a **[Shape](Visio.Shape.md)** object.
 

@@ -18,7 +18,7 @@ ms.localizationpriority: medium
 
 ## Syntax
 
-_expression_. `MinimumScaleIsAuto`
+_expression_.**MinimumScaleIsAuto**
 
 _expression_ A variable that represents an **[Axis](Word.Axis.md)** object.
 

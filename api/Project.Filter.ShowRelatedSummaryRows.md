@@ -19,7 +19,7 @@ ms.localizationpriority: medium
 
 ## Syntax
 
-_expression_. `ShowRelatedSummaryRows`
+_expression_.**ShowRelatedSummaryRows**
 
 _expression_ A variable that represents a [Filter](./Project.Filter.md) object.
 

@@ -17,7 +17,7 @@ Places the insertion point in the **To** line of the mail header if the document
 
 ## Syntax
 
-_expression_. `PutFocusInMailHeader`
+_expression_.**PutFocusInMailHeader**
 
 _expression_ Required. A variable that represents an **[Application](Word.Application.md)** object. 
 

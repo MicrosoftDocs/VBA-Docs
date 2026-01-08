@@ -18,7 +18,7 @@ Returns the audio compression format. Read-only.
 
 ## Syntax
 
-_expression_. `AudioCompressionType`
+_expression_.**AudioCompressionType**
 
  _expression_ An expression that returns a [MediaFormat](PowerPoint.MediaFormat.md) object.
 

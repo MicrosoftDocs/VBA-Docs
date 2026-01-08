@@ -19,7 +19,7 @@ Sets the width of a column to the width of its widest item.
 
 ## Syntax
 
-_expression_. `ColumnBestFit`( `_Column_` )
+_expression_.**ColumnBestFit**( `_Column_` )
 
 _expression_ A variable that represents an **[Application](Project.Application.md)** object.
 

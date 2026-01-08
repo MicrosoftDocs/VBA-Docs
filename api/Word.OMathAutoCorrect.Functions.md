@@ -18,7 +18,7 @@ Returns an **[OMathRecognizedFunctions](Word.OMathRecognizedFunctions.md)** coll
 
 ## Syntax
 
-_expression_. `Functions`
+_expression_.**Functions**
 
  _expression_ An expression that returns an '[OMathAutoCorrect](Word.OMathAutoCorrect.md)' object.
 

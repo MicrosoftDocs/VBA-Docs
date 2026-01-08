@@ -18,7 +18,7 @@ Returns or sets the heading level style that's applied to the chapter titles in 
 
 ## Syntax
 
-_expression_. `HeadingLevelForChapter`
+_expression_.**HeadingLevelForChapter**
 
 _expression_ A variable that represents a '[PageNumbers](Word.pagenumbers.md)' object.
 

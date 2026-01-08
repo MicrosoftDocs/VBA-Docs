@@ -18,7 +18,7 @@ Returns a string that specifies the email address of the specified co author. Re
 
 ## Syntax
 
-_expression_. `EmailAddress`
+_expression_.**EmailAddress**
 
  _expression_ An expression that returns a '[CoAuthor](Word.CoAuthor.md)' object.
 

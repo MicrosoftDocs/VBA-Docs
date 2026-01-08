@@ -18,7 +18,7 @@ Returns or sets a **Long** that represents the operator in one line, to which Mi
 
 ## Syntax
 
-_expression_. `AlignAt`
+_expression_.**AlignAt**
 
  _expression_ An expression that returns an '[OMathBreak](Word.OMathBreak.md)' object.
 

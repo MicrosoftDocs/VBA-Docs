@@ -18,7 +18,7 @@ ms.localizationpriority: medium
 
 ## Syntax
 
-_expression_. `MinorUnitIsAuto`
+_expression_.**MinorUnitIsAuto**
 
 _expression_ A variable that represents an '[Axis](PowerPoint.Axis.md)' object.
 

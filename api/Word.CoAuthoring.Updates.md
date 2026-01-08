@@ -18,7 +18,7 @@ Returns a **[CoAuthUpdates](overview/Word.md)** collection that represents the m
 
 ## Syntax
 
-_expression_. `Updates`
+_expression_.**Updates**
 
  _expression_ An expression that returns a '[CoAuthoring](Word.CoAuthoring.md)' object.
 

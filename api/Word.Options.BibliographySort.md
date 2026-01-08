@@ -17,7 +17,7 @@ Returns or sets a **String** that represents the order in which to display sourc
 
 ## Syntax
 
-_expression_. `BibliographySort`
+_expression_.**BibliographySort**
 
  _expression_ An expression that returns an **[Options](Word.Options.md)** object.
 

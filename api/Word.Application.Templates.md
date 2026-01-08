@@ -17,7 +17,7 @@ Returns a **[Templates](Word.templates.md)** collection that represents all the 
 
 ## Syntax
 
-_expression_. `Templates`
+_expression_.**Templates**
 
  _expression_ An expression that returns an **[Application](Word.Application.md)** object. 
 

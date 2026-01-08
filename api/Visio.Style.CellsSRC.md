@@ -18,7 +18,7 @@ Returns a **Cell** object that represents a ShapeSheet cell identified by sectio
 
 ## Syntax
 
-_expression_. `CellsSRC`( `_Section_` , `_Row_` , `_Column_` )
+_expression_.**CellsSRC**( `_Section_` , `_Row_` , `_Column_` )
 
 _expression_ A variable that represents a **[Style](Visio.Style.md)** object.
 

@@ -19,7 +19,7 @@ Returns or sets the show type for the specified slide show. Read/write.
 
 ## Syntax
 
-_expression_. `ShowType`
+_expression_.**ShowType**
 
 _expression_ A variable that represents a [SlideShowSettings](PowerPoint.SlideShowSettings.md) object.
 

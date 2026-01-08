@@ -18,7 +18,7 @@ Sorts paragraphs or table rows within the selection in descending alphanumeric o
 
 ## Syntax
 
-_expression_. `SortDescending`
+_expression_.**SortDescending**
 
 _expression_ Required. A variable that represents a **[Selection](Word.Selection.md)** object.
 

@@ -19,7 +19,7 @@ Renames an item in the Organizer.
 
 ## Syntax
 
-_expression_. `OrganizerRenameItem`( `_Type_`, `_FileName_`, `_Name_`, `_NewName_`, `_Task_` )
+_expression_.**OrganizerRenameItem**( `_Type_`, `_FileName_`, `_Name_`, `_NewName_`, `_Task_` )
 
 _expression_ A variable that represents an **[Application](Project.Application.md)** object.
 

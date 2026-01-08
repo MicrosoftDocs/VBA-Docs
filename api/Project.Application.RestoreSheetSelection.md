@@ -19,7 +19,7 @@ Restores saved row and column information of a selected sheet view.
 
 ## Syntax
 
-_expression_. `RestoreSheetSelection`
+_expression_.**RestoreSheetSelection**
 
 _expression_ A variable that represents an **[Application](Project.Application.md)** object.
 

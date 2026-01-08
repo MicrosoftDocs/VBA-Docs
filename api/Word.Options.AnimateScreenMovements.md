@@ -18,7 +18,7 @@ ms.localizationpriority: medium
 
 ## Syntax
 
-_expression_. `AnimateScreenMovements`
+_expression_.**AnimateScreenMovements**
 
 _expression_ A variable that represents a '[Options](Word.Options.md)' object.
 

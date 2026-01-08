@@ -14,7 +14,7 @@ Gets updated values from a PivotTable data source.
 
 ## Syntax
 
-_expression_. `RefreshPivotTable`
+_expression_.**RefreshPivotTable**
 
 _expression_ A variable that represents a **[Chart](Project.Chart.md)** object.
 

@@ -15,7 +15,7 @@ Gets the left coordinate, in [points](../language/glossary/vbe-glossary.md#point
 
 ## Syntax
 
-_expression_. `BoundLeft`
+_expression_.**BoundLeft**
 
  _expression_ An expression that returns a 'TextRange2' object.
 

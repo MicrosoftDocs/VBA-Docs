@@ -18,7 +18,7 @@ Returns or sets a **String** representing the business fax number for the contac
 
 ## Syntax
 
-_expression_. `BusinessFaxNumber`
+_expression_.**BusinessFaxNumber**
 
 _expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 

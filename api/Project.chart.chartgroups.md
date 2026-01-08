@@ -17,7 +17,7 @@ Gets an object that represents either a single chart group or a collection of ch
 
 ## Syntax
 
-_expression_. `ChartGroups`
+_expression_.**ChartGroups**
 
 _expression_ A variable that represents a **[Chart](Project.Chart.md)** object.
 

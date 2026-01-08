@@ -18,7 +18,7 @@ ms.localizationpriority: medium
 
 ## Syntax
 
-_expression_. `NodeValue`
+_expression_.**NodeValue**
 
  _expression_ An expression that returns an [XMLNode](./Word.XMLNode.md) object.
 

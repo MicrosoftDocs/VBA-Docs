@@ -18,7 +18,7 @@ Returns a **KeyBindings** collection that represents customized key assignments,
 
 ## Syntax
 
-_expression_. `KeyBindings`
+_expression_.**KeyBindings**
 
 _expression_ Required. A variable that represents a '[Global](Word.Global.md)' object.
 

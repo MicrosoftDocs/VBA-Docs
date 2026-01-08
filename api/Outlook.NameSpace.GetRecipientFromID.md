@@ -18,7 +18,7 @@ Returns the **[Recipient](Outlook.Recipient.md)** object that is identified by t
 
 ## Syntax
 
-_expression_. `GetRecipientFromID`( `_EntryID_` )
+_expression_.**GetRecipientFromID**( `_EntryID_` )
 
 _expression_ A variable that represents a '[NameSpace](Outlook.NameSpace.md)' object.
 

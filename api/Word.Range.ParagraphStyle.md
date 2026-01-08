@@ -18,7 +18,7 @@ Returns a **Variant** that represents the style used to format a paragraph. Read
 
 ## Syntax
 
-_expression_. `ParagraphStyle`
+_expression_.**ParagraphStyle**
 
  _expression_ An expression that returns a **[Range](Word.Range.md)** object.
 

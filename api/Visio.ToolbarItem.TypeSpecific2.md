@@ -18,7 +18,7 @@ Gets or sets the type of a toolbar item. Read/write.
 
 ## Syntax
 
-_expression_. `TypeSpecific2`
+_expression_.**TypeSpecific2**
 
 _expression_ A variable that represents a **[ToolbarItem](Visio.ToolbarItem.md)** object.
 

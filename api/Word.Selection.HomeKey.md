@@ -18,7 +18,7 @@ Moves or extends the selection to the beginning of the specified unit. This meth
 
 ## Syntax
 
-_expression_. `HomeKey`( `_Unit_` , `_Extend_` )
+_expression_.**HomeKey**( `_Unit_` , `_Extend_` )
 
 _expression_ A variable that represents a **[Selection](Word.Selection.md)** object.
 

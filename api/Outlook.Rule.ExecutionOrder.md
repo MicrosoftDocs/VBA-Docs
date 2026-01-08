@@ -18,7 +18,7 @@ Returns or sets a **Long** that indicates the order of execution of the rule amo
 
 ## Syntax
 
-_expression_. `ExecutionOrder`
+_expression_.**ExecutionOrder**
 
 _expression_ A variable that represents a [Rule](Outlook.Rule.md) object.
 

@@ -18,7 +18,7 @@ Removes the recurrence settings and restores the single-occurrence state for an 
 
 ## Syntax
 
-_expression_. `ClearRecurrencePattern`
+_expression_.**ClearRecurrencePattern**
 
 _expression_ A variable that represents an [AppointmentItem](Outlook.AppointmentItem.md) object.
 

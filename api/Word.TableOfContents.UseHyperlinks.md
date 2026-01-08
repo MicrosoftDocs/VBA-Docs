@@ -18,7 +18,7 @@ Returns or sets whether entries in a table of contents should be formatted as hy
 
 ## Syntax
 
-_expression_. `UseHyperlinks`
+_expression_.**UseHyperlinks**
 
 _expression_ Required. A variable that represents a '[TableOfContents](Word.TableOfContents.md)' collection.
 

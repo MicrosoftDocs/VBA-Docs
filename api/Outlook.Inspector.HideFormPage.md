@@ -18,7 +18,7 @@ Hides a form page or a form region in the inspector.
 
 ## Syntax
 
-_expression_. `HideFormPage`( `_PageName_` )
+_expression_.**HideFormPage**( `_PageName_` )
 
 _expression_ A variable that represents an [Inspector](Outlook.Inspector.md) object.
 

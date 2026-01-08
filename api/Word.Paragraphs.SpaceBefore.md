@@ -18,7 +18,7 @@ Returns or sets the spacing (in points) before the specified paragraphs. Read/wr
 
 ## Syntax
 
-_expression_. `SpaceBefore`
+_expression_.**SpaceBefore**
 
 _expression_ Required. A variable that represents a '[Paragraphs](Word.paragraphs.md)' collection.
 

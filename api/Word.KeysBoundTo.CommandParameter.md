@@ -18,7 +18,7 @@ Returns the command parameter assigned to the specified shortcut key. Read-only 
 
 ## Syntax
 
-_expression_. `CommandParameter`
+_expression_.**CommandParameter**
 
 _expression_ A variable that represents a '[KeysBoundTo](Word.keysboundto.md)' object.
 

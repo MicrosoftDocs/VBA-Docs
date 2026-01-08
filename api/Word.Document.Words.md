@@ -18,7 +18,7 @@ Returns a **[Words](Word.words.md)** collection that represents all the words in
 
 ## Syntax
 
-_expression_. `Words`
+_expression_.**Words**
 
 _expression_ A variable that represents a **[Document](Word.Document.md)** object.
 

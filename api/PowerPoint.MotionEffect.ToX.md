@@ -18,7 +18,7 @@ Sets or returns a **Single** that represents the horizontal position of a **[Mot
 
 ## Syntax
 
-_expression_. `ToX`
+_expression_.**ToX**
 
 _expression_ A variable that represents a [MotionEffect](PowerPoint.MotionEffect.md) object.
 

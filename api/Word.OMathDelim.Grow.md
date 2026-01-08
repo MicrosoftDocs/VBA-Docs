@@ -18,7 +18,7 @@ Returns or sets a **Boolean** that represents whether delimiter characters grow 
 
 ## Syntax
 
-_expression_. `Grow`
+_expression_.**Grow**
 
  _expression_ An expression that returns an '[OMathDelim](Word.OMathDelim.md)' object.
 

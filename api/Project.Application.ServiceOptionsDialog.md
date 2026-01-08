@@ -19,7 +19,7 @@ Opens the **Service Options** dialog box.
 
 ## Syntax
 
-_expression_. `ServiceOptionsDialog`
+_expression_.**ServiceOptionsDialog**
 
 _expression_ A variable that represents an **[Application](Project.Application.md)** object.
 

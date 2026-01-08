@@ -18,7 +18,7 @@ Returns a **[Dictionary](Word.Dictionary.md)** object that represents the active
 
 ## Syntax
 
-_expression_. `ActiveSpellingDictionary`
+_expression_.**ActiveSpellingDictionary**
 
  _expression_ An expression that returns a '[Language](Word.Language.md)' object.
 

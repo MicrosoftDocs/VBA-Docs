@@ -18,7 +18,7 @@ Returns a **Boolean** that determines if the item is a winner of an automatic co
 
 ## Syntax
 
-_expression_. `AutoResolvedWinner`
+_expression_.**AutoResolvedWinner**
 
 _expression_ A variable that represents a [DistListItem](Outlook.DistListItem.md) object.
 

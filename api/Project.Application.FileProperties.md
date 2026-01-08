@@ -19,7 +19,7 @@ Displays the **Properties** dialog box for the active project file.
 
 ## Syntax
 
-_expression_. `FileProperties`
+_expression_.**FileProperties**
 
 _expression_ A variable that represents an **[Application](Project.Application.md)** object.
 

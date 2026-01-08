@@ -18,7 +18,7 @@ ms.localizationpriority: medium
 
 ## Syntax
 
-_expression_. `ShowGrid`
+_expression_.**ShowGrid**
 
 _expression_ A variable that represents a [PageSetup](./Word.PageSetup.md) object.
 

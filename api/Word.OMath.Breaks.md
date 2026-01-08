@@ -18,7 +18,7 @@ Returns an **[OMathBreaks](Word.OMathBreaks.md)** collection that represents the
 
 ## Syntax
 
-_expression_. `Breaks`
+_expression_.**Breaks**
 
  _expression_ An expression that returns an '[OMath](Word.OMath.md)' object.
 

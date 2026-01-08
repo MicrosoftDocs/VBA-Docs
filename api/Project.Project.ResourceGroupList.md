@@ -19,7 +19,7 @@ Gets a **[List](Project.List.md)** object representing the resource groups in th
 
 ## Syntax
 
-_expression_. `ResourceGroupList`
+_expression_.**ResourceGroupList**
 
 _expression_ A variable that represents a **[Project](project.project.md)** object.
 

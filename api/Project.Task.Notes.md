@@ -16,7 +16,7 @@ Gets or sets the notes for a task. Read/write **String**.
 
 ## Syntax
 
-_expression_. `Notes`
+_expression_.**Notes**
 
 _expression_ A variable that represents a [Task](./Project.Task.md) object.
 

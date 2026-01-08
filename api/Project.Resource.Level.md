@@ -16,7 +16,7 @@ Levels the resource.
 
 ## Syntax
 
-_expression_. `Level`
+_expression_.**Level**
 
 _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 

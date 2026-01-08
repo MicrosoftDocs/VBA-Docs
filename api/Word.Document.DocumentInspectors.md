@@ -18,7 +18,7 @@ Returns a **DocumentInspectors** collection that enables you to locate hidden pe
 
 ## Syntax
 
-_expression_. `DocumentInspectors`
+_expression_.**DocumentInspectors**
 
  _expression_ An expression that returns a **[Document](Word.Document.md)** object.
 

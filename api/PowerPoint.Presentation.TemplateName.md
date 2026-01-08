@@ -18,7 +18,7 @@ Returns the name of the first design/master associated with the specified presen
 
 ## Syntax
 
-_expression_. `TemplateName`
+_expression_.**TemplateName**
 
 _expression_ A variable that represents a [Presentation](PowerPoint.Presentation.md) object.
 

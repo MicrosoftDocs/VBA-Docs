@@ -19,7 +19,7 @@ Goes to the next document in the history list.
 
 ## Syntax
 
-_expression_. `WebGoForward`
+_expression_.**WebGoForward**
 
 _expression_ A variable that represents an **[Application](Project.Application.md)** object.
 

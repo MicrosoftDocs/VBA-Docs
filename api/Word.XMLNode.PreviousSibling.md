@@ -18,7 +18,7 @@ Returns an **XMLNode** object that represents the previous element in the docume
 
 ## Syntax
 
-_expression_. `PreviousSibling`
+_expression_.**PreviousSibling**
 
  _expression_ An expression that returns an '[XMLNode](Word.XMLNode.md)' object.
 

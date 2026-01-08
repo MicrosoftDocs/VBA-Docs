@@ -18,7 +18,7 @@ Allows creating or changing the XML data mapping on a content control. Returns *
 
 ## Syntax
 
-_expression_. `SetMappingByNode`( `_Node_` )
+_expression_.**SetMappingByNode**( `_Node_` )
 
  _expression_ An expression that returns an '[XMLMapping](Word.XMLMapping.md)' object.
 

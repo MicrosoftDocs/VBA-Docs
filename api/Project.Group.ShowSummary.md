@@ -16,7 +16,7 @@ ms.localizationpriority: medium
 
 ## Syntax
 
-_expression_. `ShowSummary`
+_expression_.**ShowSummary**
 
 _expression_ A variable that represents a [Group](./Project.Group.md) object.
 

@@ -18,7 +18,7 @@ Returns or sets the name of the application to use to edit pictures. Read/write 
 
 ## Syntax
 
-_expression_. `PictureEditor`
+_expression_.**PictureEditor**
 
  _expression_ An expression that returns an **[Options](Word.Options.md)** object.
 

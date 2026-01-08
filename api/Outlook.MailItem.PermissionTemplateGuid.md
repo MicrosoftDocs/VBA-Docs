@@ -18,7 +18,7 @@ Returns or sets a **String** value that represents the GUID of the template file
 
 ## Syntax
 
-_expression_. `PermissionTemplateGuid`
+_expression_.**PermissionTemplateGuid**
 
 _expression_ A variable that represents a [MailItem](Outlook.MailItem.md) object.
 

@@ -18,7 +18,7 @@ Returns a **KeysBoundTo** object that represents all the key combinations assign
 
 ## Syntax
 
-_expression_. `KeysBoundTo`( `_KeyCategory_` , `_Command_` , `_CommandParameter_` )
+_expression_.**KeysBoundTo**( `_KeyCategory_` , `_Command_` , `_CommandParameter_` )
 
 _expression_ A variable that represents a '[Global](Word.Global.md)' object. Optional.
 

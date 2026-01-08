@@ -16,7 +16,7 @@ Gets errors reported by the **Import Task Wizard** relating to custom fields and
 
 ## Syntax
 
-_expression_. `ErrorMessage`
+_expression_.**ErrorMessage**
 
 _expression_ A variable that represents a [Task](./Project.Task.md) object.
 

@@ -18,7 +18,7 @@ Returns whether the specified shape is flipped around the horizontal axis. Read-
 
 ## Syntax
 
-_expression_. `HorizontalFlip`
+_expression_.**HorizontalFlip**
 
 _expression_ A variable that represents a **[Shape](PowerPoint.Shape.md)** object.
 

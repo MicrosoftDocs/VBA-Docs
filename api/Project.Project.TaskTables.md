@@ -16,7 +16,7 @@ Gets a **[Tables](Project.Table.md)** collection representing the task tables in
 
 ## Syntax
 
-_expression_. `TaskTables`
+_expression_.**TaskTables**
 
 _expression_ A variable that represents a **[Project](project.project.md)** object.
 

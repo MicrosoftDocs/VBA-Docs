@@ -19,7 +19,7 @@ Saves a list of open files and the current settings in the **Options** dialog bo
 
 ## Syntax
 
-_expression_. `FileSaveWorkspace`( `_Name_` )
+_expression_.**FileSaveWorkspace**( `_Name_` )
 
 _expression_ A variable that represents an **[Application](Project.Application.md)** object.
 

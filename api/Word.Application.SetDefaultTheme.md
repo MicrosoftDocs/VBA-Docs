@@ -17,7 +17,7 @@ Sets a default theme for Word to use with new documents, email messages, or webp
 
 ## Syntax
 
-_expression_.**SetDefaultTheme** (**_Name_**, **_DocumentType_**)
+_expression_.**SetDefaultTheme**(_Name_, _DocumentType_)
 
 _expression_ Required. A variable that represents an **[Application](Word.Application.md)** object.
 

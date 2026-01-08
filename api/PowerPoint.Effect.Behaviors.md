@@ -18,7 +18,7 @@ Returns a specified slide animation behavior as an **[AnimationBehaviors](PowerP
 
 ## Syntax
 
-_expression_. `Behaviors`
+_expression_.**Behaviors**
 
 _expression_ A variable that represents an [Effect](PowerPoint.Effect.md) object.
 

@@ -18,7 +18,7 @@ Returns or sets a **Boolean** that indicates the selection state of items in a *
 
 ## Syntax
 
-_expression_.**Selected**(**_pvargIndex_**)
+_expression_.**Selected**(_pvargIndex_)
 
 _expression_ A variable that represents a **ListBox** object.
 

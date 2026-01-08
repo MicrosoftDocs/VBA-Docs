@@ -18,7 +18,7 @@ Applies a text style to an object while preserving local formatting. Read/write.
 
 ## Syntax
 
-_expression_. `TextStyleKeepFmt`
+_expression_.**TextStyleKeepFmt**
 
 _expression_ A variable that represents a **[Selection](Visio.Selection.md)** object.
 

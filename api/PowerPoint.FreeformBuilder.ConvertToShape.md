@@ -18,7 +18,7 @@ Creates a shape that has the geometric characteristics of the specified **[Freef
 
 ## Syntax
 
-_expression_. `ConvertToShape`
+_expression_.**ConvertToShape**
 
 _expression_ A variable that represents a [FreeformBuilder](PowerPoint.FreeformBuilder.md) object.
 

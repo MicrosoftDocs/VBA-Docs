@@ -18,7 +18,7 @@ Returns a **[Folder](Outlook.Folder.md)** object representing the root-level fol
 
 ## Syntax
 
-_expression_. `GetRootFolder`
+_expression_.**GetRootFolder**
 
 _expression_ A variable that represents a [Store](Outlook.Store.md) object.
 

@@ -18,7 +18,7 @@ Returns a **Date** that represents the end time of a selection in the **[Calenda
 
 ## Syntax
 
-_expression_. `SelectedEndTime`
+_expression_.**SelectedEndTime**
 
 _expression_ A variable that represents a [CalendarView](Outlook.CalendarView.md) object.
 

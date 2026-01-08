@@ -18,7 +18,7 @@ Returns a **[LinkFormat](PowerPoint.LinkFormat.md)** object that contains the pr
 
 ## Syntax
 
-_expression_. `LinkFormat`
+_expression_.**LinkFormat**
 
 _expression_ A variable that represents a **[ShapeRange](PowerPoint.ShapeRange.md)** object.
 

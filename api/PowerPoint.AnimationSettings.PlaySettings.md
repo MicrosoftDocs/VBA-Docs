@@ -18,7 +18,7 @@ Returns a **[PlaySettings](PowerPoint.PlaySettings.md)** object that contains in
 
 ## Syntax
 
-_expression_. `PlaySettings`
+_expression_.**PlaySettings**
 
 _expression_ A variable that represents an [AnimationSettings](PowerPoint.AnimationSettings.md) object.
 

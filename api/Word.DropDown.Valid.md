@@ -18,7 +18,7 @@ ms.localizationpriority: medium
 
 ## Syntax
 
-_expression_. `Valid`
+_expression_.**Valid**
 
 _expression_ Required. An expression that returns a '[DropDown](Word.DropDown.md)' object.
 

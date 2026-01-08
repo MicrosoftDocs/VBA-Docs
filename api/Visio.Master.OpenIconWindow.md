@@ -18,7 +18,7 @@ Opens an icon window that shows a master's icon.
 
 ## Syntax
 
-_expression_. `OpenIconWindow`
+_expression_.**OpenIconWindow**
 
 _expression_ A variable that represents a **[Master](Visio.Master.md)** object.
 

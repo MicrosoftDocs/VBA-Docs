@@ -18,7 +18,7 @@ Returns an **[OMaths](Word.OMaths.md)** collection that represents the **[OMath]
 
 ## Syntax
 
-_expression_. `OMaths`
+_expression_.**OMaths**
 
  _expression_ An expression that returns a **[Selection](Word.Selection.md)** object.
 

@@ -22,7 +22,7 @@ Gets the IDs of all the data recordsets that contain data rows linked to the sha
 
 ## Syntax
 
-_expression_. `GetLinkedDataRecordsetIDs`( `_DataRecordsetIDs()_` )
+_expression_.**GetLinkedDataRecordsetIDs**( `_DataRecordsetIDs()_` )
 
  _expression_ An expression that returns a **[Shape](Visio.Shape.md)** object.
 

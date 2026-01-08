@@ -19,7 +19,7 @@ Specifies a document as the Search Page in Microsoft Internet Explorer.
 
 ## Syntax
 
-_expression_. `WebSetSearchPage`( `_Address_` )
+_expression_.**WebSetSearchPage**( `_Address_` )
 
 _expression_ A variable that represents an **[Application](Project.Application.md)** object.
 

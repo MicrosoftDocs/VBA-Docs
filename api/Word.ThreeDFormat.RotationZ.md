@@ -18,7 +18,7 @@ Returns or sets a **Single** that represents z-axis rotation of the camera. Read
 
 ## Syntax
 
-_expression_. `RotationZ`
+_expression_.**RotationZ**
 
  _expression_ An expression that returns a '[ThreeDFormat](Word.ThreeDFormat.md)' object.
 

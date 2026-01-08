@@ -19,7 +19,7 @@ Gets the date and time when the resource was last checked in to the enterprise r
 
 ## Syntax
 
-_expression_. `EnterpriseLastModifiedDate`
+_expression_.**EnterpriseLastModifiedDate**
 
 _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 

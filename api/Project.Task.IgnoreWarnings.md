@@ -19,7 +19,7 @@ ms.localizationpriority: medium
 
 ## Syntax
 
-_expression_. `IgnoreWarnings`
+_expression_.**IgnoreWarnings**
 
  _expression_ An expression that returns a [Task](./Project.Task.md) object.
 

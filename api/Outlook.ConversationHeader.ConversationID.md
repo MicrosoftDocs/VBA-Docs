@@ -18,7 +18,7 @@ Returns a **String** that uniquely identifies the **[Conversation](Outlook.Conve
 
 ## Syntax
 
-_expression_. `ConversationID`
+_expression_.**ConversationID**
 
 _expression_ A variable that represents a '[ConversationHeader](Outlook.ConversationHeader.md)' object.
 

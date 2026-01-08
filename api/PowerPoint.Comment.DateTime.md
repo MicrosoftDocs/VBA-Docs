@@ -18,7 +18,7 @@ Returns the date and time a comment was created.
 
 ## Syntax
 
-_expression_. `DateTime`
+_expression_.**DateTime**
 
 _expression_ A variable that represents a [Comment](PowerPoint.Comment.md) object.
 

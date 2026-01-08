@@ -18,7 +18,7 @@ Returns or sets how Microsoft Word formats inserted text while change tracking i
 
 ## Syntax
 
-_expression_. `InsertedTextMark`
+_expression_.**InsertedTextMark**
 
 _expression_ Required. A variable that represents an **[Options](Word.Options.md)** object.
 

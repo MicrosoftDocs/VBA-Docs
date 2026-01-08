@@ -18,7 +18,7 @@ Returns or sets a **WdRevisionsBalloonPrintOrientation** constant that represent
 
 ## Syntax
 
-_expression_. `RevisionsBalloonPrintOrientation`
+_expression_.**RevisionsBalloonPrintOrientation**
 
 _expression_ Required. A variable that represents an **[Options](Word.Options.md)** object.
 

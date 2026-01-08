@@ -18,7 +18,7 @@ Returns or sets the on-screen and printed orientation of slides in the specified
 
 ## Syntax
 
-_expression_. `SlideOrientation`
+_expression_.**SlideOrientation**
 
 _expression_ A variable that represents a [PageSetup](PowerPoint.PageSetup.md) object.
 

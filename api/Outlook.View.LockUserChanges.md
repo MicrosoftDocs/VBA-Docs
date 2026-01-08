@@ -18,7 +18,7 @@ Returns or sets a **Boolean** value that indicates whether a user can modify the
 
 ## Syntax
 
-_expression_. `LockUserChanges`
+_expression_.**LockUserChanges**
 
 _expression_ A variable that represents a [View](Outlook.View.md) object.
 

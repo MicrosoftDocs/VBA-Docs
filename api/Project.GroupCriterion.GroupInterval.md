@@ -16,7 +16,7 @@ Gets or sets the interval for a field used as a criterion in a group definition.
 
 ## Syntax
 
-_expression_. `GroupInterval`
+_expression_.**GroupInterval**
 
 _expression_ A variable that represents an [GroupCriterion](./Project.GroupCriterion.md) object.
 

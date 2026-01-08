@@ -18,7 +18,7 @@ Returns or sets the name of the field that contains email addresses that are use
 
 ## Syntax
 
-_expression_. `MailAddressFieldName`
+_expression_.**MailAddressFieldName**
 
  _expression_ An expression that returns a '[MailMerge](Word.MailMerge.md)' object.
 

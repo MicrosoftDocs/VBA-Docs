@@ -18,7 +18,7 @@ ms.localizationpriority: medium
 
 ## Syntax
 
-_expression_. `Hyphenation`
+_expression_.**Hyphenation**
 
 _expression_ A variable that represents a '[ParagraphFormat](Word.ParagraphFormat.md)' object.
 

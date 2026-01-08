@@ -18,7 +18,7 @@ ms.localizationpriority: medium
 
 ## Syntax
 
-_expression_. `OptimizeForBrowser`
+_expression_.**OptimizeForBrowser**
 
 _expression_ Required. A variable that represents a **[WebOptions](Word.WebOptions.md)** collection.
 

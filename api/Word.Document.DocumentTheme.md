@@ -18,7 +18,7 @@ Returns an **OfficeTheme** object that represents the Microsoft Office theme app
 
 ## Syntax
 
-_expression_. `OfficeTheme`
+_expression_.**OfficeTheme**
 
  _expression_ An expression that returns a **[Document](Word.Document.md)** object.
 

@@ -18,7 +18,7 @@ Returns or sets a **Single** that represents the placement of the second line of
 
 ## Syntax
 
-_expression_. `OMathWrap`
+_expression_.**OMathWrap**
 
  _expression_ An expression that returns a **[Document](Word.Document.md)** object.
 

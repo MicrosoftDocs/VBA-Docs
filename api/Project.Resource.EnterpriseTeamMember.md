@@ -16,7 +16,7 @@ Indicates whether the resource belongs to the project. **True** if the resource 
 
 ## Syntax
 
-_expression_. `EnterpriseTeamMember`( `_Project_` )
+_expression_.**EnterpriseTeamMember**( `_Project_` )
 
 _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 

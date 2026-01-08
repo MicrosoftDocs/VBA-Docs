@@ -18,7 +18,7 @@ Returns **True** if the document has pending updates that have not been accepted
 
 ## Syntax
 
-_expression_. `PendingUpdates`
+_expression_.**PendingUpdates**
 
  _expression_ An expression that returns a '[CoAuthoring](Word.CoAuthoring.md)' object.
 

@@ -16,7 +16,7 @@ Gets or sets the type of character sequence in a code mask. Read/write **PjCusto
 
 ## Syntax
 
-_expression_. `Sequence`
+_expression_.**Sequence**
 
 _expression_ A variable that represents a [CodeMaskLevel](./Project.CodeMaskLevel.md) object.
 

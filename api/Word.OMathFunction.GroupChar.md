@@ -18,7 +18,7 @@ Returns an **[OMathGroupChar](Word.OMathGroupChar.md)** object that represents a
 
 ## Syntax
 
-_expression_. `GroupChar`
+_expression_.**GroupChar**
 
  _expression_ An expression that returns an '[OMathFunction](Word.OMathFunction.md)' object.
 

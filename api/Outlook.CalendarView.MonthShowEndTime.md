@@ -18,7 +18,7 @@ Returns or sets a **Boolean** value that indicates whether end times for Outlook
 
 ## Syntax
 
-_expression_. `MonthShowEndTime`
+_expression_.**MonthShowEndTime**
 
 _expression_ A variable that represents a [CalendarView](Outlook.CalendarView.md) object.
 

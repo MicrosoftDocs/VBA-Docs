@@ -19,7 +19,7 @@ Gets a **Tasks** collection that contains a set of circular task dependencies, i
 
 ## Syntax
 
-_expression_. `DetectCycle`
+_expression_.**DetectCycle**
 
  _expression_ An expression that returns a **[Project](project.project.md)** object.
 

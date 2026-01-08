@@ -18,7 +18,7 @@ ms.localizationpriority: medium
 
 ## Syntax
 
-_expression_. `DisplayRSquared`
+_expression_.**DisplayRSquared**
 
 _expression_ A variable that represents a '[Trendline](PowerPoint.Trendline.md)' object.
 

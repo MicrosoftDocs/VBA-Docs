@@ -19,7 +19,7 @@ Obtains the **[AddressEntry](Outlook.AddressEntry.md)** object that contains inf
 
 ## Syntax
 
-_expression_. `GetOwner`
+_expression_.**GetOwner**
 
 _expression_ A variable that represents a [Folder](Outlook.Folder.md) object.
 

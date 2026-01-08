@@ -18,7 +18,7 @@ Specifies an array of command ranges and a **True** or **False** value indicatin
 
 ## Syntax
 
-_expression_. `SetFilterCommands`( `_Commands()_` )
+_expression_.**SetFilterCommands**( `_Commands()_` )
 
 _expression_ A variable that represents an **[Event](Visio.Event.md)** object.
 

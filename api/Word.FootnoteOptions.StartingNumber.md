@@ -18,7 +18,7 @@ Returns or sets the starting footnote number. Read/write **Long**.
 
 ## Syntax
 
-_expression_. `StartingNumber`
+_expression_.**StartingNumber**
 
 _expression_ Required. A variable that represents a '[FootnoteOptions](Word.FootnoteOptions.md)' collection.
 

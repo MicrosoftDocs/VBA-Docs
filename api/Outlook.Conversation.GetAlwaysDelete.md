@@ -18,7 +18,7 @@ Returns a constant in the **[OlAlwaysDeleteConversation](Outlook.OlAlwaysDeleteC
 
 ## Syntax
 
-_expression_. `GetAlwaysDelete`( `_Store_` )
+_expression_.**GetAlwaysDelete**( `_Store_` )
 
 _expression_ A variable that represents a '[Conversation](Outlook.Conversation.md)' object.
 

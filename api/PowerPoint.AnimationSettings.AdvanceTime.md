@@ -18,7 +18,7 @@ Returns or sets the amount of time, in seconds, after which the specified shape 
 
 ## Syntax
 
-_expression_. `AdvanceTime`
+_expression_.**AdvanceTime**
 
 _expression_ A variable that represents an [AnimationSettings](PowerPoint.AnimationSettings.md) object.
 

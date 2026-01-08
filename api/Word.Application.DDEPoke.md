@@ -18,7 +18,7 @@ Uses an open dynamic data exchange (DDE) channel to send data to an application.
 
 ## Syntax
 
-_expression_. `DDEPoke`( `_Channel_` , `_Item_` , `_Data_` )
+_expression_.**DDEPoke**( `_Channel_` , `_Item_` , `_Data_` )
 
 _expression_ A variable that represents an **[Application](Word.Application.md)** object.  Optional.
 

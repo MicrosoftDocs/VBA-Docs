@@ -15,7 +15,7 @@ ms.localizationpriority: medium
 
 ## Syntax
 
-_expression_. `ProtectedViewWindowSize`( `_PvWindow_` , )
+_expression_.**ProtectedViewWindowSize**( `_PvWindow_` , )
 
  _expression_ An expression that returns a '[Application](Word.Application.md)' object.
 

@@ -18,7 +18,7 @@ ms.localizationpriority: medium
 
 ## Syntax
 
-_expression_. `StrictFinalYaa`
+_expression_.**StrictFinalYaa**
 
  _expression_ An expression that returns an **[Options](Word.Options.md)** object.
 

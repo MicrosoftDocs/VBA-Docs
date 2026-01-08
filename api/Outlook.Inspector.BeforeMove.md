@@ -18,7 +18,7 @@ Occurs when the **[Inspector](Outlook.Inspector.md)** is moved by the user.
 
 ## Syntax
 
-_expression_. `BeforeMove`( `_Cancel_` )
+_expression_.**BeforeMove**( `_Cancel_` )
 
 _expression_ A variable that represents an [Inspector](Outlook.Inspector.md) object.
 

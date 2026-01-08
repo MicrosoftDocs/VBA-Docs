@@ -18,7 +18,7 @@ Occurs after a reminder has been modified.
 
 ## Syntax
 
-_expression_. `ReminderChange`( `_ReminderObject_` )
+_expression_.**ReminderChange**( `_ReminderObject_` )
 
 _expression_ A variable that represents a [Reminders](Outlook.Reminders.md) object.
 

@@ -18,7 +18,7 @@ Moves an item in a drop-down list or combo box content control up one item, so t
 
 ## Syntax
 
-_expression_. `MoveUp`
+_expression_.**MoveUp**
 
  _expression_ An expression that returns a [ContentControlListEntry](./Word.ContentControlListEntry.md) object.
 

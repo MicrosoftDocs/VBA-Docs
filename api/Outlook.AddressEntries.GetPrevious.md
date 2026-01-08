@@ -18,7 +18,7 @@ Returns the previous object in the **[AddressEntries](Outlook.AddressEntries.md)
 
 ## Syntax
 
-_expression_. `GetPrevious`
+_expression_.**GetPrevious**
 
 _expression_ A variable that represents an [AddressEntries](Outlook.AddressEntries.md) object.
 

@@ -18,7 +18,7 @@ Returns a **[TextInput](Word.TextInput.md)** object that represents a text form 
 
 ## Syntax
 
-_expression_. `TextInput`
+_expression_.**TextInput**
 
  _expression_ An expression that returns a '[FormField](Word.FormField.md)' object.
 

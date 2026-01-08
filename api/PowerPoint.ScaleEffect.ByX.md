@@ -18,7 +18,7 @@ Sets or returns a **Single** that represents scaling or moving an object horizon
 
 ## Syntax
 
-_expression_. `ByX`
+_expression_.**ByX**
 
 _expression_ A variable that represents a [ScaleEffect](PowerPoint.ScaleEffect.md) object.
 

@@ -19,7 +19,7 @@ Inserts a new task of the default mode above the selected task row or cell in a 
 
 ## Syntax
 
-_expression_. `InsertTask`
+_expression_.**InsertTask**
 
  _expression_ An expression that returns an **[Application](Project.Application.md)** object.
 

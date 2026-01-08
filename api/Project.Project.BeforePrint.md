@@ -16,7 +16,7 @@ Occurs before a project is printed.
 
 ## Syntax
 
-_expression_. `BeforePrint`( `_pj_` )
+_expression_.**BeforePrint**( `_pj_` )
 
  _expression_ An expression that returns a **[Project](project.project.md)** object.
 

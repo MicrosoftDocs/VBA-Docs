@@ -19,7 +19,7 @@ Displays the **Organizer** dialog box, which enables the user to manage views, r
 
 ## Syntax
 
-_expression_. `Organizer`( `_Type_`, `_Task_` )
+_expression_.**Organizer**( `_Type_`, `_Task_` )
 
 _expression_ A variable that represents an **[Application](Project.Application.md)** object.
 

@@ -18,7 +18,7 @@ Returns an **[OlAutoDiscoverConnectionMode](Outlook.OlAutoDiscoverConnectionMode
 
 ## Syntax
 
-_expression_. `AutoDiscoverConnectionMode`
+_expression_.**AutoDiscoverConnectionMode**
 
 _expression_ A variable that represents an '[Account](Outlook.Account.md)' object.
 

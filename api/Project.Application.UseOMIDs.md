@@ -19,7 +19,7 @@ Gets or sets the corresponding **Use internal IDs** option on the **Advanced** t
 
 ## Syntax
 
-_expression_. `UseOMIDs`
+_expression_.**UseOMIDs**
 
 _expression_ A variable that represents an **[Application](Project.Application.md)** object.
 

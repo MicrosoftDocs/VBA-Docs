@@ -18,7 +18,7 @@ Returns or sets the name of the frame or window in which to load the hyperlink. 
 
 ## Syntax
 
-_expression_. `Target`
+_expression_.**Target**
 
 _expression_ Required. A variable that represents a '[Hyperlink](Word.Hyperlink.md)' object.
 

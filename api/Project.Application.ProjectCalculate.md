@@ -16,7 +16,7 @@ Occurs after a project is calculated.
 
 ## Syntax
 
-_expression_. `ProjectCalculate`( `_pj_` )
+_expression_.**ProjectCalculate**( `_pj_` )
 
 _expression_ A variable that represents an **[Application](Project.Application.md)** object.
 

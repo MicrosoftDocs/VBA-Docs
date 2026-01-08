@@ -18,7 +18,7 @@ Specifies the relative horizontal position of a group of rows. Read/write **[WdR
 
 ## Syntax
 
-_expression_. `RelativeHorizontalPosition`
+_expression_.**RelativeHorizontalPosition**
 
  _expression_ An expression that represents a '[Rows](Word.rows.md)' object.
 

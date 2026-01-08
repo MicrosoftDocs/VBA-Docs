@@ -18,7 +18,7 @@ Creates a new callout **[Shape](Visio.Shape.md)** object on the page near the sp
 
 ## Syntax
 
-_expression_. `DropCallout`( `_ObjectToDrop_` , `_TargetShape_` )
+_expression_.**DropCallout**( `_ObjectToDrop_` , `_TargetShape_` )
 
 _expression_ A variable that represents a **[Page](Visio.Page.md)** object.
 

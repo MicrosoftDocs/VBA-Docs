@@ -18,7 +18,7 @@ Returns or sets the **[ColorScheme](PowerPoint.ColorScheme.md)** object that rep
 
 ## Syntax
 
-_expression_. `ColorScheme`
+_expression_.**ColorScheme**
 
 _expression_ A variable that represents a [SlideRange](PowerPoint.SlideRange.md) object.
 

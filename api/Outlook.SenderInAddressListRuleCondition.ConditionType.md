@@ -18,7 +18,7 @@ Returns a constant, **olConditionSenderInAddressBook**, from the **[OlRuleCondit
 
 ## Syntax
 
-_expression_. `ConditionType`
+_expression_.**ConditionType**
 
 _expression_ A variable that represents a [SenderInAddressListRuleCondition](Outlook.SenderInAddressListRuleCondition.md) object.
 

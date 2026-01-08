@@ -18,7 +18,7 @@ Scrolls automatically through the specified pane.
 
 ## Syntax
 
-_expression_. `AutoScroll`( `_Velocity_` )
+_expression_.**AutoScroll**( `_Velocity_` )
 
 _expression_ Required. A variable that represents a '[Pane](Word.Pane.md)' object.
 

@@ -16,7 +16,7 @@ Gets or sets the baseline cost for a **Resource**. Read/write **Variant**.
 
 ## Syntax
 
-_expression_. `Baseline10Cost`
+_expression_.**Baseline10Cost**
 
 _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 

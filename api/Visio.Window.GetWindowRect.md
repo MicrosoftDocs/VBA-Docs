@@ -18,7 +18,7 @@ Gets the size and position of the client area of a window.
 
 ## Syntax
 
-_expression_. `GetWindowRect`( `_pnLeft_` , `_pnTop_` , `_pnWidth_` , `_pnHeight_` )
+_expression_.**GetWindowRect**( `_pnLeft_` , `_pnTop_` , `_pnWidth_` , `_pnHeight_` )
 
 _expression_ A variable that represents a **[Window](Visio.Window.md)** object.
 

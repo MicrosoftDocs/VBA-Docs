@@ -18,7 +18,7 @@ Adds a MERGESEQ field to a mail merge main document. Returns a **MailMergeField*
 
 ## Syntax
 
-_expression_. `AddMergeSeq`( `_Range_` )
+_expression_.**AddMergeSeq**( `_Range_` )
 
 _expression_ Required. A variable that represents a '[MailMergeFields](Word.mailmergefields.md)' collection.
 

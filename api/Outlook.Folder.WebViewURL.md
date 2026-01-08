@@ -18,7 +18,7 @@ Returns or sets a **String** indicating the URL of the webpage that is assigned 
 
 ## Syntax
 
-_expression_. `WebViewURL`
+_expression_.**WebViewURL**
 
 _expression_ A variable that represents a [Folder](Outlook.Folder.md) object.
 

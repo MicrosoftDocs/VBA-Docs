@@ -16,7 +16,7 @@ Gets or sets the name of the resource for the assignment. Read/write **String**.
 
 ## Syntax
 
-_expression_. `ResourceName`
+_expression_.**ResourceName**
 
 _expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
 

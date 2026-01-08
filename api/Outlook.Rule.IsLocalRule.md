@@ -18,7 +18,7 @@ Returns a **Boolean** that indicates if the rule executes as a client-side rule.
 
 ## Syntax
 
-_expression_. `IsLocalRule`
+_expression_.**IsLocalRule**
 
 _expression_ A variable that represents a [Rule](Outlook.Rule.md) object.
 

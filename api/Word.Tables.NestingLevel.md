@@ -18,7 +18,7 @@ Returns the nesting level of the specified tables. Read-only **Long**.
 
 ## Syntax
 
-_expression_. `NestingLevel`
+_expression_.**NestingLevel**
 
 _expression_ Required. A variable that represents a '[Tables](Word.tables.md)' collection.
 

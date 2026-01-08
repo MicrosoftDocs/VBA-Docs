@@ -19,7 +19,7 @@ Returns the proposed work for the engagement. Read-only **Double**. Introduced i
 
 ## Syntax
 
-_expression_. `EngagementProposedWork`
+_expression_.**EngagementProposedWork**
 
 _expression_ A variable that represents a [Resource](./Project.Resource.md) object.
 

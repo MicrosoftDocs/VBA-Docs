@@ -18,7 +18,7 @@ Returns or sets a **String** representing the ISDN number for the contact. Read/
 
 ## Syntax
 
-_expression_. `ISDNNumber`
+_expression_.**ISDNNumber**
 
 _expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 

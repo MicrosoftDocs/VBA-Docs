@@ -18,7 +18,7 @@ Occurs at different times depending on the current view.
 
 ## Syntax
 
-_expression_. `SlideSelectionChanged`( `_SldRange_` )
+_expression_.**SlideSelectionChanged**( `_SldRange_` )
 
 _expression_ A variable that represents an **[Application](PowerPoint.Application.md)** object.
 

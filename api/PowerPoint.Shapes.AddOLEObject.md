@@ -18,7 +18,7 @@ Creates an OLE object. Returns a **[Shape](PowerPoint.Shape.md)** object that re
 
 ## Syntax
 
-_expression_. `AddOLEObject`( `_Left_`, `_Top_`, `_Width_`, `_Height_`, `_ClassName_`, `_FileName_`, `_DisplayAsIcon_`, `_IconFileName_`, `_IconIndex_`, `_IconLabel_`, `_Link_` )
+_expression_.**AddOLEObject**( `_Left_`, `_Top_`, `_Width_`, `_Height_`, `_ClassName_`, `_FileName_`, `_DisplayAsIcon_`, `_IconFileName_`, `_IconIndex_`, `_IconLabel_`, `_Link_` )
 
 _expression_ A variable that represents a **[Shapes](PowerPoint.Shapes.md)** object.
 

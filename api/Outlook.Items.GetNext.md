@@ -18,7 +18,7 @@ Returns the next object in the collection.
 
 ## Syntax
 
-_expression_. `GetNext`
+_expression_.**GetNext**
 
 _expression_ A variable that represents an [Items](Outlook.Items.md) object.
 

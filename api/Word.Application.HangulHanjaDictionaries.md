@@ -18,7 +18,7 @@ Returns a **[HangulHanjaConversionDictionaries](Word.hangulhanjaconversiondictio
 
 ## Syntax
 
-_expression_. `HangulHanjaDictionaries`
+_expression_.**HangulHanjaDictionaries**
 
 _expression_ A variable that represents an **[Application](Word.Application.md)** object. 
 

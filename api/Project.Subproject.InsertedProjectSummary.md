@@ -16,7 +16,7 @@ Gets a **[Task](Project.Task.md)** object that represents the summary task of th
 
 ## Syntax
 
-_expression_. `InsertedProjectSummary`
+_expression_.**InsertedProjectSummary**
 
 _expression_ A variable that represents a [Subproject](./Project.Subproject.md) object.
 

@@ -18,7 +18,7 @@ Returns an array of **Long** values that represent the collection of identifiers
 
 ## Syntax
 
-_expression_. `CalloutsAssociated`
+_expression_.**CalloutsAssociated**
 
 _expression_ A variable that represents a **[Shape](Visio.Shape.md)** object.
 

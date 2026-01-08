@@ -18,7 +18,7 @@ Returns a **String** value that represents the URL for the Meeting Workspace tha
 
 ## Syntax
 
-_expression_. `MeetingWorkspaceURL`
+_expression_.**MeetingWorkspaceURL**
 
 _expression_ A variable that represents an [AppointmentItem](Outlook.AppointmentItem.md) object.
 

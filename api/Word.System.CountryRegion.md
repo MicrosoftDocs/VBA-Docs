@@ -18,7 +18,7 @@ Returns the country/region designation of the system. Read-only **WdCountry**.
 
 ## Syntax
 
-_expression_. `CountryRegion`
+_expression_.**CountryRegion**
 
 _expression_ Required. A variable that represents a '[System](Word.System.md)' object.
 

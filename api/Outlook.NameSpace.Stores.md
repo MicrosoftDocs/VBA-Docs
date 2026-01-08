@@ -18,7 +18,7 @@ Returns a **[Stores](Outlook.Stores.md)** collection object that represents all 
 
 ## Syntax
 
-_expression_. `Stores`
+_expression_.**Stores**
 
 _expression_ A variable that represents a [NameSpace](Outlook.NameSpace.md) object.
 

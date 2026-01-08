@@ -18,7 +18,7 @@ Determines whether to display banded rows, in which even rows are formatted diff
 
 ## Syntax
 
-_expression_. `HorizBanding`
+_expression_.**HorizBanding**
 
 _expression_ A variable that represents a [Table](PowerPoint.Table.md) object.
 

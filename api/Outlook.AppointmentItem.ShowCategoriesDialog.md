@@ -18,7 +18,7 @@ Displays the **Show Categories** dialog box, which allows you to select categori
 
 ## Syntax
 
-_expression_. `ShowCategoriesDialog`
+_expression_.**ShowCategoriesDialog**
 
 _expression_ A variable that represents an [AppointmentItem](Outlook.AppointmentItem.md) object.
 

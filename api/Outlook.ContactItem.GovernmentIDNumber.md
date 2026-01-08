@@ -18,7 +18,7 @@ Returns or sets a **String** representing the government ID number for the conta
 
 ## Syntax
 
-_expression_. `GovernmentIDNumber`
+_expression_.**GovernmentIDNumber**
 
 _expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 

@@ -18,7 +18,7 @@ Returns or sets a **String** representing the telephone number of the person who
 
 ## Syntax
 
-_expression_. `AssistantTelephoneNumber`
+_expression_.**AssistantTelephoneNumber**
 
 _expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 

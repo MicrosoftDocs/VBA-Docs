@@ -19,7 +19,7 @@ Sets the value of the active cell.
 
 ## Syntax
 
-_expression_. `SetActiveCell`( `_Value_`, `_Create_` )
+_expression_.**SetActiveCell**( `_Value_`, `_Create_` )
 
 _expression_ A variable that represents an **[Application](Project.Application.md)** object.
 

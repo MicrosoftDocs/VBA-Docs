@@ -18,7 +18,7 @@ Returns a **[Recipient](Outlook.Recipient.md)** object that represents the curre
 
 ## Syntax
 
-_expression_. `CurrentUser`
+_expression_.**CurrentUser**
 
 _expression_ A variable that represents an '[Account](Outlook.Account.md)' object.
 

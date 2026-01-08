@@ -19,7 +19,7 @@ Gets or sets a **[Filters](Project.Filter.md)** collection representing the task
 
 ## Syntax
 
-_expression_. `GlobalTaskFilters`
+_expression_.**GlobalTaskFilters**
 
 _expression_ A variable that represents an **[Application](Project.Application.md)** object.
 

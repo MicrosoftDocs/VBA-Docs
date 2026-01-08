@@ -19,7 +19,7 @@ ms.localizationpriority: medium
 
 ## Syntax
 
-_expression_. `ShowInMenu`
+_expression_.**ShowInMenu**
 
 _expression_ A variable that represents a [Table](./Project.Table.md) object.
 

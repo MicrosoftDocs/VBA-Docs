@@ -16,7 +16,7 @@ Gets or sets the default finish time of the project. Read/write **Variant**.
 
 ## Syntax
 
-_expression_. `DefaultFinishTime`
+_expression_.**DefaultFinishTime**
 
 _expression_ A variable that represents a **[Project](project.project.md)** object.
 

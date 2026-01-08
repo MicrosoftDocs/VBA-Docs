@@ -18,7 +18,7 @@ Gets or sets the fill style on which the **Style** object is based. Read/write.
 
 ## Syntax
 
-_expression_. `FillBasedOn`
+_expression_.**FillBasedOn**
 
 _expression_ A variable that represents a **[Style](Visio.Style.md)** object.
 

@@ -18,7 +18,7 @@ Returns a **[ProofreadingErrors](Word.proofreadingerrors.md)** collection that r
 
 ## Syntax
 
-_expression_. `GrammaticalErrors`
+_expression_.**GrammaticalErrors**
 
 _expression_ A variable that represents a **[Document](Word.Document.md)** object.
 

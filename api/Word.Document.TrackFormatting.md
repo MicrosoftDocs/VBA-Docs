@@ -18,7 +18,7 @@ Returns or sets a **Boolean** that represents whether to track formatting change
 
 ## Syntax
 
-_expression_. `TrackFormatting`
+_expression_.**TrackFormatting**
 
  _expression_ An expression that returns a [Document](./Word.Document.md) object.
 

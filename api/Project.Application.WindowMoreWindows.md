@@ -19,7 +19,7 @@ Displays the **Activate** dialog box, which prompts the user to activate a windo
 
 ## Syntax
 
-_expression_. `WindowMoreWindows`
+_expression_.**WindowMoreWindows**
 
 _expression_ A variable that represents an **[Application](Project.Application.md)** object.
 

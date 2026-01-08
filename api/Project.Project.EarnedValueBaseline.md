@@ -19,7 +19,7 @@ Gets or sets the baseline for the earned values of tasks. Read/write **PjBaselin
 
 ## Syntax
 
-_expression_. `EarnedValueBaseline`
+_expression_.**EarnedValueBaseline**
 
 _expression_ A variable that represents a **[Project](project.project.md)** object.
 

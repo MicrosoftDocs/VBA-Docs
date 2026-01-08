@@ -18,7 +18,7 @@ Returns or sets an [XlCategoryLabel](Word.xlcategorylabellevel.md) constant that
 
 ## Syntax
 
-_expression_. `CategoryLabelLevel`
+_expression_.**CategoryLabelLevel**
 
 _expression_ A variable that represents a [Chart](./Word.Chart.md) object.
 

@@ -18,7 +18,7 @@ Removes one level of indent for one or more paragraphs.
 
 ## Syntax
 
-_expression_. `Outdent`
+_expression_.**Outdent**
 
 _expression_ Required. A variable that represents a '[Paragraphs](Word.paragraphs.md)' collection.
 

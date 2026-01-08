@@ -19,7 +19,7 @@ Sets or returns the number of digits following the decimal separator character i
 
 ## Syntax
 
-_expression_. `CurrencyDigits`
+_expression_.**CurrencyDigits**
 
 _expression_ A variable that represents a **[Project](project.project.md)** object.
 

@@ -18,7 +18,7 @@ Returns the next object in the **[AddressEntries](Outlook.AddressEntries.md)** c
 
 ## Syntax
 
-_expression_. `GetNext`
+_expression_.**GetNext**
 
 _expression_ A variable that represents an [AddressEntries](Outlook.AddressEntries.md) object.
 

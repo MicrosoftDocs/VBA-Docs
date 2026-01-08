@@ -16,7 +16,7 @@ Gets or sets the value of the **Cost9** roll-down custom field for the assignmen
 
 ## Syntax
 
-_expression_. `Cost9`
+_expression_.**Cost9**
 
 _expression_ A variable that represents an [Assignment](./Project.Assignment.md) object.
 

@@ -18,7 +18,7 @@ Adds a guide to a group shape.
 
 ## Syntax
 
-_expression_. `AddGuide`( `_Type_` , `_xPos_` , `_yPos_` )
+_expression_.**AddGuide**( `_Type_` , `_xPos_` , `_yPos_` )
 
 _expression_ A variable that represents a **[Shape](Visio.Shape.md)** object.
 

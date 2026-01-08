@@ -18,7 +18,7 @@ Returns a **ListTemplate** object that represents the list formatting for the sp
 
 ## Syntax
 
-_expression_. `ListTemplate`
+_expression_.**ListTemplate**
 
 _expression_ Required. A variable that represents a '[Style](Word.Style.md)' object.
 

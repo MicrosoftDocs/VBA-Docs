@@ -18,7 +18,7 @@ Indicates whether a menu is hierarchical; that is, whether it contains a drop-do
 
 ## Syntax
 
-_expression_. `IsHierarchical`
+_expression_.**IsHierarchical**
 
 _expression_ A variable that represents a **[Menu](Visio.Menu.md)** object.
 

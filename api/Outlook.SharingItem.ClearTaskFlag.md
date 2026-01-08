@@ -18,7 +18,7 @@ Clears the **[SharingItem](Outlook.SharingItem.md)** object as a task.
 
 ## Syntax
 
-_expression_. `ClearTaskFlag`
+_expression_.**ClearTaskFlag**
 
  _expression_ An expression that returns a [SharingItem](Outlook.SharingItem.md) object.
 

@@ -18,7 +18,7 @@ ms.localizationpriority: medium
 
 ## Syntax
 
-_expression_. `DisplayLeftScrollBar`
+_expression_.**DisplayLeftScrollBar**
 
  _expression_ An expression that returns a **[Window](Word.Window.md)** object.
 

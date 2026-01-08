@@ -16,7 +16,7 @@ ms.localizationpriority: medium
 
 ## Syntax
 
-_expression_. `OutlineCode2`
+_expression_.**OutlineCode2**
 
 _expression_ A variable that represents a [Task](./Project.Task.md) object.
 

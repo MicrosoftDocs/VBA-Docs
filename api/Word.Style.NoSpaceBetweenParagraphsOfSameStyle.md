@@ -18,7 +18,7 @@ ms.localizationpriority: medium
 
 ## Syntax
 
-_expression_. `NoSpaceBetweenParagraphsOfSameStyle`
+_expression_.**NoSpaceBetweenParagraphsOfSameStyle**
 
  _expression_ An expression that returns a '[Style](Word.Style.md)' object.
 

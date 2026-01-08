@@ -18,7 +18,7 @@ ms.localizationpriority: medium
 
 ## Syntax
 
-_expression_. `FocusInMailHeader`
+_expression_.**FocusInMailHeader**
 
 _expression_ A variable that represents an **[Application](Word.Application.md)** object. 
 

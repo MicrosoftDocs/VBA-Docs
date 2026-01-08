@@ -16,7 +16,7 @@ ms.localizationpriority: medium
 
 ## Syntax
 
-_expression_. `OnlyLookUpTableCodes`
+_expression_.**OnlyLookUpTableCodes**
 
 _expression_ A variable that represents an [OutlineCode](./Project.OutlineCode.md) object.
 

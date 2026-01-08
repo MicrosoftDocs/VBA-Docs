@@ -18,7 +18,7 @@ Returns or sets a **WdLineEndingType** constant indicating how Microsoft Word ma
 
 ## Syntax
 
-_expression_. `TextLineEnding`
+_expression_.**TextLineEnding**
 
 _expression_ Required. A variable that represents a **[Document](Word.Document.md)** object.
 

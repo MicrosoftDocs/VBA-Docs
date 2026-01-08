@@ -19,7 +19,7 @@ ms.localizationpriority: medium
 
 ## Syntax
 
-_expression_. `LockFirstColumn`
+_expression_.**LockFirstColumn**
 
 _expression_ A variable that represents a [Table](./Project.Table.md) object.
 

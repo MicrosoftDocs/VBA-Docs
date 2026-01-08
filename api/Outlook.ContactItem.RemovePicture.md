@@ -18,7 +18,7 @@ Removes a picture from a **Contacts** item.
 
 ## Syntax
 
-_expression_. `RemovePicture`
+_expression_.**RemovePicture**
 
 _expression_ A variable that represents a [ContactItem](Outlook.ContactItem.md) object.
 

@@ -19,7 +19,7 @@ Gets a **[Views](Project.View.md)** collection representing the views of the pro
 
 ## Syntax
 
-_expression_. `Views`
+_expression_.**Views**
 
 _expression_ A variable that represents a **[Project](project.project.md)** object.
 

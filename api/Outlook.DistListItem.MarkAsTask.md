@@ -18,7 +18,7 @@ Marks a **[DistListItem](Outlook.DistListItem.md)** object as a task and assigns
 
 ## Syntax
 
-_expression_. `MarkAsTask`( `_MarkInterval_` )
+_expression_.**MarkAsTask**( `_MarkInterval_` )
 
  _expression_ An expression that returns a [DistListItem](Outlook.DistListItem.md) object.
 

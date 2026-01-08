@@ -18,7 +18,7 @@ Returns or sets a **Long** specifying the position in the view (ordinal) for the
 
 ## Syntax
 
-_expression_. `Ordinal`
+_expression_.**Ordinal**
 
 _expression_ A variable that represents a [TaskItem](Outlook.TaskItem.md) object.
 

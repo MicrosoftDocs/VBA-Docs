@@ -18,7 +18,7 @@ Clears all colors on the specified chart that don't follow the color style appli
 
 ## Syntax
 
-_expression_. `ClearToMatchColorStyle`
+_expression_.**ClearToMatchColorStyle**
 
 _expression_ A variable that represents a [Chart](./Word.Chart.md) object.
 

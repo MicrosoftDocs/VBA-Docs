@@ -18,7 +18,7 @@ ms.localizationpriority: medium
 
 ## Syntax
 
-_expression_. `Emboss`
+_expression_.**Emboss**
 
 _expression_ A variable that represents a **[Font](Word.Font.md)** object.
 

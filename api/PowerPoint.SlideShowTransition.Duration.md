@@ -18,7 +18,7 @@ Returns or sets the length of an animation in seconds. Read/write.
 
 ## Syntax
 
-_expression_. `Duration`
+_expression_.**Duration**
 
 _expression_ A variable that represents a [Timing](PowerPoint.Timing.md) object.
 

@@ -21,7 +21,7 @@ Gets or sets the default vertical callout position for members of the **GraphicI
 
 ## Syntax
 
-_expression_. `DataGraphicVerticalPosition`
+_expression_.**DataGraphicVerticalPosition**
 
  _expression_ An expression that returns a **[Master](Visio.Master.md)** object.
 

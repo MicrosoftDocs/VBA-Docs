@@ -18,7 +18,7 @@ Returns or sets a **Long** that represents the default drop-down item. Read/writ
 
 ## Syntax
 
-_expression_. `Default`
+_expression_.**Default**
 
 _expression_ Required. A variable that represents a '[DropDown](Word.DropDown.md)' object.
 

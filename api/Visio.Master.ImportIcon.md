@@ -18,7 +18,7 @@ Imports the icon for a **Master** object from a named file.
 
 ## Syntax
 
-_expression_. `ImportIcon`( `_FileName_` )
+_expression_.**ImportIcon**( `_FileName_` )
 
 _expression_ A variable that represents a **[Master](Visio.Master.md)** object.
 

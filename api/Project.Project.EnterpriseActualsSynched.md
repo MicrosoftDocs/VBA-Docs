@@ -19,7 +19,7 @@ ms.localizationpriority: medium
 
 ## Syntax
 
-_expression_. `EnterpriseActualsSynched`
+_expression_.**EnterpriseActualsSynched**
 
 _expression_ A variable that represents a **[Project](project.project.md)** object.
 

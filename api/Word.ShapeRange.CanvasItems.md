@@ -18,7 +18,7 @@ Returns a **[CanvasShapes](Word.CanvasShapes.md)** object that represents a coll
 
 ## Syntax
 
-_expression_. `CanvasItems`
+_expression_.**CanvasItems**
 
 _expression_ Required. A variable that represents a **[ShapeRange](Word.shaperange.md)** object.
 

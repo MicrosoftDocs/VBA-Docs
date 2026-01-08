@@ -18,7 +18,7 @@ Returns an **[OMathEqArray](Word.OMathEqArray.md)** object that represents an eq
 
 ## Syntax
 
-_expression_. `EqArray`
+_expression_.**EqArray**
 
  _expression_ An expression that returns an '[OMathFunction](Word.OMathFunction.md)' object.
 

@@ -18,7 +18,7 @@ Returns the current **MediaFormat** object. Read-only.
 
 ## Syntax
 
-_expression_. `MediaFormat`
+_expression_.**MediaFormat**
 
 _expression_ A variable that represents a **[ShapeRange](PowerPoint.ShapeRange.md)** object.
 

@@ -18,7 +18,7 @@ Returns a **[Dictionaries](Word.dictionaries.md)** object that represents the co
 
 ## Syntax
 
-_expression_. `CustomDictionaries`
+_expression_.**CustomDictionaries**
 
 _expression_ A variable that represents a '[Global](Word.Global.md)' object.
 

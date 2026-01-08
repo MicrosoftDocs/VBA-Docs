@@ -18,7 +18,7 @@ Occurs whenever a new explorer window is opened, either as a result of user acti
 
 ## Syntax
 
-_expression_. `NewExplorer`( `_Explorer_` )
+_expression_.**NewExplorer**( `_Explorer_` )
 
 _expression_ A variable that represents an [Explorers](Outlook.Explorers.md) object.
 

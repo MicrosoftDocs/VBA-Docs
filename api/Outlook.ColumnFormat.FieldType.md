@@ -18,7 +18,7 @@ Returns an **[OlUserPropertyType](Outlook.OlUserPropertyType.md)** constant whic
 
 ## Syntax
 
-_expression_. `FieldType`
+_expression_.**FieldType**
 
 _expression_ A variable that represents a [ColumnFormat](Outlook.ColumnFormat.md) object.
 

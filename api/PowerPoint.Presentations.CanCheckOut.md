@@ -18,7 +18,7 @@ Returns **True** if Microsoft PowerPoint can check out a specified presentation 
 
 ## Syntax
 
-_expression_. `CanCheckOut`( `_FileName_` )
+_expression_.**CanCheckOut**( `_FileName_` )
 
 _expression_ A variable that represents a [Presentations](PowerPoint.Presentations.md) object.
 

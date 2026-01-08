@@ -18,7 +18,7 @@ Returns a **[NavigationFolders](Outlook.NavigationFolders.md)** object that cont
 
 ## Syntax
 
-_expression_. `NavigationFolders`
+_expression_.**NavigationFolders**
 
 _expression_ A variable that represents a [NavigationGroup](Outlook.NavigationGroup.md) object.
 

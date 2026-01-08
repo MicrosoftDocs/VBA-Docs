@@ -18,7 +18,7 @@ Returns or sets a **Boolean** value that indicates whether a meeting request can
 
 ## Syntax
 
-_expression_. `Sendable`
+_expression_.**Sendable**
 
 _expression_ A variable that represents a '[Recipient](Outlook.Recipient.md)' object.
 

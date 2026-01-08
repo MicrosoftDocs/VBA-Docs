@@ -18,7 +18,7 @@ Returns or sets a **Long** value that represents the maximum length (in characte
 
 ## Syntax
 
-_expression_. `MaxLabelWidth`
+_expression_.**MaxLabelWidth**
 
 _expression_ A variable that represents a [TimelineView](Outlook.TimelineView.md) object.
 

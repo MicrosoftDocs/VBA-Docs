@@ -18,7 +18,7 @@ Returns or sets whether entries in a table of figures should be formatted as hyp
 
 ## Syntax
 
-_expression_. `UseHyperlinks`
+_expression_.**UseHyperlinks**
 
 _expression_ Required. A variable that represents a '[TableOfFigures](Word.TableOfFigures.md)' collection.
 

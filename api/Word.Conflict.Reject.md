@@ -18,7 +18,7 @@ Rejects the user change, removes the conflict, and accepts the server copy of th
 
 ## Syntax
 
-_expression_. `Reject`
+_expression_.**Reject**
 
  _expression_ An expression that returns a [Conflict](./Word.Conflict.md) object.
 
