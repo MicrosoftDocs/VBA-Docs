@@ -1,7 +1,7 @@
 ---
 title: Slides.Add method (PowerPoint)
 api_name:
-- PowerPoint.Slides.AddSlide
+- PowerPoint.Slides.Add
 ---
 
 
