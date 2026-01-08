@@ -13,8 +13,7 @@ ms.localizationpriority: medium
 
 # Application.Visible property (Access)
 
-Returns or sets whether a Microsoft Access application is minimized. Read/write **Boolean**.
-
+Returns or sets a **Boolean** value that determines whether the object is visible. Read/write.
 
 ## Syntax
 
