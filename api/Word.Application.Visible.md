@@ -13,8 +13,7 @@ ms.localizationpriority: medium
 
 # Application.Visible property (Word)
 
- **True** if the specified object is visible. Read/write **Boolean**.
-
+Returns or sets a **Boolean** value that determines whether the object is visible. Read/write.
 
 ## Syntax
 
