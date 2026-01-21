@@ -15,7 +15,6 @@ ms.localizationpriority: medium
 
 Returns or sets a **Boolean** value that determines whether the object is visible. Read/write.
 
-
 ## Syntax
 
 _expression_.**Visible**
