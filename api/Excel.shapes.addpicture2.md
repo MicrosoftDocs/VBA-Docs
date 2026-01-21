@@ -3,6 +3,8 @@ title: Shapes.AddPicture2 method (Excel)
 keywords: vbaxl10.chm638097
 f1_keywords:
 - vbaxl10.chm638097
+api_name:
+- Excel.shapes.addpicture2
 ms.assetid: 89990ad0-efbc-4262-9ab9-c00c7deac9b5
 ms.date: 05/15/2019
 ms.localizationpriority: medium

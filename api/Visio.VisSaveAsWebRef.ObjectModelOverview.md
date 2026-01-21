@@ -1,5 +1,7 @@
 ---
 title: Objects (Visio Save as Web)
+api_name:
+- Visio.VisSaveAsWebRef.ObjectModelOverview
 ms.assetid: 9c95b610-e0d0-4a2c-9d5a-1e9decb0dd91
 ms.date: 06/21/2019
 ms.localizationpriority: medium

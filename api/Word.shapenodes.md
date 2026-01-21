@@ -3,6 +3,8 @@ title: ShapeNodes object (Word)
 keywords: vbawd10.chm2510
 f1_keywords:
 - vbawd10.chm2510
+api_name:
+- Word.shapenodes
 ms.assetid: f2e13db2-102f-1a14-fd7a-d179f63e513e
 ms.date: 06/08/2017
 ms.localizationpriority: medium

@@ -3,6 +3,8 @@ title: ComboBox.BorderColor Property (Outlook Forms Script)
 keywords: olfm10.chm2000800
 f1_keywords:
 - olfm10.chm2000800
+api_name:
+- Outlook.combobox.bordercolor
 ms.assetid: 53a883aa-e488-a1d9-ef18-7afb1c046869
 ms.date: 06/08/2017
 ms.localizationpriority: medium

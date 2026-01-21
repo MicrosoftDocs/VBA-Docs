@@ -1,5 +1,7 @@
 ---
 title: ViewCtl.EnableRowPersistance Property (Outlook View Control)
+api_name:
+- Outlook.viewctl.enablerowpersistan
 ms.assetid: e1a16e69-50b0-30cc-49a4-5dbaaf417b8f
 ms.date: 06/08/2017
 ms.localizationpriority: medium

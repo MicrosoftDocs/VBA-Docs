@@ -3,6 +3,8 @@ title: PeopleView.ViewType property (Outlook)
 keywords: vbaol11.chm3583
 f1_keywords:
 - vbaol11.chm3583
+api_name:
+- Outlook.peopleview.viewtype
 ms.assetid: 8063a934-fa31-f71f-ec29-812c27ac5952
 ms.date: 06/08/2017
 ms.localizationpriority: medium

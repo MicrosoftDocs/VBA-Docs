@@ -1,5 +1,7 @@
 ---
 title: Shape.Vertices property (Project)
+api_name:
+- Project.shape.vertices
 ms.service: project-server
 ms.assetid: 3db780f4-5407-f83b-f379-e9cdcc6c4946
 ms.date: 06/08/2017

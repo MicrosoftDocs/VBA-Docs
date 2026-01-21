@@ -1,5 +1,7 @@
 ---
 title: TaskRequestItem.ReadComplete event (Outlook)
+api_name:
+- Outlook.taskrequestitem.readcomplete
 ms.assetid: 2f92c2d2-742c-42b0-47c3-b9694169d8db
 ms.date: 06/08/2017
 ms.localizationpriority: medium

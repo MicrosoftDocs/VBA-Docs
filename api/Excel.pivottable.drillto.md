@@ -3,6 +3,8 @@ title: PivotTable.DrillTo method (Excel)
 keywords: vbaxl10.chm235208
 f1_keywords:
 - vbaxl10.chm235208
+api_name:
+- Excel.pivottable.drillto
 ms.assetid: 9f700cba-2cf5-4b13-707f-254148ddf73a
 ms.date: 05/08/2019
 ms.localizationpriority: medium

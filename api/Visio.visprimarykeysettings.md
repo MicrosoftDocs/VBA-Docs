@@ -3,6 +3,8 @@ title: VisPrimaryKeySettings enumeration (Visio)
 keywords: vis_sdr.chm70465
 f1_keywords:
 - vis_sdr.chm70465
+api_name:
+- Visio.visprimarykeysettings
 ms.assetid: 715b0791-b566-3d78-f09d-bbe72c165380
 ms.date: 06/08/2017
 ms.localizationpriority: medium

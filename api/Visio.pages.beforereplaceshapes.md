@@ -1,5 +1,7 @@
 ---
 title: Pages.BeforeReplaceShapes event (Visio)
+api_name:
+- Visio.pages.beforereplaceshapes
 ms.assetid: 3f6dbc31-0583-dd67-0432-335d6df7a50c
 ms.date: 06/08/2017
 ms.localizationpriority: medium

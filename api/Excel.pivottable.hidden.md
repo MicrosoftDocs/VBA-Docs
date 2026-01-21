@@ -3,6 +3,8 @@ title: PivotTable.Hidden property (Excel)
 keywords: vbaxl10.chm235204
 f1_keywords:
 - vbaxl10.chm235204
+api_name:
+- Excel.pivottable.hidden
 ms.assetid: c0d3cc08-a144-afe1-7c05-260e459df49b
 ms.date: 05/08/2019
 ms.localizationpriority: medium

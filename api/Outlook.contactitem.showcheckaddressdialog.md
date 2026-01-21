@@ -3,6 +3,8 @@ title: ContactItem.ShowCheckAddressDialog method (Outlook)
 keywords: vbaol11.chm3592
 f1_keywords:
 - vbaol11.chm3592
+api_name:
+- Outlook.contactitem.showcheckaddressdialog
 ms.assetid: 773a1a3c-1247-fd48-399a-728766e56570
 ms.date: 06/08/2017
 ms.localizationpriority: medium

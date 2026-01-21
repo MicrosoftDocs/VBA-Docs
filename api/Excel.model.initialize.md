@@ -1,5 +1,7 @@
 ---
 title: Model.Initialize method (Excel)
+api_name:
+- Excel.model.initialize
 ms.assetid: fe85e378-26c6-e573-21c1-b8a3ccbe4d71
 ms.date: 04/30/2019
 ms.localizationpriority: medium

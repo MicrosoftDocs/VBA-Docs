@@ -3,6 +3,8 @@ title: ModelMeasure.Formula property (Excel)
 keywords: vbaxl10.chm978075
 f1_keywords:
 - vbaxl10.chm978075
+api_name:
+- Excel.modelmeasure.formula
 ms.assetid: fc6f6b80-1a80-3400-e98f-4cb74ad8e6e8
 ms.date: 05/01/2019
 ms.localizationpriority: medium

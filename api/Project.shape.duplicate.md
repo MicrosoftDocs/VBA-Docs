@@ -1,5 +1,7 @@
 ---
 title: Shape.Duplicate method (Project)
+api_name:
+- Project.shape.duplicate
 ms.service: project-server
 ms.assetid: 19917b35-589e-1cd3-e9eb-5efa13e02793
 ms.date: 06/08/2017

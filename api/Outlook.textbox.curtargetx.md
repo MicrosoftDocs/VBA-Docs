@@ -1,5 +1,7 @@
 ---
 title: TextBox.CurTargetX Property (Outlook Forms Script)
+api_name:
+- Outlook.textbox.curtargetx
 ms.assetid: 4d5a6a33-48c4-651d-29e6-d2f27f81a8db
 ms.date: 06/08/2017
 ms.localizationpriority: medium

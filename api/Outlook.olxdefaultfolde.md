@@ -1,5 +1,7 @@
 ---
 title: OlxDefaultFolders Enumeration (Outlook View Control)
+api_name:
+- Outlook.olxdefaultfolde
 ms.assetid: 92411a91-9b80-f283-a46b-19d2b9a6562e
 ms.date: 06/08/2017
 ms.localizationpriority: medium

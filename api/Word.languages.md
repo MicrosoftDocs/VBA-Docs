@@ -1,5 +1,7 @@
 ---
 title: Languages object (Word)
+api_name:
+- Word.languages
 ms.assetid: e3b1d3f3-de1b-d2fe-962f-5a589842d1b0
 ms.date: 06/08/2017
 ms.localizationpriority: medium

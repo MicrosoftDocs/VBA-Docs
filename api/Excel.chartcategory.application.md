@@ -3,6 +3,8 @@ title: ChartCategory.Application property (Excel)
 keywords: vbaxl10.chm945073
 f1_keywords:
 - vbaxl10.chm945073
+api_name:
+- Excel.chartcategory.application
 ms.assetid: 8515a380-5856-584d-255e-75e7778380ee
 ms.date: 04/20/2019
 ms.localizationpriority: medium

@@ -1,5 +1,7 @@
 ---
 title: OptionButton.Click Event (Outlook Forms Script)
+api_name:
+- Outlook.optionbutton.click
 ms.assetid: 96bb2ed3-ded1-86e2-f39d-2d651f160ce4
 ms.date: 06/08/2017
 ms.localizationpriority: medium

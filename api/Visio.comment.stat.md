@@ -1,5 +1,7 @@
 ---
 title: Comment.Stat property (Visio)
+api_name:
+- Visio.comment.stat
 ms.assetid: f457598c-af42-cb83-ecd2-4fd42898ea16
 ms.date: 06/08/2017
 ms.localizationpriority: medium

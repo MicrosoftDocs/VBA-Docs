@@ -3,6 +3,8 @@ title: TimelineViewState.ShowHeader property (Excel)
 keywords: vbaxl10.chm952073
 f1_keywords:
 - vbaxl10.chm952073
+api_name:
+- Excel.timelineviewstate.showheader
 ms.assetid: e8aff375-2df2-cb80-7803-fb2321df0e7c
 ms.date: 05/18/2019
 ms.localizationpriority: medium

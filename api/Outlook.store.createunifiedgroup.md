@@ -3,6 +3,8 @@ title: Store.CreateUnifiedGroup method (Outlook)
 keywords: vbaol11.chm3631
 f1_keywords:
 - vbaol11.chm3631
+api_name:
+- Outlook.store.createunifiedgroup
 ms.assetid: 45f70f08-f198-22a2-79c5-26dc3247e164
 ms.date: 06/08/2021
 ms.localizationpriority: medium

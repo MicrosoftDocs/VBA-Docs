@@ -1,5 +1,7 @@
 ---
 title: TextBox Properties (Outlook Forms Script)
+api_name:
+- Outlook.textbox
 ms.assetid: 90e18b6b-da77-4b0a-ae2e-2b44ebf1705f
 ms.date: 06/08/2017
 ms.localizationpriority: medium

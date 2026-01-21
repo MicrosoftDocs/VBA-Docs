@@ -1,5 +1,7 @@
 ---
 title: TextRange2.Cut method (PowerPoint)
+api_name:
+- PowerPoint.textrange2.cut
 ms.assetid: 65095843-c03d-4860-be7d-e50fc0e4366d
 ms.date: 06/08/2017
 ms.localizationpriority: medium

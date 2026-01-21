@@ -1,5 +1,7 @@
 ---
 title: ViewCtl.NewDistributionList Method (Outlook View Control)
+api_name:
+- Outlook.viewctl.newdistributionli
 ms.assetid: d80f4743-ef43-4ca7-dbe5-51debccb0036
 ms.date: 06/08/2017
 ms.localizationpriority: medium

@@ -1,5 +1,7 @@
 ---
 title: XlDisplayUnit enumeration (Word)
+api_name:
+- Word.xldisplayunit
 ms.assetid: 04aac046-f43b-58cc-54ca-0b65fa4259c0
 ms.date: 06/08/2017
 ms.localizationpriority: medium

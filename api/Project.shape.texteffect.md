@@ -1,5 +1,7 @@
 ---
 title: Shape.TextEffect property (Project)
+api_name:
+- Project.shape.texteffect
 ms.service: project-server
 ms.assetid: 12fa0951-e3a5-807e-bebb-bff82650d200
 ms.date: 06/08/2017

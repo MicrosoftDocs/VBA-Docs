@@ -3,6 +3,8 @@ title: ModelMeasure.AssociatedTable property (Excel)
 keywords: vbaxl10.chm978074
 f1_keywords:
 - vbaxl10.chm978074
+api_name:
+- Excel.modelmeasure.associatedtable
 ms.assetid: a51f7698-38a4-211e-3973-de9c8b62e66d
 ms.date: 05/01/2019
 ms.localizationpriority: medium

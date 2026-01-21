@@ -3,6 +3,8 @@ title: DataFeedConnection.Parent property (Excel)
 keywords: vbaxl10.chm927075
 f1_keywords:
 - vbaxl10.chm927075
+api_name:
+- Excel.datafeedconnection.parent
 ms.assetid: a6a3b535-782d-0015-d92c-9e40bbad5e08
 ms.date: 03/28/2019
 ms.localizationpriority: medium

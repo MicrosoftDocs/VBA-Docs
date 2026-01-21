@@ -3,6 +3,8 @@ title: ContentControl.RepeatingSectionItemTitle property (Word)
 keywords: vbawd10.chm266534947
 f1_keywords:
 - vbawd10.chm266534947
+api_name:
+- Word.contentcontrol.repeatingsectionitemtitle
 ms.assetid: 797ecfd0-c0d1-91c3-97b9-5fc838a569b7
 ms.date: 06/08/2017
 ms.localizationpriority: medium

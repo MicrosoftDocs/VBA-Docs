@@ -1,5 +1,7 @@
 ---
 title: Image.BorderColor Property (Outlook Forms Script)
+api_name:
+- Outlook.image.bordercolor
 ms.assetid: 5c0a373c-1ca7-1907-83b7-c24e9066e020
 ms.date: 06/08/2017
 ms.localizationpriority: medium

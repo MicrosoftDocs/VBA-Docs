@@ -3,6 +3,8 @@ title: VisInsertObjArgs enumeration (Visio)
 keywords: vis_sdr.chm70050
 f1_keywords:
 - vis_sdr.chm70050
+api_name:
+- Visio.visinsertobjargs
 ms.assetid: 5057dcd2-388b-9b57-cbfe-e6f68376a392
 ms.date: 06/08/2017
 ms.localizationpriority: medium

@@ -3,6 +3,8 @@ title: PeopleView object (Outlook)
 keywords: vbaol11.chm3589
 f1_keywords:
 - vbaol11.chm3589
+api_name:
+- Outlook.peopleview
 ms.assetid: 7b569709-5da8-a950-a0fb-9d64b520a21b
 ms.date: 06/08/2017
 ms.localizationpriority: medium

@@ -3,6 +3,8 @@ title: Theme object (PowerPoint)
 keywords: vbapp10.chm740000
 f1_keywords:
 - vbapp10.chm740000
+api_name:
+- PowerPoint.theme
 ms.assetid: f541387f-6cf4-1bae-97e4-534ef7fba040
 ms.date: 06/08/2017
 ms.localizationpriority: medium

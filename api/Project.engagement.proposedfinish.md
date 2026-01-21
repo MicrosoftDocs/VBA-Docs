@@ -1,5 +1,7 @@
 ---
 title: Engagement.ProposedFinish property (Project)
+api_name:
+- Project.engagement.proposedfinish
 ms.assetid: 2c2233f2-ee0b-5054-1300-ed4afdfd4c5f
 ms.date: 06/08/2017
 ms.service: project-server

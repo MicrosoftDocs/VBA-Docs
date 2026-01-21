@@ -3,6 +3,8 @@ title: ComboBox.LineCount Property (Outlook Forms Script)
 keywords: olfm10.chm2001390
 f1_keywords:
 - olfm10.chm2001390
+api_name:
+- Outlook.combobox.linecount
 ms.assetid: b3905939-7d7d-9393-9a44-961db37abe72
 ms.date: 06/08/2017
 ms.localizationpriority: medium

@@ -3,6 +3,8 @@ title: Worksheet.TableUpdate event (Excel)
 keywords: vbaxl10.chm502088
 f1_keywords:
 - vbaxl10.chm502088
+api_name:
+- Excel.worksheet.tableupdate
 ms.assetid: 69610de6-6884-d5f5-449d-ec1d766d530d
 ms.date: 05/30/2019
 ms.localizationpriority: medium

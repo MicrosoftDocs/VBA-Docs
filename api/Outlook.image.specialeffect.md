@@ -1,5 +1,7 @@
 ---
 title: Image.SpecialEffect Property (Outlook Forms Script)
+api_name:
+- Outlook.image.specialeffect
 ms.assetid: 174b4b27-a50f-da85-5ffe-91e268fce837
 ms.date: 06/08/2017
 ms.localizationpriority: medium

@@ -3,6 +3,8 @@ title: ComboBox.Style Property (Outlook Forms Script)
 keywords: olfm10.chm2001980
 f1_keywords:
 - olfm10.chm2001980
+api_name:
+- Outlook.combobox.style
 ms.assetid: 270554c3-0417-c261-4ccc-4bc28d4dfb5e
 ms.date: 06/08/2017
 ms.localizationpriority: medium

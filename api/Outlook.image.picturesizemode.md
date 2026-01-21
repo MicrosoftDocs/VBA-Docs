@@ -3,6 +3,8 @@ title: Image.PictureSizeMode Property (Outlook Forms Script)
 keywords: olfm10.chm2001930
 f1_keywords:
 - olfm10.chm2001930
+api_name:
+- Outlook.image.picturesizemode
 ms.assetid: f6d435e4-c05c-cc0f-fae2-c5a95743a658
 ms.date: 06/08/2017
 ms.localizationpriority: medium

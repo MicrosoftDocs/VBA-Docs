@@ -3,6 +3,8 @@ title: Series.IsFiltered property (PowerPoint)
 keywords: vbapp10.chm716009
 f1_keywords:
 - vbapp10.chm716009
+api_name:
+- PowerPoint.series.isfiltered
 ms.assetid: 1a349eac-0fa0-3bdb-cdf4-ab25b8e37189
 ms.date: 06/08/2017
 ms.localizationpriority: medium

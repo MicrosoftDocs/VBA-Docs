@@ -1,5 +1,7 @@
 ---
 title: Page.ScrollLeft Property (Outlook Forms Script)
+api_name:
+- Outlook.page.scrollleft
 ms.assetid: 8a8be730-5dca-5ad7-2f08-370fc0a95dd3
 ms.date: 06/08/2017
 ms.localizationpriority: medium

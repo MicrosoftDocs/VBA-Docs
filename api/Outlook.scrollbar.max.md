@@ -3,6 +3,8 @@ title: ScrollBar.Max Property (Outlook Forms Script)
 keywords: olfm10.chm2001510
 f1_keywords:
 - olfm10.chm2001510
+api_name:
+- Outlook.scrollbar.max
 ms.assetid: e87f11c7-2e94-2b29-39ba-b2f2121efed6
 ms.date: 06/08/2017
 ms.localizationpriority: medium

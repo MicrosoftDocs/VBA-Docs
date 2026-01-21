@@ -1,5 +1,7 @@
 ---
 title: Label.ForeColor Property (Outlook Forms Script)
+api_name:
+- Outlook.label.forecolor
 ms.assetid: 1454c43d-d4a7-20d9-2c88-2b1315d0efbb
 ms.date: 06/08/2017
 ms.localizationpriority: medium

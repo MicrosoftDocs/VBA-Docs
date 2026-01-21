@@ -3,6 +3,8 @@ title: ModelFormatWholeNumber.Application property (Excel)
 keywords: vbaxl10.chm987073
 f1_keywords:
 - vbaxl10.chm987073
+api_name:
+- Excel.modelformatwholenumber.application
 ms.assetid: a2dada26-38f7-967a-be69-3f75f911c05e
 ms.date: 05/01/2019
 ms.localizationpriority: medium

@@ -1,5 +1,7 @@
 ---
 title: OptionButton.Value Property (Outlook Forms Script)
+api_name:
+- Outlook.optionbutton.value
 ms.assetid: 2ab8a0e5-2b82-5542-3343-2b4599141ef8
 ms.date: 06/08/2017
 ms.localizationpriority: medium

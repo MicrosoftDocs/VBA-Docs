@@ -3,6 +3,8 @@ title: SoftEdgeFormat.Radius property (Publisher)
 keywords: vbapb10.chm9568258
 f1_keywords:
 - vbapb10.chm9568258
+api_name:
+- Publisher.softedgeformat.radius
 ms.assetid: 577920f2-2484-9f14-fdcd-09b5d6d5964c
 ms.date: 06/14/2019
 ms.localizationpriority: medium

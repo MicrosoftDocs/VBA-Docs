@@ -3,6 +3,8 @@ title: Engagement.Comments property (Project)
 keywords: vbapj.chm131657
 f1_keywords:
 - vbapj.chm131657
+api_name:
+- Project.engagement.comments
 ms.assetid: 3d0a850a-6edf-e359-4c2d-dbba1c7c5d6e
 ms.date: 06/08/2017
 ms.service: project-server

@@ -1,5 +1,7 @@
 ---
 title: CommandButton.AutoSize Property (Outlook Forms Script)
+api_name:
+- Outlook.commandbutton.autosize
 ms.assetid: 85bc6640-679a-955a-1bc0-9bab0691fae8
 ms.date: 06/08/2017
 ms.localizationpriority: medium

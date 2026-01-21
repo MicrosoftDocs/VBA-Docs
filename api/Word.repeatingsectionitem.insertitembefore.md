@@ -3,6 +3,8 @@ title: RepeatingSectionItem.InsertItemBefore method (Word)
 keywords: vbawd10.chm227999746
 f1_keywords:
 - vbawd10.chm227999746
+api_name:
+- Word.repeatingsectionitem.insertitembefore
 ms.assetid: 9848e875-56bb-6a68-f397-1ce8b59331dd
 ms.date: 06/08/2017
 ms.localizationpriority: medium

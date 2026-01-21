@@ -1,5 +1,7 @@
 ---
 title: ShapeRange.Rotation property (Project)
+api_name:
+- Project.shaperange.rotation
 ms.service: project-server
 ms.assetid: b7ceabbf-7cac-7413-608d-eb1c3477ff14
 ms.date: 06/08/2017

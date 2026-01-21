@@ -1,5 +1,7 @@
 ---
 title: ViewCtl.ForceUpdate Method (Outlook View Control)
+api_name:
+- Outlook.viewctl.forceupda
 ms.assetid: f4b9dab8-3ab8-437f-ea3e-011a12b0e7fb
 ms.date: 06/08/2017
 ms.localizationpriority: medium

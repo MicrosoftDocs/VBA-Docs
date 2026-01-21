@@ -3,6 +3,8 @@ title: Document.ReturnToLastReadPosition method (Word)
 keywords: vbawd10.chm158007868
 f1_keywords:
 - vbawd10.chm158007868
+api_name:
+- Word.document.returntolastreadposition
 ms.assetid: d12ddc74-4557-9d7e-c47e-36311c5a748f
 ms.date: 06/08/2017
 ms.localizationpriority: medium

@@ -1,5 +1,7 @@
 ---
 title: TextRange2.Lines property (PowerPoint)
+api_name:
+- PowerPoint.textrange2.lines
 ms.assetid: 09b52bda-e1ab-4cf2-bf38-25a156bf4c2e
 ms.date: 06/08/2017
 ms.localizationpriority: medium

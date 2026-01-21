@@ -3,6 +3,8 @@ title: SlicerCache.ListObject property (Excel)
 keywords: vbaxl10.chm897097
 f1_keywords:
 - vbaxl10.chm897097
+api_name:
+- Excel.slicercache.listobject
 ms.assetid: 914bb00c-e96c-c241-db9b-aa108856a98b
 ms.date: 05/16/2019
 ms.localizationpriority: medium

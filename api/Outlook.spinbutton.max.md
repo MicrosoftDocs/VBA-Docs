@@ -1,5 +1,7 @@
 ---
 title: SpinButton.Max Property (Outlook Forms Script)
+api_name:
+- Outlook.spinbutton.max
 ms.assetid: f8f77453-cc53-68c2-6574-bb2c665e1b76
 ms.date: 06/08/2017
 ms.localizationpriority: medium

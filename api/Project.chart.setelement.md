@@ -1,5 +1,7 @@
 ---
 title: Chart.SetElement method (Project)
+api_name:
+- Project.chart.setelement
 ms.service: project-server
 ms.assetid: ca4acf62-c090-f11c-2816-c5e1a75762fa
 ms.date: 06/08/2017

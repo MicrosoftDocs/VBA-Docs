@@ -3,6 +3,8 @@ title: ModelChanges.ColumnsAdded property (Excel)
 keywords: vbaxl10.chm960078
 f1_keywords:
 - vbaxl10.chm960078
+api_name:
+- Excel.modelchanges.columnsadded
 ms.assetid: bf8cbf3d-e7c9-7152-9e5f-206a01637a87
 ms.date: 05/01/2019
 ms.localizationpriority: medium

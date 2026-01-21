@@ -3,6 +3,8 @@ title: WorksheetFunction.Acoth method (Excel)
 keywords: vbaxl10.chm137422
 f1_keywords:
 - vbaxl10.chm137422
+api_name:
+- Excel.worksheetfunction.acoth
 ms.assetid: 05c3d305-b838-753a-fc8c-409b049f10ed
 ms.date: 05/22/2019
 ms.localizationpriority: medium

@@ -3,6 +3,8 @@ title: Refresh method (Excel Graph)
 keywords: vbagr10.chm3077631
 f1_keywords:
 - vbagr10.chm3077631
+api_name:
+- Excel.refresh
 ms.assetid: 6bb2b3ee-413e-ad0d-1b94-770b21c9ebcc
 ms.date: 04/09/2019
 ms.localizationpriority: medium

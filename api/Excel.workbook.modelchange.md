@@ -3,6 +3,8 @@ title: Workbook.ModelChange event (Excel)
 keywords: vbaxl10.chm503111
 f1_keywords:
 - vbaxl10.chm503111
+api_name:
+- Excel.workbook.modelchange
 ms.assetid: efe01088-273b-f9d8-ea3e-2ea1725ba7b2
 ms.date: 05/29/2019
 ms.localizationpriority: medium

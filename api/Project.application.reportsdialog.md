@@ -3,6 +3,8 @@ title: Application.ReportsDialog method (Project)
 keywords: vbapj.chm2197
 f1_keywords:
 - vbapj.chm2197
+api_name:
+- Project.application.reportsdialog
 ms.service: project-server
 ms.assetid: 92883d01-10bc-7465-1fe0-aa20ad762257
 ms.date: 06/08/2017

@@ -3,6 +3,8 @@ title: WorksheetFunction.Arabic method (Excel)
 keywords: vbaxl10.chm137456
 f1_keywords:
 - vbaxl10.chm137456
+api_name:
+- Excel.worksheetfunction.arabic
 ms.assetid: 663f2e5f-f64e-9408-c5e0-d76908e376ce
 ms.date: 05/22/2019
 ms.localizationpriority: medium

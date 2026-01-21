@@ -1,5 +1,7 @@
 ---
 title: Comment.CreateDate property (Visio)
+api_name:
+- Visio.comment.createdate
 ms.assetid: b643e13e-da12-a992-3a59-99b37f003fb9
 ms.date: 06/08/2017
 ms.localizationpriority: medium

@@ -3,6 +3,8 @@ title: Resource.EngagementDraftMaxUnits property (Project)
 keywords: vbapj.chm131801
 f1_keywords:
 - vbapj.chm131801
+api_name:
+- Project.resource.engagementdraftmaxunits
 ms.assetid: d3129ad0-2883-1294-d494-c1927121fc2c
 ms.date: 06/08/2017
 ms.service: project-server

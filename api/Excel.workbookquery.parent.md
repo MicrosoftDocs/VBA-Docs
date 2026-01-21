@@ -3,6 +3,8 @@ title: WorkbookQuery.Parent property (Excel)
 keywords: vbaxl10.chm973075
 f1_keywords:
 - vbaxl10.chm973075
+api_name:
+- Excel.workbookquery.parent
 ms.assetid: 246acb77-2a0b-b988-48ba-a18f0d6e0361
 ms.date: 05/18/2019
 ms.localizationpriority: medium

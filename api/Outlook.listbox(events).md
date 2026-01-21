@@ -1,5 +1,7 @@
 ---
 title: ListBox Events (Outlook Forms Script)
+api_name:
+- Outlook.listbox
 ms.assetid: 4c3dd952-3819-4b7e-b6a6-af2b055acfd9
 ms.date: 06/08/2017
 ms.localizationpriority: medium

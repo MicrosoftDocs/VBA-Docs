@@ -1,5 +1,7 @@
 ---
 title: Engagement.Delete method (Project)
+api_name:
+- Project.engagement.delete
 ms.assetid: 87c34ec9-157f-5f76-150d-036161f35363
 ms.date: 06/08/2017
 ms.service: project-server

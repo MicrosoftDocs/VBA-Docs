@@ -1,5 +1,7 @@
 ---
 title: ShapeRange.Glow property (Publisher)
+api_name:
+- Publisher.shaperange.glow
 ms.assetid: c9a479da-0b4e-9759-78ba-25006bd15ef9
 ms.date: 06/14/2019
 ms.localizationpriority: medium

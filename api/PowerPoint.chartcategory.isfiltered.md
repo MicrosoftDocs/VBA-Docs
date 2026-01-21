@@ -3,6 +3,8 @@ title: ChartCategory.IsFiltered property (PowerPoint)
 keywords: vbapp10.chm736003
 f1_keywords:
 - vbapp10.chm736003
+api_name:
+- PowerPoint.chartcategory.isfiltered
 ms.assetid: e337eee5-2885-7cee-1cfd-a36331a136de
 ms.date: 06/08/2017
 ms.localizationpriority: medium

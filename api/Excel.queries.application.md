@@ -3,6 +3,8 @@ title: Queries.Application property (Excel)
 keywords: vbaxl10.chm975073
 f1_keywords:
 - vbaxl10.chm975073
+api_name:
+- Excel.queries.application
 ms.assetid: 83778da5-1c09-1465-f651-88eb00179da3
 ms.date: 05/09/2019
 ms.localizationpriority: medium

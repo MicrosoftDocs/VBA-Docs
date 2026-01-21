@@ -1,5 +1,7 @@
 ---
 title: Enumerations (Outlook)
+api_name:
+- Outlook
 description: Documentation for the enumerations in the VBA Outlook object model.
 ms.assetid: 0ce0e2b8-0db5-4c49-bc21-bd7bae1bad4a
 ms.date: 09/05/2018

@@ -1,5 +1,7 @@
 ---
 title: Master.VisualBoundingBox method (Visio)
+api_name:
+- Visio.master.visualboundingbox
 ms.assetid: 478d636f-e741-cf6b-3e16-b5faf70a9f14
 ms.date: 06/08/2017
 ms.localizationpriority: medium

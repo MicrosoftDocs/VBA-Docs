@@ -3,6 +3,8 @@ title: Font.Ligature property (Publisher)
 keywords: vbapb10.chm5374007
 f1_keywords:
 - vbapb10.chm5374007
+api_name:
+- Publisher.font.ligature
 ms.assetid: 17847824-8761-42b7-8d0c-00345e8b5de8
 ms.date: 06/08/2019
 ms.localizationpriority: medium

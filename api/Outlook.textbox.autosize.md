@@ -1,5 +1,7 @@
 ---
 title: TextBox.AutoSize Property (Outlook Forms Script)
+api_name:
+- Outlook.textbox.autosize
 ms.assetid: d9ac63bf-a9ea-c00e-9b67-9cf204f4ebb1
 ms.date: 06/08/2017
 ms.localizationpriority: medium

@@ -3,6 +3,8 @@ title: ChartGroup.BinsUnderflowEnabled property (Word)
 keywords: vbawd10.chm263457616
 f1_keywords:
 - vbawd10.chm263457616
+api_name:
+- Word.chartgroup.binsunderflowenabled
 ms.assetid: 7ffe9878-2462-8d05-7158-24ba45107b31
 ms.date: 06/08/2017
 ms.localizationpriority: medium

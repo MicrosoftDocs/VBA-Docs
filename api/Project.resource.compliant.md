@@ -1,5 +1,7 @@
 ---
 title: Resource.Compliant property (Project)
+api_name:
+- Project.resource.compliant
 ms.assetid: 269f8d19-ff75-a017-9a84-1c5889918ea8
 ms.date: 06/08/2017
 ms.service: project-server

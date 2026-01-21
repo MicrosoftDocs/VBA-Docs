@@ -3,6 +3,8 @@ title: ModelChanges.Application property (Excel)
 keywords: vbaxl10.chm959073
 f1_keywords:
 - vbaxl10.chm959073
+api_name:
+- Excel.modelchanges.application
 ms.assetid: 4f2d358a-ed68-1b9d-8eeb-e502a02d0c7f
 ms.date: 05/01/2019
 ms.localizationpriority: medium

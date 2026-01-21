@@ -1,5 +1,7 @@
 ---
 title: PjCacheJobState enumeration (Project)
+api_name:
+- Project.pjcachejobstate
 ms.service: project-server
 ms.assetid: 48572c9f-8c3d-8f6d-f633-94f7fedcfe3b
 ms.date: 06/08/2017

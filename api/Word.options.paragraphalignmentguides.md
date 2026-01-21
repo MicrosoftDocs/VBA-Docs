@@ -3,6 +3,8 @@ title: Options.ParagraphAlignmentGuides property (Word)
 keywords: vbawd10.chm162988539
 f1_keywords:
 - vbawd10.chm162988539
+api_name:
+- Word.options.paragraphalignmentguides
 ms.assetid: 2880558f-9ca3-73d6-cc2d-881efbab8c57
 ms.date: 06/08/2017
 ms.localizationpriority: medium

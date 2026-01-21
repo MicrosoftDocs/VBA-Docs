@@ -3,6 +3,8 @@ title: TableObject.Application property (Excel)
 keywords: vbaxl10.chm915073
 f1_keywords:
 - vbaxl10.chm915073
+api_name:
+- Excel.tableobject.application
 ms.assetid: 7150f52d-c871-12bc-89d8-42993844187d
 ms.date: 04/19/2019
 ms.localizationpriority: medium

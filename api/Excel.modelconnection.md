@@ -3,6 +3,8 @@ title: ModelConnection object (Excel)
 keywords: vbaxl10.chm921072
 f1_keywords:
 - vbaxl10.chm921072
+api_name:
+- Excel.modelconnection
 ms.assetid: db1b8e2b-76f7-5a6f-b510-6a4d6c4e9857
 ms.date: 03/30/2019
 ms.localizationpriority: medium

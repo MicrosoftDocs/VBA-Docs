@@ -3,6 +3,8 @@ title: Application.OpenThemeFile method (PowerPoint)
 keywords: vbapp10.chm502070
 f1_keywords:
 - vbapp10.chm502070
+api_name:
+- PowerPoint.application.openthemefile
 ms.assetid: b34d5a6f-8cf8-ce6a-3c0c-c1ed43c413c6
 ms.date: 06/08/2017
 ms.localizationpriority: medium

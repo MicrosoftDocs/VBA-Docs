@@ -1,5 +1,7 @@
 ---
 title: CommandButton.ForeColor Property (Outlook Forms Script)
+api_name:
+- Outlook.commandbutton.forecolor
 ms.assetid: 229e3c11-905c-37ff-1d36-a0f85eb0c691
 ms.date: 06/08/2017
 ms.localizationpriority: medium

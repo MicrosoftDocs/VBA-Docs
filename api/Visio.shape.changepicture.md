@@ -1,5 +1,7 @@
 ---
 title: Shape.ChangePicture method (Visio)
+api_name:
+- Visio.shape.changepicture
 ms.assetid: 9193d802-cebd-2bfd-5f8e-400fac36c1a5
 ms.date: 06/08/2017
 ms.localizationpriority: medium

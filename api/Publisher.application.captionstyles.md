@@ -3,6 +3,8 @@ title: Application.CaptionStyles property (Publisher)
 keywords: vbapb10.chm131192
 f1_keywords:
 - vbapb10.chm131192
+api_name:
+- Publisher.application.captionstyles
 ms.assetid: d843db6a-b0e0-4ee0-a3ae-824c0c8391a9
 ms.date: 06/04/2019
 ms.localizationpriority: medium

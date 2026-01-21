@@ -3,6 +3,8 @@ title: CheckBox.AutoSize Property (Outlook Forms Script)
 keywords: olfm10.chm2000740
 f1_keywords:
 - olfm10.chm2000740
+api_name:
+- Outlook.checkbox.autosize
 ms.assetid: 1bbe09ed-bf8e-3126-e756-ddd6035400d8
 ms.date: 06/08/2017
 ms.localizationpriority: medium

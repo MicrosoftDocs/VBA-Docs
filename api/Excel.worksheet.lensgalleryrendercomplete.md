@@ -3,6 +3,8 @@ title: Worksheet.LensGalleryRenderComplete event (Excel)
 keywords: vbaxl10.chm502087
 f1_keywords:
 - vbaxl10.chm502087
+api_name:
+- Excel.worksheet.lensgalleryrendercomplete
 ms.assetid: 0e714e01-653b-35ea-455d-21510f59a165
 ms.date: 05/30/2019
 ms.localizationpriority: medium

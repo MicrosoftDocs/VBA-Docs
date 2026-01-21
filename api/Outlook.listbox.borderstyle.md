@@ -1,5 +1,7 @@
 ---
 title: ListBox.BorderStyle Property (Outlook Forms Script)
+api_name:
+- Outlook.listbox.borderstyle
 ms.assetid: 8b5996d0-4e03-f6e5-4418-0a28f4ac390d
 ms.date: 06/08/2017
 ms.localizationpriority: medium

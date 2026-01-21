@@ -3,6 +3,8 @@ title: PeopleView.Name property (Outlook)
 keywords: vbaol11.chm3580
 f1_keywords:
 - vbaol11.chm3580
+api_name:
+- Outlook.peopleview.name
 ms.assetid: d826eaaa-afb9-fd60-b044-6a901d08ead0
 ms.date: 06/08/2017
 ms.localizationpriority: medium

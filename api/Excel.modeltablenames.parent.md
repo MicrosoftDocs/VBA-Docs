@@ -3,6 +3,8 @@ title: ModelTableNames.Parent property (Excel)
 keywords: vbaxl10.chm953075
 f1_keywords:
 - vbaxl10.chm953075
+api_name:
+- Excel.modeltablenames.parent
 ms.assetid: c9d4c686-4f93-8734-0905-762e03ffc91f
 ms.date: 05/01/2019
 ms.localizationpriority: medium

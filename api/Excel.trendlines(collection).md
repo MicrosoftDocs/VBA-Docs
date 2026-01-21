@@ -3,6 +3,8 @@ title: Trendlines collection (Excel Graph)
 keywords: vbagr10.chm5208077
 f1_keywords:
 - vbagr10.chm5208077
+api_name:
+- Excel.trendlines
 ms.assetid: 4b12461a-65a2-c535-e98d-ff68ffa5919c
 ms.date: 04/06/2019
 ms.localizationpriority: medium

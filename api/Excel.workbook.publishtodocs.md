@@ -1,5 +1,7 @@
 ---
 title: Workbook.PublishToDocs method (Excel)
+api_name:
+- Excel.workbook.publishtodocs
 ms.assetid: 8e2a3208-6cfa-4aac-8c1c-76c0c826461a
 ms.date: 05/29/2019
 ms.localizationpriority: medium

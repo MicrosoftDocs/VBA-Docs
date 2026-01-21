@@ -1,5 +1,7 @@
 ---
 title: Image.MouseIcon Property (Outlook Forms Script)
+api_name:
+- Outlook.image.mouseicon
 ms.assetid: 1c580dce-1f38-7e40-2ddb-0bb9e6ae0f6c
 ms.date: 06/08/2017
 ms.localizationpriority: medium

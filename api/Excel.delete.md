@@ -3,6 +3,8 @@ title: Delete method (Excel Graph)
 keywords: vbagr10.chm3077617
 f1_keywords:
 - vbagr10.chm3077617
+api_name:
+- Excel.delete
 ms.assetid: f5bc861f-67e4-05e9-765f-d9ed34e0e936
 ms.date: 04/09/2019
 ms.localizationpriority: medium

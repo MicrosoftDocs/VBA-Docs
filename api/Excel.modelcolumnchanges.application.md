@@ -3,6 +3,8 @@ title: ModelColumnChanges.Application property (Excel)
 keywords: vbaxl10.chm967073
 f1_keywords:
 - vbaxl10.chm967073
+api_name:
+- Excel.modelcolumnchanges.application
 ms.assetid: da204577-a5b9-41c5-8d54-997d839e0f48
 ms.date: 05/01/2019
 ms.localizationpriority: medium

@@ -3,6 +3,8 @@ title: VisEventCodes enumeration (Visio)
 keywords: vis_sdr.chm70125
 f1_keywords:
 - vis_sdr.chm70125
+api_name:
+- Visio.viseventcodes
 ms.assetid: e6f205ab-803a-4d91-fa8a-0952bb9753cf
 ms.date: 06/08/2017
 ms.localizationpriority: medium

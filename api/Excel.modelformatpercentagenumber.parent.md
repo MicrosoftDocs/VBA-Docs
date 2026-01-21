@@ -3,6 +3,8 @@ title: ModelFormatPercentageNumber.Parent property (Excel)
 keywords: vbaxl10.chm989075
 f1_keywords:
 - vbaxl10.chm989075
+api_name:
+- Excel.modelformatpercentagenumber.parent
 ms.assetid: 6f277a29-dc95-aff7-5b6f-1ffda156e3f1
 ms.date: 05/01/2019
 ms.localizationpriority: medium

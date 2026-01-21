@@ -1,5 +1,7 @@
 ---
 title: PpResampleMediaProfile enumeration (PowerPoint)
+api_name:
+- PowerPoint.ppresamplemediaprofile
 ms.assetid: ceaa8213-e549-5dac-b082-af2f391d682c
 ms.date: 06/08/2017
 ms.localizationpriority: medium

@@ -3,6 +3,8 @@ title: ModelMeasure.Name property (Excel)
 keywords: vbaxl10.chm978073
 f1_keywords:
 - vbaxl10.chm978073
+api_name:
+- Excel.modelmeasure.name
 ms.assetid: 11e33619-17c3-3d78-29ad-048949fd06b3
 ms.date: 05/01/2019
 ms.localizationpriority: medium

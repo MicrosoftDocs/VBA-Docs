@@ -3,6 +3,8 @@ title: Application.Table method (Project)
 keywords: vbapj.chm2195
 f1_keywords:
 - vbapj.chm2195
+api_name:
+- Project.application.table
 ms.service: project-server
 ms.assetid: c00cd0bd-e653-685e-f646-b22f60a6e507
 ms.date: 06/08/2017

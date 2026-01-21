@@ -1,5 +1,7 @@
 ---
 title: CoauthMergeEvent.DownloadDocument property (Visio)
+api_name:
+- Visio.coauthmergeevent.downloaddocument
 ms.assetid: 19239540-cd5a-13ea-3b26-282ac3676abd
 ms.date: 06/08/2017
 ms.localizationpriority: medium

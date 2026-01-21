@@ -3,6 +3,8 @@ title: Broadcast.Pause method (Word)
 keywords: vbawd10.chm36438118
 f1_keywords:
 - vbawd10.chm36438118
+api_name:
+- Word.broadcast.pause
 ms.assetid: 1fc3d1c0-5916-0444-91f4-9c093d088537
 ms.date: 06/08/2017
 ms.localizationpriority: medium

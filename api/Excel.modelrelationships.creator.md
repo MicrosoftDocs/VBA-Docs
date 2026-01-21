@@ -3,6 +3,8 @@ title: ModelRelationships.Creator property (Excel)
 keywords: vbaxl10.chm939074
 f1_keywords:
 - vbaxl10.chm939074
+api_name:
+- Excel.modelrelationships.creator
 ms.assetid: ba20b1ac-c581-646e-1c83-b177aaa31bcc
 ms.date: 04/20/2019
 ms.localizationpriority: medium

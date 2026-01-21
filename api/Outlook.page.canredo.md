@@ -1,5 +1,7 @@
 ---
 title: Page.CanRedo Property (Outlook Forms Script)
+api_name:
+- Outlook.page.canredo
 ms.assetid: 2eb24d9e-975c-e921-20fc-8bb00982e449
 ms.date: 06/08/2017
 ms.localizationpriority: medium

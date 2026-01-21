@@ -1,5 +1,7 @@
 ---
 title: Font Properties (Outlook Forms Script)
+api_name:
+- Outlook.font
 ms.assetid: f23047af-f60d-4e4d-827b-90527189de95
 ms.date: 06/08/2017
 ms.localizationpriority: medium

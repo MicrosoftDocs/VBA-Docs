@@ -3,6 +3,8 @@ title: WorksheetFunction.Decimal method (Excel)
 keywords: vbaxl10.chm137445
 f1_keywords:
 - vbaxl10.chm137445
+api_name:
+- Excel.worksheetfunction.decimal
 ms.assetid: 22d4d99b-2705-1078-06de-48ab4affe70b
 ms.date: 05/22/2019
 ms.localizationpriority: medium

@@ -3,6 +3,8 @@ title: SeriesCollection collection (Excel Graph)
 keywords: vbagr10.chm131116
 f1_keywords:
 - vbagr10.chm131116
+api_name:
+- Excel.seriescollection
 ms.assetid: c5d00466-f7a1-7e6f-56e4-958901dbe3e3
 ms.date: 04/06/2019
 ms.localizationpriority: medium

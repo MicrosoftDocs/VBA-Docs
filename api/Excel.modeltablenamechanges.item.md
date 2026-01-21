@@ -3,6 +3,8 @@ title: ModelTableNameChanges.Item method (Excel)
 keywords: vbaxl10.chm958074
 f1_keywords:
 - vbaxl10.chm958074
+api_name:
+- Excel.modeltablenamechanges.item
 ms.assetid: 5371438c-15d8-dcca-3fea-db56b5f9e827
 ms.date: 05/01/2019
 ms.localizationpriority: medium

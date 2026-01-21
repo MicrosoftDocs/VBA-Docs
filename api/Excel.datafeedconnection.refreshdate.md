@@ -3,6 +3,8 @@ title: DataFeedConnection.RefreshDate property (Excel)
 keywords: vbaxl10.chm928078
 f1_keywords:
 - vbaxl10.chm928078
+api_name:
+- Excel.datafeedconnection.refreshdate
 ms.assetid: b555ba4a-4bf1-05d3-53d4-5d4115d50325
 ms.date: 03/28/2019
 ms.localizationpriority: medium

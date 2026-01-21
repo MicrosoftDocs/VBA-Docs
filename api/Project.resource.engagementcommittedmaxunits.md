@@ -3,6 +3,8 @@ title: Resource.EngagementCommittedMaxUnits property (Project)
 keywords: vbapj.chm131797
 f1_keywords:
 - vbapj.chm131797
+api_name:
+- Project.resource.engagementcommittedmaxunits
 ms.assetid: 571c89e8-5168-eb41-c995-77371a7e4039
 ms.date: 06/08/2017
 ms.service: project-server

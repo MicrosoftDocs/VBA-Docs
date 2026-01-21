@@ -3,6 +3,8 @@ title: ExchangeDistributionList.GetUnifiedGroup method (Outlook)
 keywords: vbaol11.chm3629
 f1_keywords:
 - vbaol11.chm3629
+api_name:
+- Outlook.exchangedistributionlist.getunifiedgroup
 ms.assetid: 9b129256-02c0-438a-9098-c0925ec60388
 ms.date: 06/08/2017
 ms.localizationpriority: medium

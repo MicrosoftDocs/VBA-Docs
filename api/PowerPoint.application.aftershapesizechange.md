@@ -3,6 +3,8 @@ title: Application.AfterShapeSizeChange event (PowerPoint)
 keywords: vbapp10.chm621033
 f1_keywords:
 - vbapp10.chm621033
+api_name:
+- PowerPoint.application.aftershapesizechange
 ms.assetid: 0c7eacc9-445a-b1ec-1f48-6d11fbb842e9
 ms.date: 06/05/2019
 ms.localizationpriority: medium

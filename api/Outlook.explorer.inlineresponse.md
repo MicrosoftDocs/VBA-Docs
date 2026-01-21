@@ -3,6 +3,8 @@ title: Explorer.InlineResponse event (Outlook)
 keywords: vbaol11.chm3596
 f1_keywords:
 - vbaol11.chm3596
+api_name:
+- Outlook.explorer.inlineresponse
 ms.assetid: 5dbaddbd-e6cd-4776-b417-c67f51b12812
 ms.date: 06/08/2017
 ms.localizationpriority: medium

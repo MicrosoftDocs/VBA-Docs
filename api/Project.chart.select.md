@@ -3,6 +3,8 @@ title: Chart.Select method (Project)
 keywords: vbapj.chm131638
 f1_keywords:
 - vbapj.chm131638
+api_name:
+- Project.chart.select
 ms.service: project-server
 ms.assetid: dd4e1adf-3098-61a3-5913-8debc7d01351
 ms.date: 06/08/2017

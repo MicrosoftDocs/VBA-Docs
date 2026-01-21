@@ -1,5 +1,7 @@
 ---
 title: XlFilterStatus enumeration (Excel)
+api_name:
+- Excel.xlfilterstatus
 ms.assetid: 996a9bbc-27d3-93a6-dc83-0b8a930f6e2a
 ms.date: 06/08/2017
 ms.localizationpriority: medium

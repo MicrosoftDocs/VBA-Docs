@@ -1,5 +1,7 @@
 ---
 title: Shape.ReplaceShape method (Visio)
+api_name:
+- Visio.shape.replaceshape
 ms.assetid: b330a63d-4e3f-0c4d-c38c-6ee806670225
 ms.date: 06/08/2017
 ms.localizationpriority: medium

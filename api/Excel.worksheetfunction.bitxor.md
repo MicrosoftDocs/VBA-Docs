@@ -3,6 +3,8 @@ title: WorksheetFunction.Bitxor method (Excel)
 keywords: vbaxl10.chm137437
 f1_keywords:
 - vbaxl10.chm137437
+api_name:
+- Excel.worksheetfunction.bitxor
 ms.assetid: a912f9fa-4887-c92b-5ca3-94105cd96e14
 ms.date: 05/22/2019
 ms.localizationpriority: medium

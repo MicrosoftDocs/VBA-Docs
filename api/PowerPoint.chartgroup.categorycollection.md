@@ -3,6 +3,8 @@ title: ChartGroup.CategoryCollection method (PowerPoint)
 keywords: vbapp10.chm692018
 f1_keywords:
 - vbapp10.chm692018
+api_name:
+- PowerPoint.chartgroup.categorycollection
 ms.assetid: 2a78756c-de98-0b7e-effb-b17552043d55
 ms.date: 06/08/2017
 ms.localizationpriority: medium

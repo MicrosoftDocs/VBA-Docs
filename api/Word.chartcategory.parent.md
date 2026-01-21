@@ -3,6 +3,8 @@ title: ChartCategory.Parent property (Word)
 keywords: vbawd10.chm143392918
 f1_keywords:
 - vbawd10.chm143392918
+api_name:
+- Word.chartcategory.parent
 ms.assetid: 9b1664a6-c030-a4ba-4903-e68380fd88f1
 ms.date: 06/08/2017
 ms.localizationpriority: medium

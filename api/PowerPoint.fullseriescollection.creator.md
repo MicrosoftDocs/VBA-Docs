@@ -3,6 +3,8 @@ title: FullSeriesCollection.Creator property (PowerPoint)
 keywords: vbapp10.chm735005
 f1_keywords:
 - vbapp10.chm735005
+api_name:
+- PowerPoint.fullseriescollection.creator
 ms.assetid: 702949e5-f543-ff2c-2b0b-39bb0487d051
 ms.date: 06/08/2017
 ms.localizationpriority: medium

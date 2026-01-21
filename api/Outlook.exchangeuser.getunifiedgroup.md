@@ -3,6 +3,8 @@ title: ExchangeUser.GetUnifiedGroup method (Outlook)
 keywords: vbaol11.chm3624
 f1_keywords:
 - vbaol11.chm3624
+api_name:
+- Outlook.exchangeuser.getunifiedgroup
 ms.assetid: ec0f58fa-969d-ed38-705b-2c99ccbf3c86
 ms.date: 06/08/2017
 ms.localizationpriority: medium

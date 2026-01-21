@@ -1,5 +1,7 @@
 ---
 title: TextRange2.Paste method (PowerPoint)
+api_name:
+- PowerPoint.textrange2.paste
 ms.assetid: 92fee603-b0e3-4b8b-964d-6e2a02bcc4c5
 ms.date: 06/08/2017
 ms.localizationpriority: medium

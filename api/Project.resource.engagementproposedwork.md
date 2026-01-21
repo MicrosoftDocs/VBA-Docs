@@ -3,6 +3,8 @@ title: Resource.EngagementProposedWork property (Project)
 keywords: vbapj.chm131807
 f1_keywords:
 - vbapj.chm131807
+api_name:
+- Project.resource.engagementproposedwork
 ms.assetid: cb1e6aae-cbc6-3ee0-9e0f-c75c9954ec66
 ms.date: 06/08/2017
 ms.service: project-server

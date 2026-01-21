@@ -1,5 +1,7 @@
 ---
 title: ListBox.IMEMode Property (Outlook Forms Script)
+api_name:
+- Outlook.listbox.imemode
 ms.assetid: c4e863d8-a581-2c45-92cc-1f6304692f76
 ms.date: 06/08/2017
 ms.localizationpriority: medium

@@ -1,5 +1,7 @@
 ---
 title: Frame Object Reference (Outlook Forms Script)
+api_name:
+- Outlook.frame.object
 ms.assetid: 8d9aa5df-aab0-40c1-b6ee-1957e1b76307
 ms.date: 06/08/2017
 ms.localizationpriority: medium

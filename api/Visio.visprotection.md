@@ -3,6 +3,8 @@ title: VisProtection enumeration (Visio)
 keywords: vis_sdr.chm70335
 f1_keywords:
 - vis_sdr.chm70335
+api_name:
+- Visio.visprotection
 ms.assetid: e998fe58-94a4-4191-70ba-1cdc25058f37
 ms.date: 06/08/2017
 ms.localizationpriority: medium

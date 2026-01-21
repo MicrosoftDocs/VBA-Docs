@@ -3,6 +3,8 @@ title: Player.Play method (PowerPoint)
 keywords: vbapp10.chm726003
 f1_keywords:
 - vbapp10.chm726003
+api_name:
+- PowerPoint.player.play
 ms.assetid: 784de3da-846e-fb9d-bc14-6ba453904d30
 ms.date: 08/02/2022
 ms.localizationpriority: medium

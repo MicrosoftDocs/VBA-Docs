@@ -3,6 +3,8 @@ title: SoundNote.Import method (Excel)
 keywords: vbaxl10.chm258074
 f1_keywords:
 - vbaxl10.chm258074
+api_name:
+- Excel.soundnote.import
 ms.assetid: c5fe13cb-aa95-c150-3290-b6a6e45616af
 ms.date: 05/16/2019
 ms.localizationpriority: medium

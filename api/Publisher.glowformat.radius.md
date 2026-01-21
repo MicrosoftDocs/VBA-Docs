@@ -3,6 +3,8 @@ title: GlowFormat.Radius property (Publisher)
 keywords: vbapb10.chm9633793
 f1_keywords:
 - vbapb10.chm9633793
+api_name:
+- Publisher.glowformat.radius
 ms.assetid: 50d1e9f5-65ed-7fb3-c05c-32487587baf1
 ms.date: 06/08/2019
 ms.localizationpriority: medium

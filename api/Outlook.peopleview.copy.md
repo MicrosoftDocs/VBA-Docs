@@ -3,6 +3,8 @@ title: PeopleView.Copy method (Outlook)
 keywords: vbaol11.chm3574
 f1_keywords:
 - vbaol11.chm3574
+api_name:
+- Outlook.peopleview.copy
 ms.assetid: e1e49cbb-46c3-7399-f4e8-480041c175c3
 ms.date: 06/08/2017
 ms.localizationpriority: medium

@@ -3,6 +3,8 @@ title: WorksheetFunction.Forecast_Linear method (Excel)
 keywords: vbaxl10.chm137471
 f1_keywords:
 - vbaxl10.chm137471
+api_name:
+- Excel.worksheetfunction.forecast_linear
 ms.assetid: 71b85d12-0c81-f82d-99fe-ad712f2530e5
 ms.date: 05/22/2019
 ms.localizationpriority: medium

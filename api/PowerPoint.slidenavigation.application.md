@@ -3,6 +3,8 @@ title: SlideNavigation.Application property (PowerPoint)
 keywords: vbapp10.chm741004
 f1_keywords:
 - vbapp10.chm741004
+api_name:
+- PowerPoint.slidenavigation.application
 ms.assetid: 6d253fc9-819b-1741-8ffa-ef84b2cd9cab
 ms.date: 06/08/2017
 ms.localizationpriority: medium

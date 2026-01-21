@@ -3,6 +3,8 @@ title: RepeatingSectionItemColl object (Word)
 keywords: vbawd10.chm2611
 f1_keywords:
 - vbawd10.chm2611
+api_name:
+- Word.repeatingsectionitemcoll
 ms.assetid: 00e9f159-99e2-834d-545c-708586eacef5
 ms.date: 06/08/2017
 ms.localizationpriority: medium

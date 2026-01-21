@@ -3,6 +3,8 @@ title: ModelFormatDecimalNumber object (Excel)
 keywords: vbaxl10.chm985072
 f1_keywords:
 - vbaxl10.chm985072
+api_name:
+- Excel.modelformatdecimalnumber
 ms.assetid: 1080e484-4ec0-abdc-6322-5d83201c59fb
 ms.date: 03/30/2019
 ms.localizationpriority: medium

@@ -3,6 +3,8 @@ title: WorksheetFunction.PDuration method (Excel)
 keywords: vbaxl10.chm137443
 f1_keywords:
 - vbaxl10.chm137443
+api_name:
+- Excel.worksheetfunction.pduration
 ms.assetid: 6f2e9e02-c629-82e7-bdba-5206a5d1cea5
 ms.date: 05/24/2019
 ms.localizationpriority: medium

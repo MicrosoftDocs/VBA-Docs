@@ -3,6 +3,8 @@ title: ModelMeasures.Parent property (Excel)
 keywords: vbaxl10.chm979075
 f1_keywords:
 - vbaxl10.chm979075
+api_name:
+- Excel.modelmeasures.parent
 ms.assetid: 61d981d0-bc20-efea-1fdd-49c6e188670c
 ms.date: 05/01/2019
 ms.localizationpriority: medium

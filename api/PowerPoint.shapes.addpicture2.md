@@ -1,5 +1,7 @@
 ---
 title: Shapes.AddPicture2 method (PowerPoint)
+api_name:
+- PowerPoint.shapes.addpicture2
 ms.assetid: 2956fa14-40bb-458a-aef1-caceab15e067
 ms.date: 06/08/2017
 ms.localizationpriority: medium

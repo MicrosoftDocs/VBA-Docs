@@ -1,5 +1,7 @@
 ---
 title: Borders object (Word)
+api_name:
+- Word.borders
 ms.assetid: 6dd1d4cc-2dcf-22c7-a299-4721a5543ba3
 ms.date: 06/08/2017
 ms.localizationpriority: medium

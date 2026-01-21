@@ -1,5 +1,7 @@
 ---
 title: Comments.Count property (Visio)
+api_name:
+- Visio.comments.count
 ms.assetid: abac02d5-5047-2c9d-5c5c-e2738f99a4a6
 ms.date: 06/08/2017
 ms.localizationpriority: medium

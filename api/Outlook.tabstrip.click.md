@@ -1,5 +1,7 @@
 ---
 title: TabStrip.Click Event (Outlook Forms Script)
+api_name:
+- Outlook.tabstrip.click
 ms.assetid: d79676f8-eb45-1fc0-e631-4f7f79e4f418
 ms.date: 06/08/2017
 ms.localizationpriority: medium

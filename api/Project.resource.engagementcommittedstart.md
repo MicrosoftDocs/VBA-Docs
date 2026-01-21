@@ -3,6 +3,8 @@ title: Resource.EngagementCommittedStart property (Project)
 keywords: vbapj.chm131798
 f1_keywords:
 - vbapj.chm131798
+api_name:
+- Project.resource.engagementcommittedstart
 ms.assetid: a9cd2ee0-aee7-2048-cf58-361e091ecf4c
 ms.date: 06/08/2017
 ms.service: project-server

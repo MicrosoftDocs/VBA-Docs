@@ -3,6 +3,8 @@ title: Frames.Count property (Word)
 keywords: vbawd10.chm153812993
 f1_keywords:
 - vbawd10.chm153812993
+api_name:
+- Word.frames.count
 ms.assetid: ee3b8562-468d-00ef-daed-6734799c7a84
 ms.date: 06/08/2017
 ms.localizationpriority: medium

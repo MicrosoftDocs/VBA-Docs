@@ -3,6 +3,8 @@ title: ModelColumnName object (Excel)
 keywords: vbaxl10.chm961072
 f1_keywords:
 - vbaxl10.chm961072
+api_name:
+- Excel.modelcolumnname
 ms.assetid: 63a5eefe-b54d-0075-c116-8a752c881834
 ms.date: 03/30/2019
 ms.localizationpriority: medium

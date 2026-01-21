@@ -1,5 +1,7 @@
 ---
 title: ViewCtl.NewForm Method (Outlook View Control)
+api_name:
+- Outlook.viewctl.newfo
 ms.assetid: 196834c0-eb2b-56a1-3f40-d2ed7e0fa792
 ms.date: 06/08/2017
 ms.localizationpriority: medium

@@ -1,5 +1,7 @@
 ---
 title: InvisibleApp.BeforeReplaceShapes event (Visio)
+api_name:
+- Visio.invisibleapp.beforereplaceshapes
 ms.assetid: bd0e37ca-887a-4d53-3b0c-3339492df3dd
 ms.date: 06/25/2019
 ms.localizationpriority: medium

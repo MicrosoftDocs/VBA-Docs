@@ -1,5 +1,7 @@
 ---
 title: ListBox.TopIndex Property (Outlook Forms Script)
+api_name:
+- Outlook.listbox.topindex
 ms.assetid: cc8b411b-25f5-80c9-77f3-a623a958e2fe
 ms.date: 06/08/2017
 ms.localizationpriority: medium

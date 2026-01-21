@@ -3,6 +3,8 @@ title: WorksheetFunction.Munit method (Excel)
 keywords: vbaxl10.chm137455
 f1_keywords:
 - vbaxl10.chm137455
+api_name:
+- Excel.worksheetfunction.munit
 ms.assetid: fe2f94b4-ca4b-0219-0fa0-abf7bd3fa220
 ms.date: 05/24/2019
 ms.localizationpriority: medium

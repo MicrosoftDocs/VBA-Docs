@@ -1,5 +1,7 @@
 ---
 title: Selection.VisualBoundingBox method (Visio)
+api_name:
+- Visio.selection.visualboundingbox
 ms.assetid: ae107bd8-ac99-6303-2820-a5afb19165a3
 ms.date: 06/08/2017
 ms.localizationpriority: medium

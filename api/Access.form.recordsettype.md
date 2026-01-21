@@ -3,6 +3,8 @@ title: Form.RecordsetType property (Access)
 keywords: vbaac10.chm13361
 f1_keywords:
 - vbaac10.chm13361
+api_name:
+- Access.form.recordsettype
 ms.assetid: 29690204-1014-961d-a969-25c44ca5fc6e
 ms.date: 03/15/2019
 ms.localizationpriority: medium

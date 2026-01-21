@@ -1,5 +1,7 @@
 ---
 title: OptionButton.Picture Property (Outlook Forms Script)
+api_name:
+- Outlook.optionbutton.picture
 ms.assetid: 7592d268-506b-0d8b-1224-8069d2ab3a74
 ms.date: 06/08/2017
 ms.localizationpriority: medium

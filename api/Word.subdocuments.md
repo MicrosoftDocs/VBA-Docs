@@ -3,6 +3,8 @@ title: Subdocuments object (Word)
 keywords: vbawd10.chm2440
 f1_keywords:
 - vbawd10.chm2440
+api_name:
+- Word.subdocuments
 ms.assetid: 8e14fced-19b3-2794-39a3-9e5ec15dd0ad
 ms.date: 06/08/2017
 ms.localizationpriority: medium

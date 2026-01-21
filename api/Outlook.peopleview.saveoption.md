@@ -3,6 +3,8 @@ title: PeopleView.SaveOption property (Outlook)
 keywords: vbaol11.chm3581
 f1_keywords:
 - vbaol11.chm3581
+api_name:
+- Outlook.peopleview.saveoption
 ms.assetid: 9188ae0d-ef84-1f5c-43e2-8d28cf31782d
 ms.date: 06/08/2017
 ms.localizationpriority: medium

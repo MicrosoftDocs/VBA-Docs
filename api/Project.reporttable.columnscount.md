@@ -1,5 +1,7 @@
 ---
 title: ReportTable.ColumnsCount property (Project)
+api_name:
+- Project.reporttable.columnscount
 ms.service: project-server
 ms.assetid: 455bb520-2226-1fe2-76dc-1ab12e96cb33
 ms.date: 06/08/2017

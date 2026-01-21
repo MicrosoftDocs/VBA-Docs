@@ -1,5 +1,7 @@
 ---
 title: Tab.Tag Property (Outlook Forms Script)
+api_name:
+- Outlook.tab.tag
 ms.assetid: b1745b94-6d04-c425-618c-7af915ca8691
 ms.date: 06/08/2017
 ms.localizationpriority: medium

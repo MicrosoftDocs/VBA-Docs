@@ -1,5 +1,7 @@
 ---
 title: RevisionsFilter object (Word)
+api_name:
+- Word.revisionsfilter
 ms.assetid: 245fcfc5-dcd2-935a-8569-51e611e98c45
 ms.date: 06/08/2017
 ms.localizationpriority: medium

@@ -3,6 +3,8 @@ title: VisPageSizingBehaviors enumeration (Visio)
 keywords: vis_sdr.chm70445
 f1_keywords:
 - vis_sdr.chm70445
+api_name:
+- Visio.vispagesizingbehaviors
 ms.assetid: 77ee44b4-2397-e0c4-6146-8fb74432e180
 ms.date: 06/08/2017
 ms.localizationpriority: medium

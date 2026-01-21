@@ -3,6 +3,8 @@ title: Master.Guides property (PowerPoint)
 keywords: vbapp10.chm533022
 f1_keywords:
 - vbapp10.chm533022
+api_name:
+- PowerPoint.master.guides
 ms.assetid: 75dabe07-406f-6770-db21-57fb8416d095
 ms.date: 06/08/2017
 ms.localizationpriority: medium

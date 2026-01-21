@@ -1,5 +1,7 @@
 ---
 title: TabStrip.ForeColor Property (Outlook Forms Script)
+api_name:
+- Outlook.tabstrip.forecolor
 ms.assetid: 52faefae-54fe-ffe2-7140-dafc93187d16
 ms.date: 06/08/2017
 ms.localizationpriority: medium

@@ -1,5 +1,7 @@
 ---
 title: TextRange2.Select method (PowerPoint)
+api_name:
+- PowerPoint.textrange2.select
 ms.assetid: 7c46efea-8015-45f7-9b23-ad872fbe3198
 ms.date: 06/08/2017
 ms.localizationpriority: medium

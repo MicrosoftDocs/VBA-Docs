@@ -3,6 +3,8 @@ title: Tabs.Remove Method (Outlook Forms Script)
 keywords: olfm10.chm2000360
 f1_keywords:
 - olfm10.chm2000360
+api_name:
+- Outlook.tabs.remove
 ms.assetid: f0fa694c-112a-b85f-b1c8-74b935fe2609
 ms.date: 06/08/2017
 ms.localizationpriority: medium

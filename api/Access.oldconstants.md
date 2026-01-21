@@ -3,6 +3,8 @@ title: OldConstants enumeration (Access)
 keywords: vbaac10.chm10005
 f1_keywords:
 - vbaac10.chm10005
+api_name:
+- Access.oldconstants
 ms.assetid: 8afd7473-c726-f089-4e7c-7d59adae2707
 ms.date: 06/08/2019
 ms.localizationpriority: medium

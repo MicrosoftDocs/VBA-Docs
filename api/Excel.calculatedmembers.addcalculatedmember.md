@@ -3,6 +3,8 @@ title: CalculatedMembers.AddCalculatedMember method (Excel)
 keywords: vbaxl10.chm684079
 f1_keywords:
 - vbaxl10.chm684079
+api_name:
+- Excel.calculatedmembers.addcalculatedmember
 ms.assetid: 61e3fdf5-f7e3-9d7f-4449-1f4408251422
 ms.date: 04/13/2019
 ms.localizationpriority: medium

@@ -1,5 +1,7 @@
 ---
 title: PpPlayerState enumeration (PowerPoint)
+api_name:
+- PowerPoint.ppplayerstate
 ms.assetid: ea70a230-a2bf-604f-e326-68b9f1beec00
 ms.date: 06/08/2017
 ms.localizationpriority: medium

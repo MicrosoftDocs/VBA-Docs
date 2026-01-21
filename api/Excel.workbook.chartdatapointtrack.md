@@ -3,6 +3,8 @@ title: Workbook.ChartDataPointTrack property (Excel)
 keywords: vbaxl10.chm199277
 f1_keywords:
 - vbaxl10.chm199277
+api_name:
+- Excel.workbook.chartdatapointtrack
 ms.assetid: 0aa2b1c1-0bba-f514-6158-00cdb4a5747e
 ms.date: 05/29/2019
 ms.localizationpriority: medium

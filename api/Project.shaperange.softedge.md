@@ -1,5 +1,7 @@
 ---
 title: ShapeRange.SoftEdge property (Project)
+api_name:
+- Project.shaperange.softedge
 ms.service: project-server
 ms.assetid: 783a7bc9-5452-0407-8093-3c864205cfed
 ms.date: 06/08/2017

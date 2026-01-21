@@ -1,5 +1,7 @@
 ---
 title: ListLevels object (Word)
+api_name:
+- Word.listlevels
 ms.assetid: 9165c008-c066-8d3e-9254-d9e0ab2ec091
 ms.date: 06/08/2017
 ms.localizationpriority: medium

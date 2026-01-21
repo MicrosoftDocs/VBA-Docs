@@ -3,6 +3,8 @@ title: Font.Fill property (Publisher)
 keywords: vbapb10.chm5374018
 f1_keywords:
 - vbapb10.chm5374018
+api_name:
+- Publisher.font.fill
 ms.assetid: c38ac8a3-2673-c968-9fcb-ebd5545d4da4
 ms.date: 06/08/2019
 ms.localizationpriority: medium

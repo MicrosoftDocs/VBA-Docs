@@ -3,6 +3,8 @@ title: TextConnection.Parent property (Excel)
 keywords: vbaxl10.chm925075
 f1_keywords:
 - vbaxl10.chm925075
+api_name:
+- Excel.textconnection.parent
 ms.assetid: 8ccfc526-433c-06a9-ff47-41de5b512085
 ms.date: 05/17/2019
 ms.localizationpriority: medium

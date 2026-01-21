@@ -3,6 +3,8 @@ title: Workbook.CreateForecastSheet method (Excel)
 keywords: vbaxl10.chm199280
 f1_keywords:
 - vbaxl10.chm199280
+api_name:
+- Excel.workbook.createforecastsheet
 ms.assetid: bec7b60b-7840-af15-6d5f-f5c184ea7aee
 ms.date: 05/29/2019
 ms.localizationpriority: medium

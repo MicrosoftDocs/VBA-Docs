@@ -3,6 +3,8 @@ title: TableObject.Refresh method (Excel)
 keywords: vbaxl10.chm916080
 f1_keywords:
 - vbaxl10.chm916080
+api_name:
+- Excel.tableobject.refresh
 ms.assetid: 5f7e81a8-dab9-1434-1a9f-8abe86e09f20
 ms.date: 04/19/2019
 ms.localizationpriority: medium

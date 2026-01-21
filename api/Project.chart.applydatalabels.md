@@ -1,5 +1,7 @@
 ---
 title: Chart.ApplyDataLabels method (Project)
+api_name:
+- Project.chart.applydatalabels
 ms.service: project-server
 ms.assetid: cda031a4-ed86-1ec8-583d-44767785e3a1
 ms.date: 06/08/2017

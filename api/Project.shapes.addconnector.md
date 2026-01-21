@@ -1,5 +1,7 @@
 ---
 title: Shapes.AddConnector method (Project)
+api_name:
+- Project.shapes.addconnector
 ms.service: project-server
 ms.assetid: bfd75cf3-f70b-8d19-bf28-94e2f4b227dd
 ms.date: 06/08/2017

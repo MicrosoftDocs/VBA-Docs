@@ -3,6 +3,8 @@ title: ModelMeasureName.Creator property (Excel)
 keywords: vbaxl10.chm969074
 f1_keywords:
 - vbaxl10.chm969074
+api_name:
+- Excel.modelmeasurename.creator
 ms.assetid: 60c5ed37-0a61-76e8-fc5e-2c5fdf084cbe
 ms.date: 05/01/2019
 ms.localizationpriority: medium

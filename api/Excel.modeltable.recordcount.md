@@ -3,6 +3,8 @@ title: ModelTable.RecordCount property (Excel)
 keywords: vbaxl10.chm934079
 f1_keywords:
 - vbaxl10.chm934079
+api_name:
+- Excel.modeltable.recordcount
 ms.assetid: 7590a472-d250-5df1-a48d-bed99b5c2665
 ms.date: 05/01/2019
 ms.localizationpriority: medium

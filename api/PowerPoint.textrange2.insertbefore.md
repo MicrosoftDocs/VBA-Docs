@@ -1,5 +1,7 @@
 ---
 title: TextRange2.InsertBefore method (PowerPoint)
+api_name:
+- PowerPoint.textrange2.insertbefore
 ms.assetid: 4b74a364-52e7-4b43-b375-5a2771289fb7
 ms.date: 06/08/2017
 ms.localizationpriority: medium

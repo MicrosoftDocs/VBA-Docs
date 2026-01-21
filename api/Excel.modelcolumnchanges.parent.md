@@ -3,6 +3,8 @@ title: ModelColumnChanges.Parent property (Excel)
 keywords: vbaxl10.chm967075
 f1_keywords:
 - vbaxl10.chm967075
+api_name:
+- Excel.modelcolumnchanges.parent
 ms.assetid: 475730cf-ad8e-ac9a-87a6-91e7602aa805
 ms.date: 05/01/2019
 ms.localizationpriority: medium

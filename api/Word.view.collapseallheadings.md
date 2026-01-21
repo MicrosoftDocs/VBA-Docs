@@ -3,6 +3,8 @@ title: View.CollapseAllHeadings method (Word)
 keywords: vbawd10.chm161809492
 f1_keywords:
 - vbawd10.chm161809492
+api_name:
+- Word.view.collapseallheadings
 ms.assetid: 04c9b1a9-68ef-8ecb-72ee-52b4d25fbf0a
 ms.date: 06/08/2017
 ms.localizationpriority: medium

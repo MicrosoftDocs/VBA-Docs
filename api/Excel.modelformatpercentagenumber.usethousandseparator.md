@@ -3,6 +3,8 @@ title: ModelFormatPercentageNumber.UseThousandSeparator property (Excel)
 keywords: vbaxl10.chm990073
 f1_keywords:
 - vbaxl10.chm990073
+api_name:
+- Excel.modelformatpercentagenumber.usethousandseparator
 ms.assetid: f5f585ed-58db-f44a-525e-5c44c1a32168
 ms.date: 05/01/2019
 ms.localizationpriority: medium

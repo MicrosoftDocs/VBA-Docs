@@ -1,5 +1,7 @@
 ---
 title: ScrollBar.ForeColor Property (Outlook Forms Script)
+api_name:
+- Outlook.scrollbar.forecolor
 ms.assetid: c0e3b0a9-3f0d-4df7-9f27-a44f339a2f47
 ms.date: 06/08/2017
 ms.localizationpriority: medium

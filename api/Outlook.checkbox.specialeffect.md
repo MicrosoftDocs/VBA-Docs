@@ -3,6 +3,8 @@ title: CheckBox.SpecialEffect Property (Outlook Forms Script)
 keywords: olfm10.chm2001960
 f1_keywords:
 - olfm10.chm2001960
+api_name:
+- Outlook.checkbox.specialeffect
 ms.assetid: 98b61ff8-95c9-42cb-aa71-25053f0e6644
 ms.date: 06/08/2017
 ms.localizationpriority: medium

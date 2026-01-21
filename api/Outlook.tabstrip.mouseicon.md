@@ -1,5 +1,7 @@
 ---
 title: TabStrip.MouseIcon Property (Outlook Forms Script)
+api_name:
+- Outlook.tabstrip.mouseicon
 ms.assetid: 9a534ed5-3f51-0dd0-5145-099eb86d415c
 ms.date: 06/08/2017
 ms.localizationpriority: medium

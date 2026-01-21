@@ -3,6 +3,8 @@ title: Workbook.PivotTables property (Excel)
 keywords: vbaxl10.chm199275
 f1_keywords:
 - vbaxl10.chm199275
+api_name:
+- Excel.workbook.pivottables
 ms.assetid: b11795e0-22c8-f089-c59a-5e3d7a09d5de
 ms.date: 05/29/2019
 ms.localizationpriority: medium

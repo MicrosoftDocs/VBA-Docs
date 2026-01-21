@@ -1,5 +1,7 @@
 ---
 title: Reports.IsPresent method (Project)
+api_name:
+- Project.reports.ispresent
 ms.service: project-server
 ms.assetid: 6040d01a-d187-2f79-945d-1e85b3539a51
 ms.date: 06/08/2017

@@ -3,6 +3,8 @@ title: WorksheetFunction.ImSec method (Excel)
 keywords: vbaxl10.chm137433
 f1_keywords:
 - vbaxl10.chm137433
+api_name:
+- Excel.worksheetfunction.imsec
 ms.assetid: 3a8097e7-2263-fee0-adba-500ef682141b
 ms.date: 05/23/2019
 ms.localizationpriority: medium

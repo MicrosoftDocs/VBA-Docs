@@ -1,5 +1,7 @@
 ---
 title: PjReportLayoutTemplateId enumeration (Project)
+api_name:
+- Project.pjreportlayouttemplateid
 ms.service: project-server
 ms.assetid: 326ab6cf-3541-9dd6-8fd1-6f9d630095ea
 ms.date: 06/08/2017

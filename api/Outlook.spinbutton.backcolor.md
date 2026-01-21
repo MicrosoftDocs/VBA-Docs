@@ -1,5 +1,7 @@
 ---
 title: SpinButton.BackColor Property (Outlook Forms Script)
+api_name:
+- Outlook.spinbutton.backcolor
 ms.assetid: 64de2a16-04a8-2a27-96a9-51bcd5962e2d
 ms.date: 06/08/2017
 ms.localizationpriority: medium

@@ -3,6 +3,8 @@ title: TextConnection.TextFileStartRow property (Excel)
 keywords: vbaxl10.chm926086
 f1_keywords:
 - vbaxl10.chm926086
+api_name:
+- Excel.textconnection.textfilestartrow
 ms.assetid: da44f97b-5733-6f0a-d90b-c16adb4fecbe
 ms.date: 05/17/2019
 ms.localizationpriority: medium

@@ -3,6 +3,8 @@ title: TextConnection.TextFileSemicolonDelimiter property (Excel)
 keywords: vbaxl10.chm926084
 f1_keywords:
 - vbaxl10.chm926084
+api_name:
+- Excel.textconnection.textfilesemicolondelimiter
 ms.assetid: 0d3ef2f5-cf85-ad26-3ef9-5c4d3f7f1f00
 ms.date: 05/17/2019
 ms.localizationpriority: medium

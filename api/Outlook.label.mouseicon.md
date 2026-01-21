@@ -1,5 +1,7 @@
 ---
 title: Label.MouseIcon Property (Outlook Forms Script)
+api_name:
+- Outlook.label.mouseicon
 ms.assetid: 6cbc5361-fd1a-5990-31c8-b294fee9dbb7
 ms.date: 06/08/2017
 ms.localizationpriority: medium

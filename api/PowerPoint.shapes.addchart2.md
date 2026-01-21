@@ -1,5 +1,7 @@
 ---
 title: Shapes.AddChart2 method (PowerPoint)
+api_name:
+- PowerPoint.shapes.addchart2
 ms.assetid: 07f225bc-1c0d-cca5-b6a3-9de0a018eb4c
 ms.date: 06/08/2017
 ms.localizationpriority: medium

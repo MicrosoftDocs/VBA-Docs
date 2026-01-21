@@ -3,6 +3,8 @@ title: WorkbookQuery.Application property (Excel)
 keywords: vbaxl10.chm973073
 f1_keywords:
 - vbaxl10.chm973073
+api_name:
+- Excel.workbookquery.application
 ms.assetid: b025538e-ac17-60c9-337e-0b6ce4a7943f
 ms.date: 05/18/2019
 ms.localizationpriority: medium

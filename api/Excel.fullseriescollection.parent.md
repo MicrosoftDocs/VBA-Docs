@@ -3,6 +3,8 @@ title: FullSeriesCollection.Parent property (Excel)
 keywords: vbaxl10.chm944073
 f1_keywords:
 - vbaxl10.chm944073
+api_name:
+- Excel.fullseriescollection.parent
 ms.assetid: 03e62790-2f46-c4fa-7f2b-3438781e4aa5
 ms.date: 04/26/2019
 ms.localizationpriority: medium

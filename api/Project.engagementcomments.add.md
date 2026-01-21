@@ -1,5 +1,7 @@
 ---
 title: EngagementComments.Add method (Project)
+api_name:
+- Project.engagementcomments.add
 ms.assetid: a36d5592-068f-3cda-c4e5-301ddbe1cbbb
 ms.date: 06/08/2017
 ms.service: project-server

@@ -3,6 +3,8 @@ title: CalculatedMember.MeasureGroup property (Excel)
 keywords: vbaxl10.chm686085
 f1_keywords:
 - vbaxl10.chm686085
+api_name:
+- Excel.calculatedmember.measuregroup
 ms.assetid: 370185c1-25c7-d718-bbca-955e53cd0c23
 ms.date: 04/13/2019
 ms.localizationpriority: medium

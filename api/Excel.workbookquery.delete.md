@@ -3,6 +3,8 @@ title: WorkbookQuery.Delete method (Excel)
 keywords: vbaxl10.chm974077
 f1_keywords:
 - vbaxl10.chm974077
+api_name:
+- Excel.workbookquery.delete
 ms.assetid: 05f42f34-1814-870f-081a-c0538b438aec
 ms.date: 12/29/2021
 ms.localizationpriority: medium

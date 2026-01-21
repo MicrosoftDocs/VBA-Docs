@@ -1,5 +1,7 @@
 ---
 title: EngagementComment.AuthorResEmail property (Project)
+api_name:
+- Project.engagementcomment.authorresemail
 ms.assetid: a14c0d6c-2163-b7ce-86a8-b44ab691a386
 ms.date: 06/08/2017
 ms.service: project-server

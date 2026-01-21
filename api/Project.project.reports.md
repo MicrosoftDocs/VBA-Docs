@@ -1,5 +1,7 @@
 ---
 title: Project.Reports property (Project)
+api_name:
+- Project.project.reports
 ms.service: project-server
 ms.assetid: dc725fac-a25e-c134-6017-d73060c51e83
 ms.date: 06/08/2017

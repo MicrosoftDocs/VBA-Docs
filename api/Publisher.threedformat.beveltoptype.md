@@ -3,6 +3,8 @@ title: ThreeDFormat.BevelTopType property (Publisher)
 keywords: vbapb10.chm3801364
 f1_keywords:
 - vbapb10.chm3801364
+api_name:
+- Publisher.threedformat.beveltoptype
 ms.assetid: 4a9d2f3e-a6a5-c0bb-edad-f0be4c167b35
 ms.date: 06/15/2019
 ms.localizationpriority: medium

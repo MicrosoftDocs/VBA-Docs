@@ -1,5 +1,7 @@
 ---
 title: ListBox.BackColor Property (Outlook Forms Script)
+api_name:
+- Outlook.listbox.backcolor
 ms.assetid: afd66dd8-5261-59d2-c4a6-047a00868e03
 ms.date: 06/08/2017
 ms.localizationpriority: medium

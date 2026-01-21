@@ -1,5 +1,7 @@
 ---
 title: CoauthMergeEvent.Stat property (Visio)
+api_name:
+- Visio.coauthmergeevent.stat
 ms.assetid: d8a96b8e-36b5-c61f-8cea-76266f7eed39
 ms.date: 06/08/2017
 ms.localizationpriority: medium

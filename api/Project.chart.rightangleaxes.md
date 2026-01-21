@@ -1,5 +1,7 @@
 ---
 title: Chart.RightAngleAxes property (Project)
+api_name:
+- Project.chart.rightangleaxes
 ms.service: project-server
 ms.assetid: 51e8cde1-53c7-90ff-b5c7-72a091461f6b
 ms.date: 06/08/2017

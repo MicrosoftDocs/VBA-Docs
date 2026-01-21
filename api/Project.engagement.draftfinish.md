@@ -1,5 +1,7 @@
 ---
 title: Engagement.DraftFinish property (Project)
+api_name:
+- Project.engagement.draftfinish
 ms.assetid: ae298776-46f2-c39a-5fa4-9b56499526d5
 ms.date: 06/08/2017
 ms.service: project-server

@@ -1,5 +1,7 @@
 ---
 title: TabStrip.Style Property (Outlook Forms Script)
+api_name:
+- Outlook.tabstrip.style
 ms.assetid: 69451552-d044-e77f-1399-4a018b7d1f0e
 ms.date: 06/08/2017
 ms.localizationpriority: medium

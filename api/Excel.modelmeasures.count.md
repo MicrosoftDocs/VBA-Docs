@@ -3,6 +3,8 @@ title: ModelMeasures.Count property (Excel)
 keywords: vbaxl10.chm980073
 f1_keywords:
 - vbaxl10.chm980073
+api_name:
+- Excel.modelmeasures.count
 ms.assetid: c420f7e8-ecc1-988b-5438-280f3fb3b5e1
 ms.date: 05/01/2019
 ms.localizationpriority: medium

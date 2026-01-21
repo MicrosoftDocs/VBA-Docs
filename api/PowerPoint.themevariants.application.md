@@ -1,5 +1,7 @@
 ---
 title: ThemeVariants.Application property (PowerPoint)
+api_name:
+- PowerPoint.themevariants.application
 ms.assetid: 67da3c81-7491-1609-6d11-2215f0b298ae
 ms.date: 06/08/2017
 ms.localizationpriority: medium

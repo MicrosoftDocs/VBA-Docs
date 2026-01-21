@@ -1,5 +1,7 @@
 ---
 title: TextRange2.BoundLeft property (PowerPoint)
+api_name:
+- PowerPoint.textrange2.boundleft
 ms.assetid: b7adce04-116c-4487-94e7-f895ce7bfc4e
 ms.date: 06/08/2017
 ms.localizationpriority: medium

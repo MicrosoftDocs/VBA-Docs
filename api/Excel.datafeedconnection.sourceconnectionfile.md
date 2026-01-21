@@ -3,6 +3,8 @@ title: DataFeedConnection.SourceConnectionFile property (Excel)
 keywords: vbaxl10.chm928084
 f1_keywords:
 - vbaxl10.chm928084
+api_name:
+- Excel.datafeedconnection.sourceconnectionfile
 ms.assetid: f532657e-1555-b86e-2e09-16b86f170f94
 ms.date: 01/18/2022
 ms.localizationpriority: medium

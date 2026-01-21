@@ -1,5 +1,7 @@
 ---
 title: ViewCtl.GoToDate Method (Outlook View Control)
+api_name:
+- Outlook.viewctl.gotoda
 ms.assetid: 90a68432-0f2b-45f1-b720-edc7e76bd02b
 ms.date: 06/08/2017
 ms.localizationpriority: medium

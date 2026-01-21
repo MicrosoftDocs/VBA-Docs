@@ -1,5 +1,7 @@
 ---
 title: PpMediaTaskStatus enumeration (PowerPoint)
+api_name:
+- PowerPoint.ppmediataskstatus
 ms.assetid: 1cc9f0ca-2ffc-246b-26f8-fe2b3470d3c0
 ms.date: 06/08/2017
 ms.localizationpriority: medium

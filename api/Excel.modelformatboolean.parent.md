@@ -3,6 +3,8 @@ title: ModelFormatBoolean.Parent property (Excel)
 keywords: vbaxl10.chm995075
 f1_keywords:
 - vbaxl10.chm995075
+api_name:
+- Excel.modelformatboolean.parent
 ms.assetid: b581cf67-d77b-c17b-1878-1029d73682ff
 ms.date: 05/01/2019
 ms.localizationpriority: medium

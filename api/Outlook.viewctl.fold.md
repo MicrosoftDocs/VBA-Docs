@@ -1,5 +1,7 @@
 ---
 title: ViewCtl.Folder Property (Outlook View Control)
+api_name:
+- Outlook.viewctl.fold
 ms.assetid: c48e2d86-c284-9a25-0c11-00f6e24094c7
 ms.date: 06/08/2017
 ms.localizationpriority: medium

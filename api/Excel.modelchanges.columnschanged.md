@@ -3,6 +3,8 @@ title: ModelChanges.ColumnsChanged property (Excel)
 keywords: vbaxl10.chm960080
 f1_keywords:
 - vbaxl10.chm960080
+api_name:
+- Excel.modelchanges.columnschanged
 ms.assetid: 3fb1169f-05ba-a810-6797-90fb996dd7ae
 ms.date: 05/01/2019
 ms.localizationpriority: medium

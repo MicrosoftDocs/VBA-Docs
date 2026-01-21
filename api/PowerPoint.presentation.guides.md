@@ -3,6 +3,8 @@ title: Presentation.Guides property (PowerPoint)
 keywords: vbapp10.chm583127
 f1_keywords:
 - vbapp10.chm583127
+api_name:
+- PowerPoint.presentation.guides
 ms.assetid: c04540d1-57e3-e062-2518-4be6628e0166
 ms.date: 06/08/2017
 ms.localizationpriority: medium

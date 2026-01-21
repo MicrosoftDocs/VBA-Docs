@@ -3,6 +3,8 @@ title: ModelFormatScientificNumber.Application property (Excel)
 keywords: vbaxl10.chm991073
 f1_keywords:
 - vbaxl10.chm991073
+api_name:
+- Excel.modelformatscientificnumber.application
 ms.assetid: 4caf7286-bcba-8628-15a4-d01d5e8cd575
 ms.date: 05/01/2019
 ms.localizationpriority: medium

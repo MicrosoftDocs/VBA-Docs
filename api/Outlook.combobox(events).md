@@ -1,5 +1,7 @@
 ---
 title: ComboBox Events (Outlook Forms Script)
+api_name:
+- Outlook.combobox
 ms.assetid: 57268260-c0bd-4595-9dbd-a01e9e2bbfa9
 ms.date: 06/08/2019
 ms.localizationpriority: medium

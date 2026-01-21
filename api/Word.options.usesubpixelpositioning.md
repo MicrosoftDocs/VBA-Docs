@@ -3,6 +3,8 @@ title: Options.UseSubPixelPositioning property (Word)
 keywords: vbawd10.chm162988541
 f1_keywords:
 - vbawd10.chm162988541
+api_name:
+- Word.options.usesubpixelpositioning
 ms.assetid: e32c217b-34e9-bbc4-0eb1-5e1fec1c1138
 ms.date: 06/08/2017
 ms.localizationpriority: medium

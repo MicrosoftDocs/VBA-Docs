@@ -1,5 +1,7 @@
 ---
 title: Shape.VerticalFlip property (Project)
+api_name:
+- Project.shape.verticalflip
 ms.service: project-server
 ms.assetid: ab7a1b3b-8aaa-ba92-e739-7e7afce6ddd7
 ms.date: 06/08/2017

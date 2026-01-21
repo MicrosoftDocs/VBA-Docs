@@ -1,5 +1,7 @@
 ---
 title: Dialogs object (Word)
+api_name:
+- Word.dialogs
 ms.assetid: 8dfa5d8a-bb81-1cdd-853b-3acf9db70aa9
 ms.date: 06/08/2017
 ms.localizationpriority: medium

@@ -1,5 +1,7 @@
 ---
 title: Shape.IsNarration property (PowerPoint)
+api_name:
+- PowerPoint.shape.isnarration
 ms.assetid: e07e42e3-149d-153f-6852-a41c0eae80e3
 ms.date: 06/08/2017
 ms.localizationpriority: medium

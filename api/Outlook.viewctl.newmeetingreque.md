@@ -1,5 +1,7 @@
 ---
 title: ViewCtl.NewMeetingRequest Method (Outlook View Control)
+api_name:
+- Outlook.viewctl.newmeetingreque
 ms.assetid: b8c76fcf-e44c-94a1-2ada-0347c14b70cf
 ms.date: 06/08/2017
 ms.localizationpriority: medium

@@ -1,5 +1,7 @@
 ---
 title: Frame.Paste Method (Outlook Forms Script)
+api_name:
+- Outlook.frame.paste
 ms.assetid: abc5f9c5-6e5b-8983-ea7a-c48fbe9a5efe
 ms.date: 06/08/2017
 ms.localizationpriority: medium

@@ -1,5 +1,7 @@
 ---
 title: Engagement.Parent property (Project)
+api_name:
+- Project.engagement.parent
 ms.assetid: 33522e59-e840-b3af-79f3-3f92035853d9
 ms.date: 06/08/2017
 ms.service: project-server

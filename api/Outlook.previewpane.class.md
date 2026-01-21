@@ -3,6 +3,8 @@ title: PreviewPane.Class property (Outlook)
 keywords: vbaol11.chm3635
 f1_keywords:
 - vbaol11.chm3635
+api_name:
+- Outlook.previewpane.class
 ms.assetid: e6dd78bb-01d6-a351-156c-cb278435c922
 ms.date: 06/08/2017
 ms.localizationpriority: medium

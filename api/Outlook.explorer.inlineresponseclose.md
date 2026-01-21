@@ -3,6 +3,8 @@ title: Explorer.InlineResponseClose event (Outlook)
 keywords: vbaol11.chm3598
 f1_keywords:
 - vbaol11.chm3598
+api_name:
+- Outlook.explorer.inlineresponseclose
 ms.assetid: ff3f3286-995a-409c-aca5-706290e26252
 ms.date: 06/08/2017
 ms.localizationpriority: medium

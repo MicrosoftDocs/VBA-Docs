@@ -1,5 +1,7 @@
 ---
 title: ReplaceShapesEvent.Stat property (Visio)
+api_name:
+- Visio.replaceshapesevent.stat
 ms.assetid: 96f3d382-5dda-7f93-088d-96edc831cd7c
 ms.date: 06/08/2017
 ms.localizationpriority: medium

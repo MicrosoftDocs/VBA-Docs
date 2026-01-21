@@ -3,6 +3,8 @@ title: TableObject.ResultRange property (Excel)
 keywords: vbaxl10.chm916078
 f1_keywords:
 - vbaxl10.chm916078
+api_name:
+- Excel.tableobject.resultrange
 ms.assetid: 1fba8f22-8294-9e5d-f796-ea45ea87d974
 ms.date: 04/19/2019
 ms.localizationpriority: medium

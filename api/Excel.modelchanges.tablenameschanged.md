@@ -3,6 +3,8 @@ title: ModelChanges.TableNamesChanged property (Excel)
 keywords: vbaxl10.chm960076
 f1_keywords:
 - vbaxl10.chm960076
+api_name:
+- Excel.modelchanges.tablenameschanged
 ms.assetid: cd90e70c-ee3a-cdf2-2ba8-434d8bd0832f
 ms.date: 05/01/2019
 ms.localizationpriority: medium

@@ -1,5 +1,7 @@
 ---
 title: EngagementComment.Message property (Project)
+api_name:
+- Project.engagementcomment.message
 ms.assetid: b54430ec-7d99-76eb-2895-7c54abea6bc2
 ms.date: 06/08/2017
 ms.service: project-server

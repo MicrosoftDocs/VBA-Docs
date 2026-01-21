@@ -3,6 +3,8 @@ title: DataFeedConnection.RefreshOnFileOpen property (Excel)
 keywords: vbaxl10.chm928080
 f1_keywords:
 - vbaxl10.chm928080
+api_name:
+- Excel.datafeedconnection.refreshonfileopen
 ms.assetid: 52966a2d-5b0c-2c64-6643-fa1fb47d9ec9
 ms.date: 03/28/2019
 ms.localizationpriority: medium

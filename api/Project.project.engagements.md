@@ -3,6 +3,8 @@ title: Project.Engagements property (Project)
 keywords: vbapj.chm131808
 f1_keywords:
 - vbapj.chm131808
+api_name:
+- Project.project.engagements
 ms.assetid: 00ebca26-b9f6-05e4-f0ab-ba54b9dc0124
 ms.date: 06/08/2017
 ms.service: project-server

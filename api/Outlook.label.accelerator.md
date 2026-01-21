@@ -1,5 +1,7 @@
 ---
 title: Label.Accelerator Property (Outlook Forms Script)
+api_name:
+- Outlook.label.accelerator
 ms.assetid: 8e3913c5-c9f0-edba-4a0e-44fa85b26f95
 ms.date: 06/08/2017
 ms.localizationpriority: medium

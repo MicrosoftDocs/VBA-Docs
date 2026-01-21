@@ -1,5 +1,7 @@
 ---
 title: ComboBox Object Reference (Outlook Forms Script)
+api_name:
+- Outlook.combobox.object
 ms.assetid: b62f1922-e104-4632-9e6a-fb602f3fe336
 ms.date: 06/08/2019
 ms.localizationpriority: medium

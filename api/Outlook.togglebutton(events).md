@@ -1,5 +1,7 @@
 ---
 title: ToggleButton Events (Outlook Forms Script)
+api_name:
+- Outlook.togglebutton
 ms.assetid: 5f0bd82a-8024-4005-9533-e28d679de79b
 ms.date: 06/08/2017
 ms.localizationpriority: medium

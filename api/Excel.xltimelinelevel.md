@@ -1,5 +1,7 @@
 ---
 title: XlTimelineLevel enumeration (Excel)
+api_name:
+- Excel.xltimelinelevel
 ms.assetid: beb18b49-fd93-c037-4b09-3453569e945c
 ms.date: 06/08/2017
 ms.localizationpriority: medium

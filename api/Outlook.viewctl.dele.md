@@ -1,5 +1,7 @@
 ---
 title: ViewCtl.Delete Method (Outlook View Control)
+api_name:
+- Outlook.viewctl.dele
 ms.assetid: ef7d3303-57fc-67f0-c365-451d80d0d335
 ms.date: 06/08/2017
 ms.localizationpriority: medium

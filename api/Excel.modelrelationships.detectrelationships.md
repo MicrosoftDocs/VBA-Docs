@@ -3,6 +3,8 @@ title: ModelRelationships.DetectRelationships method (Excel)
 keywords: vbaxl10.chm940078
 f1_keywords:
 - vbaxl10.chm940078
+api_name:
+- Excel.modelrelationships.detectrelationships
 ms.assetid: e6db4a4b-09c4-7564-f3c7-3aed719dcc16
 ms.date: 04/20/2019
 ms.localizationpriority: medium

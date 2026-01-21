@@ -1,5 +1,7 @@
 ---
 title: TextRange2.Delete method (PowerPoint)
+api_name:
+- PowerPoint.textrange2.delete
 ms.assetid: 37f837af-da31-4a4f-b46e-07abfd2ddc30
 ms.date: 06/08/2017
 ms.localizationpriority: medium

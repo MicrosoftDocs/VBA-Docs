@@ -1,5 +1,7 @@
 ---
 title: ShapeRange.Glow property (Project)
+api_name:
+- Project.shaperange.glow
 ms.service: project-server
 ms.assetid: db675475-40f6-127f-0209-0fd567965d88
 ms.date: 06/08/2017

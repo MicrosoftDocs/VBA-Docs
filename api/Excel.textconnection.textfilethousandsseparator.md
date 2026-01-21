@@ -3,6 +3,8 @@ title: TextConnection.TextFileThousandsSeparator property (Excel)
 keywords: vbaxl10.chm926089
 f1_keywords:
 - vbaxl10.chm926089
+api_name:
+- Excel.textconnection.textfilethousandsseparator
 ms.assetid: 0b111a50-0eef-3648-e1f6-114ed9256ed9
 ms.date: 05/17/2019
 ms.localizationpriority: medium

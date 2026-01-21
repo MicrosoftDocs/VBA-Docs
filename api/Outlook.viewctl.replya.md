@@ -1,5 +1,7 @@
 ---
 title: ViewCtl.ReplyAll Method (Outlook View Control)
+api_name:
+- Outlook.viewctl.replya
 ms.assetid: ab103751-d999-2b30-ff58-40061fff6b64
 ms.date: 06/08/2017
 ms.localizationpriority: medium

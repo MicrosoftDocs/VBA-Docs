@@ -3,6 +3,8 @@ title: Shapes.AddBuildingBlock method (Publisher)
 keywords: vbapb10.chm2162768
 f1_keywords:
 - vbapb10.chm2162768
+api_name:
+- Publisher.shapes.addbuildingblock
 ms.assetid: d875e97e-3519-4a88-916d-ec1a32654581
 ms.date: 06/14/2019
 ms.localizationpriority: medium

@@ -3,6 +3,8 @@ title: ListBox.MultiSelect Property (Outlook Forms Script)
 keywords: olfm10.chm2001580
 f1_keywords:
 - olfm10.chm2001580
+api_name:
+- Outlook.listbox.multiselect
 ms.assetid: 4ecc299b-0733-aa23-e820-f341ac80a0fa
 ms.date: 06/08/2017
 ms.localizationpriority: medium

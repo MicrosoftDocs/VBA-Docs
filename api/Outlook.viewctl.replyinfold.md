@@ -1,5 +1,7 @@
 ---
 title: ViewCtl.ReplyInFolder Method (Outlook View Control)
+api_name:
+- Outlook.viewctl.replyinfold
 ms.assetid: 00af4a6e-c7f4-e61e-d367-b2a9b62498d4
 ms.date: 06/08/2017
 ms.localizationpriority: medium

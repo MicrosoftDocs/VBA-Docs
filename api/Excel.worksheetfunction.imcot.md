@@ -3,6 +3,8 @@ title: WorksheetFunction.ImCot method (Excel)
 keywords: vbaxl10.chm137429
 f1_keywords:
 - vbaxl10.chm137429
+api_name:
+- Excel.worksheetfunction.imcot
 ms.assetid: 9bccb1f7-be1b-51b4-3fbc-123a5c491dc3
 ms.date: 05/23/2019
 ms.localizationpriority: medium

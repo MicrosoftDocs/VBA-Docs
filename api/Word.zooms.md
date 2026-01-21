@@ -3,6 +3,8 @@ title: Zooms object (Word)
 keywords: vbawd10.chm2471
 f1_keywords:
 - vbawd10.chm2471
+api_name:
+- Word.zooms
 ms.assetid: 1a4d5375-ad91-1eb9-77cb-4a6f8dcc3eb8
 ms.date: 06/08/2017
 ms.localizationpriority: medium

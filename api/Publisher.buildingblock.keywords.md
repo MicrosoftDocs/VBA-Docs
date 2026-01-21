@@ -3,6 +3,8 @@ title: BuildingBlock.Keywords property (Publisher)
 keywords: vbapb10.chm9502726
 f1_keywords:
 - vbapb10.chm9502726
+api_name:
+- Publisher.buildingblock.keywords
 ms.assetid: 4b18c344-a771-6d83-aff9-874f2bbf9163
 ms.date: 06/05/2019
 ms.localizationpriority: medium

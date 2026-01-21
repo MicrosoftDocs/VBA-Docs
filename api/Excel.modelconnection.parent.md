@@ -3,6 +3,8 @@ title: ModelConnection.Parent property (Excel)
 keywords: vbaxl10.chm921075
 f1_keywords:
 - vbaxl10.chm921075
+api_name:
+- Excel.modelconnection.parent
 ms.assetid: 8918804c-a7fc-fa8e-b5bd-ce3b2c8f2a4b
 ms.date: 05/01/2019
 ms.localizationpriority: medium

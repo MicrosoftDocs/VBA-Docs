@@ -3,6 +3,8 @@ title: LineFormat.GradientColorType property (Publisher)
 keywords: vbapb10.chm3408150
 f1_keywords:
 - vbapb10.chm3408150
+api_name:
+- Publisher.lineformat.gradientcolortype
 ms.assetid: bb8f15c6-1cd1-d023-1e6f-037ab09b635a
 ms.date: 06/08/2019
 ms.localizationpriority: medium

@@ -3,6 +3,8 @@ title: LookupTable object (Project)
 keywords: vbapj.chm131291
 f1_keywords:
 - vbapj.chm131291
+api_name:
+- Project.lookuptable
 ms.service: project-server
 ms.assetid: d1740b7a-ae86-19de-16ff-b4ffb8454bf1
 ms.date: 06/08/2017

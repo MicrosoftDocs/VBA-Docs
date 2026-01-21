@@ -3,6 +3,8 @@ title: TextConnection.TextFilePromptOnRefresh property (Excel)
 keywords: vbaxl10.chm926083
 f1_keywords:
 - vbaxl10.chm926083
+api_name:
+- Excel.textconnection.textfilepromptonrefresh
 ms.assetid: 0e5b5bf0-772f-e43d-bcf8-0c84c3d4a958
 ms.date: 05/17/2019
 ms.localizationpriority: medium

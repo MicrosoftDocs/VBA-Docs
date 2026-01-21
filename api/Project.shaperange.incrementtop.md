@@ -1,5 +1,7 @@
 ---
 title: ShapeRange.IncrementTop method (Project)
+api_name:
+- Project.shaperange.incrementtop
 ms.service: project-server
 ms.assetid: 488b7925-7a64-ce01-b2e9-415c44125462
 ms.date: 06/08/2017

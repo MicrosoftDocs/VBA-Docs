@@ -3,6 +3,8 @@ title: CommandButton.TakeFocusOnClick Property (Outlook Forms Script)
 keywords: olfm10.chm2001340
 f1_keywords:
 - olfm10.chm2001340
+api_name:
+- Outlook.commandbutton.takefocusonclick
 ms.assetid: b8842b50-4be8-c366-8978-8a6c97907e33
 ms.date: 06/08/2017
 ms.localizationpriority: medium

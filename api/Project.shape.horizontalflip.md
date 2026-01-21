@@ -1,5 +1,7 @@
 ---
 title: Shape.HorizontalFlip property (Project)
+api_name:
+- Project.shape.horizontalflip
 ms.service: project-server
 ms.assetid: 57862ea8-62b9-0e01-b7c5-017cc7b8e5ef
 ms.date: 06/08/2017

@@ -1,5 +1,7 @@
 ---
 title: Chart.HasTitle property (Project)
+api_name:
+- Project.chart.hastitle
 ms.service: project-server
 ms.assetid: ba1105fa-9d22-7b15-f0b5-799b48f2c366
 ms.date: 06/08/2017

@@ -1,5 +1,7 @@
 ---
 title: Pages.QueryCancelReplaceShapes event (Visio)
+api_name:
+- Visio.pages.querycancelreplaceshapes
 ms.assetid: d11ff976-0016-da6b-92fb-379baa7e8f94
 ms.date: 06/08/2017
 ms.localizationpriority: medium

@@ -1,5 +1,7 @@
 ---
 title: Image.BackColor Property (Outlook Forms Script)
+api_name:
+- Outlook.image.backcolor
 ms.assetid: c0064240-d0f8-3bb3-fb93-c758a0f749e4
 ms.date: 06/08/2017
 ms.localizationpriority: medium

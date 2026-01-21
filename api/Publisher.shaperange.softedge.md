@@ -1,5 +1,7 @@
 ---
 title: ShapeRange.SoftEdge property (Publisher)
+api_name:
+- Publisher.shaperange.softedge
 ms.assetid: fd8006a9-91f8-6aeb-fa20-d5847122d14f
 ms.date: 06/14/2019
 ms.localizationpriority: medium

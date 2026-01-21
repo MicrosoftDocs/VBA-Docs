@@ -3,6 +3,8 @@ title: DataFeedConnection.ServerCredentialsMethod property (Excel)
 keywords: vbaxl10.chm928083
 f1_keywords:
 - vbaxl10.chm928083
+api_name:
+- Excel.datafeedconnection.servercredentialsmethod
 ms.assetid: 0c471a76-c9b4-5065-aa1e-6f9d8eb650af
 ms.date: 03/28/2019
 ms.localizationpriority: medium

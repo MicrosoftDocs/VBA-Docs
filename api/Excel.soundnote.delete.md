@@ -3,6 +3,8 @@ title: SoundNote.Delete method (Excel)
 keywords: vbaxl10.chm258073
 f1_keywords:
 - vbaxl10.chm258073
+api_name:
+- Excel.soundnote.delete
 ms.assetid: a5700e45-9ee6-8aba-205d-fe7927b367d2
 ms.date: 05/16/2019
 ms.localizationpriority: medium

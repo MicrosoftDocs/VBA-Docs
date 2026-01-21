@@ -3,6 +3,8 @@ title: Range.SortByHeadings method (Word)
 keywords: vbawd10.chm157155836
 f1_keywords:
 - vbawd10.chm157155836
+api_name:
+- Word.range.sortbyheadings
 ms.assetid: 8fd2b026-4744-7dad-7d68-06768ce4c35c
 ms.date: 06/08/2017
 ms.localizationpriority: medium

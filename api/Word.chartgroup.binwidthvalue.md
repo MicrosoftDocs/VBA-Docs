@@ -3,6 +3,8 @@ title: ChartGroup.BinWidthValue property (Word)
 keywords: vbawd10.chm263457612
 f1_keywords:
 - vbawd10.chm263457612
+api_name:
+- Word.chartgroup.binwidthvalue
 ms.assetid: cda366d4-48ef-4ca9-62a8-f2d2f8843936
 ms.date: 06/08/2017
 ms.localizationpriority: medium

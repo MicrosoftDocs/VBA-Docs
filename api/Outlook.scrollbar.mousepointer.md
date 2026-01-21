@@ -1,5 +1,7 @@
 ---
 title: ScrollBar.MousePointer Property (Outlook Forms Script)
+api_name:
+- Outlook.scrollbar.mousepointer
 ms.assetid: 0e188482-4ee3-5d48-c8b0-65eea0543d16
 ms.date: 06/08/2017
 ms.localizationpriority: medium

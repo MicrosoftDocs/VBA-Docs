@@ -1,5 +1,7 @@
 ---
 title: InvisibleApp.QueryCancelReplaceShapes event (Visio)
+api_name:
+- Visio.invisibleapp.querycancelreplaceshapes
 ms.assetid: 5e5d9b76-dfd4-1d02-d205-9e64350449d5
 ms.date: 06/08/2017
 ms.localizationpriority: medium

@@ -1,5 +1,7 @@
 ---
 title: Shape.ConnectionSiteCount property (Project)
+api_name:
+- Project.shape.connectionsitecount
 ms.service: project-server
 ms.assetid: 86727754-1d50-f10d-ec8e-91923c09d388
 ms.date: 06/08/2017

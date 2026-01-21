@@ -3,6 +3,8 @@ title: ModelFormatPercentageNumber.Application property (Excel)
 keywords: vbaxl10.chm989073
 f1_keywords:
 - vbaxl10.chm989073
+api_name:
+- Excel.modelformatpercentagenumber.application
 ms.assetid: bdcf764e-771f-9efe-d24f-ce03b047959c
 ms.date: 05/01/2019
 ms.localizationpriority: medium

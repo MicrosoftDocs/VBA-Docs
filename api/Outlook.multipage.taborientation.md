@@ -3,6 +3,8 @@ title: MultiPage.TabOrientation Property (Outlook Forms Script)
 keywords: olfm10.chm2002030
 f1_keywords:
 - olfm10.chm2002030
+api_name:
+- Outlook.multipage.taborientation
 ms.assetid: 99a1d7ae-42b4-933c-2331-8b1c02550da6
 ms.date: 06/08/2017
 ms.localizationpriority: medium

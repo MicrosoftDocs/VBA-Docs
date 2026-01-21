@@ -3,6 +3,8 @@ title: Application.CopyReport method (Project)
 keywords: vbapj.chm141
 f1_keywords:
 - vbapj.chm141
+api_name:
+- Project.application.copyreport
 ms.service: project-server
 ms.assetid: 9f1e59d5-a2a5-4c8f-1c01-b1c63046558d
 ms.date: 06/08/2017

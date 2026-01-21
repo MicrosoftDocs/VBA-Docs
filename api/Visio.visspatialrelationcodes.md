@@ -3,6 +3,8 @@ title: VisSpatialRelationCodes enumeration (Visio)
 keywords: vis_sdr.chm70225
 f1_keywords:
 - vis_sdr.chm70225
+api_name:
+- Visio.visspatialrelationcodes
 ms.assetid: 4834dcb7-48e4-14c4-272f-3531892a0ccd
 ms.date: 06/08/2017
 ms.localizationpriority: medium

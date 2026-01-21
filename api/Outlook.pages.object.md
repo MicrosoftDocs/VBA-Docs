@@ -1,5 +1,7 @@
 ---
 title: Pages Object Reference (Outlook Forms Script)
+api_name:
+- Outlook.pages.object
 ms.assetid: 5ee6cc81-7dc6-4b20-ac8c-db900e1dffb7
 ms.date: 06/08/2017
 ms.localizationpriority: medium

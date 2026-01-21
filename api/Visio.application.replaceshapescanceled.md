@@ -1,5 +1,7 @@
 ---
 title: Application.ReplaceShapesCanceled event (Visio)
+api_name:
+- Visio.application.replaceshapescanceled
 ms.assetid: e8eecd64-e4bd-d2c4-b942-c5ff607a4121
 ms.date: 06/08/2017
 ms.localizationpriority: medium

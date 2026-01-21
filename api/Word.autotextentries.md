@@ -1,5 +1,7 @@
 ---
 title: AutoTextEntries object (Word)
+api_name:
+- Word.autotextentries
 ms.assetid: 4e4d92b3-d259-84b7-061f-82065e177c29
 ms.date: 06/08/2017
 ms.localizationpriority: medium

@@ -1,5 +1,7 @@
 ---
 title: Shapes.Default property (Project)
+api_name:
+- Project.shapes.default
 ms.service: project-server
 ms.assetid: 46895c7b-6cb1-0286-1e9d-8cc658ea6441
 ms.date: 06/08/2017

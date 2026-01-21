@@ -1,5 +1,7 @@
 ---
 title: ListBox.List Property (Outlook Forms Script)
+api_name:
+- Outlook.listbox.list
 ms.assetid: 3eb66479-c7d2-13d7-ebd3-1a09eb136dbe
 ms.date: 06/08/2017
 ms.localizationpriority: medium

@@ -1,5 +1,7 @@
 ---
 title: ReplaceShapesEvent object (Visio)
+api_name:
+- Visio.replaceshapesevent
 ms.assetid: 26c4e7cb-6618-6d2f-a4be-515584f8cd10
 ms.date: 06/19/2019
 ms.localizationpriority: medium

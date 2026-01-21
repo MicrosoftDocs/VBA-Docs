@@ -3,6 +3,8 @@ title: PivotCell.ServerActions property (Excel)
 keywords: vbaxl10.chm692090
 f1_keywords:
 - vbaxl10.chm692090
+api_name:
+- Excel.pivotcell.serveractions
 ms.assetid: e895f7ee-e636-29b6-9385-2710885cc01c
 ms.date: 05/04/2019
 ms.localizationpriority: medium

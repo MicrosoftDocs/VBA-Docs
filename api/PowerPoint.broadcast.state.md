@@ -3,6 +3,8 @@ title: Broadcast.State property (PowerPoint)
 keywords: vbapp10.chm732010
 f1_keywords:
 - vbapp10.chm732010
+api_name:
+- PowerPoint.broadcast.state
 ms.assetid: efcd8513-3503-08ac-b8e0-efdf715ee8ac
 ms.date: 06/08/2017
 ms.localizationpriority: medium

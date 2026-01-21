@@ -1,5 +1,7 @@
 ---
 title: OptionButton.WordWrap Property (Outlook Forms Script)
+api_name:
+- Outlook.optionbutton.wordwrap
 ms.assetid: e797c4ba-9b9e-d59d-b229-b2c652d06762
 ms.date: 06/08/2017
 ms.localizationpriority: medium

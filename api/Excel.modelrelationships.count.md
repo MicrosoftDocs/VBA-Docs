@@ -3,6 +3,8 @@ title: ModelRelationships.Count property (Excel)
 keywords: vbaxl10.chm940073
 f1_keywords:
 - vbaxl10.chm940073
+api_name:
+- Excel.modelrelationships.count
 ms.assetid: 85a589aa-0dcb-bf59-2e9e-4c0da720bdd0
 ms.date: 04/20/2019
 ms.localizationpriority: medium

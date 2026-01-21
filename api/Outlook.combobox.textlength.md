@@ -3,6 +3,8 @@ title: ComboBox.TextLength Property (Outlook Forms Script)
 keywords: olfm10.chm2002100
 f1_keywords:
 - olfm10.chm2002100
+api_name:
+- Outlook.combobox.textlength
 ms.assetid: 4be65b24-5085-81eb-7163-6b34af219bdc
 ms.date: 06/08/2017
 ms.localizationpriority: medium

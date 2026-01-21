@@ -3,6 +3,8 @@ title: CommandButton.QuickStyleMask property (Access)
 keywords: vbaac10.chm14647
 f1_keywords:
 - vbaac10.chm14647
+api_name:
+- Access.commandbutton.quickstylemask
 ms.assetid: c0661897-d71c-8c3e-b18d-1100a24ed6a2
 ms.date: 03/05/2019
 ms.localizationpriority: medium

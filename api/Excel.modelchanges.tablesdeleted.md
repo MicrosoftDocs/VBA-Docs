@@ -3,6 +3,8 @@ title: ModelChanges.TablesDeleted property (Excel)
 keywords: vbaxl10.chm960074
 f1_keywords:
 - vbaxl10.chm960074
+api_name:
+- Excel.modelchanges.tablesdeleted
 ms.assetid: 2f72a2a6-b971-8818-92cd-13048f9df697
 ms.date: 05/01/2019
 ms.localizationpriority: medium

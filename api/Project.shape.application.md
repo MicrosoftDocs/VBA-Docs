@@ -1,5 +1,7 @@
 ---
 title: Shape.Application property (Project)
+api_name:
+- Project.shape.application
 ms.service: project-server
 ms.assetid: 81e03513-4912-ad9c-ef81-c4e860bbefa1
 ms.date: 06/08/2017

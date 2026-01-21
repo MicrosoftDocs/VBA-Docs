@@ -1,5 +1,7 @@
 ---
 title: XlPieSliceLocation enumeration (Word)
+api_name:
+- Word.xlpieslicelocation
 ms.assetid: d3a2113f-8779-096c-ce6a-52f29db242b3
 ms.date: 06/08/2017
 ms.localizationpriority: medium

@@ -1,5 +1,7 @@
 ---
 title: TextRange2.BoundTop property (PowerPoint)
+api_name:
+- PowerPoint.textrange2.boundtop
 ms.assetid: eefcac8c-4c48-46e5-baa4-18adf62b3abd
 ms.date: 06/08/2017
 ms.localizationpriority: medium

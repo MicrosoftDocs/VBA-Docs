@@ -1,5 +1,7 @@
 ---
 title: Page.CanUndo Property (Outlook Forms Script)
+api_name:
+- Outlook.page.canundo
 ms.assetid: 86494409-ae9f-4830-c7dd-f5e8284e04b0
 ms.date: 06/08/2017
 ms.localizationpriority: medium

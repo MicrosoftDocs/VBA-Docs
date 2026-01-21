@@ -3,6 +3,8 @@ title: RepeatingSectionItemColl.Count property (Word)
 keywords: vbawd10.chm171114497
 f1_keywords:
 - vbawd10.chm171114497
+api_name:
+- Word.repeatingsectionitemcoll.count
 ms.assetid: 5aae3dff-c8fe-7bc2-1370-7bcdaa8bd712
 ms.date: 06/08/2017
 ms.localizationpriority: medium

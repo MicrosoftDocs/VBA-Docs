@@ -1,5 +1,7 @@
 ---
 title: XlChartGallery enumeration (Word)
+api_name:
+- Word.xlchartgallery
 ms.assetid: 28187e1c-ae42-f666-abb6-775c368d3691
 ms.date: 06/08/2017
 ms.localizationpriority: medium

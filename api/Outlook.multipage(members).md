@@ -1,5 +1,7 @@
 ---
 title: MultiPage Members (Outlook Forms Script)
+api_name:
+- Outlook.multipage
 ms.assetid: 28ee2528-49b9-43e3-ae64-6ff4805c1d70
 ms.date: 06/08/2019
 ms.localizationpriority: medium

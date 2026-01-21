@@ -1,5 +1,7 @@
 ---
 title: ViewCtl.FlagItem Method (Outlook View Control)
+api_name:
+- Outlook.viewctl.flagit
 ms.assetid: 10a2bcab-f58c-4b97-737d-35a843087272
 ms.date: 06/08/2017
 ms.localizationpriority: medium

@@ -3,6 +3,8 @@ title: VisGeomFlags enumeration (Visio)
 keywords: vis_sdr.chm70245
 f1_keywords:
 - vis_sdr.chm70245
+api_name:
+- Visio.visgeomflags
 ms.assetid: 47462624-5d34-2643-66f7-bfde9eecbcce
 ms.date: 06/08/2017
 ms.localizationpriority: medium

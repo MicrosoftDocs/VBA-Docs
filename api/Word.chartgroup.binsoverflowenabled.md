@@ -3,6 +3,8 @@ title: ChartGroup.BinsOverflowEnabled property (Word)
 keywords: vbawd10.chm263457614
 f1_keywords:
 - vbawd10.chm263457614
+api_name:
+- Word.chartgroup.binsoverflowenabled
 ms.assetid: a208e251-b2c8-04cc-f40f-97715f55fa33
 ms.date: 06/08/2017
 ms.localizationpriority: medium

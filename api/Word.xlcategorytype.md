@@ -1,5 +1,7 @@
 ---
 title: XlCategoryType enumeration (Word)
+api_name:
+- Word.xlcategorytype
 ms.assetid: 10dad161-2a90-7915-51bb-ddc69427c003
 ms.date: 06/08/2017
 ms.localizationpriority: medium

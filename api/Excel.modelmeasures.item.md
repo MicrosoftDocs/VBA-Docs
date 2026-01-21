@@ -3,6 +3,8 @@ title: ModelMeasures.Item method (Excel)
 keywords: vbaxl10.chm980074
 f1_keywords:
 - vbaxl10.chm980074
+api_name:
+- Excel.modelmeasures.item
 ms.assetid: cbadae47-2225-4633-eac6-8697227384f4
 ms.date: 05/01/2019
 ms.localizationpriority: medium

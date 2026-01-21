@@ -3,6 +3,8 @@ title: Paragraph.CollapseHeadingByDefault property (Word)
 keywords: vbawd10.chm156697780
 f1_keywords:
 - vbawd10.chm156697780
+api_name:
+- Word.paragraph.collapseheadingbydefault
 ms.assetid: f35ac4c4-80dd-6372-8cd2-ea2f1802d63e
 ms.date: 06/08/2017
 ms.localizationpriority: medium

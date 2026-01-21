@@ -3,6 +3,8 @@ title: Application.ShowAnimation property (Word)
 keywords: vbawd10.chm158335471
 f1_keywords:
 - vbawd10.chm158335471
+api_name:
+- Word.application.showanimation
 ms.assetid: e58b9f65-2fe5-4c88-39ab-ae7aa77490b1
 ms.date: 06/08/2017
 ms.localizationpriority: medium

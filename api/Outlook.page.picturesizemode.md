@@ -1,5 +1,7 @@
 ---
 title: Page.PictureSizeMode Property (Outlook Forms Script)
+api_name:
+- Outlook.page.picturesizemode
 ms.assetid: 24a0415a-f89a-c0fb-9c44-b33484c8cd49
 ms.date: 06/08/2017
 ms.localizationpriority: medium

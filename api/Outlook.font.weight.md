@@ -1,5 +1,7 @@
 ---
 title: Font.Weight Property (Outlook Forms Script)
+api_name:
+- Outlook.font.weight
 ms.assetid: 674d5bd0-3cf7-1330-5d3c-7b742bb3df7c
 ms.date: 06/08/2017
 ms.localizationpriority: medium

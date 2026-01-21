@@ -3,6 +3,8 @@ title: Broadcast.PresenterServiceUrl property (Word)
 keywords: vbawd10.chm36438020
 f1_keywords:
 - vbawd10.chm36438020
+api_name:
+- Word.broadcast.presenterserviceurl
 ms.assetid: 2f2a5428-42d6-9ddf-0d79-74ffc06ba6eb
 ms.date: 06/08/2017
 ms.localizationpriority: medium

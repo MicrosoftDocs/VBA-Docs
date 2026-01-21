@@ -3,6 +3,8 @@ title: TimelineState object (Excel)
 keywords: vbaxl10.chm949072
 f1_keywords:
 - vbaxl10.chm949072
+api_name:
+- Excel.timelinestate
 ms.assetid: bb92fe09-3cce-8e10-3795-2b9089c27801
 ms.date: 04/02/2019
 ms.localizationpriority: medium

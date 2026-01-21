@@ -3,6 +3,8 @@ title: ChartGroup.BinsUnderflowValue property (Excel)
 keywords: vbaxl10.chm568109
 f1_keywords:
 - vbaxl10.chm568109
+api_name:
+- Excel.chartgroup.binsunderflowvalue
 ms.assetid: 39a9ec75-8283-e603-fddd-e165a1641203
 ms.date: 04/20/2019
 ms.localizationpriority: medium

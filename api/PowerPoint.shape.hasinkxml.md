@@ -1,5 +1,7 @@
 ---
 title: Shape.HasInkXML property (PowerPoint)
+api_name:
+- PowerPoint.shape.hasinkxml
 ms.assetid: 3d985f9b-64e3-8712-fd5f-73d38ca56810
 ms.date: 06/08/2017
 ms.localizationpriority: medium

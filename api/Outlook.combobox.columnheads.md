@@ -3,6 +3,8 @@ title: ComboBox.ColumnHeads Property (Outlook Forms Script)
 keywords: olfm10.chm2000950
 f1_keywords:
 - olfm10.chm2000950
+api_name:
+- Outlook.combobox.columnheads
 ms.assetid: ad72c887-068b-973e-c76c-182b7a12f0ce
 ms.date: 06/08/2017
 ms.localizationpriority: medium

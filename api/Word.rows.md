@@ -1,5 +1,7 @@
 ---
 title: Rows object (Word)
+api_name:
+- Word.rows
 ms.assetid: cd83d0ef-f743-1886-54de-497017c5f542
 ms.date: 06/08/2017
 ms.localizationpriority: medium

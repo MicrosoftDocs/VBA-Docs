@@ -1,5 +1,7 @@
 ---
 title: ListBox Methods (Outlook Forms Script)
+api_name:
+- Outlook.listbox
 ms.assetid: 420fc5a5-7d17-49f3-9e0a-a946d10adad6
 ms.date: 06/08/2017
 ms.localizationpriority: medium

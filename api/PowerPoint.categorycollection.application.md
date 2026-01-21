@@ -3,6 +3,8 @@ title: CategoryCollection.Application property (PowerPoint)
 keywords: vbapp10.chm737004
 f1_keywords:
 - vbapp10.chm737004
+api_name:
+- PowerPoint.categorycollection.application
 ms.assetid: 927c3780-923b-bc60-0e48-814a1806a69d
 ms.date: 06/08/2017
 ms.localizationpriority: medium

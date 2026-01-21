@@ -3,6 +3,8 @@ title: ComboBox.DropButtonStyle Property (Outlook Forms Script)
 keywords: olfm10.chm2001110
 f1_keywords:
 - olfm10.chm2001110
+api_name:
+- Outlook.combobox.dropbuttonstyle
 ms.assetid: 91cf54d6-1378-8cf5-6a2c-153d2ef4221e
 ms.date: 06/08/2017
 ms.localizationpriority: medium

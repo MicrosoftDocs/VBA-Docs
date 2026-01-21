@@ -1,5 +1,7 @@
 ---
 title: ApplicationSettings.EnterCommitsText property (Visio)
+api_name:
+- Visio.applicationsettings.entercommitstext
 ms.assetid: ba9ce9fa-d224-cdc3-668d-46c1849911c7
 ms.date: 06/08/2017
 ms.localizationpriority: medium

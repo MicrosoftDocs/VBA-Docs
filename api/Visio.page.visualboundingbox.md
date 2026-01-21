@@ -1,5 +1,7 @@
 ---
 title: Page.VisualBoundingBox method (Visio)
+api_name:
+- Visio.page.visualboundingbox
 ms.assetid: 95e8a977-55c9-307a-bade-120cb8acdf9b
 ms.date: 06/08/2017
 ms.localizationpriority: medium

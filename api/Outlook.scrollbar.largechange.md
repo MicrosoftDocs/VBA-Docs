@@ -3,6 +3,8 @@ title: ScrollBar.LargeChange Property (Outlook Forms Script)
 keywords: olfm10.chm2001360
 f1_keywords:
 - olfm10.chm2001360
+api_name:
+- Outlook.scrollbar.largechange
 ms.assetid: 1236ef08-7788-a345-e2a6-a3c647fe2675
 ms.date: 06/08/2017
 ms.localizationpriority: medium

@@ -3,6 +3,8 @@ title: ModelFormatDecimalNumber.Parent property (Excel)
 keywords: vbaxl10.chm985075
 f1_keywords:
 - vbaxl10.chm985075
+api_name:
+- Excel.modelformatdecimalnumber.parent
 ms.assetid: f45fe29b-d869-e439-0aae-ab1bbe3b0793
 ms.date: 05/01/2019
 ms.localizationpriority: medium

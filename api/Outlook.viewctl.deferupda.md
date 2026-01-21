@@ -1,5 +1,7 @@
 ---
 title: ViewCtl.DeferUpdate Property (Outlook View Control)
+api_name:
+- Outlook.viewctl.deferupda
 ms.assetid: 6130cb9e-274f-1a42-a6aa-9e422e37df6b
 ms.date: 06/08/2017
 ms.localizationpriority: medium

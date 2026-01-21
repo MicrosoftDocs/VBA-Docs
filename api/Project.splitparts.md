@@ -1,5 +1,7 @@
 ---
 title: SplitParts object (Project)
+api_name:
+- Project.splitparts
 ms.service: project-server
 ms.assetid: bc36310c-9289-a363-f2d6-c8a0991725e5
 ms.date: 06/08/2017

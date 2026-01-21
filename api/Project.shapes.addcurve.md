@@ -1,5 +1,7 @@
 ---
 title: Shapes.AddCurve method (Project)
+api_name:
+- Project.shapes.addcurve
 ms.service: project-server
 ms.assetid: 16ea0f55-268a-b224-cc94-3d7e74de6265
 ms.date: 06/08/2017

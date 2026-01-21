@@ -1,5 +1,7 @@
 ---
 title: XlDataLabelSeparator enumeration (Word)
+api_name:
+- Word.xldatalabelseparator
 ms.assetid: bf129e91-3201-6c30-c0fb-f9f79a9991e9
 ms.date: 06/08/2017
 ms.localizationpriority: medium

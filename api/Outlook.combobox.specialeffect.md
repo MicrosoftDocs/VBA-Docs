@@ -1,5 +1,7 @@
 ---
 title: ComboBox.SpecialEffect Property (Outlook Forms Script)
+api_name:
+- Outlook.combobox.specialeffect
 ms.assetid: ac8f36a3-fd03-fa1a-4df1-ccc31bd059c9
 ms.date: 06/08/2017
 ms.localizationpriority: medium

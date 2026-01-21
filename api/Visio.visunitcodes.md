@@ -3,6 +3,8 @@ title: VisUnitCodes enumeration (Visio)
 keywords: vis_sdr.chm70000
 f1_keywords:
 - vis_sdr.chm70000
+api_name:
+- Visio.visunitcodes
 ms.assetid: fce91c1b-d5c2-6522-2446-0b8f6cacbc84
 ms.date: 06/08/2017
 ms.localizationpriority: medium

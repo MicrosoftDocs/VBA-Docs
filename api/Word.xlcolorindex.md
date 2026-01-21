@@ -1,5 +1,7 @@
 ---
 title: XlColorIndex enumeration (Word)
+api_name:
+- Word.xlcolorindex
 ms.assetid: 2d9f944e-70ea-04aa-9943-975d603f17ba
 ms.date: 06/08/2017
 ms.localizationpriority: medium

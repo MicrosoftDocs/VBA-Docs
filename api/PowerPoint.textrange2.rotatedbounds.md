@@ -1,5 +1,7 @@
 ---
 title: TextRange2.RotatedBounds method (PowerPoint)
+api_name:
+- PowerPoint.textrange2.rotatedbounds
 ms.assetid: 8cb245a9-88e4-4261-8c68-bdd478a6d29f
 ms.date: 06/08/2017
 ms.localizationpriority: medium

@@ -3,6 +3,8 @@ title: ModelFormatDate.Parent property (Excel)
 keywords: vbaxl10.chm983075
 f1_keywords:
 - vbaxl10.chm983075
+api_name:
+- Excel.modelformatdate.parent
 ms.assetid: 064b3651-ad76-c8fd-1250-b25fa669cf92
 ms.date: 05/01/2019
 ms.localizationpriority: medium

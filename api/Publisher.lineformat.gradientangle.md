@@ -3,6 +3,8 @@ title: LineFormat.GradientAngle property (Publisher)
 keywords: vbapb10.chm3408149
 f1_keywords:
 - vbapb10.chm3408149
+api_name:
+- Publisher.lineformat.gradientangle
 ms.assetid: 84457dce-f81e-6037-0496-899e376977da
 ms.date: 06/08/2019
 ms.localizationpriority: medium

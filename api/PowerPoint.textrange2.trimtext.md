@@ -1,5 +1,7 @@
 ---
 title: TextRange2.TrimText method (PowerPoint)
+api_name:
+- PowerPoint.textrange2.trimtext
 ms.assetid: c96d3201-6f8c-437d-8df6-b12281c589bd
 ms.date: 06/08/2017
 ms.localizationpriority: medium

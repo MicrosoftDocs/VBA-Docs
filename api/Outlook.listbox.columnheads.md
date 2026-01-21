@@ -1,5 +1,7 @@
 ---
 title: ListBox.ColumnHeads Property (Outlook Forms Script)
+api_name:
+- Outlook.listbox.columnheads
 ms.assetid: 7c7fba76-e513-db45-b485-b3500d705d6c
 ms.date: 06/08/2017
 ms.localizationpriority: medium

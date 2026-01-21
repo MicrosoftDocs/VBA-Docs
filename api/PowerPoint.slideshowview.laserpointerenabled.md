@@ -3,6 +3,8 @@ title: SlideShowView.LaserPointerEnabled property (PowerPoint)
 keywords: vbapp10.chm513038
 f1_keywords:
 - vbapp10.chm513038
+api_name:
+- PowerPoint.slideshowview.laserpointerenabled
 ms.assetid: 9ba56542-a2bf-28d2-9609-50f9a4144c91
 ms.date: 06/08/2017
 ms.localizationpriority: medium

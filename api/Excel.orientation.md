@@ -3,6 +3,8 @@ title: Orientation property (Excel Graph)
 keywords: vbagr10.chm65670
 f1_keywords:
 - vbagr10.chm65670
+api_name:
+- Excel.orientation
 ms.assetid: 1e4e111c-5144-a509-4791-e8ca31c3de5e
 ms.date: 04/11/2019
 ms.localizationpriority: medium

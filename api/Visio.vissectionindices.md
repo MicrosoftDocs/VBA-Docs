@@ -3,6 +3,8 @@ title: VisSectionIndices enumeration (Visio)
 keywords: vis_sdr.chm70018
 f1_keywords:
 - vis_sdr.chm70018
+api_name:
+- Visio.vissectionindices
 ms.assetid: 3ace0196-59a6-a862-85a3-3022de8a2efc
 ms.date: 06/08/2017
 ms.localizationpriority: medium

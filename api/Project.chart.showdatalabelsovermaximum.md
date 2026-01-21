@@ -1,5 +1,7 @@
 ---
 title: Chart.ShowDataLabelsOverMaximum property (Project)
+api_name:
+- Project.chart.showdatalabelsovermaximum
 ms.service: project-server
 ms.assetid: 440bfd4b-069e-6963-d316-ea1bf84d411d
 ms.date: 06/08/2017

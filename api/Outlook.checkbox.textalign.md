@@ -3,6 +3,8 @@ title: CheckBox.TextAlign Property (Outlook Forms Script)
 keywords: olfm10.chm2002080
 f1_keywords:
 - olfm10.chm2002080
+api_name:
+- Outlook.checkbox.textalign
 ms.assetid: 2ce54774-230f-9e6b-a866-28c9a7512280
 ms.date: 06/08/2017
 ms.localizationpriority: medium

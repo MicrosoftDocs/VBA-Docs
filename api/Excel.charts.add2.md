@@ -3,6 +3,8 @@ title: Charts.Add2 method (Excel)
 keywords: vbaxl10.chm218076
 f1_keywords:
 - vbaxl10.chm218076
+api_name:
+- Excel.charts.add2
 ms.assetid: bfd7d614-a640-dfdc-ebc5-3d0682f2c839
 ms.date: 04/20/2019
 ms.localizationpriority: medium

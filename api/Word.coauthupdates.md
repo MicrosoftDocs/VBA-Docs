@@ -1,5 +1,7 @@
 ---
 title: CoAuthUpdates object (Word)
+api_name:
+- Word.coauthupdates
 ms.assetid: afd0abeb-276e-96f4-ee8a-01f263e69121
 ms.date: 06/08/2017
 ms.localizationpriority: medium

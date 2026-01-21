@@ -3,6 +3,8 @@ title: PbLigaturePresetType enumeration (Publisher)
 keywords: vbapb10.chm65659
 f1_keywords:
 - vbapb10.chm65659
+api_name:
+- Publisher.pbligaturepresettype
 ms.assetid: cab28185-8c1f-40cd-9f56-daabf51ab2e7
 ms.date: 06/08/2017
 ms.localizationpriority: medium

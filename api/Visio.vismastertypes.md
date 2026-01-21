@@ -3,6 +3,8 @@ title: VisMasterTypes enumeration (Visio)
 keywords: vis_sdr.chm70480
 f1_keywords:
 - vis_sdr.chm70480
+api_name:
+- Visio.vismastertypes
 ms.assetid: 02949efd-bcf5-eacf-8ffc-73f1b8c3016d
 ms.date: 06/08/2017
 ms.localizationpriority: medium

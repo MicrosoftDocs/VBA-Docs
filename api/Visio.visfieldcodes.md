@@ -3,6 +3,8 @@ title: VisFieldCodes enumeration (Visio)
 keywords: vis_sdr.chm70140
 f1_keywords:
 - vis_sdr.chm70140
+api_name:
+- Visio.visfieldcodes
 ms.assetid: 3bcc4aef-21c1-b152-47dc-74e6c58cd24e
 ms.date: 06/08/2017
 ms.localizationpriority: medium

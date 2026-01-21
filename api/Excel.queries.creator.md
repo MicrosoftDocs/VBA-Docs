@@ -3,6 +3,8 @@ title: Queries.Creator property (Excel)
 keywords: vbaxl10.chm975074
 f1_keywords:
 - vbaxl10.chm975074
+api_name:
+- Excel.queries.creator
 ms.assetid: 1e20a980-6f8d-e780-dd0e-3f0b428d97ea
 ms.date: 05/09/2019
 ms.localizationpriority: medium

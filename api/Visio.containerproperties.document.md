@@ -3,6 +3,8 @@ title: ContainerProperties.Document property (Visio)
 keywords: vis_sdr.chm17613430
 f1_keywords:
 - vis_sdr.chm17613430
+api_name:
+- Visio.containerproperties.document
 ms.assetid: c0f71c01-539a-8075-ac5b-f0ca2ba99a53
 ms.date: 06/08/2017
 ms.localizationpriority: medium

@@ -3,6 +3,8 @@ title: PreviewPane.Session property (Outlook)
 keywords: vbaol11.chm3636
 f1_keywords:
 - vbaol11.chm3636
+api_name:
+- Outlook.previewpane.session
 ms.assetid: 54509e05-d255-b96e-f037-14282791ea55
 ms.date: 06/08/2017
 ms.localizationpriority: medium

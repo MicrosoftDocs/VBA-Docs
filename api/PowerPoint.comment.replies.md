@@ -3,6 +3,8 @@ title: Comment.Replies property (PowerPoint)
 keywords: vbapp10.chm642014
 f1_keywords:
 - vbapp10.chm642014
+api_name:
+- PowerPoint.comment.replies
 ms.assetid: 3af06afb-e507-bb3b-901b-30bf6bbfa0ef
 ms.date: 06/08/2017
 ms.localizationpriority: medium

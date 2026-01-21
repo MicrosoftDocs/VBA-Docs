@@ -1,5 +1,7 @@
 ---
 title: SeriesCollection.Count property (Project)
+api_name:
+- Project.seriescollection.count
 ms.service: project-server
 ms.assetid: 30dda020-a94b-0b70-6a12-13ad738db9d2
 ms.date: 06/08/2017

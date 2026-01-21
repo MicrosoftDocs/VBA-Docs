@@ -1,5 +1,7 @@
 ---
 title: OptionButton Members (Outlook Forms Script)
+api_name:
+- Outlook.optionbutton
 ms.assetid: 8a27d673-a2ef-459e-a732-118280338e88
 ms.date: 06/08/2017
 ms.localizationpriority: medium

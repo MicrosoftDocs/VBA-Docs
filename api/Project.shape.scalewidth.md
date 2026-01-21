@@ -1,5 +1,7 @@
 ---
 title: Shape.ScaleWidth method (Project)
+api_name:
+- Project.shape.scalewidth
 ms.service: project-server
 ms.assetid: 78ab4771-8364-ab1d-5d52-924d7605b833
 ms.date: 06/08/2017

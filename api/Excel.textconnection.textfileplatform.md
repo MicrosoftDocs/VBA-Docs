@@ -3,6 +3,8 @@ title: TextConnection.TextFilePlatform property (Excel)
 keywords: vbaxl10.chm926082
 f1_keywords:
 - vbaxl10.chm926082
+api_name:
+- Excel.textconnection.textfileplatform
 ms.assetid: 30eb6a36-f030-7b52-74d1-067d1c2ed08e
 ms.date: 05/17/2019
 ms.localizationpriority: medium

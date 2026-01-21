@@ -3,6 +3,8 @@ title: MultiPage.TabFixedHeight Property (Outlook Forms Script)
 keywords: olfm10.chm2001990
 f1_keywords:
 - olfm10.chm2001990
+api_name:
+- Outlook.multipage.tabfixedheight
 ms.assetid: 444070ce-46ad-4fff-021f-075aba7ad110
 ms.date: 06/08/2017
 ms.localizationpriority: medium

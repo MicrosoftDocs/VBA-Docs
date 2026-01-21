@@ -1,5 +1,7 @@
 ---
 title: Comment.AuthorSipAddress property (Visio)
+api_name:
+- Visio.comment.authorsipaddress
 ms.assetid: f8d185a9-91b6-471a-3c0e-ffa8a06b36b3
 ms.date: 06/08/2017
 ms.localizationpriority: medium

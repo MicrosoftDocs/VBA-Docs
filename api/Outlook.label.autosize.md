@@ -1,5 +1,7 @@
 ---
 title: Label.AutoSize Property (Outlook Forms Script)
+api_name:
+- Outlook.label.autosize
 ms.assetid: 22634bb4-2434-d31a-cb2d-2bcd4e513677
 ms.date: 06/08/2017
 ms.localizationpriority: medium

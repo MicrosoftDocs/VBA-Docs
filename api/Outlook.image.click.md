@@ -1,5 +1,7 @@
 ---
 title: Image.Click Event (Outlook Forms Script)
+api_name:
+- Outlook.image.click
 ms.assetid: 59ac08ce-2527-6cfb-ac0b-66322bc10e9f
 ms.date: 06/08/2017
 ms.localizationpriority: medium

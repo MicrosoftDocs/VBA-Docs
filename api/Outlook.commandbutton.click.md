@@ -1,5 +1,7 @@
 ---
 title: CommandButton.Click Event (Outlook Forms Script)
+api_name:
+- Outlook.commandbutton.click
 ms.assetid: 747d6f8f-c4da-f670-d476-21729387c4bc
 ms.date: 06/08/2017
 ms.localizationpriority: medium

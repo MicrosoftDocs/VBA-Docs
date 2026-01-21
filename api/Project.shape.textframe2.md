@@ -1,5 +1,7 @@
 ---
 title: Shape.TextFrame2 property (Project)
+api_name:
+- Project.shape.textframe2
 ms.service: project-server
 ms.assetid: 9f79d3a3-780c-e0b8-1255-e74e027b9902
 ms.date: 06/08/2017

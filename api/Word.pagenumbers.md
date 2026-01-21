@@ -1,5 +1,7 @@
 ---
 title: PageNumbers object (Word)
+api_name:
+- Word.pagenumbers
 ms.assetid: 9090f96e-d898-ace6-35fa-f6e59c527ea2
 ms.date: 06/08/2017
 ms.localizationpriority: medium

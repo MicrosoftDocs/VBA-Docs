@@ -1,5 +1,7 @@
 ---
 title: Shapes.AddInkShapeFromXML method (PowerPoint)
+api_name:
+- PowerPoint.shapes.addinkshapefromxml
 ms.assetid: 88a395ac-b11e-d42e-f4b4-b41bf1d1347e
 ms.date: 06/08/2017
 ms.localizationpriority: medium

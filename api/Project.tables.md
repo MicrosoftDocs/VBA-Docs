@@ -1,5 +1,7 @@
 ---
 title: Tables object (Project)
+api_name:
+- Project.tables
 ms.service: project-server
 ms.assetid: 0a8b7dd0-b42b-ed96-4d66-c5d35ddeb8ad
 ms.date: 06/08/2017

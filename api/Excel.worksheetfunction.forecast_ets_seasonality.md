@@ -3,6 +3,8 @@ title: WorksheetFunction.Forecast_ETS_Seasonality method (Excel)
 keywords: vbaxl10.chm137470
 f1_keywords:
 - vbaxl10.chm137470
+api_name:
+- Excel.worksheetfunction.forecast_ets_seasonality
 ms.assetid: aad7c233-1745-64e3-22a9-ade62e5e177d
 ms.date: 05/22/2019
 ms.localizationpriority: medium

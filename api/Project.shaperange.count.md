@@ -1,5 +1,7 @@
 ---
 title: ShapeRange.Count property (Project)
+api_name:
+- Project.shaperange.count
 ms.service: project-server
 ms.assetid: 3d77fa0c-bbce-81ad-f7c1-f7a2f26fe399
 ms.date: 06/08/2017

@@ -1,5 +1,7 @@
 ---
 title: ShapeRange.Line property (Project)
+api_name:
+- Project.shaperange.line
 ms.service: project-server
 ms.assetid: 7b5f80fb-4745-6e9b-2f83-b66a8c0b3a9f
 ms.date: 06/08/2017

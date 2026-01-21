@@ -1,5 +1,7 @@
 ---
 title: TextBox.BackColor Property (Outlook Forms Script)
+api_name:
+- Outlook.textbox.backcolor
 ms.assetid: 28e514ba-0bb4-496f-9405-7dd37c85023f
 ms.date: 06/08/2017
 ms.localizationpriority: medium

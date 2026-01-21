@@ -3,6 +3,8 @@ title: TableObject.RowNumbers property (Excel)
 keywords: vbaxl10.chm916073
 f1_keywords:
 - vbaxl10.chm916073
+api_name:
+- Excel.tableobject.rownumbers
 ms.assetid: 08debc1f-8cf8-a1be-e35c-cec84e81499d
 ms.date: 04/19/2019
 ms.localizationpriority: medium

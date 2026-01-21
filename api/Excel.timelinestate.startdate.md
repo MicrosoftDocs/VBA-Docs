@@ -3,6 +3,8 @@ title: TimelineState.StartDate property (Excel)
 keywords: vbaxl10.chm950073
 f1_keywords:
 - vbaxl10.chm950073
+api_name:
+- Excel.timelinestate.startdate
 ms.assetid: 3de8df53-1a36-428e-50dd-c7f45aa73b25
 ms.date: 05/18/2019
 ms.localizationpriority: medium

@@ -1,5 +1,7 @@
 ---
 title: SeriesCollection object (Project)
+api_name:
+- Project.seriescollection
 ms.service: project-server
 ms.assetid: 2065e328-f82c-266f-e34c-fa99100c862e
 ms.date: 06/08/2017

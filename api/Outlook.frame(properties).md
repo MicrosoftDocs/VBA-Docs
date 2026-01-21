@@ -1,5 +1,7 @@
 ---
 title: Frame Properties (Outlook Forms Script)
+api_name:
+- Outlook.frame
 ms.assetid: 21e6c900-986c-4c5d-86fe-7c663543fbaf
 ms.date: 06/08/2017
 ms.localizationpriority: medium

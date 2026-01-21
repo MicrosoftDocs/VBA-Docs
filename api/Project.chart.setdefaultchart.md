@@ -1,5 +1,7 @@
 ---
 title: Chart.SetDefaultChart method (Project)
+api_name:
+- Project.chart.setdefaultchart
 ms.service: project-server
 ms.assetid: e0586f53-9ca4-7d06-97ed-ecc418644d9d
 ms.date: 06/08/2017

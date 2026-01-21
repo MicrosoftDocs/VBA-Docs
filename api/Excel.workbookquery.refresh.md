@@ -3,6 +3,8 @@ title: WorkbookQuery.Refresh method (Excel)
 keywords: vbaxl10.chm974077
 f1_keywords:
 - vbaxl10.chm974077
+api_name:
+- Excel.workbookquery.refresh
 ms.assetid: 42887a52-c3e9-4dbb-bd02-efccdd2797f9
 ms.date: 02/07/2022
 ms.localizationpriority: medium

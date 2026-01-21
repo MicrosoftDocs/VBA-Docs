@@ -3,6 +3,8 @@ title: VisGlueSettings enumeration (Visio)
 keywords: vis_sdr.chm70330
 f1_keywords:
 - vis_sdr.chm70330
+api_name:
+- Visio.visgluesettings
 ms.assetid: 8b8f0e7e-d9d0-ade4-6738-2b74631ace57
 ms.date: 06/08/2017
 ms.localizationpriority: medium

@@ -3,6 +3,8 @@ title: Chart.SideWall property (Project)
 keywords: vbapj.chm131633
 f1_keywords:
 - vbapj.chm131633
+api_name:
+- Project.chart.sidewall
 ms.service: project-server
 ms.assetid: d8b74dc2-7a22-1064-972d-876396414e2c
 ms.date: 06/08/2017

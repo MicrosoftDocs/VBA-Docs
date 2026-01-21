@@ -1,5 +1,7 @@
 ---
 title: Report.Index property (Project)
+api_name:
+- Project.report.index
 ms.service: project-server
 ms.assetid: 3a0ccb0f-443e-ea35-4766-b79f97fef84a
 ms.date: 06/08/2017

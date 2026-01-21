@@ -3,6 +3,8 @@ title: ModelTableNameChange.TableNameNew property (Excel)
 keywords: vbaxl10.chm956074
 f1_keywords:
 - vbaxl10.chm956074
+api_name:
+- Excel.modeltablenamechange.tablenamenew
 ms.assetid: d7ba4fed-9592-24f7-e9f7-7eab7f4e65b1
 ms.date: 05/01/2019
 ms.localizationpriority: medium

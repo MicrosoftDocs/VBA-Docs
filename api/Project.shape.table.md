@@ -1,5 +1,7 @@
 ---
 title: Shape.Table property (Project)
+api_name:
+- Project.shape.table
 ms.service: project-server
 ms.assetid: 5e1fc97f-8ac8-db26-3a2d-c39261c23588
 ms.date: 06/08/2017

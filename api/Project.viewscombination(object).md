@@ -1,5 +1,7 @@
 ---
 title: ViewsCombination object (Project)
+api_name:
+- Project.viewscombination
 ms.service: project-server
 ms.assetid: eb9549ed-d6af-29ba-0e11-74984d954f38
 ms.date: 06/08/2017

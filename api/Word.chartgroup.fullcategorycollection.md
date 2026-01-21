@@ -3,6 +3,8 @@ title: ChartGroup.FullCategoryCollection method (Word)
 keywords: vbawd10.chm263454872
 f1_keywords:
 - vbawd10.chm263454872
+api_name:
+- Word.chartgroup.fullcategorycollection
 ms.assetid: bba2ee13-b2db-9ed6-9581-b86dedfa51c9
 ms.date: 06/08/2017
 ms.localizationpriority: medium

@@ -3,6 +3,8 @@ title: Application.AfterDragDropOnSlide event (PowerPoint)
 keywords: vbapp10.chm621032
 f1_keywords:
 - vbapp10.chm621032
+api_name:
+- PowerPoint.application.afterdragdroponslide
 ms.assetid: 1de9f2a4-565b-152a-452a-cb0c1a135c35
 ms.date: 06/05/2019
 ms.localizationpriority: medium

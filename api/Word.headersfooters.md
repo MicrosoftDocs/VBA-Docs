@@ -1,5 +1,7 @@
 ---
 title: HeadersFooters object (Word)
+api_name:
+- Word.headersfooters
 ms.assetid: 41dbbaa7-f139-3d3c-54d4-03a57ab8417a
 ms.date: 06/08/2017
 ms.localizationpriority: medium

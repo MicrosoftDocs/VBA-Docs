@@ -3,6 +3,8 @@ title: TextConnection.TextFileColumnDataTypes property (Excel)
 keywords: vbaxl10.chm926075
 f1_keywords:
 - vbaxl10.chm926075
+api_name:
+- Excel.textconnection.textfilecolumndatatypes
 ms.assetid: f2136521-07fd-7111-f6ce-5d18374a06b0
 ms.date: 05/17/2019
 ms.localizationpriority: medium

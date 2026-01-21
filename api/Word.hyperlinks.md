@@ -1,5 +1,7 @@
 ---
 title: Hyperlinks object (Word)
+api_name:
+- Word.hyperlinks
 ms.assetid: 25801753-737f-9219-6a14-6531eb2ca699
 ms.date: 06/08/2017
 ms.localizationpriority: medium

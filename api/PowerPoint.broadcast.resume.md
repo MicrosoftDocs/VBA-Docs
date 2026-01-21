@@ -3,6 +3,8 @@ title: Broadcast.Resume method (PowerPoint)
 keywords: vbapp10.chm732008
 f1_keywords:
 - vbapp10.chm732008
+api_name:
+- PowerPoint.broadcast.resume
 ms.assetid: d141edba-f466-2d40-b177-3d3c416098ab
 ms.date: 06/08/2017
 ms.localizationpriority: medium

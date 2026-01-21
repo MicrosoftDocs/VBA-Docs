@@ -3,6 +3,8 @@ title: Tabs.Add Method (Outlook Forms Script)
 keywords: olfm10.chm2000250
 f1_keywords:
 - olfm10.chm2000250
+api_name:
+- Outlook.tabs.add
 ms.assetid: dbc72cb8-e37e-ae98-d18c-0042dc6c139f
 ms.date: 06/08/2017
 ms.localizationpriority: medium

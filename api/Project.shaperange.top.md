@@ -1,5 +1,7 @@
 ---
 title: ShapeRange.Top property (Project)
+api_name:
+- Project.shaperange.top
 ms.service: project-server
 ms.assetid: 5860c7b6-4bdc-dcce-7011-0aa0895e9d3d
 ms.date: 06/08/2017

@@ -1,5 +1,7 @@
 ---
 title: Shape.Comments property (Visio)
+api_name:
+- Visio.shape.comments
 ms.assetid: 498eca91-beb9-b764-0262-a935e5205710
 ms.date: 06/08/2017
 ms.localizationpriority: medium

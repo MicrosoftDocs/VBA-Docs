@@ -1,5 +1,7 @@
 ---
 title: Image Object Reference (Outlook Forms Script)
+api_name:
+- Outlook.image.object
 ms.assetid: 74d4a032-5572-4bda-afb2-e9f743f39a09
 ms.date: 06/08/2017
 ms.localizationpriority: medium

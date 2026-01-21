@@ -3,6 +3,8 @@ title: LineFormat.GradientVariant property (Publisher)
 keywords: vbapb10.chm3408152
 f1_keywords:
 - vbapb10.chm3408152
+api_name:
+- Publisher.lineformat.gradientvariant
 ms.assetid: aa3d9d8f-dc59-8274-a177-f99ddd0d472f
 ms.date: 06/08/2019
 ms.localizationpriority: medium

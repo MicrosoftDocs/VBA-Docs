@@ -1,5 +1,7 @@
 ---
 title: Shape.Fill property (Project)
+api_name:
+- Project.shape.fill
 ms.service: project-server
 ms.assetid: 582892a5-5b3d-69a7-5ca3-df774d54d37a
 ms.date: 06/08/2017

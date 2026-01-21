@@ -3,6 +3,8 @@ title: ModelTables object (Excel)
 keywords: vbaxl10.chm935072
 f1_keywords:
 - vbaxl10.chm935072
+api_name:
+- Excel.modeltables
 ms.assetid: 1d1cda4a-2472-4f1e-2725-cc39b2cf086c
 ms.date: 03/30/2019
 ms.localizationpriority: medium

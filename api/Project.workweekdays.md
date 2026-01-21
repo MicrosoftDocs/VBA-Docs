@@ -1,5 +1,7 @@
 ---
 title: WorkWeekDays object (Project)
+api_name:
+- Project.workweekdays
 ms.service: project-server
 ms.assetid: 70ef7283-1dc1-7b19-5d84-5b3d5698e169
 ms.date: 06/08/2017

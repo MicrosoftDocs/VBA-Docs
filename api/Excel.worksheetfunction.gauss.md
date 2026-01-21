@@ -3,6 +3,8 @@ title: WorksheetFunction.Gauss method (Excel)
 keywords: vbaxl10.chm137449
 f1_keywords:
 - vbaxl10.chm137449
+api_name:
+- Excel.worksheetfunction.gauss
 ms.assetid: d957749a-0e48-e026-0962-872c1dcfd817
 ms.date: 05/23/2019
 ms.localizationpriority: medium

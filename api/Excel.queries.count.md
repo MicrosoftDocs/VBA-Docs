@@ -3,6 +3,8 @@ title: Queries.Count property (Excel)
 keywords: vbaxl10.chm976073
 f1_keywords:
 - vbaxl10.chm976073
+api_name:
+- Excel.queries.count
 ms.assetid: b9553330-01ff-8c31-ba10-62176f1ba0b7
 ms.date: 05/09/2019
 ms.localizationpriority: medium

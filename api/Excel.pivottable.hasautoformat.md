@@ -1,5 +1,7 @@
 ---
 title: PivotTable.HasAutoFormat property (Excel)
+api_name:
+- Excel.pivottable.hasautoformat
 ms.assetid: dc60e0e8-3e52-431e-8037-7dd0890de7f8
 ms.date: 05/08/2019
 ms.localizationpriority: medium

@@ -3,6 +3,8 @@ title: ModelColumnName.Creator property (Excel)
 keywords: vbaxl10.chm961074
 f1_keywords:
 - vbaxl10.chm961074
+api_name:
+- Excel.modelcolumnname.creator
 ms.assetid: ea92c791-ff11-9137-e354-9e3e84993932
 ms.date: 05/01/2019
 ms.localizationpriority: medium

@@ -1,5 +1,7 @@
 ---
 title: Fields object (Word)
+api_name:
+- Word.fields
 ms.assetid: c79065bb-ba29-22fd-a9d7-90bb10550035
 ms.date: 06/08/2017
 ms.localizationpriority: medium

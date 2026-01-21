@@ -1,5 +1,7 @@
 ---
 title: Object model (Project)
+api_name:
+- Project.object
 description: Overview Project object model
 ms.service: project-server
 ms.assetid: d41f2ada-ddda-44bf-9497-6e96c1ca8b07

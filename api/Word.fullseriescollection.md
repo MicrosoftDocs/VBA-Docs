@@ -3,6 +3,8 @@ title: FullSeriesCollection object (Word)
 keywords: vbawd10.chm1129
 f1_keywords:
 - vbawd10.chm1129
+api_name:
+- Word.fullseriescollection
 ms.assetid: a0786c15-27f7-5ba8-eaba-7b982d951fd8
 ms.date: 06/08/2017
 ms.localizationpriority: medium

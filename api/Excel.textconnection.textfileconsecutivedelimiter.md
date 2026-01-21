@@ -3,6 +3,8 @@ title: TextConnection.TextFileConsecutiveDelimiter property (Excel)
 keywords: vbaxl10.chm926077
 f1_keywords:
 - vbaxl10.chm926077
+api_name:
+- Excel.textconnection.textfileconsecutivedelimiter
 ms.assetid: ecbfd517-08ab-bd35-3358-8b7a2a719171
 ms.date: 05/17/2019
 ms.localizationpriority: medium
