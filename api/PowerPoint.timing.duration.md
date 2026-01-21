@@ -21,8 +21,14 @@ _expression_. `Duration`
 _expression_ A variable that represents a [Timing](PowerPoint.Timing.md) object.
 
 
-## Property value
+## Return value
 
- **FLOAT**
+Single
+
+
+## See also
+
+[Timing Object](PowerPoint.Timing.md)
+
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
