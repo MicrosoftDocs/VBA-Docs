@@ -13,7 +13,7 @@ ms.localizationpriority: medium
 
 # Areas.Item property (Excel)
 
-Returns a single object from a collection.
+Returns a single **[Range](Excel.Range.md)** object from the collection.
 
 
 ## Syntax
