@@ -98,12 +98,11 @@ End Sub
 
 ## See also
 
-- [Access for developers forum](https://social.msdn.microsoft.com/Forums/office/home?forum=accessdev)
-- [Access help on support.office.com](https://support.office.com/search/results?query=Access)
-- [Access help on answers.microsoft.com](https://answers.microsoft.com/)
-- [Access forums on UtterAccess](https://www.utteraccess.com/forum/index.php?act=idx)
-- [Access developer and VBA programming help center (FMS)](https://www.fmsinc.com/MicrosoftAccess/developer/)
+- [Access Developers on Microsoft Q&A](https://learn.microsoft.com/answers/tags/322/m365-office-office-access-development-routing)
+- [Access help on support.office.com](https://support.office.com/access)
+- [Access Developer Blog](https://techcommunity.microsoft.com/category/microsoft365/blog/AccessBlog)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
 
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+
