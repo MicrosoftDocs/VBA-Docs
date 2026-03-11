@@ -5,14 +5,14 @@ keywords: vbaac10.chm5187733
 f1_keywords:
 - vbaac10.chm5187733
 ms.assetid: 9fc87446-68bd-d592-71c8-8d8c022af2c4
-ms.date: 06/08/2019
+ms.date: 03/06/2026
 ms.localizationpriority: medium
 ---
 
 
 # Object properties
 
-**Applies to:** Access 2013 | Access 2016
+**Applies to:** Access 2013 | Access 2016 | Access 2019 | Access 2024
 
 The **Object** properties provide general information about objects contained in the Navigation Pane.
 
@@ -48,7 +48,8 @@ The following **Object** properties are available from the Database window.
 |**Created**|This is the date that the object was created. For tables and queries, this property is the same as the **DateCreated** property.|
 |**Modified**|This is the date that the object was last modified. For tables and queries, this property is the same as the **LastUpdated** property.|
 |**Owner**|This is the owner of the object. For more information, see the **Owner** property.|
-|**Attributes**|This property specifies whether the object is hidden or visible and whether the object can be replicated in a database replica. If you set the Hidden attribute to **True** (by selecting the **Hidden** check box), the object won't appear in the Database window.<br/><br/>To display hidden objects in the Navigation Pane, click the **Microsoft Office Button**, and then click **Access Options**. Click the **Current Database** category, and then click **Navigation Options**. Click **Show Hidden Objects**, and then click **OK**.<br/><br/>The icons for hidden objects will be dimmed in the Database window. You can then turn the Hidden attribute off, making the objects visible in the Database window.|
+|**Hidden**|This property specifies whether the object is hidden or visible and whether the object can be replicated in a database replica. If you set the Hidden attribute to **True** (by selecting the **Hidden** check box), the object won't appear in the Database window.<br/><br/>To display hidden objects in the Navigation Pane, click the **Microsoft Office Button**, and then click **Access Options**. Click the **Current Database** category, and then click **Navigation Options**. Click **Show Hidden Objects**, and then click **OK**.<br/><br/>The icons for hidden objects will be dimmed in the Database window. You can then turn the Hidden attribute off, making the objects visible in the Database window.|
+|**NoFormat**|This property allows you to enable pretty formatting on a per-query basis through the query object properties, rather than applying it globally to the entire database. If you set the NoFormat attribute to **True** (by selecting the **No Format** check box), the pretty formatting feature is disabled for any query (including passthrough queries).<br/><br/>Example:<br/>`CurrentDb.QueryDefs("Query1").Properties("NoFormat") = True`<br/><br/>It's stored as a property on the QueryDef object.)
 
 ## Example
 
@@ -97,11 +98,11 @@ End Sub
 
 ## See also
 
-- [Access for developers forum](https://social.msdn.microsoft.com/Forums/office/home?forum=accessdev)
-- [Access help on support.office.com](https://support.office.com/search/results?query=Access)
-- [Access help on answers.microsoft.com](https://answers.microsoft.com/)
-- [Access forums on UtterAccess](https://www.utteraccess.com/forum/index.php?act=idx)
-- [Access developer and VBA programming help center (FMS)](https://www.fmsinc.com/MicrosoftAccess/developer/)
+- [Access Developers on Microsoft Q&A](https://learn.microsoft.com/answers/tags/322/m365-office-office-access-development-routing)
+- [Access help on support.office.com](https://support.office.com/access)
+- [Access Developer Blog](https://techcommunity.microsoft.com/category/microsoft365/blog/AccessBlog)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
 
+
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
+
