@@ -47,17 +47,17 @@
     "fileMetadata": {
       "ms.topic": {
         "api/**.md": "reference",
-        "access/**.md": "conceptual",
-        "excel/**.md": "conceptual",
-        "Language/**.md": "conceptual",
-        "Library-Reference/**.md": "conceptual",
-        "Office-Mac/**.md": "conceptual",
-        "outlook/**.md": "conceptual",
-        "powerpoint/**.md": "conceptual",
-        "project/**.md": "conceptual",
-        "publisher/**.md": "conceptual",
-        "visio/**.md": "conceptual",
-        "word/**.md": "conceptual"
+        "access/**.md": "concept-article",
+        "excel/**.md": "concept-article",
+        "Language/**.md": "concept-article",
+        "Library-Reference/**.md": "concept-article",
+        "Office-Mac/**.md": "concept-article",
+        "outlook/**.md": "concept-article",
+        "powerpoint/**.md": "concept-article",
+        "project/**.md": "concept-article",
+        "publisher/**.md": "concept-article",
+        "visio/**.md": "concept-article",
+        "word/**.md": "concept-article"
       },
       "ms.service": {
         "api/PowerPoint.*.md": "powerpoint",
