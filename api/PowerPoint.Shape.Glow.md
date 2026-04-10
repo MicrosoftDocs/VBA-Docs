@@ -13,7 +13,7 @@ ms.localizationpriority: medium
 
 # Shape.Glow property (PowerPoint)
 
-Returns the glow format for the specified shape. Read-only.
+Returns a  **[GlowFormat](glowformat-object-office.md)** object that contains glow formatting properties for the specified shape. Read-only.
 
 
 ## Syntax
@@ -25,7 +25,22 @@ _expression_ A variable that represents a **[Shape](PowerPoint.Shape.md)** objec
 
 ## Return value
 
-MsoGlowType
+GlowFormat
+
+
+## Example
+
+This example sets the color, radius, and transparency for the glow of the second shape on the second slide in a PowerPoint presentation:
+
+
+```
+With ActivePresentation.Slides(2).Shapes(2).Glow
+    .Color.RGB = RGB(128, 0, 0)
+    .Radius = 10
+    .Transparency = 0.5
+End With 
+
+```
 
 
 ## See also
