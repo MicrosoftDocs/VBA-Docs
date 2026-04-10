@@ -13,7 +13,7 @@ ms.localizationpriority: medium
 
 # Shape.Glow property (PowerPoint)
 
-Returns a  **[GlowFormat](glowformat-object-office.md)** object that contains glow formatting properties for the specified shape. Read-only.
+Returns a  **[GlowFormat](Office.GlowFormat.md)** object that contains glow formatting properties for the specified shape. Read-only.
 
 
 ## Syntax
