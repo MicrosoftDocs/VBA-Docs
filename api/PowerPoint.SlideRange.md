@@ -62,7 +62,7 @@ With ActivePresentation.Slides.Range(Array(1, 3))
 End With
 ```
 
-The following example sets the background fill for the slides named "Intro" and "Big Chart" in the active presentation. Note that slides are assigned automatically generated names of the form Sliden (where n is an integer) when they're created. To assign a more meaningful name to a slide, use the [Name](PowerPoint.Slide.Name.md)property.
+The following example sets the background fill for the slides named "Intro" and "Big Chart" in the active presentation. Note that slides are assigned automatically generated names of the form Sliden (where n is an integer) when they're created. To assign a more meaningful name to a slide, use the [Name](PowerPoint.Slide.Name.md) property.
 
 
 
@@ -77,9 +77,9 @@ With ActivePresentation.Slides.Range(Array("Intro", "Big Chart"))
 End With
 ```
 
-Although you can use the [Range](PowerPoint.Slides.Range.md)method to return any number of slides, it is simpler to use the [Item](PowerPoint.Slides.Item.md)method if you only want to return a single member of the **SlideRange** collection. For example, `Slides(1)` is simpler than `Slides.Range(1)`.
+Although you can use the [Range](PowerPoint.Slides.Range.md) method to return any number of slides, it is simpler to use the [Item](PowerPoint.Slides.Item.md) method if you only want to return a single member of the **SlideRange** collection. For example, `Slides(1)` is simpler than `Slides.Range(1)`.
 
-Use the [SlideRange](PowerPoint.Selection.SlideRange.md)property of the **[Selection](PowerPoint.Selection.md)** object to return all the slides in the selection. The following example sets the background fill for all the selected slides in window one, assuming that there's at least one slide selected.
+Use the [SlideRange](PowerPoint.Selection.SlideRange.md) property of the **[Selection](PowerPoint.Selection.md)** object to return all the slides in the selection. The following example sets the background fill for all the selected slides in window one, assuming that there's at least one slide selected.
 
 
 
