@@ -98,7 +98,7 @@ End Sub
 
 ## See also
 
-- [Access Developers on Microsoft Q&A]- [Access Development on Microsoft Q&A](https://learn.microsoft.com/answers/tags/322/m365-office-office-access-development-routing)
+- [Access Developers on Microsoft Q&A]- [Access Development on Microsoft Q&A](/answers/tags/322/m365-office-office-access-development-routing)
 - [Access help on support.office.com](https://support.office.com/access)
 - [Access Developer Blog](https://techcommunity.microsoft.com/category/microsoft365/blog/AccessBlog)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
