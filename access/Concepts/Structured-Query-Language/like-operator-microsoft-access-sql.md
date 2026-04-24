@@ -23,12 +23,12 @@ The **Like** operator syntax has these parts:
 
 |Part|Description|
 |:-----|:-----|
-| _expression_|SQL expression used in a [WHERE clause](where-clause-microsoft-access-sql.md).|
-| _pattern_|String or character string literal against which  _expression_ is compared.|
+|_expression_|SQL expression used in a [WHERE clause](where-clause-microsoft-access-sql.md).|
+|_pattern_|String or character string literal against which  _expression_ is compared.|
 
 ## Remarks
 
-Use the **Like** operator to find values in a field that match the pattern you specify. For _pattern_, you can specify the complete value (for example, `Like "Smith"`), or you can use [wildcard characters](https://support.microsoft.com/office/use-wildcards-in-queries-and-parameters-in-access-ec057a45-78b1-4d16-8c20-242cde582e0b) to find a range of values (for example, ), or you can use wildcard characters to find a range of values (for example, `Like "Sm*").
+Use the **Like** operator to find values in a field that match the pattern you specify. For _pattern_, you can specify the complete value (for example, `Like "Smith"`), or you can use [wildcard characters](https://support.microsoft.com/office/use-wildcards-in-queries-and-parameters-in-access-ec057a45-78b1-4d16-8c20-242cde582e0b) to find a range of values (for example, ), or you can use wildcard characters to find a range of values (for example, `Like "Sm*"`).
 
 In an expression, you can use the **Like** operator to compare a field value to a string expression. For example, if you enter `Like "C*"` in an SQL query, the query returns all field values beginning with the letter C. In a parameter query, you can prompt the user for a pattern to search for.
 
@@ -43,7 +43,7 @@ The following table shows how you can use **Like** to test expressions for diffe
 |**Kind of match**|**Pattern**|**Match (returns True)**|**No match (returns False)**|
 |:-----|:-----|:-----|:-----|
 |Multiple characters|a*a|aa, aBa, aBBBa|aBC|
-|_ab_|abc, AABB, Xab|aZb, bac|
+|Literal string|_ab_|abc, AABB, Xab|aZb, bac|
 |Special character|a[*]a|a*a|aaa|
 |Multiple characters|ab*|abcdefg, abc|cab, aab|
 |Single character|a?a|aaa, a3a, aBa|aBBBa|
@@ -87,9 +87,10 @@ End Sub
 
 ## See also
 
-- [Access for developers forum](https://social.msdn.microsoft.com/Forums/office/home?forum=accessdev)
-- [Access help on support.office.com](https://support.office.com/search/results?query=Access)
-- [Access forums on UtterAccess](https://www.utteraccess.com/forum/index.php?act=idx)
+- [Access Development on Microsoft Q&A](https://learn.microsoft.com/answers/tags/322/m365-office-office-access-development-routing)
+- [Access on Microsoft Tech Community](https://techcommunity.microsoft.com/category/microsoft365/discussions/access)
+- [Access Feedback Forum](https://feedbackportal.microsoft.com/feedback/forum/818e3b49-e61b-ec11-b6e7-0022481f8472)
+- [AccessForums.net](https://www.accessforums.net/index.php)
 - [Access developer and VBA programming help center (FMS)](https://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
 
