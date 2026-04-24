@@ -199,9 +199,9 @@ UtterAccess is the premier Microsoft Access wiki and help forum.
 
 ## See also
 
-- [Access for developers forum](https://social.msdn.microsoft.com/Forums/office/home?forum=accessdev)
-- [Access help on support.office.com](https://support.office.com/search/results?query=Access)
-- [Access forums on UtterAccess](https://www.utteraccess.com/forum/index.php?act=idx)
+- [Access on Microsoft Tech Community](https://techcommunity.microsoft.com/category/microsoft365/discussions/access)
+- [Access Feedback Forum](https://feedbackportal.microsoft.com/feedback/forum/818e3b49-e61b-ec11-b6e7-0022481f8472)
+- [AccessForums.net](https://www.accessforums.net/index.php)
 - [Access developer and VBA programming help center (FMS)](https://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
 
