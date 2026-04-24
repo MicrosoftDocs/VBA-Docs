@@ -31,7 +31,7 @@ Specifies the type of shadow displayed with a shape.The **msoShadowType** consta
 |**msoShadow14**|14|Fourteenth shadow type. Represents a solid very small outer shadow offset to the bottom-right of the shape. |
 |**msoShadow15**|15|Fifteenth shadow type. Represents a solid perspective shadow in the lower-left of the shape, identical to msoShadow7. |
 |**msoShadow16**|16|Sixteenth shadow type. Represents a solid perspective shadow in the lower-right of the shape, identical to msoShadow8. |
-|**msoShadow17**|17|Seventeenth shadow type. Represents a solid outer shadow offset to the top-left of the shape. |
+|**msoShadow17**|17|Seventeenth shadow type. Represents a solid very small double outer shadow offset to the bottom-right and top-left of the shape. |
 |**msoShadow18**|18|Eighteenth shadow type. Represents a solid very small double outer shadow offset to the top-left and bottom-right of the shape. |
 |**msoShadow19**|19|Nineteenth shadow type. Represents no shadow. |
 |**msoShadow20**|20|Twentieth shadow type. Represents a solid outer shadow offset to the bottom of the shape. |
