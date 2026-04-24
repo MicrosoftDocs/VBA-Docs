@@ -35,5 +35,28 @@ Specifies the type of shadow displayed with a shape.The **msoShadowType** consta
 |**msoShadow18**|18|Eighteenth shadow type |
 |**msoShadow19**|19|Nineteenth shadow type |
 |**msoShadow20**|20|Twentieth shadow type |
+|**msoShadow21**|21|Twenty-first shadow type. |
+|**msoShadow22**|22|Twenty-second shadow type. |
+|**msoShadow23**|23|Twenty-third shadow type. |
+|**msoShadow24**|24|Twenty-fourth shadow type. |
+|**msoShadow25**|25|Twenty-fifth shadow type. |
+|**msoShadow26**|26|Twenty-sixth shadow type. |
+|**msoShadow27**|27|Twenty-seventh shadow type. |
+|**msoShadow28**|28|Twenty-eighth shadow type. |
+|**msoShadow29**|29|Twenty-ninth shadow type. |
+|**msoShadow30**|30|Thirtieth shadow type.  |
+|**msoShadow31**|31|Thirty-first shadow type. |
+|**msoShadow32**|32|Thirty-second shadow type. |
+|**msoShadow33**|33|Thirty-third shadow type. |
+|**msoShadow34**|34|Thirty-fourth shadow type. |
+|**msoShadow35**|35|Thirty-fifth shadow type. |
+|**msoShadow36**|36|Thirty-sixth shadow type. |
+|**msoShadow37**|37|Thirty-seventh shadow type. |
+|**msoShadow38**|38|Thirty-eighth shadow type. |
+|**msoShadow39**|39|Thirty-ninth shadow type. |
+|**msoShadow40**|40|Fourtieth shadow type.  |
+|**msoShadow41**|41|Fourty-first shadow type. |
+|**msoShadow42**|42|Fourty-second shadow type. |
+|**msoShadow43**|43|Fourty-third shadow type. |
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
