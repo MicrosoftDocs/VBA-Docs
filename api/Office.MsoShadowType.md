@@ -14,7 +14,16 @@ Specifies the type of shadow displayed with a shape.The **msoShadowType** consta
 
 |Name|Value|Description|
 |:-----|:-----|:-----|
+|**msoShadowMixed**|-2|Not supported |
 |**msoShadow1**|1|First shadow type |
+|**msoShadow2**|2|Second shadow type |
+|**msoShadow3**|3|Third shadow type |
+|**msoShadow4**|4|Fourth shadow type |
+|**msoShadow5**|5|Fifth shadow type |
+|**msoShadow6**|6|Sixth shadow type |
+|**msoShadow7**|7|Seventh shadow type |
+|**msoShadow8**|8|Eighth shadow type |
+|**msoShadow9**|9|Ninth shadow type |
 |**msoShadow10**|10|Tenth shadow type |
 |**msoShadow11**|11|Eleventh shadow type |
 |**msoShadow12**|12|Twelfth shadow type |
@@ -25,15 +34,6 @@ Specifies the type of shadow displayed with a shape.The **msoShadowType** consta
 |**msoShadow17**|17|Seventeenth shadow type |
 |**msoShadow18**|18|Eighteenth shadow type |
 |**msoShadow19**|19|Nineteenth shadow type |
-|**msoShadow2**|2|Second shadow type |
 |**msoShadow20**|20|Twentieth shadow type |
-|**msoShadow3**|3|Third shadow type |
-|**msoShadow4**|4|Fourth shadow type |
-|**msoShadow5**|5|Fifth shadow type |
-|**msoShadow6**|6|Sixth shadow type |
-|**msoShadow7**|7|Seventh shadow type |
-|**msoShadow8**|8|Eighth shadow type |
-|**msoShadow9**|9|Ninth shadow type |
-|**msoShadowMixed**|-2|Not supported |
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
