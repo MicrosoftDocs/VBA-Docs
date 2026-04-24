@@ -19,7 +19,7 @@ Used with the **SysCmd** method to specify an action to take.
 |:-----|:-----|:-----|
 |**acSysCmdAccessDir**|9|Returns the name of the directory where Msaccess.exe is located.|
 |**acSysCmdAccessVer**|7|Returns the version number of Microsoft Access.|
-|**acSysCmdClearHelpTopic**|11||
+|**acSysCmdClearHelpTopic**|11|Resets default help topic.|
 |**acSysCmdClearStatus**|5|Provides information on the state of a database object.|
 |**acSysCmdCompile**|603|Compiles the Visual Basic code modules in the current database. Equivalent to the **Debug > Compile** menu command.|
 |**acSysCmdGetBitness**|724|Returns `"32-bit"` or `"64-bit"` as a string matching the bitness of the running binary. Version 2604 and later.|
