@@ -24,7 +24,7 @@ An action query changes data or copies data. Action queries include append, dele
 ## See also
 
 - [Access for developers forum](/answers/questions/topics/single/240765.html)
-- [Access help on support.office.com](https://support.office.com/search/results?query=Access)
+- [Access Feedback Forum](https://feedbackportal.microsoft.com/feedback/forum/818e3b49-e61b-ec11-b6e7-0022481f8472)
 - [Access help on answers.microsoft.com](https://answers.microsoft.com/search/search?SearchTerm=access)
 - [Access developer and VBA programming help center (FMS)](https://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)

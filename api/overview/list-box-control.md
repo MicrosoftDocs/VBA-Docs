@@ -28,11 +28,11 @@ If you don't have room on your form to display a list box, or if you want to be 
 
 ## See also
 
-- [Access for developers forum](https://social.msdn.microsoft.com/Forums/office/home?forum=accessdev)
+- [Access on Microsoft Tech Community](https://techcommunity.microsoft.com/category/microsoft365/discussions/access)
 - [Access help on support.office.com](https://support.office.com/search/results?query=Access)
 - [Access help on answers.microsoft.com](https://answers.microsoft.com/)
 - [Search for specific Access error codes on Bing](https://www.bing.com/)
-- [Access forums on UtterAccess](https://www.utteraccess.com/forum/index.php?act=idx)
+- [AccessForums.net](https://www.accessforums.net/index.php)
 - [Access wiki on UtterAccess](https://www.utteraccess.com/forum/index.php?act=idx)
 - [Access developer and VBA programming help center (FMS)](https://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)

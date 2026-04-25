@@ -4,7 +4,7 @@ keywords: jetsql40.chm5277589
 f1_keywords:
 - jetsql40.chm5277589
 ms.assetid: 70d2ecef-90d7-aff9-398e-8703fb7dfc6e
-ms.date: 06/08/2017
+ms.date: 04/24/2026
 ms.localizationpriority: medium
 ---
 
@@ -87,9 +87,10 @@ End Sub
 
 ## See also
 
-- [Access Development on Microsoft Q&A](https://learn.microsoft.com/answers/tags/322/m365-office-office-access-development-routing)
+- [Access Development on Microsoft Q&A]- [Access Development on Microsoft Q&A](/answers/tags/322/m365-office-office-access-development-routing)
 - [Access on Microsoft Tech Community](https://techcommunity.microsoft.com/category/microsoft365/discussions/access)
 - [Access Feedback Forum](https://feedbackportal.microsoft.com/feedback/forum/818e3b49-e61b-ec11-b6e7-0022481f8472)
+- [Access Development on Microsoft Q&A](/answers/tags/322/m365-office-office-access-development-routing)
 - [AccessForums.net](https://www.accessforums.net/index.php)
 - [Access developer and VBA programming help center (FMS)](https://www.fmsinc.com/MicrosoftAccess/developer/)
 - [Access posts on StackOverflow](https://stackoverflow.com/questions/tagged/ms-access)
