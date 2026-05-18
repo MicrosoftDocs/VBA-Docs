@@ -7,14 +7,14 @@ f1_keywords:
 api_name:
 - Access.Indexed
 ms.assetid: d410da7f-eb9d-5e03-06fa-b5756da357f4
-ms.date: 06/08/2019
+ms.date: 05/05/2026
 ms.localizationpriority: medium
 ---
 
 
 # Indexed property
 
-**Applies to:** Access 2013 | Access 2016
+**Applies to:** Access 2019 | Access 2021 | Access 2024 | Access 365
 
 Use the **Indexed** property to set a single-field index. An index speeds up queries on the indexed fields as well as sorting and grouping operations. For example, if you search for specific employee names in a LastName field, you can create an index for this field to speed up the search for a specific name.
 
@@ -40,7 +40,7 @@ In Visual Basic , use the ADO **Append** method of the **Indexes** collection to
 Use the **Indexed** property to find and sort records by using a single field in a table. The field can hold either unique or non-unique values. For example, you can create an index on an EmployeeID field in an Employees table in which each employee ID is unique or you can create an index on a Name field in which some names may be duplicates.
 
 > [!NOTE] 
-> You can't index Memo, Hyperlink, or OLE Object data type fields.
+> You can't index OLE Object, Calculated, or Attachment data type fields.
 
 You can create as many indexes as you need. The indexes are created when you save the table and are automatically updated when you change or add records. You can add or delete indexes at any time in table Design view.
 
