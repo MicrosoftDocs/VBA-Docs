@@ -18,6 +18,7 @@ A **Collection** object is an ordered set of items that can be referred to as a 
 ## Remarks
 
 The **Collection** object provides a convenient way to refer to a related group of items as a single object. The items, or [members](../../Glossary/vbe-glossary.md#member), in a collection need only be related by the fact that they exist in the [collection](../../Glossary/vbe-glossary.md#collection). Members of a collection don't have to share the same [data type](../../Glossary/vbe-glossary.md#data-type).
+The entire collection can be iterated by using the **[For Each...Next](for-eachnext-statement.md)** statement.
 
 A collection can be created the same way other objects are created. For example:
 
@@ -26,7 +27,20 @@ Dim X As New Collection
 
 ```
 
-After a collection is created, members can be added by using the **[Add](add-method-visual-basic-for-applications.md)** method and removed by using the **[Remove](remove-method-visual-basic-for-applications.md)** method. Specific members can be returned from the collection by using the **[Item](item-method-visual-basic-for-applications.md)** method, while the entire collection can be iterated by using the **[For Each...Next](for-eachnext-statement.md)** statement.
+## Methods
+
+|Method|Description|
+|:-----|:----------|
+|[Add](add-method-visual-basic-for-applications.md)|Adds a member to a **Collection** object. |
+|[Item](item-method-visual-basic-for-applications.md)|Returns a specific member of a **Collection** object either by position or by key. |
+|[Remove](remove-method-visual-basic-for-applications.md)|Removes a member from a **Collection** object. |
+
+
+## Properties
+
+|Property|Description|
+|:-------|:----------|
+|[Count](count-property-dictionary-object.md)|Returns the number of members in a **Collection** object. |
 
 ## Example
 
