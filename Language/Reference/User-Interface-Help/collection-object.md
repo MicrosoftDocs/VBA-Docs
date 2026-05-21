@@ -40,7 +40,7 @@ Dim X As New Collection
 
 |Property|Description|
 |:-------|:----------|
-|[Count](count-property-dictionary-object.md)|Returns the number of members in a **Collection** object. |
+|[Count](count-property-visual-basic-for-applications.md)|Returns the number of members in a **Collection** object. |
 
 ## Example
 
@@ -86,7 +86,7 @@ End Sub
 
 ## See also
 
-- [Count property](count-property-visual-basic-for-applications.md)
+- [Dictionary Object](dictionary-object.md)
 - [Objects (Visual Basic for Applications)](../objects-visual-basic-for-applications.md)
 - [Object library reference for Office (members, properties, methods)](../../../api/overview/library-reference/reference-object-library-reference-for-office.md)
 
