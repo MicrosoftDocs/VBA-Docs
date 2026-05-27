@@ -1,6 +1,6 @@
 # About VBA-docs repo
 
-We no longer have resources to respond to new issues. We welcome PRs that include documentation fixes, code samples, or improved comments. Please create a branch, make your changes, then open a PR to merge your change to master. We try to review new PRs monthly, but you can tag `@lindalu-MSFT` in a comment for faster response!
+We no longer have resources to respond to new issues. We welcome PRs that include documentation fixes, code samples, or improved comments. Please create a branch, make your changes, then open a PR to merge your change to master. To merge your PR, tag @OfficeDev/opcontent. 
 
 ## Get Office VBA support on Microsoft Q&A
 
