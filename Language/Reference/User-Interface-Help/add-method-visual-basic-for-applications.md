@@ -35,32 +35,23 @@ An error also occurs if a specified _key_ duplicates the _key_ for an existing m
 
 ## Example
 
-This example uses the **Add** method to add `Inst` objects (instances of a class called `Class1` containing a **Public** variable `InstanceName`) to a collection called `MyClasses`. To see how this works, insert a class module and declare a public variable called `InstanceName` at module level of `Class1` (type `Public InstanceName`) to hold the names of each instance. Leave the default name as `Class1`. Copy and paste the following code into the `Form_Load` event procedure of a form module.
+This example uses the **Add** method to add strings to a collection both with and without a _key_. The **[Item](item-method-visual-basic-for-applications.md)** method is used implicitly to retrieve each string.
 
 ```vb
-Dim MyClasses As New Collection    ' Create a Collection object.
-Dim Num As Integer    ' Counter for individualizing keys.
-Dim Msg
-Dim TheName    ' Holder for names user enters.
-Do
-    Dim Inst As New Class1    ' Create a new instance of Class1.
-    Num = Num + 1    ' Increment Num, then get a name.
-    Msg = "Please enter a name for this object." & Chr(13) _
-     & "Press Cancel to see names in collection."
-    TheName = InputBox(Msg, "Name the Collection Items")
-    Inst.InstanceName = TheName    ' Put name in object instance.
-    ' If user entered name, add it to the collection.
-    If Inst.InstanceName <> "" Then
-        ' Add the named object to the collection.
-        MyClasses. Add item := Inst, key := CStr(Num)
-    End If
-    ' Clear the current reference in preparation for next one.
-    Set Inst = Nothing
-Loop Until TheName = ""
-For Each x In MyClasses
-    MsgBox x.instancename, , "Instance Name"
-Next
+Dim c As Collection
+Set c = New Collection
 
+c.Add "a"
+c.Add "c", "CC"
+c.Add "b", "BB", 2
+c.Add "d"
+
+Debug.Print c(1) ' --> prints "a"
+Debug.Print c(2) ' --> prints "b"
+Debug.Print c(3) ' --> prints "c"
+
+Debug.Print c("BB") ' --> prints "b"
+Debug.Print c("d") ' --> error (no key was specified for this element - a positional index must be used)
 ```
 
 ## See also
