@@ -44,7 +44,7 @@ Sub ListInvalidCells()
 
     For Each cell In Worksheets("Sheet1").Range("A1:A20").Cells
         If Not cell.Validation.Value Then
-            Debug.Print cell.Address & " is invalid: " & cell.Formula
+            Debug.Print cell.Address & " is invalid: " & cell.Text
         End If
     Next cell
 End Sub
