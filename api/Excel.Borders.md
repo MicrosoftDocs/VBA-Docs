@@ -20,7 +20,7 @@ A collection of four **[Border](Excel.Border(object).md)** objects that represen
 
 Use the **Borders** property to return the **Borders** collection, which contains all four borders. You can apply different borders to each side of a cell or range. For more information how to apply borders to a range of cells, see **[Range.Borders](Excel.Range.Borders.md)** property.
 
-You can set border properties for an individual border only with **Range**, **Style**, and **FormatCondition** objects. Other bordered objects, such as error bars and series lines, have a border that's treated as a single entity, regardless of how many sides it has. For these objects, you must return and set properties for the entire border as a unit. For more information, see the **Border** object.
+With **Range**, **Style**, and **FormatCondition** objects, you can set border properties for an individual border. Some other bordered objects, such as error bars and series lines, have a border that's treated as a single entity, regardless of how many sides it has. For those objects, you must return and set properties for the entire border as a unit. For more information, see the **Border** object.
 
 
 ## Examples
