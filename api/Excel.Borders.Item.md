@@ -6,14 +6,14 @@ f1_keywords:
 api_name:
 - Excel.Borders.Item
 ms.assetid: 19184379-d551-396e-8cb6-ff240e3c85fa
-ms.date: 04/13/2019
+ms.date: 10/12/2026
 ms.localizationpriority: medium
 ---
 
 
 # Borders.Item property (Excel)
 
-Returns a **[Border](Excel.Border(object).md)** object that represents one of the borders of either a range of cells or a style.
+Returns a **[Border](Excel.Border(object).md)** object that represents one of the borders of a range of cells, a style, or a conditional format.
 
 
 ## Syntax
@@ -27,8 +27,15 @@ _expression_ A variable that represents a **[Borders](Excel.Borders.md)** object
 
 |Name|Required/Optional|Data type|Description|
 |:-----|:-----|:-----|:-----|
-| _Index_|Required| **[XlBordersIndex](excel.xlbordersindex.md)**|Can be one of the **XlBordersIndex** constants.|
+| _Index_|Required| **[XlBordersIndex](excel.xlbordersindex.md)**|The border to return. The supported values depend on the object that returned the **Borders** collection. See the Remarks section.|
 
+
+## Remarks
+
+The supported value of _Index_ depends on the object that returned the **Borders** collection:
+
+- For **[Range.Borders](Excel.Range.Borders.md)** and **[Style.Borders](Excel.Style.Borders.md)**, use the applicable **XlBordersIndex** constants, such as **xlEdgeBottom**.
+- For **[FormatCondition.Borders](Excel.FormatCondition.Borders.md)**, use **xlLeft**, **xlRight**, **xlTop**, or **xlBottom**. Don't use the corresponding **xlEdge** constants.
 
 ## Example
 
