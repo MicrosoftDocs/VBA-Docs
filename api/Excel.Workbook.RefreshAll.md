@@ -27,7 +27,9 @@ _expression_ A variable that represents a **[Workbook](Excel.Workbook.md)** obje
 
 Objects that have the **[BackgroundQuery](Excel.PivotCache.BackgroundQuery.md)** property set to **True** are refreshed in the background.
 
-If a Power Query query that loads data into a worksheet table returns an error when it's refreshed, **RefreshAll** doesn't raise a run-time error, even if background refresh is turned off for every connection. The other connections are still refreshed, and that table keeps its previous data. To detect these errors, refresh each table's query separately by calling the **[QueryTable.Refresh](Excel.QueryTable.Refresh.md)** method with the _BackgroundQuery_ argument set to **False**, and handle the error that it raises. To get the query table of a table that Power Query loads, use the **[ListObject.QueryTable](Excel.ListObject.QueryTable.md)** property.
+If a Power Query query that loads data into a worksheet table fails during refresh, **RefreshAll** doesn't raise a run-time error. Other connections are still refreshed, and the affected table retains its previous data. This behavior occurs even when background refresh is disabled for every connection.
+
+To detect these errors, refresh each table's query separately by calling **[QueryTable.Refresh](Excel.QueryTable.Refresh.md)** with _BackgroundQuery_ set to **False**. Then, handle any error that the method raises. Use **ListObject.QueryTable** to get the query table for a table loaded by Power Query.
 
 
 ## Example
