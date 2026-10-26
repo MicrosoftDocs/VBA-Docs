@@ -25,7 +25,7 @@ _expression_ A variable that represents an **[Application](Word.Application.md)*
 
 ## Remarks
 
-Setting the printer using the **ActivePrinter** property changes the default printer. For more information, see [Setting ActivePrinter Changes System Default Printer](https://support.microsoft.com/topic/activeprinter-property-in-word-sets-system-default-printer-4b4afb8f-cbc1-1187-14cc-a97fdd0f596e) .
+Setting the printer using the **ActivePrinter** property changes the default printer. For more information, see [Changing the selected (current) printer in Word without changing the system default printer](https://wordmvp.com/FAQs/MacrosVBA/ChangeCurPrinter.htm).
 
 
 ## Example

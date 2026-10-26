@@ -13,9 +13,7 @@ ms.localizationpriority: medium
 
 This error has the following causes and solutions:
 
-- You must have the indicated version of Internet Explorer for this feature to work correctly. Check [www.microsoft.com](https://www.microsoft.com) for the latest available version of Internet Explorer.    
+- This legacy feature requires the indicated version of Internet Explorer. The Internet Explorer 11 desktop application is retired and out of support on certain versions of Windows 10. For details and supported alternatives, see [Internet Explorer 11 desktop application ended support for certain operating systems](/lifecycle/announcements/internet-explorer-11-end-of-support).
 
 For additional information, select the item in question and press F1 (in Windows) or HELP (on the Macintosh).
-[Download web browsers](https://www.microsoft.com/download/internet-explorer.aspx)
-[Internet Explorer downloads](https://support.microsoft.com/help/17621/internet-explorer-downloads)
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
