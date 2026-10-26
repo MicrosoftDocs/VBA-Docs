@@ -6,7 +6,6 @@ f1_keywords:
 api_name:
 - PowerPoint.Presentation.ReadOnlyRecommended
 ms.date: 09/18/2020
-ms.author: lindalu
 ms.localizationpriority: medium
 ---
 
