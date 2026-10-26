@@ -38,7 +38,7 @@ For silent refresh operations, use the **FastCombine** property in conjunction w
 
 ## Example
 
-This example ignores privacy levels for the active workbook and then refreshes all its queries. The data sources in this workbook are local files that the user owns.
+This example ignores privacy levels for the active workbook and then refreshes all its queries. The data sources in this workbook are local files that you own.
 
 ```vb
 Sub RefreshLocalQueries()
