@@ -11,7 +11,7 @@ ms.localizationpriority: medium
 
 # Queries.FastCombine property (Excel)
 
-**True** if Power Query ignores privacy levels when it combines data from different data sources in the workbook (the fast combine feature). **False** if Power Query combines data according to the privacy level settings of each data source (see [Data Privacy Firewall](/power-query/data-privacy-firewall)). Read/write **Boolean**.
+Set to **True** if Power Query should ignore privacy levels when it combines data from different data sources in the workbook (the fast combine feature). Set to **False** if Power Query should combine data according to the privacy level settings of each data source. See [Data Privacy Firewall](/power-query/data-privacy-firewall). Read/write **Boolean**.
 
 
 ## Syntax
