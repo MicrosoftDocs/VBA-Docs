@@ -3,7 +3,7 @@ title: MsoMetaPropertyType enumeration (Office)
 api_name:
 - Office.MsoMetaPropertyType
 ms.assetid: c1642d31-698c-332f-d7df-eefa9f890a83
-ms.date: 01/31/2019
+ms.date: 10/26/2026
 ms.localizationpriority: medium
 ---
 
@@ -15,6 +15,8 @@ Specifies the metadata property type.
 |Name|Value|Description|
 |:-----|:-----|:-----|
 |**msoMetaPropertyTypeBoolean**|1|Represents a Boolean value.|
+|**msoMetaPropertyTypeBusinessData**|20|Represents business data.|
+|**msoMetaPropertyTypeBusinessDataSecondary**|21|Represents secondary business data.|
 |**msoMetaPropertyTypeCalculated**|3|Represents a calculated value.|
 |**msoMetaPropertyTypeChoice**|2|Represents a value from one or more choices.|
 |**msoMetaPropertyTypeComputed**|4|Represents a computed value.|
@@ -24,7 +26,7 @@ Specifies the metadata property type.
 |**msoMetaPropertyTypeGuid**|8|Represents a GUID value.|
 |**msoMetaPropertyTypeInteger**|9|Represents an Integer value.|
 |**msoMetaPropertyTypeLookup**|10|Represents a value used to lookup another value.|
-|**msoMetaPropertyTypeMax**|19|Represents the maximum value for a range.|
+|**msoMetaPropertyTypeMax**|22|Represents the maximum value for a range.|
 |**msoMetaPropertyTypeMultiChoice**|12|Represents a collection of choices.|
 |**msoMetaPropertyTypeMultiChoiceFillIn**|13|Represents a collection of choices that require the user to write-in a value.|
 |**msoMetaPropertyTypeMultiChoiceLookup**|11|Represents a collection of choices used to look up another value.|
@@ -34,5 +36,6 @@ Specifies the metadata property type.
 |**msoMetaPropertyTypeUnknown**|0|Represents an unknown value.|
 |**msoMetaPropertyTypeUrl**|17|Represents a URL.|
 |**msoMetaPropertyTypeUser**|18|Represents a category of user.|
+|**msoMetaPropertyTypeUserMulti**|19|Represents a collection of users.|
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]

@@ -3,7 +3,7 @@ title: MsoAutoShapeType enumeration (Office)
 api_name:
 - Office.MsoAutoShapeType
 ms.assetid: 7e6fe414-2b25-56d7-a678-b6e718329118
-ms.date: 01/31/2019
+ms.date: 10/26/2026
 ms.localizationpriority: medium
 ---
 
@@ -175,7 +175,7 @@ Specifies the shape type for an AutoShape object.
 |**msoShapeRightBracket**|30|Right bracket |
 |**msoShapeRightTriangle**|8|Right triangle |
 |**msoShapeRound1Rectangle**|151|Rectangle with one rounded corner |
-|**msoShapeRound2DiagRectangle**|157|Rectangle with two rounded corners, diagonally-opposed |
+|**msoShapeRound2DiagRectangle**|153|Rectangle with two rounded corners, diagonally-opposed |
 |**msoShapeRound2SameRectangle**|152|Rectangle with two-rounded corners that share a side |
 |**msoShapeRoundedRectangle**|5|Rounded rectangle |
 |**msoShapeRoundedRectangularCallout**|106|Rounded rectangle-shaped callout |

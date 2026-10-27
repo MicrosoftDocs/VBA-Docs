@@ -3,7 +3,7 @@ title: MsoPictureEffectType enumeration (Office)
 api_name:
 - Office.MsoPictureEffectType
 ms.assetid: 8e93840a-308c-9faf-e867-b2006761b153
-ms.date: 01/31/2019
+ms.date: 10/26/2026
 ms.localizationpriority: medium
 ---
 
@@ -18,9 +18,9 @@ Specifies constants that define the types of picture effects.
 |**msoEffectBlur**|2|Blur effect |
 |**msoEffectBrightnessContrast**|3|Brightness contrast effect |
 |**msoEffectCement**|4|Cement effect |
-|**msoEffectChalkSketch**|5|Chalk sketch effect |
-|**msoEffectColorTemperature**|6|Color temperature effect |
-|**msoEffectCrisscrossEtching**|7|Crisscross etching effect |
+|**msoEffectChalkSketch**|6|Chalk sketch effect |
+|**msoEffectColorTemperature**|7|Color temperature effect |
+|**msoEffectCrisscrossEtching**|5|Crisscross etching effect |
 |**msoEffectCutout**|8|Cutout effect |
 |**msoEffectFilmGrain**|9|Film grain effect |
 |**msoEffectGlass**|10|Glass effect |
@@ -30,17 +30,17 @@ Specifies constants that define the types of picture effects.
 |**msoEffectLineDrawing**|14|Line drawing effect |
 |**msoEffectMarker**|15|Marker effect |
 |**msoEffectMosaicBubbles**|16|Mosaic bubbles |
-|**msoEffectNone**|17|No effect |
-|**msoEffectPaintBrush**|18|Paintbrush effect |
-|**msoEffectPaintStrokes**|19|Paint strokes effect |
-|**msoEffectPastelsSmooth**|20|Smooth pastel effect |
-|**msoEffectPencilGrayscale**|21|Pencil greyscale effect |
-|**msoEffectPencilSketch**|22|Pencil sketch effect |
-|**msoEffectPhotocopy**|23|Photocopy effect |
-|**msoEffectPlasticWrap**|24|Plastic wrap effect |
-|**msoEffectSaturation**|25|Saturation effect |
-|**msoEffectSharpenSoften**|26|Sharpen soften effect |
-|**msoEffectTexturizer**|27|Texturizer effect |
-|**msoEffectWatercolorSponge**|28|Watercolor sponge effect |
+|**msoEffectNone**|0|No effect |
+|**msoEffectPaintBrush**|17|Paintbrush effect |
+|**msoEffectPaintStrokes**|18|Paint strokes effect |
+|**msoEffectPastelsSmooth**|19|Smooth pastel effect |
+|**msoEffectPencilGrayscale**|20|Pencil greyscale effect |
+|**msoEffectPencilSketch**|21|Pencil sketch effect |
+|**msoEffectPhotocopy**|22|Photocopy effect |
+|**msoEffectPlasticWrap**|23|Plastic wrap effect |
+|**msoEffectSaturation**|24|Saturation effect |
+|**msoEffectSharpenSoften**|25|Sharpen soften effect |
+|**msoEffectTexturizer**|26|Texturizer effect |
+|**msoEffectWatercolorSponge**|27|Watercolor sponge effect |
 
 [!include[Support and feedback](~/includes/feedback-boilerplate.md)]
