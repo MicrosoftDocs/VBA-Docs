@@ -19,7 +19,7 @@ Text boxes on a form or report display data from a record source. This type of t
 ## See also
 
 - [Access on Microsoft Tech Community](https://techcommunity.microsoft.com/category/microsoft365/discussions/access)
-- [Access help on support.office.com](https://support.office.com/search/results?query=Access)
+- [Access help & learning](https://support.microsoft.com/access)
 - [Access help on answers.microsoft.com](https://answers.microsoft.com/)
 - [Search for specific Access error codes on Bing](https://www.bing.com/)
 - [AccessForums.net](https://www.accessforums.net/index.php)

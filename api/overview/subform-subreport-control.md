@@ -24,7 +24,7 @@ For example, you can use a form with a subform to present one-to-many relationsh
 ## See also
 
 - [Access on Microsoft Tech Community](https://techcommunity.microsoft.com/category/microsoft365/discussions/access)
-- [Access help on support.office.com](https://support.office.com/search/results?query=Access)
+- [Access help & learning](https://support.microsoft.com/access)
 - [Access help on answers.microsoft.com](https://answers.microsoft.com/)
 - [Search for specific Access error codes on Bing](https://www.bing.com/)
 - [AccessForums.net](https://www.accessforums.net/index.php)

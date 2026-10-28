@@ -2,6 +2,7 @@
 title: Slides.Add method (PowerPoint)
 api_name:
 - PowerPoint.Slides.Add
+ms.date: 10/26/2026
 ---
 
 
