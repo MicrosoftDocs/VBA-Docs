@@ -54,7 +54,7 @@ Changes that the called macro makes to a **ByRef** argument aren't returned to t
 
 ## Example
 
-In this example, the **ImportData** function in the Tools.xlsm workbook handles its own errors and returns **False** if it fails. The calling procedure, in another workbook, checks the return value instead of relying on its own error handler. Tools.xlsm must be open when **Run** is called.
+In this example, the **ImportData** function in the Tools.xlsm workbook handles its own errors and returns **False** if it fails. The calling procedure, in another workbook, checks the return value instead of relying on its own error handler. *Tools.xlsm* must be open when **Run** is called.
 
 ```vb
 ' In Tools.xlsm. Called through Application.Run
