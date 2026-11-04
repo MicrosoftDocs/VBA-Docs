@@ -44,7 +44,7 @@ The **Add** method requires different arguments, depending on the validation typ
 | **xlValidateList**| **Formula1** is required, **Formula2** is ignored. **Formula1** must contain either a comma-delimited list of values or a worksheet reference to this list.|
 | **xlValidateWholeNumber**, **xlValidateDate**, **xlValidateDecimal**, **xlValidateTextLength**, or **xlValidateTime**|One of either **Formula1** or **Formula2** must be specified, or both may be specified.|
 
-As in the **Data Validation** dialog box, **Formula1** and **Formula2** can't contain a structured reference to a table, such as `=Table1[Category]`, `=COUNTIF(Table1[Category],A2)>0`, or `=MAX(Table1[Amount])`. Passing one causes run-time error 1004 ("Application-defined or object-defined error"), even though the same reference works in a worksheet formula.
+As in the **Data Validation** dialog box, **Formula1** and **Formula2** can't contain a structured reference to a table, such as `=Table1[Category]`, `=COUNTIF(Table1[Category],A2)>0`, or `=MAX(Table1[Amount])`. Passing a structured table reference causes runtime error 1004 ("Application-defined or object-defined error"), even though the same reference works in a worksheet formula.
 
 To base a rule on a table column, refer to the column through a defined name, as shown in the second example. For example, define a name CategoryList that refers to `=Table1[Category]` (on the **Formulas** tab, choose **Define Name**), and pass `"=CategoryList"` as **Formula1**. The name is updated when the table or the column is renamed, and the list grows when rows are added to the table.
 
