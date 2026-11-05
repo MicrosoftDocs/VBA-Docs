@@ -6,7 +6,7 @@ f1_keywords:
 api_name:
 - Excel.Application.Run
 ms.assetid: 3e0167ab-b101-018f-0f89-ada116b8bb72
-ms.date: 04/05/2019
+ms.date: 10/06/2026
 ms.localizationpriority: medium
 ---
 
@@ -40,6 +40,42 @@ Variant
 You cannot use named arguments with this method. Arguments must be passed by position.
 
 The **Run** method returns whatever the called macro returns.
+
+### Error handling
+
+If the called macro raises a runtime error that it doesn't handle (such as an error raised by the **[Err.Raise](../Language/Reference/User-Interface-Help/raise-method.md)** method or a division by zero), the error isn't passed to the procedure that calls **Run**. Excel displays the runtime error dialog box at that point, even if the calling procedure has an enabled error handler set with **[On Error GoTo](../Language/Reference/User-Interface-Help/on-error-statement.md)**. The dialog box is displayed even when Excel isn't visible, so unattended code stops until someone responds to it. If the user chooses **End**, all running macros stop, including the calling procedure. When **Run** is called through Automation, the client then receives a generic error instead of the original error number and description.
+
+Errors that the **Run** method itself raises, such as the error that occurs when the specified macro can't be found, are passed to the calling procedure and can be handled by its error handler.
+
+As with an ordinary procedure call, an **[End](../Language/Reference/User-Interface-Help/end-statement.md)** statement in the called macro stops all running macros, including the calling procedure, so the statement after **Run** isn't executed. Module-level variables are reset, including those in the workbook that contains the called macro and in the workbook of the calling procedure.
+
+Changes that the called macro makes to a **ByRef** argument aren't returned to the calling procedure. To report a failure to the caller, handle errors inside the called macro and return a value that indicates success or failure, as shown in the following example.
+
+
+## Example
+
+In this example, the **ImportData** function in the Tools.xlsm workbook handles its own errors and returns **False** if it fails. The calling procedure, in another workbook, checks the return value instead of relying on its own error handler. *Tools.xlsm* must be open when **Run** is called.
+
+```vb
+' In Tools.xlsm. Called through Application.Run
+Public Function ImportData(ByVal filePath As String) As Boolean
+    On Error GoTo ErrorHandler
+    Workbooks.Open filePath
+    ' ... process the data ...
+    ImportData = True
+    Exit Function
+ErrorHandler:
+    Debug.Print "ImportData failed: " & Err.Number & " " & Err.Description
+    ImportData = False
+End Function
+
+' In the calling workbook
+Sub CallImportData()
+    If Not Application.Run("'Tools.xlsm'!ImportData", "C:\Data\input.xlsx") Then
+        MsgBox "The import failed."
+    End If
+End Sub
+```
 
 
 
